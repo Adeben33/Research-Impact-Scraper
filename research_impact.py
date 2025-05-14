@@ -147,7 +147,7 @@ def process_author(search_name):
             "Paper Title": title,
             "Year": year,
             "Publication Type": pub_type,
-            "Citations (OpenAlex)": citations,
+            "Citations": citations,
             "DOI": doi,
             "Authors": authors,
             "Journal": venue,
