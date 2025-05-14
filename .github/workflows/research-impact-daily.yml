@@ -27,18 +27,13 @@ jobs:
 
     - name: 🧠 Run Research Impact Script
       run: |
-        python research_impact_batch.py  # <- your script that outputs CSV & JSON
+        python research_impact_batch.py
 
     - name: 📤 Commit & Push Updated Files
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-        git add *.csv *.json
+        git add csv/*.csv json/*.json  # ✅ explicitly add files from csv/ and json/
         git commit -m "🔁 Daily update of research impact data: $(date -u '+%Y-%m-%d')" || echo "No changes"
         git push
-    - name:
-        🔍 Debug: List Changed Files
-      run: |
-        git status
-        ls -lh *.csv *.json

@@ -53,3 +53,33 @@
 2025-05-14 14:14:06,471 - INFO - Retrieved 1 papers for Nicola L. Bragazzi
 2025-05-14 14:14:08,093 - INFO - ✅ Saved data for Nicola L. Bragazzi to nicola_l._bragazzi_impact_metrics.csv and nicola_l._bragazzi_impact_metrics.json
 2025-05-14 14:52:40,571 - INFO - Started data collection for: Jude Kong
+2025-05-14 14:52:45,891 - INFO - Fetching papers for: J. Kong (ID: 2237785871)
+2025-05-14 14:52:47,133 - INFO - Retrieved 10 papers for J. Kong
+2025-05-14 14:53:03,985 - INFO - Fetching papers for: J. D. Kong (ID: 2347066462)
+2025-05-14 14:53:05,226 - INFO - Retrieved 3 papers for J. D. Kong
+2025-05-14 14:53:09,878 - INFO - Fetching papers for: J. Kong (ID: 31706371)
+2025-05-14 14:53:11,247 - INFO - Retrieved 100 papers for J. Kong
+2025-05-14 14:55:26,307 - INFO - Found DOI via Crossref for: COVID-19 Vaccine Hesitancy and Information Diffusion: An Agent-based Modeling Approach
+2025-05-14 14:55:50,607 - INFO - Fetching papers for: Jude D. Kong (ID: 2244349331)
+2025-05-14 14:55:51,907 - INFO - Retrieved 10 papers for Jude D. Kong
+2025-05-14 14:56:06,996 - INFO - Fetching papers for: Jude Kong (ID: 2238951711)
+2025-05-14 14:56:08,237 - INFO - Retrieved 1 papers for Jude Kong
+2025-05-14 14:56:09,699 - INFO - Fetching papers for: Jude Kong (ID: 2240535975)
+2025-05-14 14:56:15,846 - INFO - Retrieved 1 papers for Jude Kong
+2025-05-14 14:56:17,311 - INFO - Fetching papers for: Jude Kong (ID: 2356821599)
+2025-05-14 14:56:18,439 - INFO - Retrieved 1 papers for Jude Kong
+2025-05-14 14:56:19,705 - INFO - Fetching papers for: Jude Kong (ID: 2280630870)
+2025-05-14 14:56:20,935 - INFO - Retrieved 2 papers for Jude Kong
+2025-05-14 14:56:24,288 - INFO - Found DOI via Crossref for: Increasing ﬁ sh biodiversity in high elevation Albertan lakes in response to global environmental change over the past 50 years
+2025-05-14 14:56:25,585 - INFO - Fetching papers for: Jude Kong (ID: 2290702291)
+2025-05-14 14:56:26,812 - INFO - Retrieved 2 papers for Jude Kong
+2025-05-14 14:56:28,349 - INFO - Found DOI via Crossref for: NRC Publications Archive Archives des publications du CNRC
+2025-05-14 14:56:29,550 - INFO - Fetching papers for: Jude Kong (ID: 2333714099)
+2025-05-14 14:56:30,676 - INFO - Retrieved 2 papers for Jude Kong
+2025-05-14 14:56:33,756 - INFO - ✅ Saved data for Jude Kong to csv/jude_kong_impact_metrics.csv and json/jude_kong_impact_metrics.json
+2025-05-14 14:56:33,756 - INFO - Started data collection for: Nicola L. Bragazzi
+2025-05-14 14:56:39,031 - INFO - Fetching papers for: N. Bragazzi (ID: 2145772644)
+2025-05-14 14:56:40,448 - INFO - Retrieved 100 papers for N. Bragazzi
+2025-05-14 14:56:47,267 - INFO - Found DOI via Crossref for: Volume Measurement of the Cavum Septi Pellucidi: Normative Values Between 20 and 40 Weeks of Gestation.
+2025-05-14 14:57:06,473 - INFO - Found DOI via Crossref for: The mediating role of peritraumatic stress in the relationship between childhood psychological maltreatment and optimism and pessimism among earthquake survivors in Turkey
+2025-05-14 14:58:32,763 - ERROR - Unpaywall error for DOI 10.1016/j.heliyon.2023.e17066: HTTPSConnectionPool(host='api.unpaywall.org', port=443): Read timed out. (read timeout=None)
