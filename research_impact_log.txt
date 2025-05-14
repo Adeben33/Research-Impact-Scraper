@@ -107,3 +107,9 @@
 2025-05-14 15:05:30,262 - INFO - Fetching papers for: Nicola L. Bragazzi (ID: 2273125277)
 2025-05-14 15:05:31,380 - INFO - Retrieved 1 papers for Nicola L. Bragazzi
 2025-05-14 15:05:32,610 - INFO - ✅ Saved data for Nicola L. Bragazzi to csv/nicola_l._bragazzi_impact_metrics.csv and json/nicola_l._bragazzi_impact_metrics.json
+2025-05-14 16:03:22,262 - INFO - 🔍 Starting collection for: Jude Kong
+2025-05-14 16:03:26,216 - INFO - Found 223 unique works with DOIs for Jude Dzevela Kong
+2025-05-14 16:08:18,982 - INFO - ✅ Saved for Jude Kong: csv/jude_kong_impact_metrics.csv, json/jude_kong_impact_metrics.json
+2025-05-14 16:08:18,985 - INFO - 🔍 Starting collection for: Nicola L. Bragazzi
+2025-05-14 16:08:33,377 - INFO - Found 949 unique works with DOIs for Nicola Luigi Bragazzi
+2025-05-14 16:33:43,809 - INFO - ✅ Saved for Nicola L. Bragazzi: csv/nicola_l._bragazzi_impact_metrics.csv, json/nicola_l._bragazzi_impact_metrics.json

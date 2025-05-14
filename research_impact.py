@@ -16,7 +16,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# ---------- EXPANDED KEYWORDS ----------
+# ---------- KEYWORDS ----------
 public_health_keywords = [
     "public health", "infectious disease", "epidemiology", "mathematical modeling",
     "COVID-19", "cholera", "malaria", "pandemic", "outbreak", "disease mitigation",
@@ -34,33 +34,33 @@ capacity_building_keywords = [
 ]
 
 # ---------- HELPER FUNCTIONS ----------
-def search_semantic_scholar_authors(name, max_results=10):
+def search_openalex_author_id(name):
     query = urllib.parse.quote(name)
-    url = f"https://api.semanticscholar.org/graph/v1/author/search?query={query}&limit={max_results}&fields=name,paperCount,citationCount"
+    url = f"https://api.openalex.org/authors?search={query}"
     r = requests.get(url)
     if r.status_code == 200:
-        return r.json().get("data", [])
-    return []
+        data = r.json()
+        if data.get("results"):
+            return data["results"][0]["id"], data["results"][0]["display_name"]
+    return None, None
 
-def fetch_all_papers_via_next_url(author_id, max_pages=10):
-    base_url = f"https://api.semanticscholar.org/graph/v1/author/{author_id}/papers"
-    fields = "title,year,authors,externalIds,citationCount,venue,fieldsOfStudy,paperId"
-    url = f"{base_url}?limit=100&fields={fields}"
-    papers = []
-    page_count = 0
-
-    while url and isinstance(url, str) and url.startswith("http") and page_count < max_pages:
-        response = requests.get(url)
-        if response.status_code != 200:
-            logging.warning(f"Request failed at page {page_count + 1}. Status: {response.status_code}")
+def get_openalex_author_works(author_id, max_results=1000):
+    base_url = f"https://api.openalex.org/works?filter=author.id:{author_id}&per-page=200"
+    works = []
+    cursor = "*"
+    count = 0
+    while cursor and count < max_results:
+        url = f"{base_url}&cursor={cursor}"
+        r = requests.get(url)
+        if r.status_code != 200:
+            logging.warning(f"Failed to fetch works (status: {r.status_code})")
             break
-        result = response.json()
-        papers.extend(result.get("data", []))
-        url = result.get("next", None)
-        page_count += 1
+        data = r.json()
+        works.extend(data.get("results", []))
+        cursor = data.get("meta", {}).get("next_cursor", None)
+        count += len(data.get("results", []))
         time.sleep(1)
-
-    return papers
+    return works
 
 def get_altmetric_summary(doi):
     url = f"https://api.altmetric.com/v1/doi/{doi}"
@@ -98,8 +98,6 @@ def get_altmetric_sources(altmetric_id):
     return []
 
 def get_open_access_status(doi):
-    if doi == "Not found":
-        return None, None
     url = f"https://api.unpaywall.org/v2/{doi}?email={UNPAYWALL_EMAIL}"
     try:
         r = requests.get(url)
@@ -114,105 +112,80 @@ def tag_keywords(text, keyword_list):
     text = text.lower()
     return any(k in text for k in keyword_list)
 
-def get_doi_from_crossref(title):
-    query = urllib.parse.quote(title)
-    url = f"https://api.crossref.org/works?query.title={query}&rows=1"
-    try:
-        r = requests.get(url)
-        if r.status_code == 200:
-            items = r.json().get("message", {}).get("items", [])
-            if items:
-                return items[0].get("DOI", None)
-    except Exception as e:
-        logging.error(f"Crossref error: {e}")
-    return None
-
-# ---------- MAIN PROCESSING FUNCTION ----------
+# ---------- MAIN PROCESSING ----------
 def process_author(search_name):
-    logging.info(f"Started data collection for: {search_name}")
-    authors = search_semantic_scholar_authors(search_name)
-    results = []
-
-    if not authors:
-        logging.warning(f"No authors found for: {search_name}")
-        print(f"❌ No authors found for: {search_name}")
+    logging.info(f"🔍 Starting collection for: {search_name}")
+    author_id, author_name = search_openalex_author_id(search_name)
+    if not author_id:
+        logging.warning(f"No OpenAlex author found for: {search_name}")
+        print(f"❌ No author found for: {search_name}")
         return
 
-    for author in authors:
-        author_id = author["authorId"]
-        author_name = author["name"]
-        logging.info(f"Fetching papers for: {author_name} (ID: {author_id})")
-        papers = fetch_all_papers_via_next_url(author_id)
-        logging.info(f"Retrieved {len(papers)} papers for {author_name}")
+    works = get_openalex_author_works(author_id)
+    unique_works = {w['doi']: w for w in works if w.get("doi")}.values()
+    logging.info(f"Found {len(unique_works)} unique works with DOIs for {author_name}")
 
-        for paper in papers:
-            title = paper.get("title", "Untitled")
-            year = paper.get("year", "N/A")
-            citations = paper.get("citationCount", 0)
-            authors_list = [a['name'] for a in paper.get("authors", [])]
-            doi = paper.get("externalIds", {}).get("DOI", "Not found")
-            if doi == "Not found":
-                doi = get_doi_from_crossref(title)
-                if doi:
-                    logging.info(f"Found DOI via Crossref for: {title}")
-                else:
-                    logging.warning(f"Still missing DOI for: {title}")
-                    continue
+    results = []
+    for work in unique_works:
+        doi = work.get("doi")
+        title = work.get("title", "Untitled")
+        year = work.get("publication_year", "N/A")
+        citations = work.get("cited_by_count", 0)
+        authors = "; ".join([auth['author']['display_name'] for auth in work.get("authorships", [])])
+        venue = work.get("host_venue", {}).get("display_name", "N/A")
+        fields = "; ".join([c["display_name"] for c in work.get("concepts", [])])
+        pub_type = "Preprint" if work.get("type") == "posted-content" else "Published"
 
-            venue = paper.get("venue", "N/A")
-            fields = paper.get("fieldsOfStudy", [])
-            fields_str = "; ".join(fields) if isinstance(fields, list) else str(fields)
+        altmetric = get_altmetric_summary(doi)
+        altmetric_id = altmetric.get("altmetric_id") if altmetric else None
+        sources = get_altmetric_sources(altmetric_id) if altmetric_id else []
 
-            altmetric = get_altmetric_summary(doi)
-            altmetric_id = altmetric.get("altmetric_id") if altmetric else None
-            sources = get_altmetric_sources(altmetric_id) if altmetric_id else []
-            oa_flag, oa_status = get_open_access_status(doi)
+        oa_flag, oa_status = get_open_access_status(doi)
 
-            results.append({
-                "Author": author_name,
-                "Paper Title": title,
-                "Year": year,
-                "Citations": citations,
-                "DOI": doi,
-                "Authors": "; ".join(authors_list),
-                "Journal": venue,
-                "Fields": fields_str,
-                "Altmetric Score": altmetric.get("score", 0) if altmetric else 0,
-                "Twitter Mentions": altmetric.get("counts", {}).get("Twitter", 0) if altmetric else 0,
-                "Reddit Mentions": altmetric.get("counts", {}).get("Reddit", 0) if altmetric else 0,
-                "News Mentions": altmetric.get("counts", {}).get("News", 0) if altmetric else 0,
-                "Policy Mentions": altmetric.get("counts", {}).get("Policy Docs", 0) if altmetric else 0,
-                "Mention URLs": "; ".join(sources),
-                "Open Access": oa_flag,
-                "OA Status": oa_status,
-                "Public Health Impact": tag_keywords(title, public_health_keywords),
-                "Capacity Building": tag_keywords(title, capacity_building_keywords)
-            })
-            time.sleep(1)
+        results.append({
+            "Author": author_name,
+            "Paper Title": title,
+            "Year": year,
+            "Publication Type": pub_type,
+            "Citations (OpenAlex)": citations,
+            "DOI": doi,
+            "Authors": authors,
+            "Journal": venue,
+            "Fields": fields,
+            "Altmetric Score": altmetric.get("score", 0) if altmetric else 0,
+            "Twitter Mentions": altmetric.get("counts", {}).get("Twitter", 0) if altmetric else 0,
+            "Reddit Mentions": altmetric.get("counts", {}).get("Reddit", 0) if altmetric else 0,
+            "News Mentions": altmetric.get("counts", {}).get("News", 0) if altmetric else 0,
+            "Policy Mentions": altmetric.get("counts", {}).get("Policy Docs", 0) if altmetric else 0,
+            "Mention URLs": "; ".join(sources),
+            "Open Access": oa_flag,
+            "OA Status": oa_status,
+            "Public Health Impact": tag_keywords(title, public_health_keywords),
+            "Capacity Building": tag_keywords(title, capacity_building_keywords)
+        })
+        time.sleep(1)
 
     if results:
         df = pd.DataFrame(results)
-        df = df.drop_duplicates(subset="DOI")
-
         safe_name = search_name.lower().replace(' ', '_')
 
-        # Create output folders
         os.makedirs("csv", exist_ok=True)
         os.makedirs("json", exist_ok=True)
 
-        csv_filename = f"csv/{safe_name}_impact_metrics.csv"
-        json_filename = f"json/{safe_name}_impact_metrics.json"
+        csv_file = f"csv/{safe_name}_impact_metrics.csv"
+        json_file = f"json/{safe_name}_impact_metrics.json"
 
-        df.to_csv(csv_filename, index=False)
-        df.to_json(json_filename, orient="records")
+        df.to_csv(csv_file, index=False)
+        df.to_json(json_file, orient="records", indent=2)
 
-        logging.info(f"✅ Saved data for {search_name} to {csv_filename} and {json_filename}")
-        print(f"✅ Done for {search_name} → {csv_filename}")
+
+        logging.info(f"✅ Saved for {search_name}: {csv_file}, {json_file}")
+        print(f"✅ Finished for {search_name} — {csv_file}")
     else:
         logging.warning(f"No valid papers found for {search_name}")
         print(f"⚠️ No valid papers found for {search_name}")
 
-# ---------- MULTIPLE AUTHOR LOOP ----------
+# ---------- AUTHOR LOOP ----------
 author_list = [
     "Jude Kong",
     "Nicola L. Bragazzi"
@@ -221,4 +194,4 @@ author_list = [
 for name in author_list:
     process_author(name)
 
-print("🎉 All authors processed. Check the output files and logs.")
+print("🎉 All authors processed. Check your output and log files.")
