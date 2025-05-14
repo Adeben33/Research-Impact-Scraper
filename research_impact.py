@@ -3,6 +3,7 @@ import requests
 import time
 import urllib.parse
 import logging
+import os
 
 # ---------- CONFIG ----------
 UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
@@ -194,8 +195,13 @@ def process_author(search_name):
         df = df.drop_duplicates(subset="DOI")
 
         safe_name = search_name.lower().replace(' ', '_')
-        csv_filename = f"{safe_name}_impact_metrics.csv"
-        json_filename = f"{safe_name}_impact_metrics.json"
+
+        # Create output folders
+        os.makedirs("csv", exist_ok=True)
+        os.makedirs("json", exist_ok=True)
+
+        csv_filename = f"csv/{safe_name}_impact_metrics.csv"
+        json_filename = f"json/{safe_name}_impact_metrics.json"
 
         df.to_csv(csv_filename, index=False)
         df.to_json(json_filename, orient="records")
