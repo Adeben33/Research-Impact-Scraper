@@ -83,3 +83,27 @@
 2025-05-14 14:56:47,267 - INFO - Found DOI via Crossref for: Volume Measurement of the Cavum Septi Pellucidi: Normative Values Between 20 and 40 Weeks of Gestation.
 2025-05-14 14:57:06,473 - INFO - Found DOI via Crossref for: The mediating role of peritraumatic stress in the relationship between childhood psychological maltreatment and optimism and pessimism among earthquake survivors in Turkey
 2025-05-14 14:58:32,763 - ERROR - Unpaywall error for DOI 10.1016/j.heliyon.2023.e17066: HTTPSConnectionPool(host='api.unpaywall.org', port=443): Read timed out. (read timeout=None)
+2025-05-14 14:59:43,435 - INFO - Fetching papers for: N. Bragazzi (ID: 2238836977)
+2025-05-14 14:59:44,714 - INFO - Retrieved 15 papers for N. Bragazzi
+2025-05-14 15:00:02,910 - INFO - Found DOI via Crossref for: Data in Brief
+2025-05-14 15:00:04,119 - INFO - Fetching papers for: N. Bragazzi (ID: 2250832100)
+2025-05-14 15:00:10,434 - INFO - Retrieved 59 papers for N. Bragazzi
+2025-05-14 15:01:36,274 - INFO - Fetching papers for: N. Bragazzi (ID: 5938832)
+2025-05-14 15:01:42,808 - INFO - Retrieved 100 papers for N. Bragazzi
+2025-05-14 15:01:45,010 - INFO - Found DOI via Crossref for: Effect of environmental conditions and preventive behaviors on cutaneous leishmaniasis from the earthquake that hit cities in Western Iran in 2021: A cross-sectional study
+2025-05-14 15:01:54,093 - INFO - Found DOI via Crossref for: Community pharmacist-and psychologist-led program of neuropsychological screening in the aftermath of the COVID-19 pandemic: A cross-sectional survey
+2025-05-14 15:02:14,388 - INFO - Found DOI via Crossref for: The effects of COVID-19 home confinement on the psychological well-being of the Moroccan population: Regular versus irregular dynamics
+2025-05-14 15:02:36,784 - INFO - Found DOI via Crossref for: Are Chronic Pain Syndromes the Reason for Statin-associated Muscle Symptoms?
+2025-05-14 15:03:22,690 - INFO - Found DOI via Crossref for: Can Gender Reassignment Surgery Modulate the Risk of Development of Autoimmune Diseases?
+2025-05-14 15:04:08,446 - INFO - Fetching papers for: N. Bragazzi (ID: 2237155841)
+2025-05-14 15:04:09,883 - INFO - Retrieved 51 papers for N. Bragazzi
+2025-05-14 15:05:12,665 - INFO - Found DOI via Crossref for: Proteomics & Bioinformatics
+2025-05-14 15:05:17,174 - INFO - Found DOI via Crossref for: The contribution of subjective wellbeing to the improvement of the academic performance of university students through time management as a mediator factor: A structural equation modeling
+2025-05-14 15:05:21,373 - INFO - Found DOI via Crossref for: International Journal of Nephrology and Renovascular Disease Dovepress Ramadan Fasting and Chronic Kidney Disease: Does Estimated Glomerular Filtration Rate Change after and before Ramadan? Insights from a Mini Meta-analysis
+2025-05-14 15:05:22,773 - INFO - Fetching papers for: L. Nicola (ID: 2023144181)
+2025-05-14 15:05:24,007 - INFO - Retrieved 2 papers for L. Nicola
+2025-05-14 15:05:26,482 - INFO - Fetching papers for: N. L. Bragazzi (ID: 2350779544)
+2025-05-14 15:05:27,606 - INFO - Retrieved 2 papers for N. L. Bragazzi
+2025-05-14 15:05:30,262 - INFO - Fetching papers for: Nicola L. Bragazzi (ID: 2273125277)
+2025-05-14 15:05:31,380 - INFO - Retrieved 1 papers for Nicola L. Bragazzi
+2025-05-14 15:05:32,610 - INFO - ✅ Saved data for Nicola L. Bragazzi to csv/nicola_l._bragazzi_impact_metrics.csv and json/nicola_l._bragazzi_impact_metrics.json
