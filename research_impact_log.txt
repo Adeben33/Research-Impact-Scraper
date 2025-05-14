@@ -1,0 +1,54 @@
+2025-05-14 14:01:37,235 - INFO - Started data collection for: Jude Kong
+2025-05-14 14:01:37,515 - INFO - Fetching papers for: J. Kong (ID: 2237785871)
+2025-05-14 14:01:38,747 - INFO - Retrieved 10 papers for J. Kong
+2025-05-14 14:01:51,185 - INFO - Fetching papers for: J. D. Kong (ID: 2347066462)
+2025-05-14 14:01:52,409 - INFO - Retrieved 3 papers for J. D. Kong
+2025-05-14 14:01:56,113 - INFO - Fetching papers for: J. Kong (ID: 31706371)
+2025-05-14 14:02:02,507 - INFO - Retrieved 100 papers for J. Kong
+2025-05-14 14:03:53,659 - INFO - Found DOI via Crossref for: COVID-19 Vaccine Hesitancy and Information Diffusion: An Agent-based Modeling Approach
+2025-05-14 14:04:14,737 - INFO - Fetching papers for: Jude D. Kong (ID: 2244349331)
+2025-05-14 14:04:15,994 - INFO - Retrieved 10 papers for Jude D. Kong
+2025-05-14 14:04:29,130 - INFO - Fetching papers for: Jude Kong (ID: 2238951711)
+2025-05-14 14:04:30,261 - INFO - Retrieved 1 papers for Jude Kong
+2025-05-14 14:04:31,420 - INFO - Fetching papers for: Jude Kong (ID: 2240535975)
+2025-05-14 14:04:32,617 - INFO - Retrieved 1 papers for Jude Kong
+2025-05-14 14:04:33,776 - INFO - Fetching papers for: Jude Kong (ID: 2356821599)
+2025-05-14 14:04:34,915 - INFO - Retrieved 1 papers for Jude Kong
+2025-05-14 14:04:36,082 - INFO - Fetching papers for: Jude Kong (ID: 2280630870)
+2025-05-14 14:04:37,220 - INFO - Retrieved 2 papers for Jude Kong
+2025-05-14 14:04:38,915 - INFO - Found DOI via Crossref for: Increasing ﬁ sh biodiversity in high elevation Albertan lakes in response to global environmental change over the past 50 years
+2025-05-14 14:04:40,146 - INFO - Fetching papers for: Jude Kong (ID: 2290702291)
+2025-05-14 14:04:41,391 - INFO - Retrieved 2 papers for Jude Kong
+2025-05-14 14:04:43,707 - INFO - Found DOI via Crossref for: NRC Publications Archive Archives des publications du CNRC
+2025-05-14 14:04:45,316 - INFO - Fetching papers for: Jude Kong (ID: 2333714099)
+2025-05-14 14:04:46,540 - INFO - Retrieved 2 papers for Jude Kong
+2025-05-14 14:04:49,112 - INFO - ✅ Saved data for Jude Kong to jude_kong_impact_metrics.csv and jude_kong_impact_metrics.json
+2025-05-14 14:04:49,112 - INFO - Started data collection for: Nicola L. Bragazzi
+2025-05-14 14:04:49,259 - INFO - Fetching papers for: N. Bragazzi (ID: 2145772644)
+2025-05-14 14:04:50,774 - INFO - Retrieved 100 papers for N. Bragazzi
+2025-05-14 14:04:59,195 - INFO - Found DOI via Crossref for: Volume Measurement of the Cavum Septi Pellucidi: Normative Values Between 20 and 40 Weeks of Gestation.
+2025-05-14 14:05:21,305 - INFO - Found DOI via Crossref for: The mediating role of peritraumatic stress in the relationship between childhood psychological maltreatment and optimism and pessimism among earthquake survivors in Turkey
+2025-05-14 14:07:34,283 - INFO - Fetching papers for: N. Bragazzi (ID: 2238836977)
+2025-05-14 14:07:35,580 - INFO - Retrieved 15 papers for N. Bragazzi
+2025-05-14 14:07:54,805 - INFO - Found DOI via Crossref for: Data in Brief
+2025-05-14 14:07:56,282 - INFO - Fetching papers for: N. Bragazzi (ID: 2250832100)
+2025-05-14 14:08:02,763 - INFO - Retrieved 59 papers for N. Bragazzi
+2025-05-14 14:09:52,425 - INFO - Fetching papers for: N. Bragazzi (ID: 5938832)
+2025-05-14 14:09:53,923 - INFO - Retrieved 100 papers for N. Bragazzi
+2025-05-14 14:09:55,825 - INFO - Found DOI via Crossref for: Effect of environmental conditions and preventive behaviors on cutaneous leishmaniasis from the earthquake that hit cities in Western Iran in 2021: A cross-sectional study
+2025-05-14 14:10:06,373 - INFO - Found DOI via Crossref for: Community pharmacist-and psychologist-led program of neuropsychological screening in the aftermath of the COVID-19 pandemic: A cross-sectional survey
+2025-05-14 14:10:28,592 - INFO - Found DOI via Crossref for: The effects of COVID-19 home confinement on the psychological well-being of the Moroccan population: Regular versus irregular dynamics
+2025-05-14 14:10:54,362 - INFO - Found DOI via Crossref for: Are Chronic Pain Syndromes the Reason for Statin-associated Muscle Symptoms?
+2025-05-14 14:11:42,029 - INFO - Found DOI via Crossref for: Can Gender Reassignment Surgery Modulate the Risk of Development of Autoimmune Diseases?
+2025-05-14 14:12:34,635 - INFO - Fetching papers for: N. Bragazzi (ID: 2237155841)
+2025-05-14 14:12:35,922 - INFO - Retrieved 51 papers for N. Bragazzi
+2025-05-14 14:13:47,256 - INFO - Found DOI via Crossref for: Proteomics & Bioinformatics
+2025-05-14 14:13:52,369 - INFO - Found DOI via Crossref for: The contribution of subjective wellbeing to the improvement of the academic performance of university students through time management as a mediator factor: A structural equation modeling
+2025-05-14 14:13:54,825 - INFO - Found DOI via Crossref for: International Journal of Nephrology and Renovascular Disease Dovepress Ramadan Fasting and Chronic Kidney Disease: Does Estimated Glomerular Filtration Rate Change after and before Ramadan? Insights from a Mini Meta-analysis
+2025-05-14 14:13:56,254 - INFO - Fetching papers for: L. Nicola (ID: 2023144181)
+2025-05-14 14:13:57,775 - INFO - Retrieved 2 papers for L. Nicola
+2025-05-14 14:14:00,923 - INFO - Fetching papers for: N. L. Bragazzi (ID: 2350779544)
+2025-05-14 14:14:02,165 - INFO - Retrieved 2 papers for N. L. Bragazzi
+2025-05-14 14:14:05,235 - INFO - Fetching papers for: Nicola L. Bragazzi (ID: 2273125277)
+2025-05-14 14:14:06,471 - INFO - Retrieved 1 papers for Nicola L. Bragazzi
+2025-05-14 14:14:08,093 - INFO - ✅ Saved data for Nicola L. Bragazzi to nicola_l._bragazzi_impact_metrics.csv and nicola_l._bragazzi_impact_metrics.json
