@@ -174,7 +174,7 @@ def get_scholar_publications(filled_author, max_results=300):
             title = detailed['bib'].get("title", "Untitled")
             year = detailed['bib'].get("pub_year", "N/A")
             authors = detailed['bib'].get("author", "")
-            venue = detailed['bib'].get("venue", "N/A")
+            venue = detailed['bib'].get("venue") or detailed['bib'].get("journal") or "N/A"
             citations = detailed.get("num_citations", 0)
             doi = detailed.get("pub_url", "")
             publications.append({
