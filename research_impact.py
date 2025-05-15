@@ -18,6 +18,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
+
 # ---------- DOI + PMID HELPERS ----------
 def clean_doi(doi):
     if not doi:
@@ -27,6 +28,7 @@ def clean_doi(doi):
     if "doi.org" not in doi:
         return None
     return doi
+
 
 def query_doi_from_openalex(title, author=None):
     title_clean = re.sub(r'[^\w\s]', '', title.lower())[:200]
@@ -45,6 +47,7 @@ def query_doi_from_openalex(title, author=None):
         logging.warning(f"OpenAlex DOI lookup failed for '{title}': {e}")
     return None, None
 
+
 def query_doi_from_crossref(title):
     url = f"https://api.crossref.org/works?query.title={requests.utils.quote(title)}&rows=1"
     try:
@@ -56,6 +59,7 @@ def query_doi_from_crossref(title):
     except Exception as e:
         logging.warning(f"Crossref DOI lookup failed for '{title}': {e}")
     return None, None
+
 
 def get_pmid_from_pubmed(title):
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -71,6 +75,7 @@ def get_pmid_from_pubmed(title):
     except Exception as e:
         logging.warning(f"PubMed PMID lookup failed for '{title}': {e}")
     return None
+
 
 # ---------- ALTMETRIC & OA ----------
 def get_altmetric_summary(doi, pmid=None, title=None, altmetric_404_log=None):
@@ -89,6 +94,7 @@ def get_altmetric_summary(doi, pmid=None, title=None, altmetric_404_log=None):
         logging.error(f"Altmetric error for DOI {doi}: {e}")
     return None
 
+
 def get_altmetric_by_pmid(pmid):
     url = f"https://api.altmetric.com/v1/pmid/{pmid}"
     try:
@@ -100,6 +106,7 @@ def get_altmetric_by_pmid(pmid):
     except Exception as e:
         logging.error(f"Altmetric error for PMID {pmid}: {e}")
     return None
+
 
 def extract_altmetric_data(data):
     return {
@@ -116,6 +123,7 @@ def extract_altmetric_data(data):
         }
     }
 
+
 def get_open_access_status(doi):
     url = f"https://api.unpaywall.org/v2/{doi}?email={UNPAYWALL_EMAIL}"
     try:
@@ -127,9 +135,11 @@ def get_open_access_status(doi):
         logging.error(f"Unpaywall error for DOI {doi}: {e}")
     return None, None
 
+
 # ---------- HELPERS ----------
 def tag_keywords(text, keyword_list):
     return any(k in text.lower() for k in keyword_list)
+
 
 def has_media_mentions(altmetric):
     if not altmetric:
@@ -137,11 +147,13 @@ def has_media_mentions(altmetric):
     counts = altmetric.get("counts", {})
     return any(counts.get(k, 0) > 0 for k in ['News', 'Blogs', 'Policy Docs', 'Facebook', 'Wikipedia'])
 
+
 def is_preprint(venue, doi):
     if doi:
         return False
     preprint_sources = ["arxiv", "biorxiv", "medrxiv", "ssrn", "osf", "researchsquare", "preprints"]
     return any(src in venue.lower() for src in preprint_sources) if venue else False
+
 
 # ---------- GOOGLE SCHOLAR ----------
 def get_author_by_user_id(user_id):
@@ -152,6 +164,7 @@ def get_author_by_user_id(user_id):
     except Exception as e:
         logging.error(f"Error fetching scholar profile for user ID {user_id}: {e}")
     return None, None
+
 
 def get_scholar_publications(filled_author, max_results=300):
     publications = []
@@ -176,6 +189,7 @@ def get_scholar_publications(filled_author, max_results=300):
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
     return publications
+
 
 # ---------- PROCESS ----------
 def process_author(author_name, profile, works):
@@ -261,6 +275,7 @@ def process_author(author_name, profile, works):
         )
         print(f"⚠️ {len(altmetric_404_titles)} papers returned Altmetric 404. Saved to CSV.")
 
+
 # ---------- KEYWORDS ----------
 public_health_keywords = [
     "public health", "infectious disease", "epidemiology", "mathematical modeling",
@@ -281,6 +296,7 @@ capacity_building_keywords = [
 # ---------- AUTHOR DICTIONARY ----------
 author_dict = {
     "Jude Kong": "dPAVmL0AAAAJ",
+    "Nicola Luigi Bragazzi": "sTIzwwEAAAAJ"
 }
 
 # ---------- EXECUTION ----------
