@@ -3,8 +3,8 @@ import requests
 import time
 import logging
 import os
-from scholarly import scholarly
 import re
+from scholarly import scholarly
 
 # ---------- CONFIG ----------
 UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
@@ -78,7 +78,7 @@ def get_altmetric_summary(doi, pmid=None, title=None, altmetric_404_log=None):
     try:
         r = requests.get(url)
         if DEBUG_MODE:
-            print(f"\U0001F517 Altmetric URL: {url} — Status: {r.status_code}")
+            print(f"🔗 Altmetric URL: {url} — Status: {r.status_code}")
         if r.status_code == 200:
             return extract_altmetric_data(r.json())
         elif r.status_code == 404:
@@ -94,7 +94,7 @@ def get_altmetric_by_pmid(pmid):
     try:
         r = requests.get(url)
         if DEBUG_MODE:
-            print(f"\U0001F517 Altmetric PMID URL: {url} — Status: {r.status_code}")
+            print(f"🔗 Altmetric PMID URL: {url} — Status: {r.status_code}")
         if r.status_code == 200:
             return extract_altmetric_data(r.json())
     except Exception as e:
@@ -127,7 +127,7 @@ def get_open_access_status(doi):
         logging.error(f"Unpaywall error for DOI {doi}: {e}")
     return None, None
 
-# ---------- OTHER HELPERS ----------
+# ---------- HELPERS ----------
 def tag_keywords(text, keyword_list):
     return any(k in text.lower() for k in keyword_list)
 
@@ -136,6 +136,12 @@ def has_media_mentions(altmetric):
         return False
     counts = altmetric.get("counts", {})
     return any(counts.get(k, 0) > 0 for k in ['News', 'Blogs', 'Policy Docs', 'Facebook', 'Wikipedia'])
+
+def is_preprint(venue, doi):
+    if doi:
+        return False
+    preprint_sources = ["arxiv", "biorxiv", "medrxiv", "ssrn", "osf", "researchsquare", "preprints"]
+    return any(src in venue.lower() for src in preprint_sources) if venue else False
 
 # ---------- GOOGLE SCHOLAR ----------
 def get_author_by_user_id(user_id):
@@ -152,44 +158,39 @@ def get_scholar_publications(filled_author, max_results=300):
     for pub in filled_author.get('publications', [])[:max_results]:
         try:
             detailed = scholarly.fill(pub)
-            publications.append(detailed)
+            title = detailed['bib'].get("title", "Untitled")
+            year = detailed['bib'].get("pub_year", "N/A")
+            authors = detailed['bib'].get("author", "")
+            venue = detailed['bib'].get("venue", "N/A")
+            citations = detailed.get("num_citations", 0)
+            doi = detailed.get("pub_url", "")
+            publications.append({
+                "title": title,
+                "year": year,
+                "authors": authors,
+                "venue": venue,
+                "citations": citations,
+                "doi": doi
+            })
             time.sleep(1)
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
     return publications
 
-# ---------- MAIN PROCESS ----------
-def process_author(author_name, user_id):
-    logging.info(f"\U0001F50D Starting collection for {author_name} (ID: {user_id})")
-    author_profile, _ = get_author_by_user_id(user_id)
-    if not author_profile:
-        print(f"❌ No Google Scholar profile found for: {author_name}")
-        return
-
+# ---------- PROCESS ----------
+def process_author(author_name, works):
+    safe_name = author_name.lower().replace(' ', '_')
+    os.makedirs(safe_name, exist_ok=True)
+    results = []
     altmetric_404_titles = []
 
-    profile_metrics = {
-        "Author": author_name,
-        "Citations_All": author_profile.get("citedby", 0),
-        "Citations_Since2020": author_profile.get("citedby5y", 0),
-        "h_index_All": author_profile.get("hindex", 0),
-        "h_index_Since2020": author_profile.get("hindex5y", 0),
-        "i10_index_All": author_profile.get("i10index", 0),
-        "i10_index_Since2020": author_profile.get("i10index5y", 0)
-    }
-    os.makedirs("csv", exist_ok=True)
-    pd.DataFrame([profile_metrics]).to_csv(f"csv/{author_name.lower().replace(' ', '_')}_metrics.csv", index=False)
-
-    works = get_scholar_publications(author_profile)
-    results = []
-
     for work in works:
-        title = work['bib'].get("title", "Untitled")
-        year = work['bib'].get("pub_year", "N/A")
-        citations = work.get("num_citations", 0)
-        authors = work['bib'].get("author", "")
-        venue = work['bib'].get("venue", "N/A")
-        raw_doi = work.get("pub_url", "")
+        title = work.get("title", "Untitled")
+        year = work.get("year", "N/A")
+        authors = work.get("authors", "")
+        venue = work.get("venue", "N/A")
+        citations = work.get("citations", 0)
+        raw_doi = work.get("doi", "")
         doi = clean_doi(raw_doi)
 
         pmid = None
@@ -204,7 +205,7 @@ def process_author(author_name, user_id):
             logging.info(f"❌ Skipping — No DOI or PMID found for: {title}")
             continue
 
-        print(f"\U0001F4C4 Processing: {title} ({doi if doi else 'No DOI'})")
+        print(f"📄 Processing: {title} ({doi if doi else 'No DOI'})")
         altmetric = get_altmetric_summary(doi, pmid, title=title, altmetric_404_log=altmetric_404_titles)
         media_flag = has_media_mentions(altmetric)
         counts = altmetric.get("counts", {}) if altmetric else {}
@@ -214,13 +215,12 @@ def process_author(author_name, user_id):
             "Author": author_name,
             "Paper Title": title,
             "Year": year,
-            "Publication Type": "Published",
             "Citations": citations,
             "DOI": f"https://doi.org/{doi}" if doi else "N/A",
             "PMID": pmid,
             "Authors": authors,
             "Journal": venue,
-            "Altmetric Score": altmetric.get("score") if altmetric else "Not Available",
+            "Altmetric Score": altmetric.get("score") if altmetric else 0,
             "Twitter Mentions": counts.get("Twitter", 0),
             "Reddit Mentions": counts.get("Reddit", 0),
             "News Mentions": counts.get("News", 0),
@@ -231,6 +231,7 @@ def process_author(author_name, user_id):
             "Media Mentioned": media_flag,
             "Open Access": oa_flag,
             "OA Status": oa_status,
+            "Preprint": is_preprint(venue, doi),
             "Public Health Impact": tag_keywords(title, public_health_keywords),
             "Capacity Building": tag_keywords(title, capacity_building_keywords)
         })
@@ -238,15 +239,13 @@ def process_author(author_name, user_id):
 
     if results:
         df = pd.DataFrame(results)
-        safe_name = author_name.lower().replace(' ', '_')
-        os.makedirs("json", exist_ok=True)
-        df.to_csv(f"csv/{safe_name}_impact_metrics.csv", index=False)
-        df.to_json(f"json/{safe_name}_impact_metrics.json", orient="records", indent=2)
+        df.to_csv(f"{safe_name}/impact_metrics.csv", index=False)
+        df.to_json(f"{safe_name}/impact_metrics.json", orient="records", indent=2)
         print(f"✅ Finished for {author_name} — {len(results)} papers saved.")
 
     if altmetric_404_titles:
         pd.DataFrame(altmetric_404_titles, columns=["Title"]).to_csv(
-            f"csv/{author_name.lower().replace(' ', '_')}_altmetric_404.csv", index=False
+            f"{safe_name}/altmetric_404.csv", index=False
         )
         print(f"⚠️ {len(altmetric_404_titles)} papers returned Altmetric 404. Saved to CSV.")
 
@@ -270,11 +269,16 @@ capacity_building_keywords = [
 # ---------- AUTHOR DICTIONARY ----------
 author_dict = {
     "Jude Kong": "dPAVmL0AAAAJ",
-    # "Another Author": "xxxxxxxxxxx",
 }
 
 # ---------- EXECUTION ----------
 for author_name, user_id in author_dict.items():
-    process_author(author_name, user_id)
+    print(f"🔍 Retrieving data for {author_name}...")
+    profile, _ = get_author_by_user_id(user_id)
+    if profile:
+        works = get_scholar_publications(profile)
+        process_author(author_name, works)
+    else:
+        print(f"❌ Could not retrieve profile for {author_name}")
 
-print("\U0001F389 All authors processed. Check your output and log files.")
+print("🎉 All authors processed. Check your output folders.")
