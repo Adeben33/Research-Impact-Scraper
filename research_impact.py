@@ -153,7 +153,7 @@ def get_author_by_user_id(user_id):
         logging.error(f"Error fetching scholar profile for user ID {user_id}: {e}")
     return None, None
 
-def get_scholar_publications(filled_author, max_results=300):
+def get_scholar_publications(filled_author, max_results=5000):
     publications = []
     for pub in filled_author.get('publications', [])[:max_results]:
         try:
