@@ -2,7 +2,7 @@ name: Daily Research Impact Scraper
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Run every day at 08:00 UTC
+    - cron: '0 8 * * *'  # Run daily at 08:00 UTC
   workflow_dispatch:      # Allow manual runs
 
 permissions:
@@ -34,6 +34,6 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-        git add csv/*.csv json/*.json  # ✅ explicitly add files from csv/ and json/
-        git commit -m "🔁 Daily update of research impact data: $(date -u '+%Y-%m-%d')" || echo "No changes"
+        git add /*.csv /*.json
+        git commit -m "🔁 Daily update of research impact data: $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
         git push
