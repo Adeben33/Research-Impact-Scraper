@@ -153,7 +153,7 @@ def get_author_by_user_id(user_id):
         logging.error(f"Error fetching scholar profile for user ID {user_id}: {e}")
     return None, None
 
-def get_scholar_publications(filled_author, max_results=5000):
+def get_scholar_publications(filled_author, max_results=300):
     publications = []
     for pub in filled_author.get('publications', [])[:max_results]:
         try:
@@ -178,12 +178,24 @@ def get_scholar_publications(filled_author, max_results=5000):
     return publications
 
 # ---------- PROCESS ----------
-def process_author(author_name, works):
+def process_author(author_name, profile, works):
     safe_name = author_name.lower().replace(' ', '_')
     os.makedirs(safe_name, exist_ok=True)
     results = []
     altmetric_404_titles = []
 
+    # Save author-level metrics
+    profile_metrics = {
+        "Author": author_name,
+        "Citations_All": profile.get("citedby", 0),
+        "Citations_Since2020": profile.get("citedby5y", 0),
+        "h_index_All": profile.get("hindex", 0),
+        "h_index_Since2020": profile.get("hindex5y", 0),
+        "i10_index_All": profile.get("i10index", 0),
+        "i10_index_Since2020": profile.get("i10index5y", 0)
+    }
+    pd.DataFrame([profile_metrics]).to_csv(f"{safe_name}/metrics.csv", index=False)
+    pd.DataFrame([profile_metrics]).to_json(f"{safe_name}/metrics.json", orient="records", indent=2)
     for work in works:
         title = work.get("title", "Untitled")
         year = work.get("year", "N/A")
@@ -277,7 +289,7 @@ for author_name, user_id in author_dict.items():
     profile, _ = get_author_by_user_id(user_id)
     if profile:
         works = get_scholar_publications(profile)
-        process_author(author_name, works)
+        process_author(author_name, profile, works)
     else:
         print(f"❌ Could not retrieve profile for {author_name}")
 
