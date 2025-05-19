@@ -2576,3 +2576,5 @@
 2025-05-19 00:41:37,457 - WARNING - Crossref DOI lookup failed for 'Is monkeypox a new, emerging sexually transmitted disease? A rapid review of the literature': HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
 2025-05-19 00:53:10,011 - WARNING - Crossref DOI lookup failed for 'Uncovering the impact of infection routes on within-host MPXV dynamics: insights from a mathematical modeling study': HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
 2025-05-19 00:53:10,736 - INFO - ❌ Skipping — No DOI or PMID found for: Uncovering the impact of infection routes on within-host MPXV dynamics: insights from a mathematical modeling study
+2025-05-19 01:00:38,205 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-19 01:00:38,207 - WARNING - No such comm: fd981f98-ace6-4c87-9514-8c550282fdf5
