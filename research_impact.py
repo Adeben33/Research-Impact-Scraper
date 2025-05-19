@@ -172,7 +172,6 @@ def get_scholar_publications(filled_author, max_results=300):
                 "citations": citations,
                 "doi": doi
             })
-            print(publications)
             time.sleep(1)
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
