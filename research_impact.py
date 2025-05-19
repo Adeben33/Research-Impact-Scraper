@@ -153,7 +153,7 @@ def get_author_by_user_id(user_id):
         logging.error(f"Error fetching scholar profile for user ID {user_id}: {e}")
     return None, None
 
-def get_scholar_publications(filled_author, max_results=5000):
+def get_scholar_publications(filled_author, max_results=300):
     publications = []
     for pub in filled_author.get('publications', [])[:max_results]:
         try:
@@ -161,7 +161,7 @@ def get_scholar_publications(filled_author, max_results=5000):
             title = detailed['bib'].get("title", "Untitled")
             year = detailed['bib'].get("pub_year", "N/A")
             authors = detailed['bib'].get("author", "")
-            venue = detailed['bib'].get("venue", "N/A")
+            venue = detailed['bib'].get("journal") or detailed['bib'].get("venue") or detailed['bib'].get("pub") or detailed['bib'].get("citation") or "N/A"
             citations = detailed.get("num_citations", 0)
             doi = detailed.get("pub_url", "")
             publications.append({
@@ -172,6 +172,7 @@ def get_scholar_publications(filled_author, max_results=5000):
                 "citations": citations,
                 "doi": doi
             })
+            print(publications)
             time.sleep(1)
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
