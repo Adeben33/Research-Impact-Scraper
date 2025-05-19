@@ -2,7 +2,7 @@ name: Daily Research Impact Scraper
 
 on:
   schedule:
-#    - cron: '0 8 * * *'  # Run daily at 08:00 UTC
+    - cron: '0 8 * * *'  # Run daily at 08:00 UTC
   workflow_dispatch:      # Allow manual runs
 
 permissions:
