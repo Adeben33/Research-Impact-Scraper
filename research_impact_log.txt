@@ -8411,3 +8411,4 @@
 2025-05-19 22:48:08,236 - INFO - ❌ Skipping — No DOI or PMID found for: Detecting the presence of COVID-19 vaccination hesitancy from South African twitter data using machine learning
 2025-05-19 22:48:22,155 - WARNING - Crossref DOI lookup failed for 'COVID-19 in Ontario Long-term Care Facilities Project, a manually curated and validated database': HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
 2025-05-19 22:48:23,301 - INFO - ❌ Skipping — No DOI or PMID found for: COVID-19 in Ontario Long-term Care Facilities Project, a manually curated and validated database
+2025-05-19 22:52:30,621 - WARNING - Crossref DOI lookup failed for 'The Determinants of Under-Estimation of Covid-19 Cases Across Africa': HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
