@@ -20,6 +20,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -44,6 +45,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -68,6 +70,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -92,6 +95,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -116,6 +120,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -140,6 +145,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -164,6 +170,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -188,6 +195,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -212,6 +220,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -236,6 +245,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -260,6 +270,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -284,6 +295,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":true
   },
@@ -308,6 +320,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -332,6 +345,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -356,6 +370,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -380,6 +395,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -404,6 +420,7 @@
     "Open Access":true,
     "OA Status":"bronze",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -428,6 +445,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -452,6 +470,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -476,6 +495,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -500,6 +520,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -524,6 +545,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -548,6 +570,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -572,6 +595,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -596,6 +620,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -620,6 +645,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -644,6 +670,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -668,6 +695,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -692,6 +720,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -716,6 +745,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -740,6 +770,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -764,6 +795,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":true
   },
@@ -788,6 +820,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -812,6 +845,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -836,6 +870,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -860,6 +895,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -884,6 +920,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -892,22 +929,23 @@
     "Paper Title":"Decolonizing global AI governance: assessment of the state of decolonized AI governance in Sub-Saharan Africa",
     "Year":2024,
     "Citations":20,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.4652444",
     "PMID":"39113766",
     "Authors":"Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Bontu Habtamu and Bruce Mellado and Kingsley Badu and Edmund Yamba and Sylvain Landry Faye and Moise Ondua and Dickson Nsagha and Denis Nkweteyim and Jude Dzevela Kong",
     "Journal":"Royal Society Open Science",
-    "Altmetric Score":10.0,
-    "Twitter Mentions":3,
+    "Altmetric Score":4.1,
+    "Twitter Mentions":5,
     "Reddit Mentions":0,
-    "News Mentions":1,
+    "News Mentions":0,
     "Blog Mentions":0,
     "Facebook Mentions":0,
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
-    "Media Mentioned":true,
-    "Open Access":null,
-    "OA Status":null,
+    "Media Mentioned":false,
+    "Open Access":false,
+    "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -932,6 +970,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -956,6 +995,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -980,6 +1020,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1004,6 +1045,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1028,6 +1070,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1052,6 +1095,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1076,6 +1120,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1100,6 +1145,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1124,6 +1170,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1148,6 +1195,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1172,6 +1220,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1196,6 +1245,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1220,6 +1270,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1244,6 +1295,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1268,6 +1320,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1292,6 +1345,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1316,6 +1370,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1340,6 +1395,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1364,6 +1420,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1388,6 +1445,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1412,6 +1470,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1436,6 +1495,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1444,7 +1504,7 @@
     "Paper Title":"Modeling microbial dynamics: effects on environmental and human health",
     "Year":2017,
     "Citations":12,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.31223\/x56m1v",
     "PMID":"40388544",
     "Authors":"Jude D Kong",
     "Journal":"N\/A",
@@ -1457,9 +1517,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":null,
-    "OA Status":null,
+    "Open Access":true,
+    "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1484,6 +1545,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1508,6 +1570,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1532,6 +1595,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1556,6 +1620,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1580,6 +1645,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1588,7 +1654,7 @@
     "Paper Title":"Effectiveness of community face mask use on COVID-19 epidemiological trends and patterns in Italy: evidence from a \u201ctranslational\u201d study",
     "Year":2021,
     "Citations":9,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1080\/23744235.2021.1883731",
     "PMID":"33689565",
     "Authors":"Nicola Luigi Bragazzi and Naim Mahroum and Giovanni Damiani and Jude Dzevela Kong and Jianhong Wu",
     "Journal":"N\/A",
@@ -1601,9 +1667,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":null,
-    "OA Status":null,
+    "Open Access":true,
+    "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1628,6 +1695,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1652,6 +1720,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1676,6 +1745,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1700,6 +1770,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1724,6 +1795,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1748,6 +1820,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1772,6 +1845,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1796,6 +1870,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1820,6 +1895,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":true
   },
@@ -1844,6 +1920,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1868,6 +1945,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1876,7 +1954,7 @@
     "Paper Title":"Twitter-based gender recognition using transformers",
     "Year":2022,
     "Citations":6,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.3934\/mbe.2023711",
     "PMID":"37919997",
     "Authors":"Zahra Movahedi Nia and Ali Ahmadi and Bruce Mellado and Jianhong Wu and James Orbinski and Ali Agary and Jude Dzevela Kong",
     "Journal":"arXiv preprint arXiv:2205.06801",
@@ -1889,9 +1967,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":true,
-    "Open Access":null,
-    "OA Status":null,
-    "Preprint":true,
+    "Open Access":true,
+    "OA Status":"gold",
+    "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1900,7 +1979,7 @@
     "Paper Title":"Latent profile analysis to survey positive mental health and well-being: a pilot investigation insight tunisian Facebook users",
     "Year":2022,
     "Citations":6,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.3389\/fpsyt.2022.824134",
     "PMID":"35463494",
     "Authors":"Noomen Guelmami and Amayra Tannoubi and Nasr Chalghaf and Mouna Saidane and Jude Kong and Luca Puce and Azaiez Fairouz and Nicola Luigi Bragazzi and Roobaea Alroobaea",
     "Journal":"Frontiers in Psychiatry",
@@ -1913,9 +1992,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":null,
-    "OA Status":null,
+    "Open Access":true,
+    "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -1940,6 +2020,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1948,7 +2029,7 @@
     "Paper Title":"Quantifying the basic reproduction number and underestimated fraction of Mpox cases worldwide at the onset of the outbreak",
     "Year":2024,
     "Citations":5,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1098\/rsif.2023.0637",
     "PMID":"39044633",
     "Authors":"Nicola Luigi Bragazzi and Sarafa Adewale Iyaniwura and Qing Han and Woldegebriel Assefa Woldegerima and Jude Dzevela Kong",
     "Journal":"Journal of the Royal Society Interface",
@@ -1961,9 +2042,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":null,
-    "OA Status":null,
+    "Open Access":true,
+    "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -1988,6 +2070,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2012,6 +2095,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2036,6 +2120,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2060,6 +2145,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2084,6 +2170,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2108,6 +2195,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2132,6 +2220,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2156,6 +2245,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2180,6 +2270,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2204,6 +2295,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2228,6 +2320,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2236,7 +2329,7 @@
     "Paper Title":"Risk factors associated with human Mpox infection: a systematic review and meta-analysis",
     "Year":2025,
     "Citations":3,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1136\/bmjgh-2024-016937",
     "PMID":"39900427",
     "Authors":"Chigozie Louisa Jane Ugwu and Nicola Luigi Bragazzi and Jianhong Wu and Jude Dzevela Kong and Ali Asgary and James Orbinski and Woldegebriel Assefa Woldegerima",
     "Journal":"N\/A",
@@ -2249,9 +2342,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":null,
-    "OA Status":null,
+    "Open Access":true,
+    "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2276,20 +2370,21 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
   {
     "Author":"Jude Kong",
-    "Paper Title":"A tale of two (and more) stories: smallpox-monkeypox viruses (HIV, and other sexually transmitted disesases) interaction dynamics",
-    "Year":2022,
+    "Paper Title":"A stochastic analysis of a SIQR epidemic model with short and long-term prophylaxis",
+    "Year":2023,
     "Citations":3,
-    "DOI":"https:\/\/doi.org\/10.1016\/s0094-0143(21)00845-4",
+    "DOI":"https:\/\/doi.org\/10.21203\/rs.3.rs-1762043\/v1",
     "PMID":null,
-    "Authors":"Nicola Luigi Bragazzi and Jude Dzevela Kong and Jianhong Wu",
-    "Journal":"N\/A",
-    "Altmetric Score":0.0,
-    "Twitter Mentions":0,
+    "Authors":"Idriss Sekkak and Bouchra R Nasri and Bruno N R\u00e9millard and Jude Dzevela Kong and Mohamed El Fatini",
+    "Journal":"Communications in Nonlinear Science and Numerical Simulation",
+    "Altmetric Score":0.25,
+    "Twitter Mentions":1,
     "Reddit Mentions":0,
     "News Mentions":0,
     "Blog Mentions":0,
@@ -2297,9 +2392,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":false,
-    "OA Status":"closed",
+    "Open Access":true,
+    "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2324,6 +2420,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2348,6 +2445,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2372,6 +2470,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2396,6 +2495,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2420,7 +2520,33 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
+    "Capacity Building":false
+  },
+  {
+    "Author":"Jude Kong",
+    "Paper Title":"Detecting the presence of COVID-19 vaccination hesitancy from South African twitter data using machine learning",
+    "Year":2023,
+    "Citations":2,
+    "DOI":"https:\/\/doi.org\/10.1109\/isriti56927.2022.10053035",
+    "PMID":null,
+    "Authors":"Nicholas Perikli and Srimoy Bhattacharya and Blessing Ogbuokiri and Zahra Movahedi Nia and Benjamin Lieberman and Nidhi Tripathi and Salah-Eddine Dahbi and Finn Stevenson and Nicola Bragazzi and Jude Kong and Bruce Mellado",
+    "Journal":"arXiv preprint arXiv:2307.15072",
+    "Altmetric Score":0.0,
+    "Twitter Mentions":0,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":false,
+    "OA Status":"closed",
+    "Preprint":false,
+    "Publication Type":"Published",
+    "Public Health Impact":true,
     "Capacity Building":false
   },
   {
@@ -2444,6 +2570,32 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false
+  },
+  {
+    "Author":"Jude Kong",
+    "Paper Title":"COVID-19 in Ontario Long-term Care Facilities Project, a manually curated and validated database",
+    "Year":2023,
+    "Citations":2,
+    "DOI":"https:\/\/doi.org\/10.3389\/fpubh.2023.1133419",
+    "PMID":null,
+    "Authors":"Mahakprit Kaur and Nicola Luigi Bragazzi and Jane Heffernan and Peter Tsasis and Jianhong Wu and Jude Dzevela Kong",
+    "Journal":"Frontiers in Public Health",
+    "Altmetric Score":0.25,
+    "Twitter Mentions":1,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":true,
+    "OA Status":"gold",
+    "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2468,6 +2620,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2492,6 +2645,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2516,6 +2670,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2540,6 +2695,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2564,6 +2720,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2588,6 +2745,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2612,6 +2770,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2636,6 +2795,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2660,6 +2820,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2684,6 +2845,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2708,6 +2870,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2732,6 +2895,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2756,6 +2920,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2780,6 +2945,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2804,6 +2970,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2828,6 +2995,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2852,6 +3020,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2876,6 +3045,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2900,6 +3070,7 @@
     "Open Access":true,
     "OA Status":"bronze",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -2924,6 +3095,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2948,6 +3120,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -2972,6 +3145,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":true
   },
@@ -2996,6 +3170,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3020,6 +3195,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3044,6 +3220,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3068,6 +3245,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3092,6 +3270,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3116,6 +3295,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3140,6 +3320,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":true
   },
@@ -3164,6 +3345,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3188,6 +3370,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3212,6 +3395,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3236,6 +3420,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3260,6 +3445,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3284,6 +3470,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3308,6 +3495,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3332,6 +3520,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3356,6 +3545,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3380,6 +3570,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3404,6 +3595,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3428,6 +3620,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3452,6 +3645,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3476,6 +3670,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3500,6 +3695,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3524,6 +3720,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3548,6 +3745,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3572,6 +3770,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3596,6 +3795,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3604,12 +3804,12 @@
     "Paper Title":"Uncovering the impact of infection routes on within-host MPXV dynamics: insights from a mathematical modeling study",
     "Year":2024,
     "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.21203\/rs.3.rs-5060200\/v1",
+    "DOI":"https:\/\/doi.org\/10.1371\/journal.pcbi.1013073",
     "PMID":"40388391",
     "Authors":"Woldegebriel Assefa Woldegerima and Qi Deng and Wenjing Zhang and Ali Asgary and Jude Dzevela Kong and Sarah Flicker and Nicholas H Ogden and James Orbinski and Nicola Bragazzi and Jianhong Wu",
     "Journal":"N\/A",
-    "Altmetric Score":0.0,
-    "Twitter Mentions":0,
+    "Altmetric Score":1.85,
+    "Twitter Mentions":2,
     "Reddit Mentions":0,
     "News Mentions":0,
     "Blog Mentions":0,
@@ -3618,8 +3818,9 @@
     "Policy Mentions":0,
     "Media Mentioned":false,
     "Open Access":false,
-    "OA Status":"closed",
+    "OA Status":null,
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3644,6 +3845,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3668,6 +3870,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3677,7 +3880,7 @@
     "Year":2024,
     "Citations":0,
     "DOI":"https:\/\/doi.org\/10.2139\/ssrn.4952965",
-    "PMID":"40329998",
+    "PMID":"40389194",
     "Authors":"Firanol Teshome and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
     "Journal":"N\/A",
     "Altmetric Score":0.0,
@@ -3692,6 +3895,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3716,6 +3920,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3740,6 +3945,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3764,6 +3970,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3788,6 +3995,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3812,6 +4020,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3820,12 +4029,12 @@
     "Paper Title":"The Determinants of Under-Estimation of Covid-19 Cases Across Africa",
     "Year":2024,
     "Citations":0,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.4771127",
     "PMID":"38993699",
     "Authors":"Qing Han and Ghislain Rutayisire and Maxime Descartes Mbogning Fonkou and Wisdom Avusuglo and Ali Ahmadi and Ali Asgary and James Orbinski and Jianhong Wu and Jude Dzevela Kong",
     "Journal":"Available at SSRN 4771127",
-    "Altmetric Score":3.0,
-    "Twitter Mentions":3,
+    "Altmetric Score":4.55,
+    "Twitter Mentions":5,
     "Reddit Mentions":0,
     "News Mentions":0,
     "Blog Mentions":0,
@@ -3833,9 +4042,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":null,
-    "OA Status":null,
-    "Preprint":true,
+    "Open Access":false,
+    "OA Status":"closed",
+    "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3860,6 +4070,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3884,6 +4095,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3908,6 +4120,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3932,6 +4145,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -3956,6 +4170,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -3980,30 +4195,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
-    "Public Health Impact":false,
-    "Capacity Building":false
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"Towards an Inclusive Data Governance Policy for the Use of Artificial Intelligence in Africa",
-    "Year":2023,
-    "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.4581619",
-    "PMID":null,
-    "Authors":"Jake Okechukwu Effoduh and Ugochukwu Ejike Akpudo and Jude Dzevela Kong",
-    "Journal":"Available at SSRN 4581619",
-    "Altmetric Score":20.85,
-    "Twitter Mentions":20,
-    "Reddit Mentions":0,
-    "News Mentions":0,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":1,
-    "Policy Mentions":0,
-    "Media Mentioned":true,
-    "Open Access":false,
-    "OA Status":"closed",
-    "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4028,6 +4220,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4052,30 +4245,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
-    "Public Health Impact":false,
-    "Capacity Building":false
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"Higher Rates of COVID-19 but Less Severe Infections Reported for Patients on Il-4\/Il-13 Blocker: A Big Data Analysis of the WHO Vigibase",
-    "Year":2021,
-    "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.3869872",
-    "PMID":null,
-    "Authors":"Naim Mahroum and Giovanni Damiani and Abdulla Watad and Howard Amital and Nicola Luigi Bragazzi and Jianhong Wu and Jude Dzevela Kong and Charlie Bridgewood and Dennis McGonagle and Haijiang Dai",
-    "Journal":"Available at SSRN 3869872",
-    "Altmetric Score":0.0,
-    "Twitter Mentions":0,
-    "Reddit Mentions":0,
-    "News Mentions":0,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":false,
-    "Open Access":false,
-    "OA Status":"closed",
-    "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4100,6 +4270,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4124,6 +4295,7 @@
     "Open Access":true,
     "OA Status":"green",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -4148,6 +4320,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4172,6 +4345,7 @@
     "Open Access":true,
     "OA Status":"bronze",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -4196,6 +4370,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -4220,6 +4395,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4228,8 +4404,8 @@
     "Paper Title":"Environmental Advances",
     "Year":"N\/A",
     "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.1039\/2754-7000\/2022",
-    "PMID":"40387864",
+    "DOI":"N\/A",
+    "PMID":"40390128",
     "Authors":"Noor Fatima and Sherif Eneye Shuaib and Jude Dzevela Kong",
     "Journal":"N\/A",
     "Altmetric Score":0.0,
@@ -4241,9 +4417,10 @@
     "Wikipedia Mentions":0,
     "Policy Mentions":0,
     "Media Mentioned":false,
-    "Open Access":true,
-    "OA Status":"gold",
+    "Open Access":null,
+    "OA Status":"unknown",
     "Preprint":false,
+    "Publication Type":"Unknown",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4268,6 +4445,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -4292,6 +4470,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4316,6 +4495,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -4340,6 +4520,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":true,
     "Capacity Building":false
   },
@@ -4364,6 +4545,7 @@
     "Open Access":true,
     "OA Status":"gold",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4388,6 +4570,7 @@
     "Open Access":false,
     "OA Status":"closed",
     "Preprint":false,
+    "Publication Type":"Published",
     "Public Health Impact":false,
     "Capacity Building":false
   },
@@ -4412,6 +4595,7 @@
     "Open Access":true,
     "OA Status":"hybrid",
     "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false
   }
