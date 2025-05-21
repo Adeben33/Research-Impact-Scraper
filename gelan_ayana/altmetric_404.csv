@@ -1,6 +1,5 @@
 Title
 A novel multistage transfer learning for ultrasound breast cancer image classification
-Accurate machine-learning-based classification of leukemia from blood smear images
 BUViTNet: breast ultrasound detection via vision transformers
 De-speckling breast cancer ultrasound images using a rotationally invariant block matching based non-local means (RIBM-NLM) method
 Automatic early detection and classification of leukemia from microscopic blood image
@@ -20,6 +19,7 @@ Vision Transformers for Mpox Detection
 Machine Learning for Early Prediction of Preterm Birth
 Epidemiological Trends and Clinical Features of Polio in Ethiopia: A Preliminary Pooled Data Analysis and Literature Review
 A Robust Transfer Learning for Breast Cancer Early Detection from Multiple Imaging Modalities
+Vision transformer-based transfer learning for mammographic breast mass detection
 Patchless deep transfer learning for improved mammographic breast mass classification
 U-net with vision transformer encoder for polyp segmentation in colonoscopy images
 Vision transformers for endoscopic pathological findings classification
