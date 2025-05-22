@@ -29,11 +29,14 @@ jobs:
       run: |
         python research_impact.py
 
-    - name: 🔄 Pull latest changes
+    - name: 🔄 Pull latest changes safely
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git pull --rebase origin main
+        git config adeben33 "github-actions[bot]"
+        git config adeniyiebenezer33@gmail.com "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        git stash
+        git pull --rebase origin main || echo "Nothing to rebase"
+        git stash pop || echo "Nothing to pop"
 
     - name: 📤 Commit & Push Updated Files
       run: |
