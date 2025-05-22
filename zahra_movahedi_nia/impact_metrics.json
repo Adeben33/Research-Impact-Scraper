@@ -22,7 +22,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3389\/fpubh.2022.987376"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -47,7 +48,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.4001976"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -72,7 +74,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1109\/tcss.2023.3236368"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -97,7 +100,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2196\/45108"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -122,7 +126,34 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2196\/45108"
+  },
+  {
+    "Author":"Zahra Movahedi Nia",
+    "Paper Title":"Climate tracking by freshwater fishes suggests that fish diversity in temperate lakes may be increasingly threatened by climate warming",
+    "Year":2023,
+    "Citations":13,
+    "DOI":"https:\/\/doi.org\/10.1111\/ddi.13664",
+    "PMID":null,
+    "Authors":"Thomas Wu and Mohammad Arshad Imrit and Zahra Movahedinia and Jude Kong and R Iestyn Woolway and Sapna Sharma",
+    "Journal":"Diversity and Distributions",
+    "Altmetric Score":20.75,
+    "Twitter Mentions":19,
+    "Reddit Mentions":0,
+    "News Mentions":1,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":true,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1111\/ddi.13664"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -147,7 +178,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1016\/j.dib.2023.109118"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -172,7 +204,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3389\/fpubh.2022.952363"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -197,7 +230,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1098\/rsif.2023.0200"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -222,7 +256,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3934\/mbe.2023711"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -247,7 +282,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1007\/s11042-020-10463-x"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -272,7 +308,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1371\/journal.pone.0237238"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -297,7 +334,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3390\/healthcare12191959"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -322,7 +360,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3389\/fpubh.2023.1190722"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -347,14 +386,15 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1109\/isriti56927.2022.10053035"
   },
   {
     "Author":"Zahra Movahedi Nia",
     "Paper Title":"Leveraging deep-learning and unconventional data for real-time surveillance, forecasting, and early warning of respiratory pathogens outbreak",
     "Year":2025,
     "Citations":1,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1016\/j.artmed.2025.103076",
     "PMID":"39914162",
     "Authors":"Z Movahedi Nia and L Seyyed-Kalantari and M Goitom and B Mellado and A Ahmadi and A Asgary and J Orbinski and J Wu and JD Kong",
     "Journal":"Artificial Intelligence in Medicine",
@@ -370,9 +410,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1016\/j.artmed.2025.103076"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -397,7 +438,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1136\/bmjopen-2023-082114"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -422,7 +464,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5253151"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -447,7 +490,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5211568"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -472,7 +516,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5209019"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -497,7 +542,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5078277"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -522,7 +568,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1371\/journal.pdig.0000545"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -547,7 +594,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1007\/978-981-97-5227-0_11"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -572,7 +620,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3934\/mbe.2023711"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -597,7 +646,8 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":false,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3934\/mbe.2023711"
   },
   {
     "Author":"Zahra Movahedi Nia",
@@ -622,6 +672,7 @@
     "Preprint":false,
     "Publication Type":"Open Access",
     "Public Health Impact":true,
-    "Capacity Building":false
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1161\/circoutcomes.122.009294"
   }
 ]
