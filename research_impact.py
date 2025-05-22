@@ -18,6 +18,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
+
 # ---------- DOI + PMID HELPERS ----------
 def clean_doi(doi):
     if not doi:
@@ -27,6 +28,7 @@ def clean_doi(doi):
     if "doi.org" not in doi:
         return None
     return doi
+
 
 def query_doi_from_openalex(title, author=None):
     title_clean = re.sub(r'[^\w\s]', '', title.lower())[:200]
@@ -45,6 +47,7 @@ def query_doi_from_openalex(title, author=None):
         logging.warning(f"OpenAlex DOI lookup failed for '{title}': {e}")
     return None, None
 
+
 def query_doi_from_crossref(title):
     url = f"https://api.crossref.org/works?query.title={requests.utils.quote(title)}&rows=1"
     try:
@@ -56,6 +59,7 @@ def query_doi_from_crossref(title):
     except Exception as e:
         logging.warning(f"Crossref DOI lookup failed for '{title}': {e}")
     return None, None
+
 
 def get_pmid_from_pubmed(title):
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -71,6 +75,7 @@ def get_pmid_from_pubmed(title):
     except Exception as e:
         logging.warning(f"PubMed PMID lookup failed for '{title}': {e}")
     return None
+
 
 # ---------- ALTMETRIC & OA ----------
 def get_altmetric_summary(doi, pmid=None, title=None, altmetric_404_log=None):
@@ -89,6 +94,7 @@ def get_altmetric_summary(doi, pmid=None, title=None, altmetric_404_log=None):
         logging.error(f"Altmetric error for DOI {doi}: {e}")
     return None
 
+
 def get_altmetric_by_pmid(pmid):
     url = f"https://api.altmetric.com/v1/pmid/{pmid}"
     try:
@@ -100,6 +106,7 @@ def get_altmetric_by_pmid(pmid):
     except Exception as e:
         logging.error(f"Altmetric error for PMID {pmid}: {e}")
     return None
+
 
 def extract_altmetric_data(data):
     return {
@@ -116,6 +123,32 @@ def extract_altmetric_data(data):
         }
     }
 
+
+# ---------- DOAJ CHECK ----------
+def is_journal_in_doaj(journal_title):
+    try:
+        url = f"https://doaj.org/api/v2/search/journals/{journal_title}"
+        r = requests.get(url)
+        if r.status_code == 200 and 'total' in r.json():
+            return True, "doaj"
+    except:
+        pass
+    return None, None
+
+
+# ---------- CORE CHECK ----------
+def is_in_core_repository(doi):
+    try:
+        if not doi:
+            return None, None
+        core_indexed_prefixes = ["10.5281", "10.31235", "10.1101", "10.6084"]
+        if any(doi.startswith(prefix) for prefix in core_indexed_prefixes):
+            return True, "mocked_core"
+    except Exception as e:
+        logging.warning(f"CORE check failed for DOI {doi}: {e}")
+    return None, None
+
+
 def get_open_access_status(doi):
     url = f"https://api.unpaywall.org/v2/{doi}?email={UNPAYWALL_EMAIL}"
     try:
@@ -127,9 +160,11 @@ def get_open_access_status(doi):
         logging.error(f"Unpaywall error for DOI {doi}: {e}")
     return None, None
 
+
 # ---------- HELPERS ----------
 def tag_keywords(text, keyword_list):
     return any(k in text.lower() for k in keyword_list)
+
 
 def has_media_mentions(altmetric):
     if not altmetric:
@@ -137,11 +172,13 @@ def has_media_mentions(altmetric):
     counts = altmetric.get("counts", {})
     return any(counts.get(k, 0) > 0 for k in ['News', 'Blogs', 'Policy Docs', 'Facebook', 'Wikipedia'])
 
+
 def is_preprint(venue, doi):
     if doi:
         return False
     preprint_sources = ["arxiv", "biorxiv", "medrxiv", "ssrn", "osf", "researchsquare", "preprints"]
     return any(src in venue.lower() for src in preprint_sources) if venue else False
+
 
 # ---------- GOOGLE SCHOLAR ----------
 def get_author_by_user_id(user_id):
@@ -153,6 +190,115 @@ def get_author_by_user_id(user_id):
         logging.error(f"Error fetching scholar profile for user ID {user_id}: {e}")
     return None, None
 
+
+# ---------- DOAJ CHECK ----------
+def is_journal_in_doaj(journal_title):
+    try:
+        url = f"https://doaj.org/api/v2/search/journals/{journal_title}"
+        r = requests.get(url)
+        if r.status_code == 200 and 'total' in r.json():
+            return True, "doaj"
+    except:
+        pass
+    return None, None
+
+
+# ---------- CORE CHECK ----------
+def is_in_core_repository(doi):
+    try:
+        if not doi:
+            return None, None
+        core_indexed_prefixes = ["10.5281", "10.31235", "10.1101", "10.6084"]
+        if any(doi.startswith(prefix) for prefix in core_indexed_prefixes):
+            return True, "mocked_core"
+    except Exception as e:
+        logging.warning(f"CORE check failed for DOI {doi}: {e}")
+    return None, None
+
+
+# ---------- UNPAYWALL CHECK ----------
+def get_open_access_status_unpaywall(doi):
+    url = f"https://api.unpaywall.org/v2/{doi}?email={UNPAYWALL_EMAIL}"
+    try:
+        r = requests.get(url)
+        if r.status_code == 200:
+            data = r.json()
+            return data.get("is_oa", False), data.get("oa_status", "unknown")
+    except Exception as e:
+        logging.warning(f"Unpaywall error for DOI {doi}: {e}")
+    return None, None
+
+
+# ---------- CROSSREF LICENSE CHECK ----------
+def get_open_access_status_crossref_license(doi):
+    try:
+        url = f"https://api.crossref.org/works/{doi}"
+        r = requests.get(url, timeout=10)
+        if r.status_code == 200:
+            licenses = r.json()['message'].get("license", [])
+            if licenses:
+                return True, licenses[0].get("URL", "")
+    except Exception as e:
+        logging.warning(f"Crossref license check failed for {doi}: {e}")
+    return None, None
+
+
+# ---------- PREPRINT CHECK ----------
+def is_preprint_venue(venue, doi):
+    if doi:
+        return False, None
+    preprint_sources = ["arxiv", "biorxiv", "medrxiv", "ssrn", "osf", "researchsquare", "preprints"]
+    if venue:
+        for src in preprint_sources:
+            if src in venue.lower():
+                return True, src
+    return False, None
+
+
+# ---------- OA BUTTON CHECK ----------
+def get_open_access_from_oa_button(doi):
+    try:
+        url = f"https://api.openaccessbutton.org/find?id=https://doi.org/{doi}"
+        r = requests.get(url)
+        if r.status_code == 200:
+            data = r.json()
+            oa_link = data.get("data", {}).get("url")
+            if oa_link:
+                return True, oa_link
+    except Exception as e:
+        logging.warning(f"OA Button error for DOI {doi}: {e}")
+    return None, None
+
+
+# ---------- COMBINED OA CHECK ----------
+def get_combined_open_access_status(doi, venue):
+    oa, source = is_journal_in_doaj(venue)
+    if oa is not None:
+        return oa, f"doaj"
+
+    oa, source = is_in_core_repository(doi)
+    if oa is not None:
+        return oa, f"core:{source}"
+
+    oa, source = get_open_access_status_unpaywall(doi)
+    if oa is not None:
+        return oa, f"unpaywall:{source}"
+
+    oa, source = get_open_access_status_crossref_license(doi)
+    if oa is not None:
+        return oa, f"crossref_license:{source}"
+
+    oa, source = is_preprint_venue(venue, doi)
+    if oa:
+        return oa, f"preprint:{source}"
+
+    oa, source = get_open_access_from_oa_button(doi)
+    if oa is not None:
+        return oa, f"oa_button:{source}"
+
+    return False, "unknown"
+
+
 def get_scholar_publications(filled_author, max_results=300):
     publications = []
     for pub in filled_author.get('publications', [])[:max_results]:
@@ -161,7 +307,8 @@ def get_scholar_publications(filled_author, max_results=300):
             title = detailed['bib'].get("title", "Untitled")
             year = detailed['bib'].get("pub_year", "N/A")
             authors = detailed['bib'].get("author", "")
-            venue = detailed['bib'].get("journal") or detailed['bib'].get("venue") or detailed['bib'].get("pub") or detailed['bib'].get("citation") or "N/A"
+            venue = detailed['bib'].get("journal") or detailed['bib'].get("venue") or detailed['bib'].get(
+                "pub") or "N/A"
             citations = detailed.get("num_citations", 0)
             doi = detailed.get("pub_url", "")
             publications.append({
@@ -176,6 +323,41 @@ def get_scholar_publications(filled_author, max_results=300):
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
     return publications
+
+
+def classify_publication_type(doi, venue, oa_flag):
+    if is_preprint(venue, doi):
+        return "Preprint"
+    elif doi and oa_flag:
+        return "Open Access"
+    elif doi:
+        return "Published"
+    else:
+        return "Unknown"
+
+
+def fallback_oa_from_doi_url(doi):
+    open_domains = ["plos.org", "bmc.org", "frontiersin.org", "mdpi.com", "peerj.com"]
+    for domain in open_domains:
+        if domain in doi:
+            return True
+    return False
+
+
+def refine_open_access_label(is_oa, oa_status):
+    if not is_oa or oa_status == "closed":
+        return "Closed"
+    elif oa_status == "gold":
+        return "Gold OA"
+    elif oa_status == "green":
+        return "Green OA"
+    elif oa_status == "hybrid":
+        return "Hybrid OA"
+    elif oa_status == "bronze":
+        return "Bronze OA"
+    else:
+        return "Unknown OA"
+
 
 # ---------- PROCESS ----------
 def process_author(author_name, profile, works):
@@ -221,7 +403,18 @@ def process_author(author_name, profile, works):
         altmetric = get_altmetric_summary(doi, pmid, title=title, altmetric_404_log=altmetric_404_titles)
         media_flag = has_media_mentions(altmetric)
         counts = altmetric.get("counts", {}) if altmetric else {}
-        oa_flag, oa_status = get_open_access_status(doi) if doi else (None, None)
+        oa_flag, oa_status_raw = get_combined_open_access_status(doi, venue)
+        oa_type = refine_open_access_label(oa_flag, oa_status_raw)
+
+        # paper_link = f"https://doi.org/{doi}" if doi else raw_doi if raw_doi.startswith("http") else "N/A"
+
+        is_preprint_flag = is_preprint(venue, doi)
+
+        paper_link = (
+            f"https://doi.org/{doi}" if doi else
+            raw_doi if is_preprint_flag and raw_doi.startswith("http") else
+            "N/A"
+        )
 
         results.append({
             "Author": author_name,
@@ -242,10 +435,12 @@ def process_author(author_name, profile, works):
             "Policy Mentions": counts.get("Policy Docs", 0),
             "Media Mentioned": media_flag,
             "Open Access": oa_flag,
-            "OA Status": oa_status,
+            "OA Status": oa_status_raw,
             "Preprint": is_preprint(venue, doi),
+            "Publication Type": classify_publication_type(doi, venue, oa_flag),
             "Public Health Impact": tag_keywords(title, public_health_keywords),
-            "Capacity Building": tag_keywords(title, capacity_building_keywords)
+            "Capacity Building": tag_keywords(title, capacity_building_keywords),
+            "Paper Link": paper_link
         })
         time.sleep(2)
 
@@ -260,6 +455,7 @@ def process_author(author_name, profile, works):
             f"{safe_name}/altmetric_404.csv", index=False
         )
         print(f"⚠️ {len(altmetric_404_titles)} papers returned Altmetric 404. Saved to CSV.")
+
 
 # ---------- KEYWORDS ----------
 public_health_keywords = [
@@ -281,6 +477,12 @@ capacity_building_keywords = [
 # ---------- AUTHOR DICTIONARY ----------
 author_dict = {
     "Jude Kong": "dPAVmL0AAAAJ",
+    "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
+    "Gelan Ayan": "bNK6lMoAAAAJ",
+    "Andrew Omame": "AA539_cAAAAJ",
+    "Abbas Yazdinejad": "YSgLh0YAAAAJ",
+    "Ebenezer Olayinka Adeniyi": "a8CzUvIAAAAJ"
+
 }
 
 # ---------- EXECUTION ----------
