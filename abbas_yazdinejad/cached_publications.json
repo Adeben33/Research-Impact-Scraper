@@ -52,7 +52,7 @@
     "year": 2024,
     "authors": "Abbas Yazdinejad and Ali Dehghantanha and Hadis Karimipour and Gautam Srivastava and Reza M Parizi",
     "venue": "IEEE Transactions on Information Forensics and Security",
-    "citations": 162,
+    "citations": 163,
     "doi": "https://ieeexplore.ieee.org/abstract/document/10574838/"
   },
   {
@@ -188,7 +188,7 @@
     "year": 2024,
     "authors": "Gopi Krishna Jagarlamudi and Abbas Yazdinejad and Reza M Parizi and Seyedamin Pouriyeh",
     "venue": "The Journal of Supercomputing",
-    "citations": 62,
+    "citations": 63,
     "doi": "https://link.springer.com/article/10.1007/s11227-023-05846-4"
   },
   {
@@ -200,20 +200,20 @@
     "doi": "https://www.sciencedirect.com/science/article/pii/S0743731519306288"
   },
   {
+    "title": "Federated quantum-based privacy-preserving threat detection model for consumer internet of things",
+    "year": 2024,
+    "authors": "Danyal Namakshenas and Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
+    "venue": "IEEE Transactions on Consumer Electronics",
+    "citations": 60,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10472634/"
+  },
+  {
     "title": "Making sense of blockchain for ai deepfakes technology",
     "year": 2020,
     "authors": "Abbas Yazdinejad and Reza M Parizi and Gautam Srivastava and Ali Dehghantanha",
     "venue": "N/A",
     "citations": 60,
     "doi": "https://ieeexplore.ieee.org/abstract/document/9367545/"
-  },
-  {
-    "title": "Federated quantum-based privacy-preserving threat detection model for consumer internet of things",
-    "year": 2024,
-    "authors": "Danyal Namakshenas and Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
-    "venue": "IEEE Transactions on Consumer Electronics",
-    "citations": 59,
-    "doi": "https://ieeexplore.ieee.org/abstract/document/10472634/"
   },
   {
     "title": "A generalizable deep neural network method for detecting attacks in industrial cyber-physical systems",
@@ -264,6 +264,14 @@
     "doi": "https://arxiv.org/abs/2307.15224"
   },
   {
+    "title": "Security considerations for virtual reality systems",
+    "year": 2022,
+    "authors": "Karthik Viswanathan and Abbas Yazdinejad",
+    "venue": "arXiv preprint arXiv:2201.02563",
+    "citations": 40,
+    "doi": "https://arxiv.org/abs/2201.02563"
+  },
+  {
     "title": "Two-level privacy-preserving framework: Federated learning for attack detection in the consumer internet of things",
     "year": 2024,
     "authors": "Elnaz Rabieinejad and Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
@@ -278,14 +286,6 @@
     "venue": "Physical Communication",
     "citations": 39,
     "doi": "https://www.sciencedirect.com/science/article/pii/S1874490722000453"
-  },
-  {
-    "title": "Security considerations for virtual reality systems",
-    "year": 2022,
-    "authors": "Karthik Viswanathan and Abbas Yazdinejad",
-    "venue": "arXiv preprint arXiv:2201.02563",
-    "citations": 39,
-    "doi": "https://arxiv.org/abs/2201.02563"
   },
   {
     "title": "The dichotomy of cloud and iot: Cloud-assisted iot from a security perspective",
