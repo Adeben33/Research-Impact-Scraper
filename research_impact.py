@@ -4,11 +4,13 @@ import time
 import logging
 import os
 import re
+import json
 from scholarly import scholarly
 
 # ---------- CONFIG ----------
 UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
 DEBUG_MODE = True
+REFRESH_CACHE = True
 
 # ---------- LOGGING ----------
 logging.basicConfig(
@@ -299,11 +301,32 @@ def get_combined_open_access_status(doi, venue):
     return False, "unknown"
 
 
-def get_scholar_publications(filled_author, max_results=300):
+# ---------- SAFE FILL ----------
+def safe_fill(pub, retries=3, delay=2):
+    for attempt in range(retries):
+        try:
+            return scholarly.fill(pub)
+        except Exception as e:
+            logging.warning(f"Retry {attempt + 1} for fill failed: {e}")
+            time.sleep(delay)
+    return None
+
+
+def get_scholar_publications(filled_author, max_results=3000):
+    author_dir = filled_author['name'].lower().replace(' ', '_')
+    os.makedirs(author_dir, exist_ok=True)
+    cache_file = f"{author_dir}/cached_publications.json"
+
+    if not REFRESH_CACHE and os.path.exists(cache_file):
+        with open(cache_file, "r") as f:
+            return json.load(f)
+
     publications = []
     for pub in filled_author.get('publications', [])[:max_results]:
         try:
-            detailed = scholarly.fill(pub)
+            detailed = safe_fill(pub)
+            if not detailed:
+                continue
             title = detailed['bib'].get("title", "Untitled")
             year = detailed['bib'].get("pub_year", "N/A")
             authors = detailed['bib'].get("author", "")
@@ -322,6 +345,13 @@ def get_scholar_publications(filled_author, max_results=300):
             time.sleep(1)
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
+
+    try:
+        with open(cache_file, "w") as f:
+            json.dump(publications, f, indent=2)
+    except Exception as e:
+        logging.error(f"Failed to write cache file for {author_dir}: {e}")
+
     return publications
 
 

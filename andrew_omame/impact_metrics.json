@@ -159,7 +159,7 @@
     "Author":"Andrew Omame",
     "Paper Title":"A fractional order control model for Diabetes and COVID-19 co-dynamics with Mittag-Leffler function",
     "Year":2022,
-    "Citations":67,
+    "Citations":68,
     "DOI":"https:\/\/doi.org\/10.1016\/j.aej.2022.01.012",
     "PMID":null,
     "Authors":"Andrew Omame and Ugochukwu K Nwajeri and M Abbas and Chibueze P Onyenegecha",
@@ -213,7 +213,11 @@
     "Year":2020,
     "Citations":61,
     "DOI":"https:\/\/doi.org\/10.1016\/j.apm.2019.08.012",
+<<<<<<< HEAD
     "PMID":"40397961",
+=======
+    "PMID":"40399994",
+>>>>>>> dfa4f34 (nicola)
     "Authors":"A Omame and D Okuonghae and RA Umana and SC Inyama",
     "Journal":"Applied Mathematical Modelling",
     "Altmetric Score":0.0,
@@ -653,7 +657,7 @@
     "Author":"Andrew Omame",
     "Paper Title":"Adaptive changes in sexual behavior in the high\u2010risk population in response to human monkeypox transmission in Canada can help control the outbreak: Insights from a two\u2010group, two\u2010route epidemic model",
     "Year":2023,
-    "Citations":26,
+    "Citations":27,
     "DOI":"https:\/\/doi.org\/10.1002\/jmv.28575",
     "PMID":"36772860",
     "Authors":"Nicola Luigi Bragazzi and Qing Han and Sarafa Adewale Iyaniwura and Andrew Omame and Aminath Shausan and Xiaoying Wang and Woldegebriel Assefa Woldegerima and Jianhong Wu and Jude Dzevela Kong",
@@ -1017,7 +1021,7 @@
     "Author":"Andrew Omame",
     "Paper Title":"A mathematical model of corruption dynamics endowed with fractal\u2013fractional derivative",
     "Year":2023,
-    "Citations":15,
+    "Citations":16,
     "DOI":"https:\/\/doi.org\/10.1016\/j.rinp.2023.106894",
     "PMID":null,
     "Authors":"Ugochukwu Kizito Nwajeri and Joshua Kiddy K Asamoah and Ndubuisi Rich Ugochukwu and Andrew Omame and Zhen Jin",
@@ -1977,13 +1981,13 @@
   },
   {
     "Author":"Andrew Omame",
-    "Paper Title":"Pre-exposure vaccination in the high-risk population is crucial in controlling mpox resurgence in Canada",
-    "Year":2025,
+    "Paper Title":"Mathematical Model Of The Transmission Dynamics Of Dengue Fever In Two Categories With Vaccination And Migration Effect",
+    "Year":2020,
     "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.5210208",
+    "DOI":"https:\/\/doi.org\/10.28924\/apjm\/7-3",
     "PMID":null,
-    "Authors":"Andrew Omame and Sarafa Iyaniwura and Ebenezer Adeniyi and Qing Han and Xiaoying Wang and Nicola Luigi Bragazzi and Jude Dzevela Kong and Woldegebriel Assefa Woldegerima",
-    "Journal":"Available at SSRN 5210208",
+    "Authors":"R. N. Uche-Iwe and Z. C. Opara and S. C. Inyama and A. Omame",
+    "Journal":"Asia Pacific Journal of Mathematics",
     "Altmetric Score":0.0,
     "Twitter Mentions":0,
     "Reddit Mentions":0,
@@ -1999,6 +2003,7 @@
     "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
+<<<<<<< HEAD
     "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5210208"
   },
   {
@@ -2025,6 +2030,8 @@
     "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
+=======
+>>>>>>> dfa4f34 (nicola)
     "Paper Link":"https:\/\/doi.org\/10.28924\/apjm\/7-3"
   }
 ]
