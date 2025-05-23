@@ -508,7 +508,7 @@ capacity_building_keywords = [
 author_dict = {
     "Jude Kong": "dPAVmL0AAAAJ",
     "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
-    "Gelan Ayan": "bNK6lMoAAAAJ",
+    "Gelan Ayana": "bNK6lMoAAAAJ",
     "Andrew Omame": "AA539_cAAAAJ",
     "Abbas Yazdinejad": "YSgLh0YAAAAJ",
     "Ebenezer Olayinka Adeniyi": "a8CzUvIAAAAJ"
