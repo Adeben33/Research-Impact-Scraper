@@ -407,6 +407,7 @@ def process_author(author_name, profile, works):
         "i10_index_Since2020": profile.get("i10index5y", 0)
     }
     pd.DataFrame([profile_metrics]).to_csv(f"{safe_name}/metrics.csv", index=False)
+    pd.DataFrame([profile_metrics]).to_json(f"{safe_name}/metrics.csv", orient="records", indent=2)
 
     for work in works:
         title = work.get("title", "Untitled")
