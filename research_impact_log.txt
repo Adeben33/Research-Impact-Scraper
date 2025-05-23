@@ -336,3 +336,341 @@
 2025-05-23 03:55:19,781 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
 2025-05-23 03:55:19,781 - INFO - Retrying with a new session.
 2025-05-23 03:55:19,832 - ERROR - Error fetching scholar profile for user ID a8CzUvIAAAAJ: Cannot Fetch from Google Scholar.
+2025-05-23 04:01:03,714 - INFO - Getting https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100
+2025-05-23 04:01:05,678 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:01:05,678 - INFO - Got an access denied error (403).
+2025-05-23 04:01:05,678 - INFO - No other connections possible.
+2025-05-23 04:01:05,678 - INFO - Retrying immediately with another session.
+2025-05-23 04:01:07,229 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:01:07,229 - INFO - Retrying with a new session.
+2025-05-23 04:01:08,991 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:01:08,991 - INFO - Got an access denied error (403).
+2025-05-23 04:01:08,991 - INFO - No other connections possible.
+2025-05-23 04:01:08,991 - INFO - Will retry after 104.57 seconds (with another session).
+2025-05-23 04:02:55,263 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:02:55,263 - INFO - Retrying with a new session.
+2025-05-23 04:02:57,194 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:02:57,194 - INFO - Got an access denied error (403).
+2025-05-23 04:02:57,194 - INFO - No other connections possible.
+2025-05-23 04:02:57,194 - INFO - Will retry after 67.67 seconds (with another session).
+2025-05-23 04:04:06,924 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:04:06,924 - INFO - Retrying with a new session.
+2025-05-23 04:04:09,359 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:04:09,360 - INFO - Got an access denied error (403).
+2025-05-23 04:04:09,360 - INFO - No other connections possible.
+2025-05-23 04:04:09,360 - INFO - Will retry after 63.84 seconds (with another session).
+2025-05-23 04:05:14,571 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:05:14,571 - INFO - Retrying with a new session.
+2025-05-23 04:05:16,252 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:05:16,253 - INFO - Got an access denied error (403).
+2025-05-23 04:05:16,253 - INFO - No other connections possible.
+2025-05-23 04:05:16,253 - INFO - Will retry after 107.35 seconds (with another session).
+2025-05-23 04:07:05,303 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:07:05,304 - INFO - Retrying with a new session.
+2025-05-23 04:07:05,358 - INFO - Getting https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100
+2025-05-23 04:07:07,040 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:07:07,040 - INFO - Got an access denied error (403).
+2025-05-23 04:07:07,040 - INFO - No other connections possible.
+2025-05-23 04:07:07,040 - INFO - Will retry after 100.66 seconds (with another session).
+2025-05-23 04:08:49,481 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:08:49,481 - INFO - Retrying with a new session.
+2025-05-23 04:08:51,902 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:08:51,903 - INFO - Got an access denied error (403).
+2025-05-23 04:08:51,903 - INFO - No other connections possible.
+2025-05-23 04:08:51,903 - INFO - Will retry after 93.31 seconds (with another session).
+2025-05-23 04:10:27,053 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:10:27,054 - INFO - Retrying with a new session.
+2025-05-23 04:10:28,667 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:10:28,668 - INFO - Got an access denied error (403).
+2025-05-23 04:10:28,668 - INFO - No other connections possible.
+2025-05-23 04:10:28,668 - INFO - Will retry after 115.25 seconds (with another session).
+2025-05-23 04:12:25,321 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:12:25,321 - INFO - Retrying with a new session.
+2025-05-23 04:12:27,525 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:12:27,526 - INFO - Got an access denied error (403).
+2025-05-23 04:12:27,526 - INFO - No other connections possible.
+2025-05-23 04:12:27,526 - INFO - Will retry after 104.37 seconds (with another session).
+2025-05-23 04:14:13,686 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:14:13,686 - INFO - Retrying with a new session.
+2025-05-23 04:14:15,424 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=dPAVmL0AAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:14:15,425 - INFO - Got an access denied error (403).
+2025-05-23 04:14:15,425 - INFO - No other connections possible.
+2025-05-23 04:14:15,425 - INFO - Will retry after 85.16 seconds (with another session).
+2025-05-23 04:15:41,653 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:15:41,653 - INFO - Retrying with a new session.
+2025-05-23 04:15:41,705 - ERROR - Error fetching scholar profile for user ID dPAVmL0AAAAJ: Cannot Fetch from Google Scholar.
+2025-05-23 04:15:41,706 - INFO - Getting https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100
+2025-05-23 04:15:43,121 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:15:43,121 - INFO - Retrying with a new session.
+2025-05-23 04:15:44,997 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:15:44,997 - INFO - Got an access denied error (403).
+2025-05-23 04:15:44,997 - INFO - No other connections possible.
+2025-05-23 04:15:44,997 - INFO - Will retry after 65.26 seconds (with another session).
+2025-05-23 04:16:51,790 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:16:51,790 - INFO - Retrying with a new session.
+2025-05-23 04:16:54,148 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:16:54,149 - INFO - Got an access denied error (403).
+2025-05-23 04:16:54,149 - INFO - No other connections possible.
+2025-05-23 04:16:54,149 - INFO - Will retry after 94.55 seconds (with another session).
+2025-05-23 04:18:30,458 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:18:30,458 - INFO - Retrying with a new session.
+2025-05-23 04:18:32,638 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:18:32,639 - INFO - Got an access denied error (403).
+2025-05-23 04:18:32,639 - INFO - No other connections possible.
+2025-05-23 04:18:32,639 - INFO - Will retry after 90.71 seconds (with another session).
+2025-05-23 04:20:05,310 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:20:05,310 - INFO - Retrying with a new session.
+2025-05-23 04:20:06,891 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:20:06,892 - INFO - Got an access denied error (403).
+2025-05-23 04:20:06,892 - INFO - No other connections possible.
+2025-05-23 04:20:06,892 - INFO - Will retry after 101.43 seconds (with another session).
+2025-05-23 04:21:50,334 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:21:50,334 - INFO - Retrying with a new session.
+2025-05-23 04:21:50,386 - INFO - Getting https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100
+2025-05-23 04:21:52,160 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:21:52,161 - INFO - Retrying with a new session.
+2025-05-23 04:21:54,174 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:21:54,174 - INFO - Got an access denied error (403).
+2025-05-23 04:21:54,174 - INFO - No other connections possible.
+2025-05-23 04:21:54,174 - INFO - Will retry after 77.60 seconds (with another session).
+2025-05-23 04:23:13,442 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:23:13,443 - INFO - Retrying with a new session.
+2025-05-23 04:23:15,824 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:23:15,824 - INFO - Got an access denied error (403).
+2025-05-23 04:23:15,824 - INFO - No other connections possible.
+2025-05-23 04:23:15,824 - INFO - Will retry after 77.85 seconds (with another session).
+2025-05-23 04:24:35,590 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:24:35,590 - INFO - Retrying with a new session.
+2025-05-23 04:24:37,062 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:24:37,063 - INFO - Got an access denied error (403).
+2025-05-23 04:24:37,063 - INFO - No other connections possible.
+2025-05-23 04:24:37,063 - INFO - Will retry after 76.26 seconds (with another session).
+2025-05-23 04:25:54,430 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:25:54,430 - INFO - Retrying with a new session.
+2025-05-23 04:25:56,283 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=g9EbkyoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:25:56,284 - INFO - Got an access denied error (403).
+2025-05-23 04:25:56,284 - INFO - No other connections possible.
+2025-05-23 04:25:56,284 - INFO - Will retry after 115.99 seconds (with another session).
+2025-05-23 04:27:53,380 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:27:53,380 - INFO - Retrying with a new session.
+2025-05-23 04:27:53,434 - ERROR - Error fetching scholar profile for user ID g9EbkyoAAAAJ: Cannot Fetch from Google Scholar.
+2025-05-23 04:27:53,434 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-05-23 04:27:54,838 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:27:54,838 - INFO - Retrying with a new session.
+2025-05-23 04:27:56,684 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:27:56,685 - INFO - Got an access denied error (403).
+2025-05-23 04:27:56,685 - INFO - No other connections possible.
+2025-05-23 04:27:56,685 - INFO - Will retry after 102.50 seconds (with another session).
+2025-05-23 04:29:41,139 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:29:41,139 - INFO - Retrying with a new session.
+2025-05-23 04:29:42,949 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:29:42,949 - INFO - Got an access denied error (403).
+2025-05-23 04:29:42,949 - INFO - No other connections possible.
+2025-05-23 04:29:42,949 - INFO - Will retry after 66.99 seconds (with another session).
+2025-05-23 04:30:51,412 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:30:51,412 - INFO - Retrying with a new session.
+2025-05-23 04:30:53,477 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:30:53,477 - INFO - Got an access denied error (403).
+2025-05-23 04:30:53,477 - INFO - No other connections possible.
+2025-05-23 04:30:53,477 - INFO - Will retry after 67.72 seconds (with another session).
+2025-05-23 04:32:03,020 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:32:03,020 - INFO - Retrying with a new session.
+2025-05-23 04:32:05,268 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:32:05,269 - INFO - Got an access denied error (403).
+2025-05-23 04:32:05,269 - INFO - No other connections possible.
+2025-05-23 04:32:05,269 - INFO - Will retry after 89.46 seconds (with another session).
+2025-05-23 04:33:36,110 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:33:36,110 - INFO - Retrying with a new session.
+2025-05-23 04:33:36,163 - INFO - Getting https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100
+2025-05-23 04:33:38,070 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:33:38,070 - INFO - Retrying with a new session.
+2025-05-23 04:33:40,338 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:33:40,338 - INFO - Got an access denied error (403).
+2025-05-23 04:33:40,338 - INFO - No other connections possible.
+2025-05-23 04:33:40,338 - INFO - Will retry after 73.55 seconds (with another session).
+2025-05-23 04:34:55,458 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:34:55,458 - INFO - Retrying with a new session.
+2025-05-23 04:34:56,912 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:34:56,913 - INFO - Got an access denied error (403).
+2025-05-23 04:34:56,913 - INFO - No other connections possible.
+2025-05-23 04:34:56,913 - INFO - Will retry after 102.45 seconds (with another session).
+2025-05-23 04:36:41,387 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:36:41,388 - INFO - Retrying with a new session.
+2025-05-23 04:36:43,018 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:36:43,019 - INFO - Got an access denied error (403).
+2025-05-23 04:36:43,019 - INFO - No other connections possible.
+2025-05-23 04:36:43,019 - INFO - Will retry after 60.93 seconds (with another session).
+2025-05-23 04:37:45,270 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:37:45,270 - INFO - Retrying with a new session.
+2025-05-23 04:37:47,548 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=bNK6lMoAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:37:47,549 - INFO - Got an access denied error (403).
+2025-05-23 04:37:47,549 - INFO - No other connections possible.
+2025-05-23 04:37:47,549 - INFO - Will retry after 117.14 seconds (with another session).
+2025-05-23 04:39:46,705 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:39:46,705 - INFO - Retrying with a new session.
+2025-05-23 04:39:46,759 - ERROR - Error fetching scholar profile for user ID bNK6lMoAAAAJ: Cannot Fetch from Google Scholar.
+2025-05-23 04:39:46,759 - INFO - Getting https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100
+2025-05-23 04:39:48,159 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:39:48,159 - INFO - Retrying with a new session.
+2025-05-23 04:39:49,962 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:39:49,962 - INFO - Got an access denied error (403).
+2025-05-23 04:39:49,962 - INFO - No other connections possible.
+2025-05-23 04:39:49,962 - INFO - Will retry after 119.46 seconds (with another session).
+2025-05-23 04:41:51,392 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:41:51,392 - INFO - Retrying with a new session.
+2025-05-23 04:41:52,986 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:41:52,986 - INFO - Got an access denied error (403).
+2025-05-23 04:41:52,986 - INFO - No other connections possible.
+2025-05-23 04:41:52,986 - INFO - Will retry after 78.09 seconds (with another session).
+2025-05-23 04:43:13,050 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:43:13,050 - INFO - Retrying with a new session.
+2025-05-23 04:43:15,148 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:43:15,148 - INFO - Got an access denied error (403).
+2025-05-23 04:43:15,148 - INFO - No other connections possible.
+2025-05-23 04:43:15,148 - INFO - Will retry after 65.69 seconds (with another session).
+2025-05-23 04:44:22,673 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:44:22,673 - INFO - Retrying with a new session.
+2025-05-23 04:44:25,113 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:44:25,113 - INFO - Got an access denied error (403).
+2025-05-23 04:44:25,113 - INFO - No other connections possible.
+2025-05-23 04:44:25,113 - INFO - Will retry after 116.59 seconds (with another session).
+2025-05-23 04:46:23,637 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:46:23,637 - INFO - Retrying with a new session.
+2025-05-23 04:46:23,700 - INFO - Getting https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100
+2025-05-23 04:46:25,513 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:46:25,513 - INFO - Retrying with a new session.
+2025-05-23 04:46:26,979 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:46:26,979 - INFO - Got an access denied error (403).
+2025-05-23 04:46:26,980 - INFO - No other connections possible.
+2025-05-23 04:46:26,980 - INFO - Will retry after 85.18 seconds (with another session).
+2025-05-23 04:47:53,992 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:47:53,992 - INFO - Retrying with a new session.
+2025-05-23 04:47:55,632 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:47:55,632 - INFO - Got an access denied error (403).
+2025-05-23 04:47:55,632 - INFO - No other connections possible.
+2025-05-23 04:47:55,632 - INFO - Will retry after 94.46 seconds (with another session).
+2025-05-23 04:49:31,593 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:49:31,593 - INFO - Retrying with a new session.
+2025-05-23 04:49:33,426 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:49:33,426 - INFO - Got an access denied error (403).
+2025-05-23 04:49:33,426 - INFO - No other connections possible.
+2025-05-23 04:49:33,426 - INFO - Will retry after 105.68 seconds (with another session).
+2025-05-23 04:51:20,650 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:51:20,650 - INFO - Retrying with a new session.
+2025-05-23 04:51:22,316 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=AA539_cAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:51:22,316 - INFO - Got an access denied error (403).
+2025-05-23 04:51:22,316 - INFO - No other connections possible.
+2025-05-23 04:51:22,316 - INFO - Will retry after 111.86 seconds (with another session).
+2025-05-23 04:53:15,641 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:53:15,642 - INFO - Retrying with a new session.
+2025-05-23 04:53:15,696 - ERROR - Error fetching scholar profile for user ID AA539_cAAAAJ: Cannot Fetch from Google Scholar.
+2025-05-23 04:53:15,697 - INFO - Getting https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100
+2025-05-23 04:53:17,559 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:53:17,559 - INFO - Retrying with a new session.
+2025-05-23 04:53:19,611 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:53:19,611 - INFO - Got an access denied error (403).
+2025-05-23 04:53:19,611 - INFO - No other connections possible.
+2025-05-23 04:53:19,611 - INFO - Will retry after 102.96 seconds (with another session).
+2025-05-23 04:55:04,474 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:55:04,474 - INFO - Retrying with a new session.
+2025-05-23 04:55:06,856 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:55:06,856 - INFO - Got an access denied error (403).
+2025-05-23 04:55:06,856 - INFO - No other connections possible.
+2025-05-23 04:55:06,856 - INFO - Will retry after 106.39 seconds (with another session).
+2025-05-23 04:56:54,473 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:56:54,473 - INFO - Retrying with a new session.
+2025-05-23 04:56:56,791 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:56:56,791 - INFO - Got an access denied error (403).
+2025-05-23 04:56:56,791 - INFO - No other connections possible.
+2025-05-23 04:56:56,791 - INFO - Will retry after 118.18 seconds (with another session).
+2025-05-23 04:58:56,434 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 04:58:56,434 - INFO - Retrying with a new session.
+2025-05-23 04:58:58,079 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 04:58:58,079 - INFO - Got an access denied error (403).
+2025-05-23 04:58:58,079 - INFO - No other connections possible.
+2025-05-23 04:58:58,079 - INFO - Will retry after 80.27 seconds (with another session).
+2025-05-23 05:00:20,079 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:00:20,079 - INFO - Retrying with a new session.
+2025-05-23 05:00:20,134 - INFO - Getting https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100
+2025-05-23 05:00:21,740 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:00:21,740 - INFO - Retrying with a new session.
+2025-05-23 05:00:23,300 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:00:23,300 - INFO - Got an access denied error (403).
+2025-05-23 05:00:23,300 - INFO - No other connections possible.
+2025-05-23 05:00:23,300 - INFO - Will retry after 74.87 seconds (with another session).
+2025-05-23 05:01:39,283 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:01:39,284 - INFO - Retrying with a new session.
+2025-05-23 05:01:41,180 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:01:41,180 - INFO - Got an access denied error (403).
+2025-05-23 05:01:41,180 - INFO - No other connections possible.
+2025-05-23 05:01:41,180 - INFO - Will retry after 90.40 seconds (with another session).
+2025-05-23 05:03:13,284 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:03:13,284 - INFO - Retrying with a new session.
+2025-05-23 05:03:14,755 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:03:14,755 - INFO - Got an access denied error (403).
+2025-05-23 05:03:14,755 - INFO - No other connections possible.
+2025-05-23 05:03:14,755 - INFO - Will retry after 119.22 seconds (with another session).
+2025-05-23 05:05:15,422 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:05:15,422 - INFO - Retrying with a new session.
+2025-05-23 05:05:17,716 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=YSgLh0YAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:05:17,716 - INFO - Got an access denied error (403).
+2025-05-23 05:05:17,716 - INFO - No other connections possible.
+2025-05-23 05:05:17,716 - INFO - Will retry after 107.83 seconds (with another session).
+2025-05-23 05:07:06,898 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:07:06,898 - INFO - Retrying with a new session.
+2025-05-23 05:07:06,949 - ERROR - Error fetching scholar profile for user ID YSgLh0YAAAAJ: Cannot Fetch from Google Scholar.
+2025-05-23 05:07:06,949 - INFO - Getting https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100
+2025-05-23 05:07:08,686 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:07:08,686 - INFO - Retrying with a new session.
+2025-05-23 05:07:10,100 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:07:10,100 - INFO - Got an access denied error (403).
+2025-05-23 05:07:10,100 - INFO - No other connections possible.
+2025-05-23 05:07:10,100 - INFO - Will retry after 100.45 seconds (with another session).
+2025-05-23 05:08:52,578 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:08:52,578 - INFO - Retrying with a new session.
+2025-05-23 05:08:54,462 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:08:54,463 - INFO - Got an access denied error (403).
+2025-05-23 05:08:54,463 - INFO - No other connections possible.
+2025-05-23 05:08:54,463 - INFO - Will retry after 77.96 seconds (with another session).
+2025-05-23 05:10:14,088 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:10:14,088 - INFO - Retrying with a new session.
+2025-05-23 05:10:15,510 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:10:15,510 - INFO - Got an access denied error (403).
+2025-05-23 05:10:15,510 - INFO - No other connections possible.
+2025-05-23 05:10:15,510 - INFO - Will retry after 78.72 seconds (with another session).
+2025-05-23 05:11:35,418 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:11:35,418 - INFO - Retrying with a new session.
+2025-05-23 05:11:37,078 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:11:37,078 - INFO - Got an access denied error (403).
+2025-05-23 05:11:37,078 - INFO - No other connections possible.
+2025-05-23 05:11:37,078 - INFO - Will retry after 94.20 seconds (with another session).
+2025-05-23 05:13:12,348 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:13:12,349 - INFO - Retrying with a new session.
+2025-05-23 05:13:12,399 - INFO - Getting https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100
+2025-05-23 05:13:14,388 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:13:14,388 - INFO - Retrying with a new session.
+2025-05-23 05:13:16,543 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:13:16,544 - INFO - Got an access denied error (403).
+2025-05-23 05:13:16,544 - INFO - No other connections possible.
+2025-05-23 05:13:16,544 - INFO - Will retry after 95.71 seconds (with another session).
+2025-05-23 05:14:53,928 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:14:53,928 - INFO - Retrying with a new session.
+2025-05-23 05:14:56,257 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:14:56,257 - INFO - Got an access denied error (403).
+2025-05-23 05:14:56,257 - INFO - No other connections possible.
+2025-05-23 05:14:56,257 - INFO - Will retry after 91.27 seconds (with another session).
+2025-05-23 05:16:29,216 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:16:29,216 - INFO - Retrying with a new session.
+2025-05-23 05:16:31,475 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:16:31,475 - INFO - Got an access denied error (403).
+2025-05-23 05:16:31,475 - INFO - No other connections possible.
+2025-05-23 05:16:31,475 - INFO - Will retry after 118.10 seconds (with another session).
+2025-05-23 05:18:31,402 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:18:31,402 - INFO - Retrying with a new session.
+2025-05-23 05:18:33,054 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=a8CzUvIAAAAJ&pagesize=100 "HTTP/1.1 403 Forbidden"
+2025-05-23 05:18:33,054 - INFO - Got an access denied error (403).
+2025-05-23 05:18:33,054 - INFO - No other connections possible.
+2025-05-23 05:18:33,054 - INFO - Will retry after 111.09 seconds (with another session).
+2025-05-23 05:20:26,005 - INFO - Exception RuntimeError while fetching page: ('Cannot send a request, as the client has been closed.',)
+2025-05-23 05:20:26,005 - INFO - Retrying with a new session.
+2025-05-23 05:20:26,059 - ERROR - Error fetching scholar profile for user ID a8CzUvIAAAAJ: Cannot Fetch from Google Scholar.
