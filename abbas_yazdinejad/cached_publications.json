@@ -4,7 +4,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Qi Zhang and Kim-Kwang Raymond Choo",
     "venue": "IEEE Transactions on Services Computing",
-    "citations": 352,
+    "citations": 353,
     "doi": "https://ieeexplore.ieee.org/abstract/document/8960432/"
   },
   {
@@ -12,7 +12,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Gautam Srivastava and Reza M Parizi and Ali Dehghantanha and Kim-Kwang Raymond Choo and Mohammed Aledhari",
     "venue": "IEEE journal of biomedical and health informatics",
-    "citations": 264,
+    "citations": 265,
     "doi": "https://ieeexplore.ieee.org/abstract/document/8970497/"
   },
   {
@@ -60,7 +60,7 @@
     "year": 2023,
     "authors": "Abbas Yazdinejad and Mostafa Kazemi and Reza M Parizi and Ali Dehghantanha and Hadis Karimipour",
     "venue": "Digital Communications and Networks",
-    "citations": 157,
+    "citations": 158,
     "doi": "https://www.sciencedirect.com/science/article/pii/S2352864822001833"
   },
   {
@@ -68,7 +68,7 @@
     "year": 2021,
     "authors": "Abbas Yazdinejad and Behrouz Zolfaghari and Amin Azmoodeh and Ali Dehghantanha and Hadis Karimipour and Evan Fraser and Arthur G Green and Conor Russell and Emily Duncan",
     "venue": "N/A",
-    "citations": 154,
+    "citations": 155,
     "doi": "https://www.mdpi.com/2076-3417/11/16/7518"
   },
   {
@@ -76,7 +76,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Kim-Kwang Raymond Choo",
     "venue": "Computers & Security",
-    "citations": 149,
+    "citations": 150,
     "doi": "https://www.sciencedirect.com/science/article/pii/S0167404819301762"
   },
   {
@@ -84,7 +84,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Hamed HaddadPajouh and Ali Dehghantanha and Reza M Parizi and Gautam Srivastava and Mu-Yen Chen",
     "venue": "Applied Soft Computing",
-    "citations": 146,
+    "citations": 147,
     "doi": "https://www.sciencedirect.com/science/article/pii/S1568494620305688"
   },
   {
@@ -424,20 +424,20 @@
     "doi": "https://dl.acm.org/doi/abs/10.1145/3508072.3508100"
   },
   {
+    "title": "P3GNN: A Privacy-Preserving Provenance Graph-Based Model for Autonomous APT Detection in Software Defined Networking",
+    "year": 2024,
+    "authors": "Hedyeh Nazari and Abbas Yazdinejad and Ali Dehghantanha and Fattane Zarrinkalam and Gautam Srivastava",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3689933.3690836"
+  },
+  {
     "title": "Auto-CIDS: An Autonomous Intrusion Detection System for Vehicular Networks",
     "year": 2024,
     "authors": "Mohsen Sorkhpour and Abbas Yazdinejad and Ali Dehghantanha",
     "venue": "N/A",
     "citations": 5,
     "doi": "https://dl.acm.org/doi/abs/10.1145/3689933.3690837"
-  },
-  {
-    "title": "P3GNN: A Privacy-Preserving Provenance Graph-Based Model for Autonomous APT Detection in Software Defined Networking",
-    "year": 2024,
-    "authors": "Hedyeh Nazari and Abbas Yazdinejad and Ali Dehghantanha and Fattane Zarrinkalam and Gautam Srivastava",
-    "venue": "N/A",
-    "citations": 5,
-    "doi": "https://dl.acm.org/doi/abs/10.1145/3689933.3690836"
   },
   {
     "title": "Systemization of knowledge (SoK)-cross impact of transfer learning in cybersecurity: Offensive, defensive and threat intelligence perspectives",

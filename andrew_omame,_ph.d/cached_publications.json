@@ -60,7 +60,7 @@
     "year": 2021,
     "authors": "Andrew Omame and H Rwezaura and ML Diagne and SC Inyama and JM Tchuenche",
     "venue": "The European Physical Journal Plus",
-    "citations": 64,
+    "citations": 65,
     "doi": "https://link.springer.com/article/10.1140/epjp/s13360-021-02030-6"
   },
   {
@@ -328,20 +328,20 @@
     "doi": "https://www.researchgate.net/profile/Andrew-Omame/publication/349098934_Deterministic_and_stochastic_models_of_the_dynamics_of_drug_resistant_tuberculosis/links/60259cbd92851c4ed5667b8b/Deterministic-and-stochastic-models-of-the-dynamics-of-drug-resistant-tuberculosis.pdf"
   },
   {
+    "title": "Mathematical analysis of a novel fractional order vaccination model for Tuberculosis incorporating susceptible class with underlying ailment",
+    "year": 2024,
+    "authors": "A El-Mesady and Olumuyiwa James Peter and Andrew Omame and Festus Abiodun Oguntolu",
+    "venue": "International Journal of Modelling and Simulation",
+    "citations": 16,
+    "doi": "https://www.tandfonline.com/doi/abs/10.1080/02286203.2024.2371684"
+  },
+  {
     "title": "A mathematical model of corruption dynamics endowed with fractal\u2013fractional derivative",
     "year": 2023,
     "authors": "Ugochukwu Kizito Nwajeri and Joshua Kiddy K Asamoah and Ndubuisi Rich Ugochukwu and Andrew Omame and Zhen Jin",
     "venue": "Results in Physics",
     "citations": 16,
     "doi": "https://www.sciencedirect.com/science/article/pii/S2211379723006873"
-  },
-  {
-    "title": "Mathematical analysis of a novel fractional order vaccination model for Tuberculosis incorporating susceptible class with underlying ailment",
-    "year": 2024,
-    "authors": "A El-Mesady and Olumuyiwa James Peter and Andrew Omame and Festus Abiodun Oguntolu",
-    "venue": "International Journal of Modelling and Simulation",
-    "citations": 15,
-    "doi": "https://www.tandfonline.com/doi/abs/10.1080/02286203.2024.2371684"
   },
   {
     "title": "A Stochastic Model to Assess the Epidemiological Impact of Vaccine Booster Doses on COVID-19 and Viral Hepatitis B Co-Dynamics with Real Data",
