@@ -21,7 +21,7 @@
     "authors": "Nicola Luigi Bragazzi and Ali-Asghar Kolahi and Seyed Aria Nejadghaderi and Piergiorgio Lochner and Francesco Brigo and Andrea Naldi and Paola Lanteri and Sergio Garbarino and Mark JM Sullman and Haijiang Dai and Jianhong Wu and Jude Dzevela Kong and Haitham Jahrami and Mohammad-Reza Sohrabi and Saeid Safiri",
     "venue": "Journal of neuroinflammation",
     "citations": 84,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1186/s12974-021-02319-4"
   },
   {
     "title": "Social, economic, and environmental factors influencing the basic reproduction number of COVID-19 across countries",
@@ -36,8 +36,8 @@
     "year": 2021,
     "authors": "Michele Kremer Sott and Leandro da Silva Nascimento and Cristian Rog\u00e9rio Foguesatto and Leonardo B Furstenau and Kad\u00edgia Faccin and Paulo Ant\u00f4nio Zawislak and Bruce Mellado and Jude Dzevela Kong and Nicola Luigi Bragazzi",
     "venue": "N/A",
-    "citations": 65,
-    "doi": ""
+    "citations": 66,
+    "doi": "https://www.mdpi.com/1424-8220/21/23/7889"
   },
   {
     "title": "Fangcang shelter hospitals during the COVID-19 epidemic, Wuhan, China",
@@ -85,7 +85,23 @@
     "authors": "Luca Puce and Patrick Mbah Okwen and Mirabel Nain Yuh and Gloria Akah Ndum Okwen and Rigobert Hanny Pambe Miong and Jude Dzevela Kong and Nicola Luigi Bragazzi",
     "venue": "N/A",
     "citations": 32,
-    "doi": ""
+    "doi": "https://www.frontiersin.org/articles/10.3389/fcvm.2022.844296/full"
+  },
+  {
+    "title": "Dynamics of a cholera transmission model with immunological threshold and natural phage control in reservoir",
+    "year": 2014,
+    "authors": "Jude D Kong and William Davis and Hao Wang",
+    "venue": "Bulletin of mathematical biology",
+    "citations": 33,
+    "doi": "https://link.springer.com/article/10.1007/s11538-014-9996-9"
+  },
+  {
+    "title": "Well-being and quality of life in people with disabilities practicing sports, athletes with disabilities, and para-athletes: Insights from a critical review of the literature",
+    "year": 2023,
+    "authors": "Luca Puce and Patrick Mbah Okwen and Mirabel Nain Yuh and Gloria Akah Ndum Okwen and Rigobert Hanny Pambe Miong and Jude Dzevela Kong and Nicola Luigi Bragazzi",
+    "venue": "N/A",
+    "citations": 32,
+    "doi": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1071656/full"
   },
   {
     "title": "Systematic review and meta-analysis of tocilizumab therapy versus standard of care in over 15,000 COVID-19 pneumonia patients during the first eight months of the pandemic",
@@ -317,7 +333,7 @@
     "authors": "Zahra Movahedi Nia and Nicola Bragazzi and Ali Asgary and James Orbinski and Jianhong Wu and Jude Kong",
     "venue": "Journal of Medical Internet Research",
     "citations": 19,
-    "doi": ""
+    "doi": "https://www.jmir.org/2023/1/e45108/"
   },
   {
     "title": "Leveraging responsible, explainable, and local artificial intelligence solutions for clinical public health in the Global South",
@@ -326,6 +342,14 @@
     "venue": "Healthcare",
     "citations": 18,
     "doi": ""
+  },
+  {
+    "title": "Stability and sensitivity analysis of the iSIR model for indirectly transmitted infectious diseases with immunological threshold",
+    "year": 2014,
+    "authors": "Jude D Kong and William Davis and Xiong Li and Hao Wang",
+    "venue": "SIAM Journal on Applied Mathematics",
+    "citations": 18,
+    "doi": "https://epubs.siam.org/doi/abs/10.1137/140959638"
   },
   {
     "title": "Harnessing artificial intelligence to assess the impact of nonpharmaceutical interventions on the second wave of the coronavirus disease 2019 pandemic across the world",
@@ -398,6 +422,14 @@
     "venue": "BMJ Global Health",
     "citations": 14,
     "doi": ""
+  },
+  {
+    "title": "Burden of respiratory infection and tuberculosis among US states from 1990 to 2019",
+    "year": 2021,
+    "authors": "Wen Zhong and Nicola Luigi Bragazzi and Jude Dzevela Kong and Saeid Safiri and Masoud Behzadifar and Jun Liu and Xinyao Liu and Weijun Wang",
+    "venue": "Clinical Epidemiology",
+    "citations": 14,
+    "doi": "https://www.tandfonline.com/doi/abs/10.2147/CLEP.S314802"
   },
   {
     "title": "Observation wards and control of the transmission of COVID-19 in Wuhan",
@@ -518,6 +550,14 @@
     "venue": "BMC Medical Informatics and Decision Making",
     "citations": 10,
     "doi": ""
+  },
+  {
+    "title": "A mathematical model for Vibrio-phage interactions",
+    "year": 2021,
+    "authors": "Christopher Botelho and Jude Dzevela Kong and Mentor Ali Lucien and Zhisheng Shuai and Hao Wang",
+    "venue": "Mathematical Biosciences and Engineering",
+    "citations": 10,
+    "doi": "https://par.nsf.gov/servlets/purl/10288177"
   },
   {
     "title": "Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in infectious diseases, workshop report",
