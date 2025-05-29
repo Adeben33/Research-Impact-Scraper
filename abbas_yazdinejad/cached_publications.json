@@ -4,7 +4,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Qi Zhang and Kim-Kwang Raymond Choo",
     "venue": "IEEE Transactions on Services Computing",
-    "citations": 353,
+    "citations": 354,
     "doi": ""
   },
   {
@@ -12,15 +12,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Gautam Srivastava and Reza M Parizi and Ali Dehghantanha and Kim-Kwang Raymond Choo and Mohammed Aledhari",
     "venue": "IEEE journal of biomedical and health informatics",
-    "citations": 266,
-    "doi": ""
-  },
-  {
-    "title": "Enabling drones in the internet of things with decentralized blockchain-based security",
-    "year": 2020,
-    "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Hadis Karimipour and Gautam Srivastava and Mohammed Aledhari",
-    "venue": "IEEE Internet of Things Journal",
-    "citations": 244,
+    "citations": 268,
     "doi": ""
   },
   {
@@ -28,6 +20,14 @@
     "year": 2019,
     "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Kim-Kwang Raymond Choo",
     "venue": "IEEE Transactions on Network Science and Engineering",
+    "citations": 245,
+    "doi": ""
+  },
+  {
+    "title": "Enabling drones in the internet of things with decentralized blockchain-based security",
+    "year": 2020,
+    "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Hadis Karimipour and Gautam Srivastava and Mohammed Aledhari",
+    "venue": "IEEE Internet of Things Journal",
     "citations": 244,
     "doi": ""
   },
@@ -44,7 +44,7 @@
     "year": 2022,
     "authors": "Abbas Yazdinejad and Ali Dehghantanha and Reza M. Parizi and Mohammad Hammoudeh and Hadis Karimipour and Gautam Srivastava",
     "venue": "IEEE Transactions on Industrial Informatics",
-    "citations": 194,
+    "citations": 195,
     "doi": ""
   },
   {
@@ -52,7 +52,7 @@
     "year": 2024,
     "authors": "Abbas Yazdinejad and Ali Dehghantanha and Hadis Karimipour and Gautam Srivastava and Reza M Parizi",
     "venue": "IEEE Transactions on Information Forensics and Security",
-    "citations": 163,
+    "citations": 166,
     "doi": ""
   },
   {
@@ -84,7 +84,7 @@
     "year": 2020,
     "authors": "Abbas Yazdinejad and Hamed HaddadPajouh and Ali Dehghantanha and Reza M Parizi and Gautam Srivastava and Mu-Yen Chen",
     "venue": "Applied Soft Computing",
-    "citations": 147,
+    "citations": 148,
     "doi": ""
   },
   {
@@ -140,7 +140,7 @@
     "year": 2023,
     "authors": "Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
     "venue": "IEEE Transactions on Consumer Electronics",
-    "citations": 79,
+    "citations": 80,
     "doi": ""
   },
   {
@@ -192,19 +192,19 @@
     "doi": ""
   },
   {
+    "title": "Federated quantum-based privacy-preserving threat detection model for consumer internet of things",
+    "year": 2024,
+    "authors": "Danyal Namakshenas and Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
+    "venue": "IEEE Transactions on Consumer Electronics",
+    "citations": 62,
+    "doi": ""
+  },
+  {
     "title": "Cost optimization of secure routing with untrusted devices in software defined networking",
     "year": 2020,
     "authors": "Abbas Yazdinejad and Reza M Parizi and Ali Dehghantanha and Gautam Srivastava and Senthilkumar Mohan and Abedallah M Rababah",
     "venue": "Journal of Parallel and distributed Computing",
     "citations": 62,
-    "doi": ""
-  },
-  {
-    "title": "Federated quantum-based privacy-preserving threat detection model for consumer internet of things",
-    "year": 2024,
-    "authors": "Danyal Namakshenas and Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
-    "venue": "IEEE Transactions on Consumer Electronics",
-    "citations": 61,
     "doi": ""
   },
   {
@@ -264,14 +264,6 @@
     "doi": ""
   },
   {
-    "title": "Security considerations for virtual reality systems",
-    "year": 2022,
-    "authors": "Karthik Viswanathan and Abbas Yazdinejad",
-    "venue": "arXiv preprint arXiv:2201.02563",
-    "citations": 40,
-    "doi": ""
-  },
-  {
     "title": "Two-level privacy-preserving framework: Federated learning for attack detection in the consumer internet of things",
     "year": 2024,
     "authors": "Elnaz Rabieinejad and Abbas Yazdinejad and Ali Dehghantanha and Gautam Srivastava",
@@ -284,6 +276,14 @@
     "year": 2022,
     "authors": "Abbas Yazdinejad and Ali Dehghantanha and Hadis Karimipour and Gautam Srivastava and Reza M Parizi",
     "venue": "Physical Communication",
+    "citations": 39,
+    "doi": ""
+  },
+  {
+    "title": "Security considerations for virtual reality systems",
+    "year": 2022,
+    "authors": "Karthik Viswanathan and Abbas Yazdinejad",
+    "venue": "arXiv preprint arXiv:2201.02563",
     "citations": 39,
     "doi": ""
   },
@@ -428,7 +428,7 @@
     "year": 2024,
     "authors": "Hedyeh Nazari and Abbas Yazdinejad and Ali Dehghantanha and Fattane Zarrinkalam and Gautam Srivastava",
     "venue": "N/A",
-    "citations": 6,
+    "citations": 7,
     "doi": ""
   },
   {
