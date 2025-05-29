@@ -52,7 +52,7 @@
     "year": 2021,
     "authors": "Cathy Yan and Melanie Law and Stephanie Nguyen and Janelle Cheung and Jude Kong",
     "venue": "Journal of medical Internet research",
-    "citations": 47,
+    "citations": 48,
     "doi": "https://www.jmir.org/2021/9/e32685/"
   },
   {
@@ -176,6 +176,14 @@
     "doi": "https://www.tandfonline.com/doi/abs/10.1080/17513758.2021.1883130"
   },
   {
+    "title": "Understanding the impact of HIV on mpox transmission in the MSM population: A mathematical modeling study",
+    "year": 2024,
+    "authors": "Andrew Omame and Qing Han and Sarafa A Iyaniwura and Adeniyi Ebenezer and Nicola L Bragazzi and Xiaoying Wang and Jude D Kong and Woldegebriel A Woldegerima",
+    "venue": "Infectious Disease Modelling",
+    "citations": 26,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724000745"
+  },
+  {
     "title": "The effect of COVID-19 on public hospital revenues in Iran: An interrupted time-series analysis",
     "year": 2022,
     "authors": "Masoud Behzadifar and Afshin Aalipour and Mohammad Kehsvari and Banafsheh Darvishi Teli and Mahboubeh Khaton Ghanbari and Hasan Abolghasem Gorji and Alaeddin Sheikhi and Samad Azari and Mohammad Heydarian and Seyed Jafar Ehsanzadeh and Jude Dzevela Kong and Maryam Ahadi and Nicola Luigi Bragazzi",
@@ -190,14 +198,6 @@
     "venue": "JMIR formative research",
     "citations": 26,
     "doi": "https://formative.jmir.org/2021/6/e27280"
-  },
-  {
-    "title": "Understanding the impact of HIV on mpox transmission in the MSM population: A mathematical modeling study",
-    "year": 2024,
-    "authors": "Andrew Omame and Qing Han and Sarafa A Iyaniwura and Adeniyi Ebenezer and Nicola L Bragazzi and Xiaoying Wang and Jude D Kong and Woldegebriel A Woldegerima",
-    "venue": "Infectious Disease Modelling",
-    "citations": 25,
-    "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724000745"
   },
   {
     "title": "Public sentiments toward COVID-19 vaccines in South African cities: An analysis of Twitter posts",
