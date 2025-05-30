@@ -212,7 +212,7 @@
     "Paper Title":"De-speckling breast cancer ultrasound images using a rotationally invariant block matching based non-local means (RIBM-NLM) method",
     "Year":2022,
     "Citations":19,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.3390\/diagnostics12040862",
     "PMID":"35453909",
     "Authors":"Gelan Ayana and Kokeb Dese and Hakkins Raj and Janarthanan Krishnamoorthy and Timothy Kwa",
     "Journal":"Diagnostics",
@@ -228,10 +228,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.3390\/diagnostics12040862"
   },
   {
     "Author":"Gelan Ayana",
@@ -264,7 +264,7 @@
     "Paper Title":"Low cost, non-invasive, and continuous vital signs monitoring device for pregnant women in low resource settings (Lvital device)",
     "Year":2022,
     "Citations":14,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1016\/j.ohx.2022.e00276",
     "PMID":"35509911",
     "Authors":"Kokeb Dese and Gelan Ayana and Gizeaddis Lamesgin Simegn",
     "Journal":"HardwareX",
@@ -280,10 +280,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1016\/j.ohx.2022.e00276"
   },
   {
     "Author":"Gelan Ayana",
@@ -445,7 +445,7 @@
     "Author":"Gelan Ayana",
     "Paper Title":"Pathological Insights: Enhanced Vision Transformers for the Early Detection of Colorectal Cancer",
     "Year":2024,
-    "Citations":4,
+    "Citations":5,
     "DOI":"https:\/\/doi.org\/10.3390\/cancers16071441",
     "PMID":"38611117",
     "Authors":"Gelan Ayana and Hika Barki and Se-woon Choe",
@@ -758,7 +758,7 @@
     "Paper Title":"Proper Base-model and Optimizer Combination Improves Transfer Learning Performance for Ultrasound Breast Cancer Classification",
     "Year":2021,
     "Citations":1,
-    "DOI":"https:\/\/doi.org\/10.1007\/978-981-19-9819-5_37",
+    "DOI":"https:\/\/doi.org\/10.5815\/ijigsp.2023.01.02",
     "PMID":null,
     "Authors":"Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "Journal":"Proceedings of the Korean Institute of Information and Commucation Sciences Conference",
@@ -777,7 +777,7 @@
     "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.1007\/978-981-19-9819-5_37"
+    "Paper Link":"https:\/\/doi.org\/10.5815\/ijigsp.2023.01.02"
   },
   {
     "Author":"Gelan Ayana",
@@ -1168,32 +1168,6 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.3390\/diagnostics12010135"
-  },
-  {
-    "Author":"Gelan Ayana",
-    "Paper Title":"Nonlocal means method using clustering pre-classification and rotational invariant block matching for de-speckling of breast ultrasound images",
-    "Year":2020,
-    "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.3390\/diagnostics12040862",
-    "PMID":null,
-    "Authors":"Gelan Ayana and Timothy Kwa and Hakkins Raj and Kokeb Dese",
-    "Journal":"Gates Open Res",
-    "Altmetric Score":0.0,
-    "Twitter Mentions":0,
-    "Reddit Mentions":0,
-    "News Mentions":0,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":false,
-    "Open Access":true,
-    "OA Status":"doaj",
-    "Preprint":false,
-    "Publication Type":"Open Access",
-    "Public Health Impact":false,
-    "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.3390\/diagnostics12040862"
   },
   {
     "Author":"Gelan Ayana",
