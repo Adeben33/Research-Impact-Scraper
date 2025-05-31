@@ -1,0 +1,298 @@
+[
+  {
+    "title": "Generating a pronunciation dictionary for European Portuguese using a joint-sequence model with embedded stress assignment",
+    "year": 2013,
+    "authors": "Arlindo Veiga and Sara Candeias and Fernando Perdig\u00e3o",
+    "venue": "Journal of the Brazilian Computer Society",
+    "citations": 39,
+    "doi": "https://link.springer.com/article/10.1007/s13173-012-0088-0"
+  },
+  {
+    "title": "Characterization of Hesitations Using Acoustic Models.",
+    "year": 2011,
+    "authors": "Arlindo Veiga and Sara Candeias and Carla Lopes and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 33,
+    "doi": "https://www.academia.edu/download/76504750/Veiga.pdf"
+  },
+  {
+    "title": "Characterizing Parkinson\u2019s disease speech by acoustic and phonetic features",
+    "year": 2014,
+    "authors": "Jorge Proen\u00e7a and Arlindo Veiga and Sara Candeias and Jo\u00e3o Lemos and Cristina Janu\u00e1rio and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-09761-9_3"
+  },
+  {
+    "title": "Query by example search with segmented dynamic time warping for non-exact spoken queries",
+    "year": 2015,
+    "authors": "Jorge Proenga and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7362666/"
+  },
+  {
+    "title": "HESITA (tions) in Portuguese: a database",
+    "year": 2013,
+    "authors": "Sara Candeias and Dirce Celorico and Jorge Proen\u00e7a and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "TMH-QPSR",
+    "citations": 18,
+    "doi": "https://www.ida.liu.se/~robek28/conferences/diss2017/DiSS2013_Proceedings.pdf#page=21"
+  },
+  {
+    "title": "Prosodic and phonetic features for speaking styles classification and detection",
+    "year": 2012,
+    "authors": "Arlindo Veiga and Dirce Celorico and Jorge Proen\u00e7a and Sara Candeias and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 17,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-35292-8_10"
+  },
+  {
+    "title": "Towards automatic classification of speech styles",
+    "year": 2012,
+    "authors": "Arlindo Veiga and Sara Candeias and Dirce Celorico and Jorge Proen\u00e7a and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 17,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-28885-2_47"
+  },
+  {
+    "title": "Acoustic similarity scores for keyword spotting",
+    "year": 2014,
+    "authors": "Arlindo Veiga and Carla Lopes and Lu\u00eds S\u00e1 and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 15,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-09761-9_5"
+  },
+  {
+    "title": "The SPL-IT-UC Query by Example Search on Speech system for MediaEval 2015.",
+    "year": 2015,
+    "authors": "Jorge Proen\u00e7a and Luis Castela and Fernando Perdigao",
+    "venue": "N/A",
+    "citations": 14,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=22dcf0aa5498b11b614c875d2a7238e1a9022fc2"
+  },
+  {
+    "title": "Development of a speech recognizer with the Tecnovoz database",
+    "year": 2008,
+    "authors": "Jos\u00e9 Lopes and Cl\u00e1udio Neves and Arlindo Veiga and Alexandre Maciel and Carla Lopes and Fernando Perdig\u00e3o and Lu\u00eds S\u00e1",
+    "venue": "N/A",
+    "citations": 14,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-85980-2_34"
+  },
+  {
+    "title": "A european portuguese children speech database for computer aided speech therapy",
+    "year": 2012,
+    "authors": "Carla Lopes and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 12,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-28885-2_41"
+  },
+  {
+    "title": "Convers\u00e3o de Grafemas para Fonemas em Portugu\u00eas Europeu-Abordagem H\u00edbrida com Modelos Probabil\u00edsticos e Regras Fonol\u00f3gicas",
+    "year": 2011,
+    "authors": "Arlindo Veiga and Sara Candeias and Fernado Perdig\u00e3o",
+    "venue": "Linguam\u00e1tica",
+    "citations": 11,
+    "doi": "https://linguamatica.com/index.php/linguamatica/article/view/102"
+  },
+  {
+    "title": "Efficient noise-robust speech recognition front-end based on the ETSI standard",
+    "year": 2008,
+    "authors": "Claudio Neves and Arlindo Veiga and Luis Sa and Fernando Perdigao",
+    "venue": "N/A",
+    "citations": 11,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4697206/"
+  },
+  {
+    "title": "Acoustic, Phonetic and Prosodic Features of Parkinson's disease Speech",
+    "year": 2013,
+    "authors": "Jorge Proen\u00e7a and Arlindo Veiga and Sara Candeias and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://aclanthology.org/W13-4827.pdf"
+  },
+  {
+    "title": "Using coarticulationrules in automatic phonetic transcription",
+    "year": 2010,
+    "authors": "Arlindo Veiga and Sara Candeias and Lu\u00eds S\u00e1 and Fernando Perdig\u00e3o",
+    "venue": "International Conf. on Computational Processing of Portuguese-PROPOR",
+    "citations": 9,
+    "doi": "https://www.academia.edu/download/71539983/Using_Coarticulation_Rules_in_Automatic_20211006-1928-13mw6os.pdf"
+  },
+  {
+    "title": "Audio fingerprinting system for broadcast streams",
+    "year": 2009,
+    "authors": "Cl\u00e1udio Neves and Arlindo Veiga and Lu\u00eds S\u00e1 and Fernando Perdig\u00e3o",
+    "venue": "Proc Conf Telecommunications",
+    "citations": 9,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f36f1d8285c5b250494646cb4f55e553bf7b573f"
+  },
+  {
+    "title": "Acoustical characterization of vocalic fillers in European Portuguese",
+    "year": 2013,
+    "authors": "Jorge Proen\u00e7a and Dirce Celorico and Arlindo Veiga and Sara Candeias1& Fernando Perdig\u00e3o",
+    "venue": "TMH-QPSR",
+    "citations": 7,
+    "doi": "https://www.academia.edu/download/34469261/Proceedings_DiSS_2013.pdf#page=71"
+  },
+  {
+    "title": "Speaker diarization using gaussian mixture turns and segment matching",
+    "year": 2010,
+    "authors": "Arlindo Veiga and Carla Lopes and Fernando Perdig\u00e3o",
+    "venue": "Proc. FALA",
+    "citations": 5,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f467b0a5974bd93ee756cb5bf1d1cd26706401f0"
+  },
+  {
+    "title": "Rule-based algorithms for automatic pronunciation of Portuguese verbal inflections",
+    "year": 2014,
+    "authors": "Vanessa Marquiaf\u00e1vel and Christopher Shulby and Arlindo Veiga and Jorge Proen\u00e7a and Sara Candeias and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-09761-9_4"
+  },
+  {
+    "title": "Treino n\u00e3o supervisionado de modelos ac\u00fasticos para reconhecimento de fala",
+    "year": 2013,
+    "authors": "Arlindo Oliveira da Veiga",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://search.proquest.com/openview/974c77ca13548e2dffce4bca42b801b3/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+    "title": "Sistema Autom\u00e1tico de Pronuncia\u00e7\u00e3o de Verbos",
+    "year": 2013,
+    "authors": "Sara Candeias and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://scholar.google.com/scholar?cluster=15462918161763441566&hl=en&oi=scholarr"
+  },
+  {
+    "title": "O desafio da participa\u00e7ao humana do IT-Coimbra no P\u00e1gico",
+    "year": 2012,
+    "authors": "Arlindo Veiga and Carla Lopes and Dirce Celorico and Jorge Proen\u00e7a and Fernando Perdigao and Sara Candeias",
+    "venue": "Linguam\u00e1tica",
+    "citations": 3,
+    "doi": "https://linguamatica.com/index.php/linguamatica/article/view/124"
+  },
+  {
+    "title": "Using Fingerprinting to Aid Audio Segmentation",
+    "year": 2010,
+    "authors": "Carla Lopes and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "Proc. of the VI Jornadas en Tecnolog\u00eda del Habla and II Iberian SLTech Workshop, FALA",
+    "citations": 2,
+    "doi": "https://www.academia.edu/download/71540110/Using_Fingerprinting_to_Aid_Audio_Segmen20211006-4773-pjw056.pdf"
+  },
+  {
+    "title": "A Robust Speech Command Recognizer for Embedded Applications.",
+    "year": 2008,
+    "authors": "Alexandre MA Maciel and Arlindo Veiga and Cl\u00e1udio Neves and Jos\u00e9 Lopes and Carla Lopes and Fernando Perdig\u00e3o and Lu\u00eds S\u00e1",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://www.academia.edu/download/44897636/A_Robust_Speech_Command_Recognizer_for_E20160419-5070-1t3nsx0.pdf"
+  },
+  {
+    "title": "Automatic phone clustering based on confusion matrices",
+    "year": 2010,
+    "authors": "Carla Lopes and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-12320-7_16"
+  },
+  {
+    "title": "A Fast Discriminative Training Algorithm For Minimum Classification Error",
+    "year": 2009,
+    "authors": "B Silva and H Mendes and C Lopes and A Veiga and Fernando Perdig\u00e3o",
+    "venue": "proceedings of the I Iberian SLTech-I Joint SIG-IL/Microsoft Workshop on Speech and Language Technologies for Iberian Languages",
+    "citations": 1,
+    "doi": "https://www.isca-archive.org/sltech_2009/silva09_sltech.pdf"
+  },
+  {
+    "title": "An Efficient Word Confidence Measure Using Likelihood Ratio Scores.",
+    "year": 2004,
+    "authors": "Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c90db37e376f43904be75766f3fad419de277eb8"
+  },
+  {
+    "title": "Accurate Determination of Spectrum from MFCC",
+    "year": 2021,
+    "authors": "Arlindo Veiga and Fernando Perdigao",
+    "venue": "BOOK OF ABSTRACTS of The Cape Verde International Days on Mathematics 2021",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Porque-Domingo/publication/353600032_XXIMathsCabo_Verde/links/6104eeac1e95fe241a9c6748/XXIMathsCabo-Verde.pdf#page=48"
+  },
+  {
+    "title": "HESITA (te) in Portuguese.",
+    "year": 2014,
+    "authors": "Sara Candeias and Dirce Celorico and Jorge Proen\u00e7a and Arlindo Veiga and Carla Lopes and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/76504935/587_Paper.pdf"
+  },
+  {
+    "title": "CHAPTER TWELVE THE DIALOGUE",
+    "year": 2014,
+    "authors": "SARA CANDEIAS and ARLINDO VEIGA",
+    "venue": "New Language Technologies and Linguistic Research: A Two-Way Road",
+    "citations": 0,
+    "doi": "https://books.google.com/books?hl=en&lr=&id=03UxBwAAQBAJ&oi=fnd&pg=PA215&dq=info:YulDSmL628sJ:scholar.google.com&ots=AomOxMYAex&sig=CiZ9zb-FhIBZNNaIj2-tC1PZa50"
+  },
+  {
+    "title": "On the Influence of the Parkinson Disease in Vowel Production",
+    "year": 2013,
+    "authors": "Sara Candeias and Jorge Proen\u00e7a and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=7798173510662518142&hl=en&oi=scholarr"
+  },
+  {
+    "title": "HESITA",
+    "year": 2013,
+    "authors": "Dirce Celorico and Jorge Proen\u00e7a and Arlindo Veiga and Carla Lopes and Fernando Perdig\u00e3o and Sara Candeias",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=2602795943316069177&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Out-Of-Vocabulary Detection and Confidence Measures for Speech Recognition Using Phone Models",
+    "year": 2009,
+    "authors": "Arlindo Veiga and Cl\u00e1udio Neves and Fernando Perdig\u00e3o and Lu\u00eds S\u00e1",
+    "venue": "Development",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Medidas de confian\u00e7a para um sistema de reconhecimento de fala",
+    "year": 2008,
+    "authors": "Arlindo Oliveira da Veiga",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://baes.uc.pt/handle/10316/13930"
+  },
+  {
+    "title": "Training A Robust Command Recognizer with The Tecnovoz Database",
+    "year": 2008,
+    "authors": "Jos\u00e9 Lopes and Cl\u00e1udio Neves and Arlindo Veiga and Alexandre Maciel and Carla Lopes and Lu\u00eds S\u00e1 and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://lorien.die.upm.es/~lapiz/rtth/JORNADAS/V/pdfs/articulo/art_05.pdf"
+  },
+  {
+    "title": "\u0261\u027e\u0250f\u0254n\u0259: uma ferramenta de/com recurso \u00e0 informa\u00e7\u00e3o lingu\u00edstica",
+    "year": "N/A",
+    "authors": "Sara Candeias and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://apl.pt/wp-content/uploads/2017/09/CANDEIAS_et_al_2013.pdf"
+  },
+  {
+    "title": "Irregularidade na pronuncia\u00e7\u00e3o de verbos em portugu\u00eas europeu",
+    "year": "N/A",
+    "authors": "Sara Candeias and Arlindo Veiga and Fernando Perdig\u00e3o",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://apl.pt/wp-content/uploads/2017/09/17_CANDEIAS.pdf"
+  }
+]

@@ -1,0 +1,923 @@
+Title
+Redes Neurais Artificiais-Teoria e Aplicações. 1ª Edição
+Data stream clustering: A survey
+Inteligência artificial: uma abordagem de aprendizado de máquina 2a edição
+A survey of evolutionary algorithms for decision-tree induction
+Uma introdução às support vector machines
+Introdução aos algoritmos genéticos
+An adaptive approach for UAV-based pesticide spraying in dynamic environments
+Inteligência artificial: uma abordagem de aprendizado de máquina (1a Edição)
+Artificial taste sensor: efficient combination of sensors made from Langmuir− Blodgett films of conducting polymers and a ruthenium complex and self-assembled films of an azobenzene-containing polymer
+A tutorial on multi-label classification techniques
+Main chain representation for evolutionary algorithms applied to distribution system reconfiguration
+Comparing machine learning classifiers in potential distribution modelling
+A review of performance evaluation measures for hierarchical classifiers
+Effectiveness of random search in SVM hyper-parameter tuning
+Olindda: A cluster-based approach for detecting novelty and concept drift in data streams
+Hybrid intelligent algorithms and applications
+Efficiency issues of evolutionary k-means
+Meta-features for meta-learning
+A tutorial on hierarchical classification with applications in bioinformatics
+Neural networks applied in intrusion detection systems
+"Weightless neural models: A review of current and past works’, Neural Computing Surveys"
+MFE: Towards reproducible meta-feature extraction
+Fundamentos de redes neurais artificiais
+"Redes neurais artificiais: teoria e aplicações, 2a Edição"
+Extração de Conhecimento de Base de dados-Data Mining
+Novelty detection in data streams
+Applying one-sided selection to unbalanced datasets
+Metalearning and Recommender Systems: A literature review and empirical study on the algorithm selection problem for Collaborative Filtering
+Node-depth encoding for evolutionary algorithms applied to network design
+Use of classification algorithms in noise detection and elimination
+Cluster-based novel concept detection in data streams applied to intrusion detection in computer networks
+To tune or not to tune: Recommending when to adjust SVM hyper-parameters via meta-learning
+Cluster ensemble selection based on relative validity indexes
+Energetic operation planning using genetic algorithms
+Introdução às máquinas de vetores suporte (Support Vector Machines)
+Redes neurais artificiais
+Noise detection in the meta-learning level
+A new data characterization for selecting clustering algorithms using meta-learning
+Meta-learning to select the best meta-heuristic for the traveling salesman problem: A comparison of meta-features
+Grandes Desafios da Pesquisa em Computaçao no Brasil
+Novelty detection with application to data streams
+Evolutionary design of decision-tree algorithms tailored to microarray gene expression data sets
+Multiclass SVM model selection using particle swarm optimization
+Comparing several approaches for hierarchical classification of proteins with decision trees
+Ensemble of classifiers based on multiobjective genetic sampling for imbalanced data
+Assessing the data complexity of imbalanced datasets
+Empirical investigation of active learning strategies
+Multi-objective clustering ensemble for gene expression data analysis
+Técnicas de aprendizado de máquina para problemas de biologia molecular
+"Continual object detection: a review of definitions, strategies, and challenges"
+Evolutionary computing in recommender systems: a review of recent research
+Evolutionary inversion of class distribution in overlapping areas for multi-class imbalanced learning
+Pre-processing for noise detection in gene expression classification data
+Fast adaptive stacking of ensembles
+Support Vector Machines Applied to White Blood Recognition
+Filter feature selection for one-class classification
+Online extra trees regressor
+A hybrid meta-learning architecture for multi-objective optimization of SVM parameters
+Protein cellular localization prediction with support vector machines and decision trees
+A Projection Pursuit framework for supervised dimension reduction of high dimensional small sample datasets
+Recent trends in intelligent data analysis
+A hybrid case adaptation approach for case-based reasoning
+Computação evolutiva
+Evolutionary optimization of RBF networks
+Building binary-tree-based multiclass classifiers using separability measures
+Intelligent-guided adaptive search for the maximum covering location problem
+Automatic design of decision-tree algorithms with evolutionary algorithms
+A genetic algorithm for hierarchical multi-label classification
+Evolutionary radial basis functions for credit assessment
+Combining intelligent techniques for sensor fusion
+Ensembles of label noise filters: a ranking approach
+Software effort prediction: A hyper-heuristic decision-tree based approach
+Network intrusion detection using neural networks
+Data complexity measures for imbalanced classification tasks
+A hyper-heuristic evolutionary algorithm for automatically designing decision-tree algorithms
+Investigation of a new GRASP-based clustering algorithm applied to biological data
+Towards reproducible empirical research in meta-learning
+Comparing methods for multilabel classification of proteins using machine learning techniques
+A study on class noise detection and elimination
+Extração de conhecimento de dados: data mining (2a Edição)
+New label noise injection methods for the evaluation of noise filters
+Lexicographic multi-objective evolutionary induction of decision trees
+Selecting collaborative filtering algorithms using metalearning
+Using the one-vs-one decomposition to improve the performance of class noise filters via an aggregation strategy in multi-class classification problems
+Hierarchical multi-label classification for protein function prediction: A local approach based on neural networks
+Hierarchical classification of gene ontology-based protein functions with neural networks
+Noisy data set identification
+A Meta-learning approach for recommending the number of clusters for clustering algorithms
+The utiml Package: Multi-label Classification in R.
+An extensive evaluation of decision tree–based hierarchical multilabel classification methods and performance measures
+An adaptive intrusion detection system using neural networks
+Top-down hierarchical ensembles of classifiers for predicting g-protein-coupled-receptor functions
+International Scientific Report on the Safety of Advanced AI
+Fine-tuning of UAV control rules for spraying pesticides on crop fields: An approach for dynamic environments
+Evaluation of multiclass novelty detection algorithms for data streams
+A framework for bottom-up induction of oblique decision trees
+Towards the automatic design of decision tree induction algorithms
+Evaluation of noise reduction techniques in the splice junction recognition problem
+Evolutionary design of multiclass support vector machines
+The noisefiltersr package: label noise preprocessing in R
+International AI Safety Report
+Automatic design of decision-tree induction algorithms tailored to flexible-receptor docking data
+Gene selection based on multi-class support vector machines and genetic algorithms.
+CF4CF: recommending collaborative filtering algorithms using collaborative filtering
+Optimal energy restoration in radial distribution systems using a genetic approach and graph chain representation
+Evaluating topic models in Portuguese political comments about bills from Brazil’s chamber of deputies
+Using meta-learning to recommend meta-heuristics for the traveling salesman problem
+Data clustering based on complex network community detection
+Food truck recommendation using multi-label classification
+An empirical analysis of binary transformation strategies and base algorithms for multi-label learning
+Inducing hierarchical multi-label classification rules with genetic algorithms
+Combining a multi-objective optimization approach with meta-learning for svm parameter selection
+Evolutionary model tree induction
+Algoritmos Genéticos
+Minimum spanning trees in hierarchical multiclass support vector machines generation
+Redes Neurais Artificiais-Teoria e Aplicações. 1ª Edição
+Optimal energy restoration for general distribution systems by genetic algorithms
+Endowing a content-based medical image retrieval system with perceptual similarity using ensemble strategy
+"Introdução à computação: hardware, software e dados"
+Enhanced template update: Application to keystroke dynamics
+Online behavior change detection in computer games
+A graph clustering algorithm based on a clustering coefficient for weighted graphs
+Comparing techniques for multiclass classification using binary SVM predictors
+ClusterOSS: a new undersampling method for imbalanced learning
+A meta-learning approach to select meta-heuristics for the traveling salesman problem using mlp-based label ranking
+Partitions selection strategy for set of clustering solutions
+Bio-inspired optimization techniques for svm parameter tuning
+Genetic clustering for data mining
+Combining one-class classifiers for robust novelty detection in gene expression data
+Hybrid approaches for case retrieval and adaptation
+Evolutionary design of MLP neural network architectures
+Aprendizado de máquina: breve introdução e aplicações
+Adaptive approaches for keystroke dynamics
+Meta-learning recommendation of default hyper-parameter values for SVMs in classification tasks
+Inteligência artificial: uma abordagem de aprendizado de máquina (edição revisada)
+Evolving decision trees with beam search-based initialization and lexicographic multi-objective evaluation
+Local interpretation methods to machine learning using the domain of the feature space
+A comparative analysis of the automatic modeling of Learning Styles through Machine Learning techniques
+Combining meta-learning and search techniques to svm parameter selection
+Hybrid classification algorithms based on boosting and support vector machines
+UlyssesNER-Br: a corpus of Brazilian legislative documents for named entity recognition
+Quality indices for (practical) clustering evaluation
+Automatic knowledge learning and case adaptation with a hybrid committee approach
+A genetic algorithm with gene dependent mutation probability for non-stationary optimization problems
+Human splice site identification with multiclass support vector machines and bagging
+Lessons learned from the NeurIPS 2021 MetaDL challenge: Backbone fine-tuning without episodic meta-learning dominates for few-shot learning image classification
+Explainable machine learning for breast cancer diagnosis
+Probabilistic clustering for hierarchical multi-label classification of protein functions
+An experimental study of the combination of meta-learning with particle swarm algorithms for svm parameter selection
+Multi-objective clustering ensemble with prior knowledge
+A dynamical model with adaptive pixel moving for microarray images segmentation
+Rules extractions from bank's bankrupt data using connectionist and symbolic learning algorithms
+Predicting execution time of machine learning tasks using metalearning
+Potential distribution modelling using machine learning
+Clustering using genetic algorithm combining validation criteria.
+Pixel clustering by adaptive pixel moving and chaotic synchronization
+Meta-learning for periodic algorithm selection in time-changing data
+Hierarchical multilabel classification using top-down label combination and artificial neural networks
+Validação de algoritmos de agrupamento
+Rethinking default values: A low cost and efficient strategy to define hyperparameters
+Multi-label feature selection techniques for hierarchical multi-label protein function prediction
+A guidance of data stream characterization for meta-learning
+Effects of random sampling on svm hyper-parameter tuning
+Adaptive positive selection for keystroke dynamics
+Using genetic algorithms to improve prediction of execution times of ML tasks
+Using meta-learning to classify traveling salesman problems
+A comprehensive comparison of ml algorithms for gene expression data classification
+Cluster ensemble and multi-objective clustering methods
+SVMs for novel class detection in Bioinformatics.
+Computerized classification of breast lesions: shape and texture analysis using an artificial neural network
+Genetic algorithms applied to hydrothermal system scheduling
+Online clustering for novelty detection and concept drift in data streams
+Metalearning for context-aware filtering: Selection of tensor factorization algorithms
+Adaptive algorithms in accelerometer biometrics
+Multi-objective optimization and Meta-learning for SVM parameter selection
+A hybrid approach to learn with imbalanced classes using evolutionary algorithms
+Evolutionary fuzzy clustering: an overview and efficiency issues
+A strategy for the selection of solutions of the pareto front approximation in multi-objective clustering approaches
+Hybrid genetic algorithm applied to the determination of the optimal operation of hydrothermal systems
+Aplicação de algoritmos genéticos na determinação da operação ótima de sistemas hidrotérmicos de potência
+Computação bioinspirada
+Using MLP networks to classify red wines and water readings of an electronic tongue
+The influence of clustering techniques in the RBF networks generalization
+Previsão de séries temporais utilizando redes neurais artificiais e modelos de box e jenkins
+An information retrieval pipeline for legislative documents from the Brazilian chamber of deputies
+A study on hyperparameter configuration for human activity recognition
+Evaluation methodology for multiclass novelty detection algorithms
+Meta‐learning approach to gene expression data classification
+Multiclass SVM design and parameter selection with genetic algorithms
+A forest representation for evolutionary algorithms applied to network design
+A study of cross-validation and bootstrap as objective functions for genetic algorithms
+Evaluation of neural classifiers using statistic methods for identification of laryngeal pathologies
+Neural architecture search with interpretable meta-features and fast predictors
+Exploiting evolution on uav control rules for spraying pesticides on crop fields
+Comparison of active learning strategies and proposal of a multiclass hypothesis space search
+New top-down methods using SVMs for hierarchical multilabel classification problems
+A new approach for multi-label classification based on default hierarchies and organizational learning
+Looking for exceptions on knowledge rules induced from HIV cleavage data set
+The influence of noisy patterns on the performance of learning methods in the splice junction recognition problem
+Um Tutorial sobre Algoritmos Genéticos.
+A genetic algorithm approach to optimize the operation planning of hydrothermal system scheduling
+A lazy learning approach to the training of GSN neural networks
+BioDeepfuse: a hybrid deep learning approach with integrated feature extraction techniques for enhanced non-coding RNA classification
+Boosting meta-learning with simulated data complexity measures
+Improving portfolio optimization using weighted link prediction in dynamic stock networks
+Hierarchical multilabel protein function prediction using local neural networks
+A network of coupled chaotic maps for adaptive multi-scale image segmentation
+Revisão de técnicas para geração de classificadores de margens largas multiclasses
+Splice Junction Recognition using Machine Learning Techniques.
+Energy restoration in distribution systems using search with fuzzy heuristics
+Hyper-parameter initialization of classification algorithms using dynamic time warping: A perspective on PCA meta-features
+Using dynamical quantization to perform split attempts in online tree regressors
+An intelligent and generic approach for detecting human emotions: a case study with facial expressions
+Statistical versus distance-based meta-features for clustering algorithm recommendation using meta-learning
+A label ranking approach for selecting rankings of collaborative filtering algorithms
+The use of autonomous UAVs to improve pesticide application in crop fields
+Evaluation of Clustering Results: The Trade-off Bias-Variability
+Foundations of Computational Intelligence: Bio-inspired Data Mining
+An hybrid GA/SVM approach for multiclass classification with directed acyclic graphs
+Utilizaçao de técnicas inteligentes em bioinformática
+Combining RBF networks trained by different clustering techniques
+Anomaly detection in sequential data: principles and case studies
+Utilização de redes neurais artificiais na análise de risco de crédito a pessoas físicas
+Unsupervised meta-learning for clustering algorithm recommendation
+Unsupervised domain adaptation for human activity recognition
+Mineração de Dados em Python
+The multi-label OCS with a genetic algorithm for rule discovery: Implementation and first results
+Applying genetic and symbolic learning algorithms to extract rules from artificial neural networks
+A genetic algorithm based approach to track voltage and current harmonics in electrical power systems
+A new technique based on genetic algorithms for tracking of power system harmonics
+Model selection via genetic algorithms for RBF networks
+Representação por cadeias de grafo para AG aplicados ao restabelecimento de energia ótimo em sistemas de distribuição radiais
+Target Recognition using Evolutionary Neural Networks
+Seasonal-trend decomposition based on loess+ machine learning: hybrid forecasting for monthly univariate time series
+Score normalization applied to adaptive biometric systems
+A hybrid heuristic for the k-medoids clustering problem
+"Hybrid Artificial Intelligence Systems: 4th International Conference, HAIS 2009, Salamanca, Spain, June 10-12, 2009, Proceedings"
+Consensus clustering using spectral theory
+Evolutionary design of code-matrices for multiclass problems
+Use of gene dependent mutation probability in evolutionary neural networks for non-stationary problems
+Protein cellular localization with multiclass support vector machines and decision trees
+Evaluation of gene selection metrics for tumor cell classification
+Credit analysis using radial basis function networks
+Signal processing and statistical procedures to identify laryngeal pathologies
+Levantamento semidetalhado dos solos da bacia do arroio Taboão (Pejuçara/Ijuí RS)
+Ensemble of adaptive algorithms for keystroke dynamics
+Multi-objective optimization in systematic conservation planning and the representation of genetic variability among populations
+Unsupervised density-based behavior change detection in data streams
+Combining meta-learning with multi-objective particle swarm algorithms for SVM parameter selection: An experimental analysis
+Empirical evaluation of ranking prediction methods for gene expression data classification
+Estratégias para a combinaçao de classificadores binários em soluçoes multiclasses
+Ensembles of pre-processing techniques for noise detection in gene expression data
+A method for refining knowledge rules using exceptions
+Extracting rules from neural networks using symbolic algorithms: preliminary results
+Extraçao de conhecimento de redes neurais
+Algoritmo de busca com heurísticas fuzzy para restabelecimento de energia em sistemas radiais de distribuição
+Progressive learning algorithm for GSN feedfoward neural architectures
+Assessing the impact of stemming algorithms applied to Brazilian legislative documents retrieval
+Learning to associate detections for real-time multiple object tracking
+Combining mutation and gene network data in a machine learning approach for false-positive cancer driver gene discovery
+Análise da evolução da pandemia de COVID-19 no Brasil–O Estado do Pará
+A cluster-based prototype reduction for online classification
+Evolving relational hierarchical classification rules for predicting gene ontology-based protein functions
+Hierarchical bottom-up safe semi-supervised support vector machines for multi-class transductive learning
+Investigação de técnicas de classificação hierárquica para problemas de bioinformática
+Investigation of strategies for the generation of multiclass support vector machines
+Gene selection using genetic algorithms
+An approach to explain neural networks using symbolic algorithms
+A network of globally coupled chaotic maps for adaptive multi-resolution image segmentation
+Genetic operators setting for the operation planning of hydrothermal systems
+Classifier combination for vehicle silhouettes recognition
+Artificial neural network applied to power system protection
+A review on preprocessing algorithm selection with meta-learning
+An extensive experimental evaluation of automated machine learning methods for recommending classification algorithms
+Recommending Collaborative Filtering algorithms using subsampling landmarkers
+Clus-DTI: improving decision-tree classification with a clustering-based decision-tree induction algorithm
+A GA/SVM approach for multiclass classification applied to protein structural class prediction
+Retrieval and adaptation of cases using an neural network
+Comparing different clustering techniques-RBF networks training
+Localização de faltas em linhas de transmissão de energia elétrica utilizando reconhecimento de padrões
+Redes neurais artificiais aplicadas a localização de faltas em linhas de transmissão de energia elétrica
+Optimal energy restoration in distribution systems using genetic algorithms
+A utilização de redes neurais artificiais para classificação de solos tropicais
+Classifying images using goal-seeking neural network architectures
+"André Ponce de Leon F. de Carvalho, and João Gama. 2007. Olindda: A cluster-based approach for detecting novelty and concept drift in data streams"
+Robertalexpt: A legal roberta model pretrained with deduplication for portuguese
+Expanding UlyssesNER-Br named entity recognition corpus with informal user-generated text
+SmartSORT: an MLP-based method for tracking multiple objects in real-time
+Gradient boosting machine and LSTM network for online harassment detection and categorization in social media
+Characterizing classification datasets: a study of meta-features for meta-learning
+A machine learning-based approach for prediction of plant protection product deposition
+Adaptive algorithms applied to accelerometer biometrics in a data stream context
+Dualradviz: Preserving context between classification evaluation and data exploration with radviz
+Selectively inhibiting learning bias for active sampling
+Clustering search applied to rank aggregation
+A grammatical evolution approach for software effort estimation
+Predicting execution time of machine learning tasks for scheduling
+Quantifying features using false nearest neighbors: An unsupervised approach
+Improvements in the partitions selection strategy for set of clustering solutions
+Bio-inspired parameter tunning of MLP networks for gene expression analysis
+Metalearning for gene expression data classification
+Applying case based based reasoning to sensor fusion
+A hybrid case based reasoning approach for wine classification
+Pursuing the Best ECOC Dimension for Multiclass Problems.
+Applying text mining and machine learning techniques to gene clusters analysis
+Algoritmos de agrupamento de dados
+A hybrid case based reasoning approach for monitoring water quality
+A method for refining knowledge rules using exceptions
+Técnicas de aprendizado de máquina para análise de imagens oftalmológicas
+Sistemas inteligentes híbridos
+Experiments on machine learning techniques for sensor fusion
+Credit assessment using constructive neural networks
+Aplicando seleçao unilateral em conjuntos de exemplos desbalanceados: Resultados iniciais
+Credit assessment using evolutionary MLP networks
+Um modelo adaptativo para detecção de comportamento suspeito em redes de computadores
+Building a relevance feedback corpus for legal information retrieval in the real-case scenario of the brazilian chamber of deputies
+On the assessment of deep learning models for named entity recognition of brazilian legal documents
+Named entity recognition: a survey for the portuguese language
+Artificial inteligence: technology applied to conflict management within the brazilian judiciary
+Evaluate pseudo labeling and CNN for multi-variate time series classification in low-data regimes
+Simulating complexity measures on imbalanced datasets
+Selecting the most relevant features for the identification of long non-coding RNAs in plants
+The influence of sampling on imbalanced data classification
+A non-negative matrix factorization approach to update communities in temporal networks using node features
+Ensemble clustering for novelty detection in data streams
+Preprocessing technique for cluster editing via integer linear programming
+Special issue soco13-jal
+A flocking-like technique to perform semi-supervised learning
+Evaluation functions for the evolutionary design of multiclass support vector machines
+Hierarchical decomposition of multiclass problems
+The dimension of ECOCs for multiclass classification problems
+Design of directed acyclic graph multiclass structures
+Redes Neurais Artificiais
+A forest encoding for evolutionary algorithms applied to design problems. Genetic Algorithm and Evolutionary Computation Conference 20003
+Radial basis functions networks
+A fast algorithm for generation of forests: Application to distribution system reconfiguration
+Distribution system reconfiguration using graph chain representation
+Um algoritmo de inteligência artificial com heurísticas fuzzy para restabelecimento de energia em sistemas de distribuição radiais
+"Identifying biomarkers and trajectories of executive functions and language development in the first 3 years of life: Design, methods, and findings of the Germina cohort study"
+Artificial intelligence and radiomics in the diagnosis of intraosseous lesions of the gnathic bones: A systematic review
+Forecasting financial market structure from network features using machine learning
+Machine learning approach for trend prediction to improve returns on brazilian energy market
+Fast and lightweight binary and multi-branch Hoeffding Tree Regressors
+Evaluating Meta-Feature Selection for the Algorithm Recommendation Problem
+Qualitative data clustering: a new integer linear programming model
+Dimensionality reduction for the algorithm recommendation problem
+Making data stream classification tree-based ensembles lighter
+AC Metalearning and recommender systems: a literature review and empirical study on the algorithm selection problem for collaborative filtering
+Mobile sensing and social computing
+Investigating fitness functions for a hyper-heuristic evolutionary algorithm in the context of balanced and imbalanced data classification
+Transmission of wireless neural signals through a 0.18 µm CMOS low-power amplifier
+A multi-objective optimization approach associated to climate change analysis to improve systematic conservation planning
+Detecção de novidade em fluxos contínuos de dados multiclasse
+Algoritmos imunológicos adaptativos em dinâmica da digitação: um contexto de fluxo de dados
+LEGAL-Tree: um algoritmo genético multi-objetivo para indução de árvores de decisão
+Atualizações em informática
+Uma revisao sobre combinaçao de agrupamentos
+Applying genetic algorithms and support vector machines to the gene selection problem
+"APdLF de Carvalho, TB Ludermir, Redes Neurais Artifi ciais: Teoria e Aplicações"
+An online learning technique for coping with novelty detection and concept drift in data streams
+Classification of ophthalmologic images using an ensemble of classifiers
+Evaluation of the contents of partitions obtained with clustering gene expression data
+Redes neurais artificiais e agricultura de precisão para recomendação de adubação da cultura da goiabeira
+Graph chain representation associated to an evolutionary algorithm for restoration of radial distribution systems
+Aplicação de algoritmos evolutivos multi-objetivo para o alinhamento de proteínas
+Algoritmos Genéticos aplicados à estimação de componentes harmônicos em sistemas elétricos de potência
+Load flow for radial distribution system using the graph chain representation
+RaBeCa: a hybrid case-based reasoning development environment
+Sistemas inteligentes para engenharia: pesquisa e desenvolvimento
+Automatic target recognition using a constructive approach
+Bankruptcy prediction using connectionist and symbolic learning algorithms
+An adaptive system for detecting intrusion in networks
+SOFT-A Boolean self organising feature extractor
+An analysis of self-organising networks based on goal-seeking neurons
+Using a neural network in a CBR system
+Efficient parameter mining and freezing for continual object detection
+SWINN: Efficient nearest neighbor search in sliding windows using graphs
+Exploratory Study of Data Sampling Methods for Imbalanced Legal Text Classification
+A New Modelling for the Aircraft Landing Problem and Matheuristic Approach to Solve the Problem with a Large Number of Aircraft
+Meta-learning approach for noise filter algorithm recommendation
+Ulysses-RFSQ: A novel method to improve legal information retrieval based on relevance feedback
+"Inteligência artificial: uma abordagem de aprendizado de máquina, vol. 1"
+A study of biclustering coherence measures for gene expression data
+Julia sets for Fibonacci endomorphisms of ℝ2
+Cf4cf-meta: Hybrid collaborative filtering algorithm selection framework
+Anomaly detection through temporal abstractions on intensive care data: position paper
+Automatic selection of learning bias for active sampling
+Multi-objective optimization applied to systematic conservation planning and spatial conservation priorities under climate change
+Combining meta-learning and optimization algorithms for parameter selection
+Improving the offline clustering stage of data stream algorithms in scenarios with variable number of clusters
+Data stream mining algorithms for building decision models in a computer role-playing game simulation
+Bioinspired parameter tuning of MLP networks for gene expression analysis: Quality of fitness estimates vs. Number of solutions analysed
+Tree decomposition of multiclass problems
+Classificação hierárquica de proteínas utilizando técnicas de aprendizado de máquina
+Classificação Hierárquica de Proteínas Utilizando Abordagens Top-Down e Big-Bang
+Genetic clustering for data mining
+Development of a dressing monitoring system through artificial intelligence and acoustic maps for high performance grinding
+Utilização de algoritmos de aprendizado de máquina evolutivos para análise de nível expressão gênica
+Análise de dados de expressão gênica
+Machine learning techniques for ocular errors analysis
+Gene selection based on multi-class SVMs and genetic algorithms
+Hybrid approach for case adaptation
+Alteraçao da probabilidade de mutaçao do gene em algoritmos genéticos aplicados a problemas nao-estacionários
+Efeitos genéticos e ambientais em parâmetros de avaliação da qualidade de variedades de trigo mole
+A case-based reasoning development environment
+Pattern recognition using constructive algorithms
+Knowledge extraction: a comparison between symbolic and connectionist methods
+Sistemas inteligentes para fusao de sensores
+A neural network model to predict operational parameters of a wastewater treatment plant
+Extração de conhecimento: uma comparação entre os métodos clássico e conexionista
+Optimal Operation Planning of Hydrothermal Systems Using Artificial Intelligence Techniques
+LegalSum: Towards Tool for Evaluation for Extractive Summarization of Brazilian Lawsuits
+MathPIP: classification of proinflammatory peptides using mathematical descriptors
+Feature importance analysis of non-coding dna/rna sequences based on machine learning approaches
+2CS: correlation-guided split candidate selection in Hoeffding tree regressors
+Técnicas de Aprendizado de Máquina para análise de imagens oftalmológicas (2003)
+Transfer learning for algorithm recommendation
+Online local boosting: Improving performance in online decision trees
+Experimental correlation analysis of bicluster coherence measures and gene ontology information
+cf2vec: Collaborative filtering algorithm selection using graph distributed representations
+Biometrics in a data stream context
+Algorithm Selection for Collaborative Filtering: the influence of graph metafeatures and multicriteria metatargets
+A Comparison of Hierarchical Biclustering Ensemble Methods
+Applying the virtual programming lab with Python
+Recent advancements in hybrid artificial intelligence systems and its application to real-world problems
+Adapting noise filters for ranking
+An Active Learning Library for Scala
+Hybrid Artificial Intelligent Systems
+Redes Neurais Artificiais: teoria e aplicações
+SOCO'14-CISIS'14-ICEUTE'14
+"Hybrid Artificial Intelligent Systems: 8th International Conference, HAIS 2013, Salamanca, Spain, September 11-13, 2013. Proceedings"
+"Redes Neurais Artificiais teoria e aplicações, Rio de Janeiro: LTC–Livros Técnicos e Científicos Editora SA, 2000 BRADY, N.; WEIL, RR Elementos da natureza e propriedades dos solos"
+"Novas tendências em Marketing Intelligence (CamposP. BritoP. Q., Eds.)"
+Automatic parameters selection in machine learning
+A beam search based decision tree induction algorithm
+Um algoritmo de indução de árvore de decisão baseado em agrupamento
+Player behavior modeling through online clustering and novelty detection
+Credit Risk Assessment and Data Mining
+Avaliaçao de uma abordagem hıbrida para aprender com classes desbalanceadas: Resultados experimentais com o indutor cn2
+I/VOID/O: real-time sound synthesis and video processing in an interactive installation
+Clustering stability and resampling. P. Brito
+Special issue on VIII Brazilian symposium on neural networks
+Revista de Informática Teórica e Aplicada
+Nodes-depth encoding applied to the degree-constrained minimum spanning tree
+Uma nova abordagem para a estimação das componentes harmônicas em sistemas elétricos de potência baseado em algoritmos genéticos
+Análise de Crédito Utilizando Rede Neurais Artificiais
+Electronic tongue–science mimicking nature
+Extracting knowledge from artificial neural networks: an empirical comparison of trepan and symbolic learning algorithms
+Evolutionary design of radial basis function networks
+Uma análise do consumo de energia com transportes em zonas urbanas utilizando redes neurais artificiais
+Extracting knowledge from artificial neural networks using symbolic learning algorithms
+Um ambiente para desenvolvimento de sistemas de raciocínio baseado em casos
+Introduçao aos Algoritmos Genéticos
+Chemical classification of monoterpenes by their mass spectra using artificial neural networks of the multilayer perceptron model
+Knowledge acquisition using symbolic and connectionist algorithms for credit evaluation
+Restabelecimento de energia ótimo para sistemas de distribuição radiais por algoritmos genéticos
+Combinando os algoritmos genético e k-média para configurar redes de funções base radial
+Modelagem de uma estação de tratamento de esgostos utilizando redes neurais: conceituação e avaliação preliminar
+Esquema de protecao da distancia para linhas de transmissao utilizando redes neurais artificiais
+Image classification using integrated GSN networks
+Integrated Boolean neural networks for feature extraction and image classification
+Preliminary Modeling of a Wastewater Plant using Neural Networks
+Utilizando Redes Neurais Artificiais e Modelos de Box & Jenkins
+Assessing Advanced Computer Vision Techniques in Aerial Imagery: A Case Study on Transmission Tower Identification
+Enhancing Explainability in Oral Cancer Detection with Grad-CAM Visualizations
+BioAutoML: Democratizing Machine Learning in Life Sciences
+ProtoAL: Interpretable Deep Active Learning with prototypes for medical imaging
+UlyssesNERQ: Expanding Queries from Brazilian Portuguese Legislative Documents through Named Entity Recognition
+"Inteligência artificial, urbanização e cidades"
+Um farol para criação e avaliação de cursos de Ciência de Dados: os referenciais curriculares da SBC
+What rating they will probably give: A cognitive diagnosis approach for recommending items based on polytomous responses and latent attributes
+Model Performance Prediction: A Meta-Learning Approach for Concept Drift Detection
+Deep Learning for Automatic Segmentation of Clinical Photographs of Oral Premalignant and Malignant Lesions
+Feature selection using complex networks to support price trend forecast in energy markets
+GPU acceleration of clustering meta-feature extraction using RAPIDS
+UlyssesSD-Br: Stance Detection in Brazilian Political Polls
+"No Pattern, No Recognition: a Survey about Reproducibility and Distortion Issues of Text Clustering and Topic Modeling"
+Market movement prediction algorithm selection by metalearning
+Genetic programming-based autoML for EEG signal classification: a comparative study
+"Computação: ciência, engenharia e arte"
+Time-series in hyper-parameter initialization of machine learning techniques
+A study of the correlation of metafeatures used for metalearning
+Performance evaluation of outlier rules for labelling outliers in multidimensional dataset
+Evaluation of error metrics for meta-learning label definition in the forecasting task
+Robust outlier labeling rules for light-tailed and heavy-tailed Data
+Improving the AHT in telecommunication companies by automatic modeling of call center service
+Mineração de dados
+Interdisciplinaridade da ciência de dados
+O uso seletivo de classificadores binários na solução de problemas multirrótulos
+Unsupervised Change Detection in Data Streams
+Tratando dados desbalanceados em classificação hierárquica
+Challenges in Computational Sustainability: a New Multi-Objective Artificial Immune System Approach to Deal with Biodiversity Conservation
+Neural Networks for Hierarchical Classification of G-Protein Coupled Receptors
+Multi-objective Clustering Ensemble: A Framework for Cluster Analysis
+Fundamental open problems on area preserving mappings: Draft
+DPSO-dynamic particle swarn optimization
+Desenvolvimento de uma ferramenta inteligente para o planejamento da operação de sistemas hidrotérmicos de potência
+Credit Card Users' Data Mining
+Seleção de Atributos para Classificação de Grãos
+Evolutionary Computation in Brazil: A Review of the Literature in Two Databases
+Computational Intelligence Applied to the Automatic Monitoring of Dressing Operations in an Industrial CNC Machine
+Comparing several evaluation functions in the evolutionary design of multiclass support vector machines
+Aplicação de um sistema inteligente híbrido no planejamento da operação de sistemas hidrotérmicos de potência
+Feature selection in SVMS applied to gene expression data
+Selection of sensors in an artificial tongue via genetic algorithms
+Escalonamento de processos utilizando técnicas de ACO
+Process scheduling using ant colony optimization techniques
+Determinação de vícios refrativos oculares utilizando Support Vector Machines
+Classificaçao de dados de expressao gênica utilizando aprendizado de máquina evolutivo
+A self-organized network for data clustering
+Técnicas de agrupamento e algoritmos genéticos
+Automatic case adaptation with a hybrid committee approach
+ShEST Shrimp Genome Project. 2003
+Identification of promoters and splice sites with explanation by extracting knowledge from artificial neural networks
+Introducao aos classificadores de margens largas (large margin classifiers)
+Gene selection for tumor cell classification
+Refinando regras de conhecimento por meio de exceçoes
+Uma abordagem híbrida baseada em casos e redes neurais. Uma aplicação: escolha e configuração de modelos de redes neurais
+New data structure for spanning forest operators for evolutionary algorithms
+Understanding Credit Card User's Behaviour: A Data Mining Approach
+Estimating the number of forests created by two edge changes
+Experimentos em aprendizado de Máquina para Fusão de Sensores
+Escolha e configuração de modelos de redes neurais artificiais utilizando raciocínio baseado em casos
+Aplicação de Algoritmos Genéticos Híbridos em Sistemas Hidrotérmicos de Potência
+Meta-aprendizado para Recomendação de Algoritmos
+Applying neural networks to determine vibration parameters in a turbine
+Reconhecimento de imagens de navios utilizando Combinacao de Classificadores
+Desenvolvimento de modelos mecanístico e neural para o processo de lodos ativados de tratamento de esgotos sanitários
+Using symbolic and connectionist algorithms to knowledge acquisition for credit evaluation
+Combinação de classificadores neurais para o reconhecimento de imagens de navios
+Algoritmos genéticos associados a cadeias de grafos para restabelecimento de energia ótimo em sistemas de distribuição radiais
+Combining two boolean neural networks for image classification
+A hybrid system integrating neural network and case-based reasoning features
+"Aplicacoes de redes neurais na industria, comercio e medicina"
+Implementation and tests of a distance relay using artificial neural networks
+"O problema de falência de bancos usando CN2, C4. 5 e redes neurais artificiais"
+Sistema adaptativo de deteccao de intrusao em redes de computadores
+Meta-Learning Based Recommendation of Ensemble Methods for Gene Expression Classification
+Modelo de redes neurais para o processo de lodos ativados de tratamento de esgotos domésticos
+Assessing rule-based document segmentation and word normalization for legal ruling classification
+Artificial intelligence and radiomics for the diagnosis of bone and intraosseous lesions of gnathic bones
+HIRS: a hybrid information retrieval system for legislative documents
+Roadmap for AI Policy Research
+A convolutional neural network framework with ConvNeXt and Grad-CAM for classification of oral potentially malignant disorders and oral squamous cell carcinoma
+RoBERTaLexPT: um modelo RoBERTa jurídico pré-treinado com deduplicação para língua Portuguesa
+Interpretable Components Using Genetic Programming Employing Instruction-like Structure
+A Methodology for Automated Conversion of Axis-Aligned to Polygonal and Oriented Bounding Box Annotations in Aerial Imagery Object Detection
+Segmenting Brazilian legislative text using weak supervision and active learning
+Democratising Artificial Intelligence for Pandemic Preparedness and Global Governance in Latin American and Caribbean Countries
+HIRS: A Hybrid Information Retrieval System for Legislative Documents
+"Efficient online tree, rule-based, and distance-based algorithms"
+Applying LSTM Recurrent Neural Networks to Predict Revenue
+Convnext for the classification of oral potentially malignant disorders and squamous cell carcinoma.
+METAFORE: algorithm selection for decomposition-based forecasting combinations
+A Distributed Security Approach Based on Artificial Immune Systems for Intrusion Detection in Internet of Things
+Natural Language Processing Application in Legislative Activity: a Case Study of Similar Amendments in the Brazilian Senate
+Empirical Comparison of EEG Signal Classification Techniques through Genetic Programming-based AutoML: An Extended Study
+Towards Automated Classification of Repetitive Themes in Brazilian Courts with LegalClass
+Towards Mapping Brazilian Public Comments on Legislative Text
+Applying LSTM Recurrent Neural Networks to Predict Revenue
+Ciência de Dados - Fundamentos e Aplicações
+PLN no Direito: REN
+ProtoAL: Interpretable Deep Active Learning with prototypes for medical imaging.
+Breaking barriers: democratizing machine learning for RNA-protein interaction prediction in life sciences
+"Como a computação, a matemática e a estatística conectam a Universidade com a sociedade"
+How to balance financial returns with metalearning for trend prediction
+Enhancing Algorithm Performance Understanding through tsMorph: Generating Semi-Synthetic Time Series for Robust Forecasting Evaluation
+The Strength of Influence Ties in Stock Networks: Empirical Analysis for Portfolio Selection
+Threshold-Based Classification to Enhance Confidence in Open Set of Legal Texts
+Técnicas de sumarização de textos jurídicos para suporte à classificação de documentos de decisões judiciais
+Noise filter with hyperparameter recommendation: a meta-learning approach
+BioPrediction: Democratizing Machine Learning in the Study of Molecular Interactions
+Avaliaçao de frameworks para Recuperaçao de Documentos Legislativos: um Estudo de Caso na Câmara dos Deputados Brasileira
+Multi-agent City Expansion With Land Use and Transport
+Entrevista com André Carlos Ponce de Leon Ferreira de Carvalho
+Prof. André C. Ponce de Leon F. de Carvalho Diretor do ICMC
+Algorithm selection and performance understanding for time series forecasting
+Reconocimiento de Entidades Nombradas: una investigación para el idioma Portugués
+tsMorph: generation of semi-synthetic time series to understand algorithm performance.
+Aplicação de modelos de aprendizado de máquina em conjuntos de dados sobre sustentabilidade
+BioPrediction: Democratizando a Aprendizagem de Máquina no Estudo de Interações Moleculares
+Multi-agent city expansion with land use and transport
+Previsão do preço do carbono por modelos de aprendizado de máquina
+An agent-based approach to procedural city generation incorporating Land Use and Transport Interaction models
+Content-Based Lawsuits Document Image Retrieval
+Lawsuits Document Images Processing Classification
+Relatório anual da sbc 2021-2022
+Ética e Regulação na Inteligência Artificial
+Otimização de uso de Pista no Gerenciamento de Fluxo de Tráfego Aéreo: O Problema de Pouso de Aeronaves
+A new data characterization for selecting clustering algorithms using meta-learning
+Uma avaliação com princípios
+Hybrid forecasting combinations by feature based metalearning
+Predictable universally unique identification of sequential events on complex objects
+Relatório Anual da SBC 2020-2021
+Detecção de anomalia através da comparação de modelos representativos
+A step toward a reinforcement learning de novo genome assembler
+Feature Importance Analysis of Non-coding DNA/RNA Sequences Based on Machine Learning Approaches
+Comparação de formulações matemáticas para o problema de pouso de aeronaves
+Garimpeiro moderno.[Depoimento a Sidnei Santos de Oliveira]
+Towards a reinforcement learning de novo genome assembler.
+"O Futuro da Educação em IA: Pública, Privada ou Institucional?"
+"Hybrid Artificial Intelligent Systems: 15th International Conference, HAIS 2020, Gijón, Spain, November 11-13, 2020, Proceedings"
+Um Estudo sobre Subnotificação de Mortalidade por Covid-19 na Cidade de Manaus
+Machine Learning Tools for Bioinformatics Problems
+Check for updates Ensemble Clustering for Novelty Detection in Data Streams
+Multi-objective basic variable neighborhood search for portfolio selection
+Transfer Learning for Algorithm Recommendation
+Mobilidade e segurança pública
+Fraud Detection Using Explainable Machine Learning Algorithms.
+Quando os computadores se tornarem mais inteligentes que os humanos
+Cheat Sheet and Project on Predictive Analytics
+Inteligência artificial e cibersegurança
+Online local boosting: improving performance in online decision trees
+We are living in a period of history...[Prefácio]
+End-to-end data science (Pajé)
+Inteligência artificial deve ser transparente ou caixa-preta?
+Cuidado: a inteligência artificial pode errar!
+O que a máquina pode aprender?
+"Com veículos autônomos, automóveis serão compartilhados"
+A matemática da inteligência artificial
+Inteligência artificial responsável cria regras para proteger direitos e evitar decisões baseadas em preconceitos
+Feature-Based Time Series Classification for Service Request Opening Prediction in the Telecom Industry
+Fraud detection using explainable machine learning algorithms
+Linear Models for Portfolio Selection with Real Features
+Check for updates CF4CF-META: Hybrid Collaborative Filtering Algorithm Selection Framework
+Label Expansion for Multi-label Classification
+Single Score Feature Selection Applied to the Problem of Distinguishing Long Non-coding RNAs from Protein Coding Transcripts
+Session details: Information systems: DS-data streams track
+Special issue SOCO 2014: Recent advancements in soft computing and its application in industrial and environmental problems.
+Identifying biomarkers and trajectories of executive functions and language
+Inteligência artificial: o que é e de onde vem
+Conecta: máquinas que aprendem e ensinam
+Aprendizado de máquina: aprendendo a ser artificialmente inteligente
+O desafio de construir veículos autônomos
+Although Machine Learning is currently a hot topic...[Prefácio]
+"KDMiLe-Symposium on Knowledge Discovery, Mining and Learning"
+Using a multi-objective artificial immune system approach for biodiversity conservation
+Noise detection in classification problems
+Session details: DS-data streams track
+Special Issue CISIS15-IGPL
+Máquinas que aprendem: o que nos ensinam?
+"Symposium on knowledge discovery, mining and learning, 5"
+BRACIS 2017
+Detectar anomalias a fim de facilitar o diagnóstico médico por meio de agrupamento de dados e abstrações temporais
+Special issue HAIS 2014: Recent advancements in hybrid artificial intelligence systems and its application to real-world problems
+Relatório de gestão da comissão de relações internacionais do Instituto de Ciências Matemáticas e de Computação-período 25/06/2014 a 24/06/2014
+Supplementary Material for Lessons learned from the NeurIPS 2021 MetaDL challenge: Backbone fine-tuning without episodic meta-learning dominates for few-shot learning image classification
+Improving the predictive performance of online decision trees
+Special issue HAIS 2012
+Special issue HAIS12-IGPL
+Symbiosis Between Non-Transferable Plasmids and Prokaryotic Cells
+Special issue SOCO12
+Special issue HAIS12-IGPL
+Multi-objective optimization in systematic conservation planning and the representation of genetic variability among populations
+PVis—Partitions' visualizer: Extracting knowledge by visualizing a collection of partitions
+Proceedings of the 9th International Conference on Hybrid Artificial Intelligence Systems-Volume 8480
+"International Joint Conference SOCO’14-CISIS’14-ICEUTE’14: Bilbao, Spain, June 25th-27th, 2014, Proceedings"
+Unbalanced Data Sets
+Proceedings of the 9th International Conference on Hybrid Artificial Intelligent Systems-HAIS
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics): Preface
+Viabilidade do aprendizado ativo em máquinas extremas
+"Proceedings of the II Symposium on Knowledge Discovery, Mining and Learning"
+This volume of Lecture Notes on Artificial Intelligence (LNAI) includes...[Prefácio]
+Evolutionary Computation and Optimization
+Recent trends in intelligent data analysis
+Mineração de dados para detecção de fraudes
+Seleção de atributos em problemas de classificação com uma única classe
+Proceedings of the 8th International Conference on Hybrid Artificial Intelligent Systems-HAIS
+Proceedings of the 2012 4th International Conference on Computational Aspects of Social Networks
+Análise da associação entre MicroRNAs e doenças utilizando aprendizado de máquina
+"Linking sound, image and space in an interactive installation: real-time sound synthesis and live image in I/VOID/O"
+Proceedings of the Fourth International Conference on Computational Aspects of Social Networks
+Algoritmos genéticos em problemas de classificação
+Ensembles de Classificadores para Bases de Dados Desbalanceadas: Uma Abordagem baseada em Amostragem Evolucionária
+Palestra de Abertura
+André CPLF de Carvalho
+Innovation and intellectual property rights
+Proceedings of the 26. ACM Symposium On Applied Computing-ACM-SAC-2011
+Machine learning approaches for miRNA prediction
+Identificação de ruído em dados de expressão gênica
+Usando redes neurais artificiais para recomendar meta-heurísticas para o problema do caixeiro viajante
+Proceedings of the Third World Congress on Nature and Biologically Inspired Computing
+Modelagem de comportamento de jogadores por meio de agrupamento online e detecção de novidades
+REDES NEURAIS ARTIFICIAIS APLICADAS A PROBLEMAS DE CLASSIFICAC AO HIER ARQUICA MULTIRR OTULO
+Special issue for the SBRN Guest Editorial
+Determinação Automática do Número Ótimo de Iterações do Filtro de Difusão Anisotrópica para Redução de Ruídos de Imagens 3D de Ressonância Magnética do Cérebro
+Atualizações em informática 2010
+Proceedings of the Second World Congress on Nature and Biologically Inspired Computing
+Intelligent Informatics
+Modelo Estatístico para a Determinação do Número Ótimo de Iterações do Filtro de Difusão Anisotrópica Aplicado à Redução de Ruído de Imagens de Ressonância Magnética do Cérebro
+Descrição de uma abordagem híbrida para aprender com classes desbalanceadas utilizando algoritmos genéticos
+Meta-learning approach to gene expression data classification
+Foundations of computational intelligence: bio-inspired data mining theoretical foundations and applications [Prefácio]
+Proceedings of the World Congress on Nature and Biologically Inspired Computing
+2009 World Congress on Nature & Biologically Inspired Computing
+Foundations of Computational Intelligence: Function Approximation and Classification
+Special track on data streams
+Brazilian Symposium on Neural Networks (SBRN2006)
+Special Issue HIS 2007
+Special track on Data Streams: editorial message
+Classification with Applications in Bioinformatics
+NEURAL NETWORK WORLD
+Artificial Ants in the Real World: Solving On-line Problems Using Ant Colony Optimization
+"Editorial| Journal of Retailing and Consumer Services-Volume 14, Issue 6"
+Session details: Data streams
+RELATORIOS TÉCNICOS DO ICMC
+In this special issue we are very...
+Impressora é rápida e ecônomica
+Identificação de ruídos em dados de bioinformática
+Computational intelligence for remote monitoring of the dressing operation throught a high speed network
+Classificação de mapas acústicos para a automação do monitoramento
+Partitional clustering improvement with genetic algorithms
+Utilização de redes neurais artificiais para classificação de diferentes soluções ultra-diluídas
+Improving clustering with genetic algorithms
+"Workshop em Algoritmos e Aplicações de Mineração de Dados, 2"
+"Workshop on Computational Intelligence (WCI´ 2006), 1"
+Otimização Evolutiva do Conjunto de Sensores Utilizados por uma Língua Artificial
+The brazilian symposium on neural networks (SBRN´ 04).
+Classifier combination applied for understanding of eyes images
+"Sixth International Conference on Computational Intelligence and Multimedia Applications: ICCIMA 2005: Proceedings: 16-18 August 2005, Las Vegas, Nevada"
+Automatic monitoring and diagnosis of the dressing operation through the classification of textural patterns in acoustic maps
+Proceedings of Sixth International Conference on Computational Intelligence and Multimedia Applications
+Scanner que aceita negativos ganha qualidade
+Multi-agent systems and machine learning facilitating genoma annotation
+Credit Card Users' Data Mining.
+Simulação de um sistema de controlo de tiro de um carro de combate utilizando o kernel de tempo real S. Ha. RK
+Uma rotina baseada em algoritmos genéticos para identificação de harmônicos em chaveamentos de banco de capacitores
+Comparison of parallel multi-objective evolutionary algorithms
+Minidisco permite usar programas sem instalá-los
+Versatilidade justifica o preço de scanner
+Sistema inteligente para interpretação de imagens para medição de erros refrativos oculares
+Algoritmo genético híbrido aplicado na determinação da operação ótima de sistemas hidrotérmicos da potência
+An evolutionary neural network for fault classification in non-stationary problems
+An evolutionary neural network for non-stationary problems
+Phylogenetic reconstruction from evolutionary algorithm using edge-set representation
+A dynamical model for multi-scale pixel clustering
+Utilização de aprendizado de máquina para adaptação de ligações em hipermídia adaptiva
+Impressora laser é rápida e precisa
+Facilidade de uso é trunfo da easyshare
+Abordagem híbrida para adaptação de casos em sistemas de raciocínio baseado em casos
+Interpretação e análise de imagens oftalmológicas para medição de vícios de refração ocular
+Gabinete pequeno é destaque de pc itautec
+Qualidade de impressão é destaque
+Aplicação de computação evolutiva no planejamento de sistemas hidrotérmicos
+Aplicação de inteligência artificial no planejamento da operação de sistemas hidrotérmicos de potência
+Seleção de Modelos de Redes Neurais RBF via Algoritmos Genéticos
+E. coli promoter gene sequence and human splice site identification with explanation by extracting rules from trained artificial neural networks
+Abordagens híbridas para recuperação e adaptação de casos em sistemas de raciocínio baseado em casos
+Hipermídia adaptativa
+Tecnologias para adaptação em hipermídia
+As Máquinas de Vetores Suporte
+Soft facilita produção de desenhos no PC
+Aplicação de algoritmos genéticos na determinação da operação ótima de sistemas hidrotérmicos de potência [CD-ROM]
+Using ontologies for intelligent information retrieval in an e-commerce application case study
+Taste sensor based on conducting polymer
+"Com nova tecnologia de tintas, C80 imprime com mais qualidade"
+Cadernos de Computação
+and Symbolic Learning Algorithms
+Velocidade é grande atração da Z65
+Graph chain representation and its advantages for reconfiguration of large distribution systems.(CDROM)
+Um sistema de rede neural artificial associada à estimulação elétrica neuro muscular para o controle da marcha em pacientes lesados medulares
+Uma abordagem para explicação de redes neurais artificiais
+Load flow for radial distribution system using the graph chain representation.(CDROM)
+Understanding Credit Card Users' Behaviour: A Data
+Aprendizado de máquina aplicado ao estudo de marcadores moleculares para a produção de carne bovina.
+Empresas de informática que surgiram a partir do meio acadêmico
+INTRODUCTION BY GUEST EDITORS
+Proceedings of the Fourth International Conference on Computational Intelligence And Multimedia Applications
+ICMC-USP
+Utilizando algoritmos simbólicos para extrair regras de redes neurais treinadas
+Língua eletrônica utilizando polímeros condutores.(cdrom)
+Novos recursos deixam soft mais versátil
+Soft faz desenhos tridimesionais
+"Escola Regional de Informática de São Paulo-SBC, 6"
+Um sistema para escolha e configuração de modelos de redes neurais utilizando raciocínio baseado em casos
+Introduction By Guest Editors: Non-Gradient Learning Techniques.
+Implementação de redes neurais artificiais e algoritmos construtivos como componentes COM
+Applying One-Sided Selection to Unbalanced
+An algorithm for analysis and validation of segment points on oversegmented cursive handwriting
+Utilização de redes neurais construtivas para o reconhecimento de padrões
+Combinação de estimadores para previsão de distancias em um robô móvel
+Estudo da viabilidade de uma aplicação de algoritmos genéticos em restabelecimento de energia
+Ambiente para simulação de redes neurais
+Modelo de redes neurais para o processo de lodos ativados de tratamento de esgotos domésticos [CD-ROM]
+Architecture design of artificial neural networks based on Box & Jenkins models for time series prediction
+Integração de redes neurais artificiais & métodos estocásticos para previsão de séries temporais
+Reconhecimento de Alvos utilizando Redes Neurais Construtivas
+Umestudo comparativo de técnicas de pruning para redes neurais artificiais
+Utilização de redes neurais artificiais e modelos box & junkins para previsão de séries temporais
+Soft antivírus oferece bom desempenho
+Utilização de support vector machines para o reconhecimento de padrões e estimativa de séries temporais
+Usando tecnicas de pruning para reduzir a complexidade de redes neurais artificiais
+"Reconhecimento de alvos utilizando redes neurais, métodos estatísticos e combinação de classificadores"
+MEDICAL APPLICATIONS-Computerized Classification of Breast Lesions: Shape and Texture Analysis Using an Artificial Neural Network
+Aplicação de computação evolucionária no planejamento de sistemas hidrotérmicos [CD-ROM]
+Application of genetic algorithms to define the optimal operation of hydroelectric power systems
+Applying adaptive logic networks to character recognition
+Author Affiliations
+ICCIMA ‘98
+"E. CUADROS, MA ÁLVAREZ, APLF CARVALHO"
+Artificial Neural Network Applied to Power System Protection
+Restabelecimento de energia em sistemas de distribuição radiais usando busca com heurísticas fuzzy
+Utilização de redes neurais construtivas para o reconhecimento de padrões
+Optimal planning of energetic operation using genetic algorithms
+A ga approach for optimal restoration in radial distribution systems
+Previsão de séries temporais financeiras utilizando redes neurais artificiais e métodos de Box & Jenkins
+Reconhecimento de imagens utilizando redes neurais-Projeto Sapri
+Programa codifica e-mail e evita ações de bisbilhoteiros
+Otimização de redes neurais de funções de base radial utilizando algoritmos genéticos
+Notas de aula de redes neurais
+Communicator inclui até agenda
+"Sistemas inteligentes: redes neurais, algoritmos genéticos e sistemas híbridos"
+Redes de funções base radial para avaliação de risco de crédito
+Optimal energy operation planning of hydrothermal systems using artificial intelligence techniques [CD-ROM]
+Combinação de classificadores para o reconhecimento de alvos
+Protótipo de um sistema híbrido de raciocínio baseado em casos
+Comparative study of'GSN POT f'learning methods
+Artificial neural network classification of milk using chromatograms of its lipidic portion obtained by HRGC
+"Otimização dos parâmetros de redes neurais artificiais (RNA) do tipo"" Multilayer Perceptron""(MLP) para a classificação, segundo classes químicas, de monoterpenos através dos respectivos espectros de massa"
+Um ambiente de segurança distribuído para a integração de firewalls com sistemas de detecção de intrusão
+Neural networks applied in intrusion detection systems
+Aplicação de redes neurais para determinação de parâmetros de vibração
+Projeto evolucionário de arquiteturas neurais MLP para o problema de avaliação de crédito
+Planejamento ótimo da operação energética utilizando algoritmos genéticos
+Pesquisa e desenvolvimento de sistemas inteligentes para engenharia no LABIC/ICMSC/USP
+Ambiente Distribuído para Integração de Tecnologias de Segurança
+A COMPARATIVE STUDY OF GSNf LEARNING METHODS
+Projeto evolucionário de redes neurais artificiais para avaliação de crédito financeiro
+Sistema híbrido: raciocínio baseado em casos e redes neurais
+Raciocínio baseado em casos utilizando redes neurais
+Gerenciador de backups é fácil de usar
+SNNS-Stuttgart neural network simulator: manual de referência rápida
+Reconhecimento de silhuetas de veículos usando combinação de classificadores
+Avaliação de crédito utilizando redes neurais artificiais e algoritmos genéticos
+Utilização de redes neurais artificiais para previsão de séries temporais
+Integrando redes neurais e raciocínio baseado em casos
+Comportamento de evitar obstáculo para sistema de navegação
+Simulador multi-threads de redes neurais ontogênicas orientado a objetos
+Uma nova abordagem na avaliação de projetos de transporte: o uso das redes neurais artificiais como método para avaliar e ordenar alternativas
+Usando algoritmos simbólicos e conexionistas para avaliação de crédito
+Training algorithms for GSN/sup f/neural networks
+Optimum energy re-establishment in distribution systems: a comparison between the search performance using fuzzy heuristics and genetic algorithms; Restabelecimento otimo de energia em sistemas de distribuicao: uma comparacao entre o desempenho de busca com heuristica fuzzy e algoritmos geneticos
+Deteccao de intrusao em redes de computadores usando redes neurais
+Controle de qualidade da agua utilizando sistemas hibridos inteligentes
+Reconhecimento de caracteres escritos a mao usando redes neurais
+NeurAval: sistema neural para avaliação de crédito financeiro
+Reconhecimento de codigos postais
+Restabelecimento otimo de energia em sistemas de distribuicao: uma comparacao entre o desempenho de busca com heuristica fuzzy e algoritmos geneticos
+Previsao de series temporais utilizando redes neurais
+"Sapri-sistema para aquisicao, processamento e reconhecimento de imagens"
+Modelagem preliminar de uma estacao de tratamento de esgotos utilizando redes neurais
+Classificacao quimica de monoterpenos atraves de seus espectros de massas utilizando redes neurais perceptrons de multicamadas
+Utilizacao de redes neurais em series temporais financeiras
+Restabelecimento otimo de energia em sistemas de distribuicao utilizando algoritmos geneticos
+Utilizacao de redes neurais artificiais na analise de credito a pessoas fisicas
+Visao para robos industriais utilizando redes neurais booleanas
+Winfax tem bons recursos mas e caro
+Modular neural architecture for pattern recognition
+Parallel implementation of RAM-based neural networks
+Sistema de reconhecimento de pecas mecanicas para robo de montagem-abordagem utilizando rede neural com arquitetura baseada no modelo gsn
+Desenvolvimento de um sistema de visão artificial de robô baseado em redes neurais
+Anais do II Simpósio Brasileiro de Redes Neurais
+Feature extraction using the SOFT boolean architecture
+Preliminary Spatial and Temporal Analysis of Citrus Variegated Chlorosis
+Goal seeking neural network architectures for image classification applications
+From Pixels to Features III: Frontiers in Handwriting Recognition S. Impedovo and JC Simon (eds.)© 1992 Elsevier Science Publishers BV All rights reserved. 415
+A Genetic Algorithm Approach to Optimize the Operation Planning of Hydrothermal System Scheduling
+"Serological survey for Chagas's disease in blood donors in Recife, Pernambuco."
+ORIGAMI DE RIEMANN E CONVERGÊNCIA DE SEQUÊNCIAS PSEUDO-ANOSOV
+Dynamics and geometry on surfaces
+LIST OF REVIEWERS VOLUME 19 (2005)
+2017 XLIII Latin American Computer Conference (CLEI) List of Authors
+Supplementary materials (A step towards a reinforcement learning de novo genome assembler)
+SADIO Electronic Journal of Informatics and Operations Research
+"The Effect of Memory Size on the Evolutionary Stability of Strategies in Iterated Prisoner’s Dilemma..... J. Li and G. Kendall 819 An Evolutionary Multiobjective Approach to Sparse Reconstruction.............. L. Li, X. Yao, R. Stolkin, M. Gong, and S. He 827 A New Memetic Algorithm With Fitness Approximation for the Defect-Tolerant Logic Mapping in Crossbar-Based Nanoarchitectures.................................................................. B. Yuan, B. Li, T. Weise, and X. Yao 846 Performance Analysis of Evolutionary Algorithms for the Minimum Label Spanning Tree Problem..........................."
+MICAI 2017 Program Committee
+EMENTAS DAS DISCIPLINAS DO 5º PERÍODO
+Metafore: Algorithm Selection for Decomposition Forecasting Combinations
+Bio-inspired data mining
+"João Gama, INESC Porto, University of Porto, Portugal; André Carvalho, ICMC, University S. Paulo, Brasil; Shonali Krishnaswamy, Monash University, Australia Pedro Pereira Rodrigues, INESC Porto, University of Porto, Portugal"
+"Special Issue HAIS12–New Trends on Hybrid Intelligent Models and Applications Guest Editors: Héctor Quintián, Emilio Corchado, Andre de Carvalho, Ajith Abraham, Michał Wózniak, Manuel Graña and Sung-Bae Cho"
+Swinn: Efficient Nearest Neighbor Search in Sliding Windows Using Graphs
+Time-frequency Analysis and Artificial Intelligence in Pathological Voice Signals Processing
+Por Autor A
+SBRN2006 Reviewers
+SBRN2006 Committees
+"André Carlos Ponce de Leon Ferreira de Carvalho, ICMC-University of São Paulo, Brazil"
+OBD-2015 Program Committee
+ICTAI 2017
+UlyssesNER-Br: a corpus of Brazilian legislative documents for named entity recognition
+Section for the International Conference on Bioinformatics and Computational Biology
+Redes Neurais Artificiais e Algoritmos Genéticos
+Wagner Meira Jr. André CPLF de Carvalho
+I WORKSHOP BRASILEIRO DE BIOINFORMÁTICA
+2012 Fourth World Congress on Nature and Biologically Inspired Computing (NaBIC)
+ASONAM 2013 program committee
+SPECIAL ISSUE ON IMAGING IN BIOFORMATICS: PART III
+Computational Aspects of Social Networks (CASoN)
+ICNC 2008
+LOGIC JOURNAL of the IGPL
+Neuro-symbolic Algorithms and Models for Bio-inspired Systems
+A change is gonna come
+H2G: Um Aplicativo para Identificaçao de Genes Hiper e Hipo Expressos com Base nos Dados de SAGE
+International Joint Conference SOCO’14-CISIS’14-ICEUTE’14
+General Co-Chairs
+ICNC 2011
+Fusão de Sensores Utilizando Combinação de Estimadores
+SBRN 2012
+Multi-Objective Genetic Algorithms for Protein Sequence Alignment
+A Study of Biclustering Coherence Measures for Gene Expression Data–Supplementary Material
+Investigação de diferentes medidas de caracterização de dados em meta-aprendizado
+Viabilidade do Aprendizado Ativo em Máquinas Extremas
+Aprendizado de Máquina
+Introdução à Inteligência Artificial
+Sistema Inteligente para Interpretação de Imagens para Medição de Erros Refrativos Oculares
+A Dynamical Model for Biological Data Clustering
+Redes neurais artificiais multicamadas aplicadas à adubação para a cultura da goiabeira
+Uma heurística GRASP para o problema de agrupamento de dados
+New label noise injection methods for the evaluation of noise filters Open Website
+Machine Learning Approaches for miRNA Prediction
+Supplement to the paper’Metalearning for gene expression data classification’
+Um Estudo Comparativo de Extraçao de Conhecimento Simbólico de Redes Neurais

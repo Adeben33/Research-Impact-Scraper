@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Differential responses of spinal axons to transection: influence of the NG2 proteoglycan",
+    "year": 2005,
+    "authors": "Romulo de Castro Jr and Rokhsareh Tajrishi and Jennifer Claros and William B Stallcup",
+    "venue": "Experimental neurology",
+    "citations": 105,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0014488604004315"
+  },
+  {
+    "title": "Metalloproteinase increases in the injured rat spinal cord",
+    "year": 2000,
+    "authors": "Romulo de Castro Jr and Cynthia L Burns and David J McAdoo and Anne M Romanic",
+    "venue": "Neuroreport",
+    "citations": 93,
+    "doi": "https://journals.lww.com/neuroreport/fulltext/2000/11090/metalloproteinase_increases_in_the_injured_rat.29.aspx"
+  },
+  {
+    "title": "An analysis of the epitope knowledge related to Mycobacteria",
+    "year": 2007,
+    "authors": "Martin J Blythe and Qing Zhang and Kerrie Vaughan and Romulo De Castro and Nima Salimi and Huynh-Hoa Bui and David M Lewinsohn and Joel D Ernst and Bjoern Peters and Alessandro Sette",
+    "venue": "Immunome research",
+    "citations": 77,
+    "doi": "https://link.springer.com/article/10.1186/1745-7580-3-10"
+  },
+  {
+    "title": "Considerations in the determination by microdialysis of resting extracellular amino acid concentrations and release upon spinal cord injury",
+    "year": 1998,
+    "authors": "G-Y Xu and DJ McAdoo and MG Hughes and G Robak and R de Castro Jr",
+    "venue": "Neuroscience",
+    "citations": 63,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0306452298000633"
+  },
+  {
+    "title": "Curation of complex, context-dependent immunological data",
+    "year": 2006,
+    "authors": "Randi Vita and Kerrie Vaughan and Laura Zarebski and Nima Salimi and Ward Fleri and Howard Grey and Muthu Sathiamurthy and John Mokili and Huynh-Hoa Bui and Philip E Bourne and Julia Ponomarenko and Romulo de Castro and Russell K Chan and John Sidney and Stephen S Wilson and Scott Stewart and Scott Way and Bjoern Peters and Alessandro Sette",
+    "venue": "BMC bioinformatics",
+    "citations": 40,
+    "doi": "https://link.springer.com/article/10.1186/1471-2105-7-341"
+  },
+  {
+    "title": "Evidence that infiltrating neutrophils do not release reactive oxygen species in the site of spinal cord injury",
+    "year": 2004,
+    "authors": "R de Castro Jr and MG Hughes and G-Y Xu and C Clifton and NY Calingasan and BB Gelman and DJ McAdoo",
+    "venue": "Experimental neurology",
+    "citations": 40,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0014488604003097"
+  },
+  {
+    "title": "Microdialysis studies of the role of chemical agents in secondary damage upon spinal cord injury",
+    "year": 1997,
+    "authors": "DAVID J McADOO and MICHAEL G HUGHES and GUO-YING XU and GREGORY ROBAK and ROMULO de CASTRO Jr",
+    "venue": "Journal of neurotrauma",
+    "citations": 38,
+    "doi": "https://www.liebertpub.com/doi/abs/10.1089/neu.1997.14.507"
+  },
+  {
+    "title": "Biomarker Discovery for Meta-Classification of Melanoma Metastatic Progression using Transfer Learning",
+    "year": 2021,
+    "authors": "Jose Marie Antonio Mi\u00f1oza and Jonathan Adam Rico and Pia Regina Fatima Zamora and Manny Bacolod and Reinhard Laubenbacher and Romulo de Castro",
+    "venue": "N/A",
+    "citations": 15,
+    "doi": "https://www.mdpi.com/2073-4425/13/12/2303"
+  },
+  {
+    "title": "Age-stratified infection probabilities combined with a quarantine-modified model for COVID-19 needs assessments: model development study",
+    "year": 2021,
+    "authors": "Vena Pearl Bongolan and Jose Marie Antonio Minoza and Romulo de Castro and Jesus Emmanuel Sevilleja",
+    "venue": "Journal of Medical Internet Research",
+    "citations": 14,
+    "doi": "https://www.jmir.org/2021/5/e19544/"
+  },
+  {
+    "title": "Pathways-and epigenetic-based assessment of relative immune infiltration in various types of solid tumors",
+    "year": 2019,
+    "authors": "Manny D Bacolod and Francis Barany and Karsten Pilones and Paul B Fisher and Romulo J de Castro",
+    "venue": "Advances in cancer research",
+    "citations": 13,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0065230X19300132"
+  },
+  {
+    "title": "Sampling of low molecular weight iron by microdialysis following spinal cord injury",
+    "year": 1999,
+    "authors": "Romulo de Castro Jr and Nancy W Alcock and David J McAdoo",
+    "venue": "Journal of neuroscience research",
+    "citations": 11,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4547(19990901)57:5%3C735::AID-JNR15%3E3.0.CO;2-%23"
+  },
+  {
+    "title": "Modeling the dynamics of COVID-19 using Q-SEIR model with age-stratified infection probability",
+    "year": 2020,
+    "authors": "Joshua Frankie Rayo and Romulo de Castro and Jesus Emmanuel Sevilleja and Vena Pearl Bo\u00f1golan",
+    "venue": "medRxiv",
+    "citations": 8,
+    "doi": "https://www.medrxiv.org/content/10.1101/2020.05.20.20095406.abstract"
+  },
+  {
+    "title": "Protection after quarantine: insights from a Q-SEIR model with nonlinear incidence rates applied to COVID-19",
+    "year": 2020,
+    "authors": "Jose Marie Antonio Minoza and Jesus Emmanuel Sevilleja and Romulo de Castro and Salvador E Caoili and Vena Pearl Bongolan",
+    "venue": "medRxiv",
+    "citations": 6,
+    "doi": "https://www.medrxiv.org/content/10.1101/2020.06.06.20124388.abstract"
+  },
+  {
+    "title": "COVID-19 AGENT-BASED MODEL: AN EPIDEMIOLOGICAL SIMULATOR APPLIED IN VACCINATION SCENARIOS FOR QUEZON CITY, PHILIPPINES.",
+    "year": 2021,
+    "authors": "VP Bongolan and KK Ang and JJ Celeste and JM Minoza and S Caoili and RL Rivera and R De Castro",
+    "venue": "International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences",
+    "citations": 4,
+    "doi": "https://isprs-archives.copernicus.org/articles/XLVI-4-W6-2021/65/2021/isprs-archives-XLVI-4-W6-2021-65-2021.html"
+  },
+  {
+    "title": "Are phenome-wide association studies feasible in a developing country?",
+    "year": 2022,
+    "authors": "Gerard G Dumancas and Destiny Harrison and Jonathan Adam Rico and Pia Regina Fatima C Zamora and Aretha G Liwag and Joselito F Villaruz and Ma Luz Vicenta V Guanzon and Hans Francis D Ferraris and Patrick Joseph B Jalandoni and Webster F Padernal and Bea Nestie L Villareal and Ria A Maculada and Rachael Mae A Fernandez and Felix Ray Villa and Romulo de Castro",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://www.cell.com/trends/genetics/abstract/S0168-9525(22)00111-1"
+  },
+  {
+    "title": "Age-stratified Infection Probabilities Combined with Quarantine-Modified SEIR Model in the Needs Assessments for COVID-19",
+    "year": 2020,
+    "authors": "Vena Pearl Bongolan and Jose Marie Antonio Minoza and Romulo de Castro and Jesus Emmanuel Sevilleja",
+    "venue": "MedRxiv",
+    "citations": 2,
+    "doi": ""
+  },
+  {
+    "title": "Barriers and Recommendations for Developing a Data Commons for the Implementation and Application of Cardiovascular Disease and Diabetes Risk Scoring in the Philippines",
+    "year": 2020,
+    "authors": "Gerard G Dumancas and Romulo de Castro and Jonel P Saludes and Bridith S Pe\u00f1aranda and Ghalib A Bello and Felix Ray P Villa and Bea Nestie Angeli L Villareal and Webster F Padernal and Teila Matilda A Posecion and Ma Luz Vicenta V Guanzon and Julius M Drilon and Jaime C Montoya",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/article/10.1007/s40471-020-00232-7"
+  },
+  {
+    "title": "Some contributions by neutrophils to the pathophysiology of spinal cord injury: neutrophil ablation studies",
+    "year": 1999,
+    "authors": "Romulo Joseph Feliciano de Castro Jr",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://search.proquest.com/openview/3e55460f4c559d6ab4db9211c3b59ac4/1?pq-origsite=gscholar&cbl=18750&diss=y"
+  },
+  {
+    "title": "Rendezvous between genetics and neuroscience",
+    "year": 2022,
+    "authors": "Gerard G Dumancas and Destiny Harrison and Jonathan Adam Rico and Pia Regina Fatima C Zamora and Aretha G Liwag and Joselito F Villaruz and Ma Luz Vicenta V Guanzon and Hans Francis D Ferraris and Patrick Joseph B Jalandoni and Webster F Padernal and Bea Nestie L Villareal and Ria A Maculada and Rachael Mae A Fernandez and Felix Ray Villa and Romulo de Castro and Adekunle T Bademosi and Adam K Walker",
+    "venue": "Rendezvous",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "USING AN AGENT-BASED, MODIFIED SEIR MODEL WITH LINEAR PROGRAMMING TO OPTIMIZE VACCINE ALLOCATION",
+    "year": 2022,
+    "authors": "VP Bongolan and KK Ang and J Celeste Jr and JMA Minoza and JF Rayo and SE Caoili and R de Castro and RL Rivera and JE Sevilleja",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.worldscientific.com/doi/abs/10.1142/9789811260100_0044"
+  },
+  {
+    "title": "Early COVID-19 Pandemic Response in Western Visayas, Philippines",
+    "year": 2022,
+    "authors": "Pia Regina Fatima Zamora and Jonathan Adam Rico and Dominic Karl Bolinas and Jesus Emmanuel Sevilleja and Romulo de Castro",
+    "venue": "medRxiv",
+    "citations": 0,
+    "doi": "https://www.medrxiv.org/content/10.1101/2022.07.21.22277909.abstract"
+  },
+  {
+    "title": "mHealth for the CDU Electronic Disease Registry to Improve Chronic Care (CEDRIC).",
+    "year": 2013,
+    "authors": "Sukrit Mukherjee and Omolola Ogunyemi and John McDonough and Romulo de Castro Jr",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Sukrit-Mukherjee/publication/275522891_mHealth_for_the_CDU_Electronic_Disease_Registry_to_Improve_Chronic_Care_CEDRIC/links/568b6ebd08aebccc4e1a57d6/mHealth-for-the-CDU-Electronic-Disease-Registry-to-Improve-Chronic-Care-CEDRIC.pdf"
+  },
+  {
+    "title": "Developing a Service Oriented and Data Intensive Web Portal to Facilitate Translational Research in a Minority Institution.",
+    "year": 2012,
+    "authors": "Sukrit Mukherjee and Jessica Escobedo and Romulo de Castro Jr",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Sukrit-Mukherjee/publication/275523135_Developing_a_Service_Oriented_and_Data_Intensive_Web_Portal_to_Facilitate_Translational_Research_in_a_Minority_Institution/links/5a5dc6c3a6fdcc68fa980a21/Developing-a-Service-Oriented-and-Data-Intensive-Web-Portal-to-Facilitate-Translational-Research-in-a-Minority-Institution.pdf"
+  }
+]

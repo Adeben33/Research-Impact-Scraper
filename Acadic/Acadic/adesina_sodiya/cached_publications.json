@@ -1,0 +1,858 @@
+[
+  {
+    "title": "A predictive model for phishing detection",
+    "year": 2022,
+    "authors": "Abdul A Orunsolu and Adesina S Sodiya and Adio Taofeek Akinwale",
+    "venue": "Journal of King Saud University-Computer and Information Sciences",
+    "citations": 125,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1319157819304902"
+  },
+  {
+    "title": "Threat modeling using fuzzy logic paradigm",
+    "year": 2007,
+    "authors": "Adesina S Sodiya and S Adebukola Onashoga and BA Oladunjoye",
+    "venue": "Informing Science: International Journal of an Emerging Transdiscipline",
+    "citations": 75,
+    "doi": "https://books.google.com/books?hl=en&lr=&id=2t9INNWbB_QC&oi=fnd&pg=PA53&dq=info:rr5uZlXRL0sJ:scholar.google.com&ots=kCgHWg9wWs&sig=wX_4IAyNbg9hAsnQ4mhVHS0QoPo"
+  },
+  {
+    "title": "An improved assessment of personality traits in software engineering",
+    "year": 2007,
+    "authors": "Adesina S Sodiya and Olumide Babatope Longe and S Adebukola Onashoga and Oludele Awodele and LO Omotosho",
+    "venue": "Interdisciplinary Journal of Information, Knowledge, and Management",
+    "citations": 66,
+    "doi": "http://ijikm.org/Volume2/IJIKMv2p163-177Sodiya.pdf?ref=annemariecharrett.com"
+  },
+  {
+    "title": "Towards building secure software systems.",
+    "year": 2006,
+    "authors": "Adesina S Sodiya and S Adebukola Onashoga and OB Ajay\u0129",
+    "venue": "Issues in Informing Science & Information Technology",
+    "citations": 66,
+    "doi": "http://proceedings.informingscience.org/InSITE2006/IISITSodi143.pdf"
+  },
+  {
+    "title": "A Strategic Review of Existing Mobile Agent-Based Intrusion Detection Systems.",
+    "year": 2009,
+    "authors": "Saidat Adebukola Onashoga and Adebayo D Akinde and Adesina Simon Sodiya",
+    "venue": "N/A",
+    "citations": 65,
+    "doi": "https://ftp.tex-host.ru/Security/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B/Reading/08%20IDS/Mobile%20Agent%20IDS%20review.pdf"
+  },
+  {
+    "title": "Mal-Detect: An intelligent visualization approach for malware detection",
+    "year": 2022,
+    "authors": "Olorunjube James Falana and Adesina Simon Sodiya and Saidat Adebukola Onashoga and Biodun Surajudeen Badmus",
+    "venue": "Journal of King Saud University-Computer and Information Sciences",
+    "citations": 57,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1319157822000702"
+  },
+  {
+    "title": "A new two\u2010tiered strategy to intrusion detection",
+    "year": 2004,
+    "authors": "Adesina S Sodiya and HOD Longe and Adio T Akinwale",
+    "venue": "Information Management & Computer Security",
+    "citations": 33,
+    "doi": "https://www.emerald.com/insight/content/doi/10.1108/09685220410518810/full/html"
+  },
+  {
+    "title": "A receipt-free multi-authority e-voting system",
+    "year": 2017,
+    "authors": "P Adewole and Babatunde Odunayo Ojo",
+    "venue": "N/A",
+    "citations": 31,
+    "doi": "https://ir.unilag.edu.ng/handle/123456789/5485"
+  },
+  {
+    "title": "Multi-level and secured agent-based intrusion detection system",
+    "year": 2006,
+    "authors": "Adesina Simon Sodiya",
+    "venue": "Journal of Computing and Information Technology",
+    "citations": 23,
+    "doi": "https://hrcak.srce.hr/clanak/69283"
+  },
+  {
+    "title": "A mobile phone-based antenatal care support system",
+    "year": 2011,
+    "authors": "SA Onashoga and Adesina S Sodiya and TO Omilani and HO Ajisegiri",
+    "venue": "N/A",
+    "citations": 22,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6041871/"
+  },
+  {
+    "title": "An integrated decision support system for intercropping",
+    "year": 2012,
+    "authors": "Adesina S Sodiya and Adio T Akinwale and KA Okeleye and JA Emmanuel",
+    "venue": "N/A",
+    "citations": 20,
+    "doi": "https://www.igi-global.com/chapter/content/66735"
+  },
+  {
+    "title": "Improved cost models for agent-based association rule mining in distributed databases",
+    "year": 2011,
+    "authors": "AO Ogunde and O Folorunso and AS Sodiya and JA Oguntuase and GO Ogunleye",
+    "venue": "Anale. SeriaInformatica",
+    "citations": 20,
+    "doi": "https://funaab.edu.ng/funaab-ocw/publications-abstract/Improved%20cost%20models%20for%20agent-based%20association%20rule%20mining%20in%20distributed%20databases.PDF"
+  },
+  {
+    "title": "A partition enhanced mining algorithm for distributed association rule mining systems",
+    "year": 2015,
+    "authors": "AO Ogunde and O Folorunso and AS Sodiya",
+    "venue": "Egyptian Informatics Journal",
+    "citations": 19,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1110866515000365"
+  },
+  {
+    "title": "A Review of Some Issues and Challenges in Current Agent-Based Distributed Association Rule Mining",
+    "year": 2011,
+    "authors": "AO Ogunde and O Folorunso and AS Sodiya and GO Ogunleye",
+    "venue": "Asian Journal of Information Technology",
+    "citations": 18,
+    "doi": "https://scholar.google.com/scholar?cluster=9324426452662482869&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Neural network based intrusion detection systems",
+    "year": 2014,
+    "authors": "AS Sodiya and OA Ojesanmi and OC Akinola and O Aborisade",
+    "venue": "International Journal of computer applications",
+    "citations": 17,
+    "doi": "https://www.academia.edu/download/114770677/18705-9636.pdf"
+  },
+  {
+    "title": "A Users' Awareness Study and Influence of Socio-Demography Perception of Anti-Phishing Security Tips.",
+    "year": 2018,
+    "authors": "Abdul A Orunsolu and Omorinola Afolabi and Adesina Simon Sodiya and Adio T Akinwale",
+    "venue": "Acta Informatica Pragensia",
+    "citations": 16,
+    "doi": "https://www.ceeol.com/search/article-detail?id=768409"
+  },
+  {
+    "title": "An adaptive and collaborative server-side SMS spam filtering scheme using artificial immune system",
+    "year": 2015,
+    "authors": "Adebukola S Onashoga and Olusola O Abayomi-Alli and Adesina S Sodiya and David A Ojo",
+    "venue": "Information Security Journal: A Global Perspective",
+    "citations": 16,
+    "doi": "https://www.tandfonline.com/doi/abs/10.1080/19393555.2015.1078017"
+  },
+  {
+    "title": "An Improved Semi-Global Alignment Algorithm for Masquerade Detection.",
+    "year": 2011,
+    "authors": "Adesina S Sodiya and Olusegun Folorunso and Saidat Adebukola Onashoga and Omoniyi Paul Ogunderu",
+    "venue": "Int. J. Netw. Secur.",
+    "citations": 16,
+    "doi": "https://www.academia.edu/download/83631967/An_Improved_Semi-Global_Alignment_Algori20220409-17150-1fn1gpc.pdf"
+  },
+  {
+    "title": "A secure e-voting architecture",
+    "year": 2011,
+    "authors": "Adesina S Sodiya and SA Onashoga and DI Adelani",
+    "venue": "N/A",
+    "citations": 16,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5945258/"
+  },
+  {
+    "title": "DT-Model: a classification model for distributed denial of service attacks and flash events",
+    "year": 2022,
+    "authors": "CO Tinubu and AS Sodiya and OA Ojesanmi and EO Adeleke and AO Adebowale",
+    "venue": "International Journal of Information Technology",
+    "citations": 15,
+    "doi": "https://link.springer.com/article/10.1007/s41870-022-00946-5"
+  },
+  {
+    "title": "An Anti-Phishing Kit Scheme for Secure Web Transactions.",
+    "year": 2017,
+    "authors": "Abdul A Orunsolu and Adesina S Sodiya and AT Akinwale and BI Olajuwon",
+    "venue": "N/A",
+    "citations": 15,
+    "doi": "https://www.scitepress.org/Papers/2017/60749/60749.pdf"
+  },
+  {
+    "title": "A credible cost-sensitive model for intrusion response selection",
+    "year": 2012,
+    "authors": "Aderonke Justina Ikuomola and Adesina Simon Sodiya",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6412406/"
+  },
+  {
+    "title": "Linkcalculator\u2013an efficient link-based phishing detection tool",
+    "year": 2020,
+    "authors": "Orunsolu Abiodun and AS Sodiya and SO Kareem",
+    "venue": "Acta Informatica Malaysia",
+    "citations": 12,
+    "doi": "https://actainformaticamalaysia.com/archives/AIM/2aim2020/2aim2020-37-44.pdf"
+  },
+  {
+    "title": "An empirical evaluation of security tips in phishing prevention: A case study of nigerian banks",
+    "year": 2017,
+    "authors": "Abdul Abiodun Orunsolu and AS Sodiya and AT Akinwale and BI Olajuwon and MA Alaran and OO Bamgboye and OA Afolabi",
+    "venue": "International Journal of Electronics and Information Engineering",
+    "citations": 12,
+    "doi": "http://ijeie.jalaxy.com.tw/contents/ijeie-v6-n1/ijeie-v6-n1.pdf#page=29"
+  },
+  {
+    "title": "Components-Based Access Control Architecture.",
+    "year": 2009,
+    "authors": "Adesina S Sodiya and Adebukola S Onashoga",
+    "venue": "Issues in Informing Science & Information Technology",
+    "citations": 11,
+    "doi": "http://www.iisit.org/Vol6/IISITv6p699-706Sodiya650.pdf"
+  },
+  {
+    "title": "Software security risk analysis using fuzzy expert system",
+    "year": 2008,
+    "authors": "AS Sodiya and HOD Longe and OM Fasan",
+    "venue": "INFOCOMP Journal of Computer Science",
+    "citations": 11,
+    "doi": "https://infocomp.dcc.ufla.br/index.php/INFOCOMP/article/view/231"
+  },
+  {
+    "title": "The design of an adaptive incremental association rule mining system",
+    "year": 2015,
+    "authors": "Adewale O Ogunde and Olusegun Folorunso and Adesina S Sodiya",
+    "venue": "Proceedings of the World Congress on Engineering",
+    "citations": 10,
+    "doi": "https://www.academia.edu/download/76757809/WCE2015_pp172-177.pdf"
+  },
+  {
+    "title": "An assessment of knowledge management capabilities of Nigerian banking institutions",
+    "year": 2006,
+    "authors": "A Sodiya and SA Onashoga and BM Dansu and BA Adeleye",
+    "venue": "College of Natural Sciences Proceedings",
+    "citations": 9,
+    "doi": "https://publications.funaab.edu.ng/index.php/COLNAS/article/view/197"
+  },
+  {
+    "title": "A dynamic intrusion detection system for critical information infrastructure",
+    "year": 2023,
+    "authors": "AO Adejimi and AS Sodiya and OA Ojesanmi and OJ Falana and CO Tinubu",
+    "venue": "N/A",
+    "citations": 8,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468227623002739"
+  },
+  {
+    "title": "PHISHGEM: a mobile game-based learning for phishing awareness",
+    "year": 2023,
+    "authors": "Carolyn Oreoluwa Tinubu and Olorunjube James Falana and Enoch Okikijesu Oluwumi and Adesina Simon Sodiya and Sodiq Ademola Rufai",
+    "venue": "Journal of Cyber Security Technology",
+    "citations": 8,
+    "doi": "https://www.tandfonline.com/doi/abs/10.1080/23742917.2023.2167276"
+  },
+  {
+    "title": "A framework for collaborative, adaptive and cost sensitive intrusion response system",
+    "year": 2010,
+    "authors": "Aderonke J Ikuomola and Adesina S Sodiya and Joshua O Nehinbe",
+    "venue": "N/A",
+    "citations": 8,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5606485/"
+  },
+  {
+    "title": "A Cognitive Rail Track Breakage Detection System Using Artificial Neural Network.",
+    "year": 2021,
+    "authors": "Olufunke Rebecca Vincent and Yetunde Ebunoluwa Babalola and Adesina Simon Sodiya and Olusola John Adeniran",
+    "venue": "Appl. Comput. Syst.",
+    "citations": 6,
+    "doi": "https://intapi.sciendo.com/pdf/10.2478/acss-2021-0010"
+  },
+  {
+    "title": "A survivability model for object-oriented software systems",
+    "year": 2012,
+    "authors": "Adesina S Sodiya and Dada O Aborisade and Aderonke J Ikuomola",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6412416/"
+  },
+  {
+    "title": "An expert system-based site security officer",
+    "year": 2007,
+    "authors": "Olusola Adeniran and Ronke Ikuomola and Adesina Simon Sodiya",
+    "venue": "Journal of computing and information technology",
+    "citations": 6,
+    "doi": "https://hrcak.srce.hr/44619"
+  },
+  {
+    "title": "An efficient and secured graphical authentication system",
+    "year": 2016,
+    "authors": "OJ Elugbadebo and AS Sodiya and O Folorunso",
+    "venue": "2nd International conference on nintelligent Computing and Emerging Technology (ICET)",
+    "citations": 5,
+    "doi": "https://actainformaticamalaysia.com/archives/AIM/1aim2022/1aim2022-17-21.pdf"
+  },
+  {
+    "title": "Adaptive neuro-fuzzy system for malware detection",
+    "year": 2014,
+    "authors": "AS Sodiya and OJ Falana and SA Onashoga and BS Badmus",
+    "venue": "Journal of Computer Science and Its Application",
+    "citations": 5,
+    "doi": "https://www.ajol.info/index.php/jcsia/article/view/150044"
+  },
+  {
+    "title": "Preventing authentication systems from keylogging attack",
+    "year": 2011,
+    "authors": "A Sf Sodiya and O Folorunso and PB Komolafe and OP Ogunderu",
+    "venue": "Journal of Information Privacy and Security",
+    "citations": 5,
+    "doi": "https://www.tandfonline.com/doi/abs/10.1080/15536548.2011.10855909"
+  },
+  {
+    "title": "A behavioral model for characterizing flooding distributed denial of service attacks",
+    "year": 2023,
+    "authors": "Oreoluwa Tinubu and Adesina Sodiya and Olusegun Ojesanmi",
+    "venue": "International Journal of Information Technology",
+    "citations": 4,
+    "doi": "https://link.springer.com/article/10.1007/s41870-022-01097-3"
+  },
+  {
+    "title": "A secured mobile-based password manager",
+    "year": 2016,
+    "authors": "S Agholor and AS Sodiya and AT Akinwale and OJ Adeniran",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7470800/"
+  },
+  {
+    "title": "User Interface Design, And Ergonomics",
+    "year": 2016,
+    "authors": "AS Sodiya and AA Afolorunso",
+    "venue": "The National Open University of Nigeria",
+    "citations": 4,
+    "doi": "https://scholar.google.com/scholar?cluster=3721982196991743024&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Critical Analysis Of Existing Sms Spam Filtering Approaches",
+    "year": 2015,
+    "authors": "OO Abayomi-Alli and SA Onashoga and AS Sodiya and DA Ojo",
+    "venue": "AIT 2015",
+    "citations": 4,
+    "doi": "https://www.researchgate.net/profile/Abayomi-Alli-Adebayo/publication/296675810_AIT_2015_Conference_Proceedings/links/56d7e26508aebe4638af23a4/AIT-2015-Conference-Proceedings.pdf?_sg[0]=3konU3qeVkBVpThfFwHouE4pD2JHvP8WZ-omqJ8NUgYxHDaUevdbc58qeCS9IlJt1M-QWBqA28-BUQNVnfX_pQ.LjFG50kgO-o62QrJAk3Oe_irrlrPBQk5PbqpB_aOw3bLGfHP7EW-uOnjCeE0wVhSb9uzfZlF05soDk0iOJre7w&_sg[1]=8-IWw1j8l8AoW7BUxxUpVdpxinAnFGcQwhk7GzxIdqHXBDjJwniajwrdJUS1nCRRjM7fffbJVl0CRvyTnupaBzY6EQhVyjqLv07ega_NsJG1.LjFG50kgO-o62QrJAk3Oe_irrlrPBQk5PbqpB_aOw3bLGfHP7EW-uOnjCeE0wVhSb9uzfZlF05soDk0iOJre7w&_iepl=#page=220"
+  },
+  {
+    "title": "USERS\u2019PASSWORD SELECTION AND MANAGEMENT METHODS: IMPLICATIONS FOR NIGERIA\u2019S CASHLESS SOCIETY",
+    "year": 2012,
+    "authors": "AS Sodiya and S Agholor",
+    "venue": "Professor Sola ADEROUNMU",
+    "citations": 4,
+    "doi": "https://www.academia.edu/download/37675394/NCS-ConferenceProceedingsVolume2.pdf#page=43"
+  },
+  {
+    "title": "Towards an adaptive multi-agent architecture for association rule mining in distributed databases",
+    "year": 2011,
+    "authors": "Adewale Opeoluwa Ogunde and Olusegun Folorunso and Adesina Simon Sodiya and James Adedayo Oguntuase",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6145155/"
+  },
+  {
+    "title": "Mining of prevalent ailments in a health database using FP-growth algorithm.",
+    "year": 2009,
+    "authors": "Saidat Adebukola Onashoga and Adesina S Sodiya and AT Akinwale and OE Falola",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://funaab.edu.ng/funaab-ocw/publications-abstract/Mining%20of%20Prevalent%20Ailments%20in%20a%20Health%20Database%20Using%20Fp-%20Growth%20Algorithm.PDF"
+  },
+  {
+    "title": "Maintaining privacy in anomaly\u2010based intrusion detection systems",
+    "year": 2005,
+    "authors": "Adesina S Sodiya and HOD Longe and Adio T Akinwale",
+    "venue": "Information management & computer security",
+    "citations": 4,
+    "doi": "https://www.emerald.com/insight/content/doi/10.1108/09685220510582683/full/html"
+  },
+  {
+    "title": "Performance Assessment of some Phishing predictive models based on Minimal Feature corpus",
+    "year": 2021,
+    "authors": "Orunsolu Abdul Abiodun and Sodiya AS and Kareem SO",
+    "venue": "Journal of Digital Forensics, Security and Law",
+    "citations": 3,
+    "doi": "https://commons.erau.edu/jdfsl/vol16/iss1/5/"
+  },
+  {
+    "title": "A Framework for Protecting Users' Privacy in Cloud",
+    "year": 2019,
+    "authors": "Adesina S Sodiya and B Adegbuyi",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://www.igi-global.com/chapter/a-framework-for-protecting-users-privacy-in-cloud/213812"
+  },
+  {
+    "title": "Resolving drdos attack in cloud database service using common source ip and incremental replacement strategy",
+    "year": 2018,
+    "authors": "Aborisade Dada Olaniyi and Reich Christoph and Sodiya Adesina Simon and Akinwale Adio Taofeek and Biodun S Badmus",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-56991-8_52"
+  },
+  {
+    "title": "A User's Awareness Study of Anti-Phishing Security Tips",
+    "year": 2016,
+    "authors": "AA Orunsolu and MA Alaran and OO Bamgboye and AS Sodiya and AO Omorinola",
+    "venue": "Proceedings of the 2nd International Conference on Intelligent Computing and Emerging Technologies",
+    "citations": 3,
+    "doi": "https://www.researchgate.net/profile/Orunsolu-Abdul/publication/323264663_A_Users'_Awareness_Study_of_Anti-Phishing_Security_tips/links/5a8ac766aca272017e62a731/A-Users-Awareness-Study-of-Anti-Phishing-Security-tips.pdf"
+  },
+  {
+    "title": "Data mining-based intelligent equipment maintenance system in telecommunication network",
+    "year": 2005,
+    "authors": "AS Sodiya and HOD Longe and SA Ibrahim",
+    "venue": "Journal of Applied Computer Science",
+    "citations": 3,
+    "doi": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-LOD2-0006-0001"
+  },
+  {
+    "title": "A structured model for identification and classification of critical information infrastructure",
+    "year": 2024,
+    "authors": "Alaba O Adejimi and Adesina Simon Sodiya and Olusegun A Ojesanmi and Olusola J Adeniran",
+    "venue": "International Journal of Critical Infrastructures",
+    "citations": 2,
+    "doi": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCIS.2024.137407"
+  },
+  {
+    "title": "A Preferential Analysis of Existing Password Managers from End-Users\u2019 View Point",
+    "year": 2016,
+    "authors": "S Agholor and AS Sodiya and AT Akinwale and OJ Adeniran and DO Aborisade",
+    "venue": "International Journal of Cyber-Security and Digital Forensics",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Natalie-Walker-15/publication/314043733_IJCSDF-Vol_5_No_4_2016/links/58b7b2af45851591c5d56b04/IJCSDF-Vol-5-No-4-2016.pdf#page=25"
+  },
+  {
+    "title": "A Middleware based Anti-Phishing Architecture",
+    "year": 2016,
+    "authors": "AA Orunsolu and AS Sodiya and AT Akinwale",
+    "venue": "Cyber Security Trends, Abeokuta",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Orunsolu-Abdul/publication/322399617_A_Middleware_based_Anti-Phishing_Architecture/links/5a577e5da6fdccf0ad197f82/A-Middleware-based-Anti-Phishing-Architecture.pdf"
+  },
+  {
+    "title": "GENERIC PREDICTION OF MALARIA TREATMENT OUTCOMES USING BIG DATA ANALYTICS",
+    "year": 2016,
+    "authors": "AS Sodiya",
+    "venue": "for National Safety & Security",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Ernest-Onuiri/publication/305954611_Generic_Prediction_of_Malaria_Treatment_Outcomes_Using_Big_Data_Analytics/links/57ed5dff08ae03fa0e829544/Generic-Prediction-of-Malaria-Treatment-Outcomes-Using-Big-Data-Analytics.pdf#page=80"
+  },
+  {
+    "title": "An Improved Cost-Sensitive Intrusion Response Model.",
+    "year": 2013,
+    "authors": "Aderonke J Ikuomola and Adesina S Sodiya and Adio T Akinwale and Dada O Aborisade",
+    "venue": "Journal of Information Assurance & Security",
+    "citations": 2,
+    "doi": "http://www.mirlabs.net/jias/secured/Volume8-Issue4/Paper14.pdf"
+  },
+  {
+    "title": "AN ASSESSMENT OF FEEDBACK MECHANISM OF SOME SELECTED WEBSITES TOWARDS IMPROVED END-USERS\u2019PASSWORD",
+    "year": 2013,
+    "authors": "S Agholor and AS Sodiya",
+    "venue": "National Security &",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Kennedy-Chinedu-Okafor/publication/316677461_E-GOVERNANCE_SMARTNOTICE_A_WIRELESS_RF_PROXEMIC_DISPLAY_SYSTEM/links/6298ca55c660ab61f85af5b9/E-GOVERNANCE-SMARTNOTICE-A-WIRELESS-RF-PROXEMIC-DISPLAY-SYSTEM.pdf#page=45"
+  },
+  {
+    "title": "A one-time server-specific password authentication scheme",
+    "year": 2012,
+    "authors": "Adebukola Onashoga and Adesina Sodiya and A Afolorunso",
+    "venue": "Journal of computing and information technology",
+    "citations": 2,
+    "doi": "https://hrcak.srce.hr/clanak/126771"
+  },
+  {
+    "title": "Networking and communication technology",
+    "year": 2012,
+    "authors": "AS Sodiya",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=11000657623666220225&hl=en&oi=scholarr"
+  },
+  {
+    "title": "On the Adaptivity of Distributed Association Rule Mining Agents",
+    "year": 2012,
+    "authors": "Adewale Opeoluwa Ogunde and Olusegun Folorunso and Adesina Simon Sodiya",
+    "venue": "The Fourth International Conference on Adaptive and Self-Adaptive Systems and Applications, Adaptive 2012 Conference, IARIA July 22nd\u201327th, Nice, France, www. iaria. org/conferences",
+    "citations": 2,
+    "doi": "https://personales.upv.es/thinkmind/dl/conferences/adaptive/adaptive_2012/adaptive_2012_3_40_50070.pdf"
+  },
+  {
+    "title": "Towards An Intelligent Multi-Agent Architecture for Association Rule Mining in Distributed Databases.",
+    "year": 2011,
+    "authors": "AO Ogunde and O Folorunso and AS Sodiya and JA Oguntuase",
+    "venue": "Computing & Information Systems",
+    "citations": 2,
+    "doi": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13529404&AN=67435668&h=BAa7iDAR0kzNR4pelbp1zI20UdtnRFAk%2BymndXJBMgAwdWpD5zAx7a7TyLUWcCU%2Bk1qWQlsIgtz3f2AAf6FSSQ%3D%3D&crl=c"
+  },
+  {
+    "title": "The state of information security in south-western nigerian educational institutions",
+    "year": 2011,
+    "authors": "AS Sodiya and SA Ibrahim and OB Ajayi",
+    "venue": "College of Natural Sciences Proceedings",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=10008979148904131140&hl=en&oi=scholarr"
+  },
+  {
+    "title": "An improved two\u2010tiered strategy to intrusion detection",
+    "year": 2005,
+    "authors": "Adesina S Sodiya and HOD Longe",
+    "venue": "Information management & computer security",
+    "citations": 2,
+    "doi": "https://www.emerald.com/insight/content/doi/10.1108/09685220510602040/full/html"
+  },
+  {
+    "title": "An Intelligent Model for DDoS Attack Detection and Flash Event Management",
+    "year": 2022,
+    "authors": "Oreoluwa Carolyn Tinubu and Adesina Simon Sodiya and Olusegun Ayodeji Ojesanmi and Emmanuel Oyeyemi Adeleke and Ahmad Alfawwaz Timehin",
+    "venue": "International Journal of Distributed Artificial Intelligence (IJDAI)",
+    "citations": 1,
+    "doi": "https://www.igi-global.com/article/an-intelligent-model-for-ddos-attack-detection-and-flash-event-management/301212"
+  },
+  {
+    "title": "PEDAM: Priority execution based approach for detecting android malware",
+    "year": 2020,
+    "authors": "Olorunjube James Falana and Adesina Simon Sodiya and Saidat Adebukola Onashoga and Anas Teju Oyewole",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-030-80216-5_12"
+  },
+  {
+    "title": "Towards detecting credit card frauds using Hidden Markov Model",
+    "year": 2019,
+    "authors": "CO Tinubu and DO Aborisade and AS Sodiya and SA Onashoga and MA Ganiyu",
+    "venue": "Journal of Computer Science and Its Application",
+    "citations": 1,
+    "doi": "https://www.ajol.info/index.php/jcsia/article/view/193182"
+  },
+  {
+    "title": "Ontology of input validation attack patterns on web applications",
+    "year": 2013,
+    "authors": "Adio Akinwale and Joseph Shonubi and Adebayo Adekoya and Adesina Sodiya and Tosin Mewomo",
+    "venue": "Informatyka Ekonomiczna",
+    "citations": 1,
+    "doi": "https://www.ceeol.com/search/article-detail?id=112552"
+  },
+  {
+    "title": "A Confidential Electronic Result Transfer Using a Hybrid XML Security Scheme",
+    "year": 2011,
+    "authors": "SA Onashoga and Adesina S Sodiya",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5945268/"
+  },
+  {
+    "title": "Derivation of Database Keys\u2019 Operations",
+    "year": 2011,
+    "authors": "Adio Taofiki Akinwale and Olusegun Folorunso and Adesina S Sodiya",
+    "venue": "Issues in Informing Science and Information Technology",
+    "citations": 1,
+    "doi": "https://www.academia.edu/download/72244614/IISITv8p277-291Akinwale206.pdf"
+  },
+  {
+    "title": "A countermeasure algorithm for password guessing attacks",
+    "year": 2011,
+    "authors": "Adesina S Sodiya and AA Afolorunso and Omoniyi P Ogunderu",
+    "venue": "International Journal of Information and Computer Security",
+    "citations": 1,
+    "doi": "https://www.inderscienceonline.com/doi/abs/10.1504/IJICS.2011.044824"
+  },
+  {
+    "title": "MANAGING ICT INFRASTRUCTURE IN HIGHER EDUCATIONAL INSTITUTIONS",
+    "year": 2010,
+    "authors": "AS Sodiya and SA Onashoga and OD Rosanwo and BH Lawal",
+    "venue": "College of Natural Sciences Proceedings",
+    "citations": 1,
+    "doi": "https://publications.funaab.edu.ng/index.php/COLNAS/article/view/141"
+  },
+  {
+    "title": "An Agent-based framework for secure e-voting",
+    "year": 2010,
+    "authors": "AA Orunsolu and AS Sodiya and SA Onashoga and AA Afolorunso",
+    "venue": "MI I S IINSINIS1 ill",
+    "citations": 1,
+    "doi": "https://www.academia.edu/download/48591004/Edited_by.pdf#page=239"
+  },
+  {
+    "title": "Programming and algorithms",
+    "year": 2008,
+    "authors": "AS Sodiya",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=16065769315808341543&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A new combined strategy to intrusion detection",
+    "year": 2004,
+    "authors": "AS Sodiya and HOD Longe",
+    "venue": "Journal of Applied Computer Science",
+    "citations": 1,
+    "doi": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-LOD7-0027-0075"
+  },
+  {
+    "title": "An Optimal Jobs\u2019 Admission Control System for Priority-Based Queue Network",
+    "year": 2024,
+    "authors": "Adegbuyi David Gbadebo and Adio Taofiki Akinwale and Adesina Simon Sodiya and Simeon Ayoola Akinleye",
+    "venue": "SN Computer Science",
+    "citations": 0,
+    "doi": "https://link.springer.com/article/10.1007/s42979-024-03393-0"
+  },
+  {
+    "title": "A Super Learner Ensemble-based Intrusion Detection System to Mitigate Network Attacks",
+    "year": 2024,
+    "authors": "Ojo John Ajayi and Adesina Simon Sodiya and Mustapha Aminu Bagiwa and Toluwase Ayobami Olowookere",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10800423/"
+  },
+  {
+    "title": "Towards Building a Smart Water Management System (SWAMS) in Nigeria",
+    "year": 2024,
+    "authors": "Oluwaseun Bamgboye and Christos Chrysoulas and Xiaodong Liu and Tess Watt and Adesina Sodiya and Mathew Oyeleye and Sampath Kalutharage",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10608754/"
+  },
+  {
+    "title": "Packets\u2019 Congestion Management with Fuzzy Admission Control Policy for Differentiated Service Networks",
+    "year": 2024,
+    "authors": "Adio T Akinwale and Adesina S Sodiya and Simeon A Akinleye and Adegbuyi D Gbadebo",
+    "venue": "Asian J. Res. Com. Sci",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Adegbuyi-Gbadebo/publication/377439318_Packets'_Congestion_Management_with_Fuzzy_Admission_Control_Policy_for_Differentiated_Service_Networks/links/65a71b7c0263d85efce54f3e/Packets-Congestion-Management-with-Fuzzy-Admission-Control-Policy-for-Differentiated-Service-Networks.pdf"
+  },
+  {
+    "title": "A Fuzzy-Based Servers\u2019 Management Technique for M/M/m Queue Network",
+    "year": 2023,
+    "authors": "Adegbuyi David Gbadebo and Adio Taofiki Akinwale and Adesina Simon Sodiya",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchsquare.com/article/rs-3308384/latest"
+  },
+  {
+    "title": "Evaluation of Current IoT Approaches in Cereal Crop Pests and Diseases Management",
+    "year": 2023,
+    "authors": "WF Tobun Badru and AS Sodiya and F Shittu",
+    "venue": "Journal of Computer Science and Its Application",
+    "citations": 0,
+    "doi": "https://www.ajol.info/index.php/jcsia/article/view/252239"
+  },
+  {
+    "title": "Computer and Information Sciences",
+    "year": 2022,
+    "authors": "Olorunjube James Falana and Adesina Simon Sodiya and Saidat Adebukola Onashoga and Biodun Surajudeen Badmus",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Olorunjube-Falana/publication/359198127_Mal-Detect_An_intelligent_visualization_approach_for_malware_detection/links/62c9ff8fd7bd92231fa70d9a/Mal-Detect-An-intelligent-visualization-approach-for-malware-detection.pdf"
+  },
+  {
+    "title": "A Proposed Distributed Anti-Phishing Framework for mitigating Cyber-attacks in Smart Environments",
+    "year": 2021,
+    "authors": "AA Adebesin and AS Sodiya and AA Orunsolu and OA Lawal and SO Kareem",
+    "venue": "International Journal of Information Security, Privacy and Digital Forensics",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Orunsolu-Abdul/publication/368358110_A_Proposed_Distributed_Anti-Phishing_Framework_for_mitigating_Cyber-attacks_in_Smart_Environments/links/63e3dcca6425237563996457/A-Proposed-Distributed-Anti-Phishing-Framework-for-mitigating-Cyber-attacks-in-Smart-Environments.pdf"
+  },
+  {
+    "title": "Modelling Attendees' Participation in Virtual Events",
+    "year": 2021,
+    "authors": "Oreoluwa C Tinubu and Olorunjube J Falana and Adesina S Sodiya",
+    "venue": "Journal of Computer Science and Its Application",
+    "citations": 0,
+    "doi": "https://www.ajol.info/index.php/jcsia/article/view/230511"
+  },
+  {
+    "title": "Towards a UMLsec-Based Proctored Examination Model",
+    "year": 2019,
+    "authors": "Ibukun Fadahunsi and Adesina S Sodiya and Bakai Olajuwon",
+    "venue": "International Journal of Systems and Software Security and Protection (IJSSSP)",
+    "citations": 0,
+    "doi": "https://www.igi-global.com/article/towards-a-umlsec-based-proctored-examination-model/247491"
+  },
+  {
+    "title": "Privacy Preserving Location-Based Client-Server Service Using Standard Cryptosystem",
+    "year": 2019,
+    "authors": "Adebukola Onashoga and Adesina Sodiya and Idowu Osinuga",
+    "venue": "Journal of computing and information technology",
+    "citations": 0,
+    "doi": "https://hrcak.srce.hr/240744"
+  },
+  {
+    "title": "Computer and Information Sciences",
+    "year": 2019,
+    "authors": "AA Orunsolu and AS Sodiya and AT Akinwale",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Adesina-Simon-Sodiya/publication/338449290_A_predictive_model_for_phishing_detection/links/5ea5cfae299bf1125611b4e5/A-predictive-model-for-phishing-detection.pdf"
+  },
+  {
+    "title": "A Mathematical Model for Resolving Minimum Password Length Controversy",
+    "year": 2018,
+    "authors": "S Agholor and AS Sodiya and DO Aborisade",
+    "venue": "Outlook",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/99707005/00002098.pdf"
+  },
+  {
+    "title": "An empirical evaluation of security tips in phishing prevention: A case study of nigerian banks",
+    "year": 2017,
+    "authors": "Abdul Abiodun Orunsolu and AS Sodiya and AT Akinwale and BI Olajuwon and MA Alaran and Oluwaseun Bamgboye and OA Afolabi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://napier-repository.worktribe.com/output/3147671"
+  },
+  {
+    "title": "A DISTRIBUTED PASSWORD AUTHENTICATED KEY EXCHANGE PROTOCOL USING A HYBRID APPROACH",
+    "year": 2016,
+    "authors": "AA Orunsolu and AS Sodiya and OO Folorunso and AAA Agboola",
+    "venue": "Annals. Computer Science Series",
+    "citations": 0,
+    "doi": "http://anale-informatica.tibiscus.ro/download/lucrari/14-2-12-Orunsolu.pdf"
+  },
+  {
+    "title": "Call Response Rate as Baseline for Detecting DRDoS Attack in Cloud Database Service",
+    "year": 2016,
+    "authors": "Dada O Aborisade and Christoph Reich and Adesina S Sodiya and Adio T Akinwale",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.degruyter.com/document/doi/10.1515/9783110482522-008/pdf?licenseType=restricted"
+  },
+  {
+    "title": "A SURVIVABLE DISTRIBUTED DATABASE AGAINST BYZANTINE FAILURE",
+    "year": 2016,
+    "authors": "DO ABORISADE and AS SODIYA and AA ODUMOSU and OY ALOWOSILE and AA ADEDEJI",
+    "venue": "Journal of Natural Sciences Engineering and Technology",
+    "citations": 0,
+    "doi": "https://journal.funaab.edu.ng/index.php/JNSET/article/view/1684"
+  },
+  {
+    "title": "A SURVEY OF DETECTION TECHNIQUES FOR PACKET DROPPING ATTACK IN MOBILE AD HOC NETWORK",
+    "year": 2015,
+    "authors": "AS Sodiya and OO Folorunso and OC Akinola",
+    "venue": "AIT 2015",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Abayomi-Alli-Adebayo/publication/296675810_AIT_2015_Conference_Proceedings/links/56d7e26508aebe4638af23a4/AIT-2015-Conference-Proceedings.pdf?_sg[0]=3konU3qeVkBVpThfFwHouE4pD2JHvP8WZ-omqJ8NUgYxHDaUevdbc58qeCS9IlJt1M-QWBqA28-BUQNVnfX_pQ.LjFG50kgO-o62QrJAk3Oe_irrlrPBQk5PbqpB_aOw3bLGfHP7EW-uOnjCeE0wVhSb9uzfZlF05soDk0iOJre7w&_sg[1]=8-IWw1j8l8AoW7BUxxUpVdpxinAnFGcQwhk7GzxIdqHXBDjJwniajwrdJUS1nCRRjM7fffbJVl0CRvyTnupaBzY6EQhVyjqLv07ega_NsJG1.LjFG50kgO-o62QrJAk3Oe_irrlrPBQk5PbqpB_aOw3bLGfHP7EW-uOnjCeE0wVhSb9uzfZlF05soDk0iOJre7w&_iepl=#page=283"
+  },
+  {
+    "title": "A hybrid approach to masquerade detection",
+    "year": 2015,
+    "authors": "AS Sodiya and SA Onashoga and T Solarin-sodara and OJ Falana",
+    "venue": "Journal of Computer Science and Its Application",
+    "citations": 0,
+    "doi": "https://www.ajol.info/index.php/jcsia/article/view/150076"
+  },
+  {
+    "title": "An ontology-based intrusion patterns classification system",
+    "year": 2014,
+    "authors": "AJ Shonubi and AF Adekoya and AS Sodiya and OT Mewomo",
+    "venue": "Journal of Computer Science and Its Application",
+    "citations": 0,
+    "doi": "https://www.ajol.info/index.php/jcsia/article/view/150046"
+  },
+  {
+    "title": "An Efficient Broadcast Encryption for Secure Group Communication.",
+    "year": 2013,
+    "authors": "Saidat Adebukola Onashoga and Adesina Simon Sodiya and Oluwatosin Tope Mewomo and Ismail Mayowa Fadeyi",
+    "venue": "INFOCOMP: Journal of Computer Science",
+    "citations": 0,
+    "doi": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=18074545&AN=95251951&h=aXnqd0AhpQ%2FtqPkQcpk%2FfaZ7iuSDPH2g6VL5ErS1xNlaMW4FZUxN8wDEWD6iwly039l6ozGcOLre6EJiNRQK0Q%3D%3D&crl=c"
+  },
+  {
+    "title": "Destructible Password Functionality Authentication Protocol",
+    "year": 2012,
+    "authors": "AA Orunsolu and AS Sodiya and DF Oyenekan",
+    "venue": "African Journal of Computing & ICT",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bec103eaf2b46ef9585a47f7394430d10ee769cf"
+  },
+  {
+    "title": "A knowledge-based visual analytics query system",
+    "year": 2010,
+    "authors": "Olusegun Folorunso and Adesina Temitayo Bello and Adesina S Sodiya and Lateef O Yusuf",
+    "venue": "Oriental Journal of Computer Science and Technology",
+    "citations": 0,
+    "doi": "https://www.computerscijournal.org/vol3no1/a-knowledge-based-visual-analytics-query-system/"
+  },
+  {
+    "title": "A natural language architecture",
+    "year": 2007,
+    "authors": "Adesina Simon Sodiya",
+    "venue": "Journal of computing and information technology",
+    "citations": 0,
+    "doi": "https://hrcak.srce.hr/clanak/69262"
+  },
+  {
+    "title": "Intrusion detection systems: the fundamentals, problems and the way forward",
+    "year": 2004,
+    "authors": "AS Sodiya and HOD Longe",
+    "venue": "Journal of Applied Computer Science",
+    "citations": 0,
+    "doi": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-LOD7-0027-0073"
+  },
+  {
+    "title": "CIT 811 User Interface Design and Ergonomics Module 2",
+    "year": "N/A",
+    "authors": "AS Sodiya and AA Afolorunso and MoniOluwa Olaniyi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=7304255167219694567&hl=en&oi=scholarr"
+  },
+  {
+    "title": "THE STATE OF INFORMATION SECURITY IN SOUTH-WESTERN NIGERIAN EDUCATIONAL INSTITUTIONS",
+    "year": "N/A",
+    "authors": "AS Sodiya and SA Ibrahim and OB Ajayi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://publications.funaab.edu.ng/index.php/COLNAS/article/view/174/172"
+  },
+  {
+    "title": "An Intelligent Incidence Reporting System For Online Attacks",
+    "year": "N/A",
+    "authors": "Monsuru O Abdullahi and Adesina S Sodiya and Adebukola S Onashoga and CO Tinubu",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://library.academiainformationtechnology.org/files/proceedings/23.pdf"
+  },
+  {
+    "title": "for National Safety & Security",
+    "year": "N/A",
+    "authors": "Adesola ADEROUNMU and Adesina SODIYA",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Peter-Oriogun/publication/305636488_AN_ANALYSIS_OF_THE_NETWORKED_READINESS_INDEX_DATA_OF_SOME_SUB-SAHARAN_AFRICA_COUNTRIES/links/57ab02c008ae7a6420bf3009/AN-ANALYSIS-OF-THE-NETWORKED-READINESS-INDEX-DATA-OF-SOME-SUB-SAHARAN-AFRICA-COUNTRIES.pdf"
+  },
+  {
+    "title": "National Security &",
+    "year": "N/A",
+    "authors": "Charles O UWADIA and Adesola ADEROUNMU and Adesina SODIYA",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Kennedy-Chinedu-Okafor/publication/316677461_E-GOVERNANCE_SMARTNOTICE_A_WIRELESS_RF_PROXEMIC_DISPLAY_SYSTEM/links/6298ca55c660ab61f85af5b9/E-GOVERNANCE-SMARTNOTICE-A-WIRELESS-RF-PROXEMIC-DISPLAY-SYSTEM.pdf"
+  },
+  {
+    "title": "IT4InDev 2015",
+    "year": "N/A",
+    "authors": "Charles UWADIA and Adesola ADEROUNMU and Adesina SODIYA",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Orunsolu-Abdul/publication/323320213_A_CRYPTOGRAPHIC_ANTI-PHISHING_SCHEME/links/5ab3b4d60f7e9b4897c69a38/A-CRYPTOGRAPHIC-ANTI-PHISHING-SCHEME.pdf"
+  },
+  {
+    "title": "A GAME ONTOLOGY MODEL FOR ACQUIRING BUSINESS SKILLS",
+    "year": "N/A",
+    "authors": "UR Okoro and AS Sodiya and O Awodele and SO Kuyoro",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Okoro-U-Raymond/publication/320452133_A_GAME_ONTOLOGY_MODEL_FOR_ACQUIRING_BUSINESS_SKILLS/links/59e6163e458515f4d760d691/A-GAME-ONTOLOGY-MODEL-FOR-ACQUIRING-BUSINESS-SKILLS.pdf"
+  },
+  {
+    "title": "AN ADAPTIVE HIERARCHICAL ACCESS CONTROL ARCHITECTURE FOR ENTERPRISE NETWORK USING COMPLIANCE VARIANCE",
+    "year": "N/A",
+    "authors": "AS Sodiya and AA Orunsolu",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://anale-informatica.tibiscus.ro/download/lucrari/11-2-18-Sodiya.pdf"
+  },
+  {
+    "title": "Phishing E-mail Detection Mechanism Based on Middleware Technology",
+    "year": "N/A",
+    "authors": "AA Orunsolu and AS Sodiya and AT Akinwale",
+    "venue": "Economy in Nigeria",
+    "citations": 0,
+    "doi": "https://www.ncs.org.ng/wp-content/uploads/2014/08/Knowledge-Based-Economy-2014.pdf#page=58"
+  }
+]

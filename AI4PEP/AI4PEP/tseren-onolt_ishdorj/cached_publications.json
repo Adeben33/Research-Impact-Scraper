@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Spiking neural P systems with extended rules: universality and languages",
+    "year": 2008,
+    "authors": "Haiming Chen and Mihai Ionescu and Tseren-Onolt Ishdorj and Andrei P\u0103un and Gheorghe P\u0103un and Mario J P\u00e9rez-Jim\u00e9nez",
+    "venue": "Natural Computing",
+    "citations": 166,
+    "doi": "https://link.springer.com/article/10.1007/s11047-006-9024-6"
+  },
+  {
+    "title": "Deterministic solutions to QSAT and Q3SAT by spiking neural P systems with pre-computed resources",
+    "year": 2010,
+    "authors": "Tseren-Onolt Ishdorj and Alberto Leporati and Linqiang Pan and Xiangxiang Zeng and Xingyi Zhang",
+    "venue": "Theoretical Computer Science",
+    "citations": 161,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0304397510000447"
+  },
+  {
+    "title": "P Systems with Active Membranes and Separation Rules.",
+    "year": 2004,
+    "authors": "Linqiang Pan and Tseren-Onolt Ishdorj",
+    "venue": "J. Univers. Comput. Sci.",
+    "citations": 123,
+    "doi": "https://www.academia.edu/download/68262216/P_Systems_with_Active_Membranes_and_Sepa20210722-17371-2i63fw.pdf"
+  },
+  {
+    "title": "Membrane operations in P systems with active membranes",
+    "year": 2004,
+    "authors": "Artiom Alhazov and Tseren-Onolt Ishdorj",
+    "venue": "Proc. Second Brainstorming Week on Membrane Computing. TR",
+    "citations": 55,
+    "doi": "https://www.academia.edu/download/42037477/Membrane_Operations_in_P_Systems_with_Ac20160204-16814-1p4mny5.pdf"
+  },
+  {
+    "title": "Uniform solutions to SAT and 3-SAT by spiking neural P systems with pre-computed resources",
+    "year": 2008,
+    "authors": "Tseren-Onolt Ishdorj and Alberto Leporati",
+    "venue": "Natural Computing",
+    "citations": 51,
+    "doi": "https://link.springer.com/article/10.1007/s11047-008-9081-0"
+  },
+  {
+    "title": "Development of surface-enhanced Raman scattering (SERS)-based surface-corrugated nanopillars for biomolecular detection of colorectal cancer",
+    "year": 2020,
+    "authors": "Kuan-Hung Chen and Meng-Ju Pan and Zoljargal Jargalsaikhan and Tseren-Onolt Ishdorj and Fan-Gang Tseng",
+    "venue": "Biosensors",
+    "citations": 44,
+    "doi": "https://www.mdpi.com/2079-6374/10/11/163"
+  },
+  {
+    "title": "Computing along the axon",
+    "year": 2006,
+    "authors": "Haiming Chen and Tseren-Onolt Ishdorj and Gheorghe Paun",
+    "venue": "BIC-TA 2006",
+    "citations": 33,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f8e7eb7e15f969c1330d249b5779715e50d507f9#page=60"
+  },
+  {
+    "title": "Membrane Computing: 21st International Conference, CMC 2020, Virtual Event, September 14\u201318, 2020, Revised Selected Papers",
+    "year": 2021,
+    "authors": "Rudolf Freund and Tseren-Onolt Ishdorj and Grzegorz Rozenberg and Arto Salomaa and Claudio Zandron",
+    "venue": "N/A",
+    "citations": 30,
+    "doi": "https://books.google.com/books?hl=en&lr=&id=uKkxEAAAQBAJ&oi=fnd&pg=PR5&dq=info:-ce68F9sjIMJ:scholar.google.com&ots=B4qNCO5Omh&sig=BqCokcDmKfzsxvxiXaWf0i7mkcg"
+  },
+  {
+    "title": "Implementation of RSA cryptographic algorithm using SN P systems based on HP/LP neurons",
+    "year": 2021,
+    "authors": "Ganbat Ganbaatar and Dugar Nyamdorj and Gordon Cichon and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 28,
+    "doi": "https://link.springer.com/article/10.1007/s41965-021-00073-3"
+  },
+  {
+    "title": "An error-tolerant serial binary full-adder via a spiking neural P system using HP/LP basic neurons",
+    "year": 2020,
+    "authors": "Otgonnaran Ochirbat and Tseren-Onolt Ishdorj and Gordon Cichon",
+    "venue": "Journal of Membrane Computing",
+    "citations": 25,
+    "doi": "https://link.springer.com/article/10.1007/s41965-020-00033-3"
+  },
+  {
+    "title": "A 3D-ACEK/SERS system for highly efficient and selectable electrokinetic bacteria concentration/detection/antibiotic-susceptibility-test on whole blood",
+    "year": 2022,
+    "authors": "Kuan-Hung Chen and Shih-Han Lee and Li-Ching Kok and Tseren-Onolt Ishdorj and Hwan-You Chang and Fan-Gang Tseng",
+    "venue": "Biosensors and Bioelectronics",
+    "citations": 24,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0956566321007776"
+  },
+  {
+    "title": "Handling languages with spiking neural P systems with extended rules",
+    "year": 2006,
+    "authors": "Haiming Chen and Tseren-Onolt Ishdorj and Gheorghe Paun and Mario J P\u00e9rez-Jim\u00e9nez",
+    "venue": "Romanian J. Information Sci. and Technology",
+    "citations": 24,
+    "doi": "https://www.researchgate.net/profile/Haiming-Chen-4/publication/31597157_Spiking_Neural_P_Systems_with_Extended_Rules/links/5a41dd8ea6fdcce19712c1bd/Spiking-Neural-P-Systems-with-Extended-Rules.pdf"
+  },
+  {
+    "title": "Replicative\u2013distribution rules in P systems with active membranes",
+    "year": 2004,
+    "authors": "Tseren-Onolt Ishdorj and Mihai Ionescu",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-31862-0_7"
+  },
+  {
+    "title": "Inhibiting/de-inhibiting rules in P systems",
+    "year": 2004,
+    "authors": "Matteo Cavaliere and Mihai Ionescu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-31837-8_13"
+  },
+  {
+    "title": "Solving NP-complete problems by spiking neural P systems with budding rules",
+    "year": 2009,
+    "authors": "Tseren-Onolt Ishdorj and Alberto Leporati and Linqiang Pan and Jun Wang",
+    "venue": "N/A",
+    "citations": 16,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-11467-0_24"
+  },
+  {
+    "title": "A \u03bc-fluidic Biochip Design for Spiking Neural P Systems.",
+    "year": 2020,
+    "authors": "Tseren-Onolt Ishdorj and Otgonnaran Ochirbat and Chuluunbandi Naimannaran",
+    "venue": "International Journal of Unconventional Computing",
+    "citations": 15,
+    "doi": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15487199&AN=142415611&h=Q60Oym7uO3HDAZd%2BZR6n%2BG0tGRaxUNqh0Gpo60DljiAAcaYNMM3GboHq0kqpcVzHkJKJPVOneYLOoNgN4Qd0wg%3D%3D&crl=c"
+  },
+  {
+    "title": "Computational power of intramolecular gene assembly",
+    "year": 2007,
+    "authors": "Tseren-Onolt Ishdorj and Ion Petre and Vladimir Rogojin",
+    "venue": "International Journal of Foundations of Computer Science",
+    "citations": 15,
+    "doi": "https://www.worldscientific.com/doi/abs/10.1142/S0129054107005169"
+  },
+  {
+    "title": "Dual-clamped one-pot SERS-based biosensors for rapid and sensitive detection of SARS-CoV-2 using portable Raman spectrometer",
+    "year": 2023,
+    "authors": "Kiran Kaladharan and Kuan-Hung Chen and Pin-Han Chen and Venkanagouda S Goudar and Tseren-Onolt Ishdorj and Tuhin Subhra Santra and Fan-Gang Tseng",
+    "venue": "Sensors and Actuators B: Chemical",
+    "citations": 13,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0925400523008870"
+  },
+  {
+    "title": "Boolean circuits and a DNA algorithm in membrane computing",
+    "year": 2006,
+    "authors": "Mihai Ionescu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 11,
+    "doi": "https://link.springer.com/chapter/10.1007/11603047_19"
+  },
+  {
+    "title": "Membrane computing, neural inspirations, gene assembly in ciliates",
+    "year": 2007,
+    "authors": "Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://dialnet.unirioja.es/servlet/dctes?codigo=19491"
+  },
+  {
+    "title": "P\u00e9rez Jim\u00e9nez, MdJ Spiking neural P systems with extended rules",
+    "year": 2006,
+    "authors": "H Chen and TO Ishdorj and G Paun",
+    "venue": "Proceedings of the 4th Brainstorming Week on Membrane Computing (BWMC), Sevilla, Spain",
+    "citations": 8,
+    "doi": "https://scholar.google.com/scholar?cluster=2984105614877274489&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Computing along the axon",
+    "year": 2007,
+    "authors": "Chen Haiming and Tseren-Onolt Ishdorj and Gheorghe Paun",
+    "venue": "Progress in Natural Science",
+    "citations": 7,
+    "doi": "https://www.tandfonline.com/doi/abs/10.1080/10020070708541018"
+  },
+  {
+    "title": "Minimal parallelism for polarizationless P systems",
+    "year": 2006,
+    "authors": "Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://link.springer.com/chapter/10.1007/11925903_2"
+  },
+  {
+    "title": "Computing through gene assembly",
+    "year": 2007,
+    "authors": "Tseren-Onolt Ishdorj and Ion Petre",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-73554-0_10"
+  },
+  {
+    "title": "Paun Gh., P\u00e9rez-Jim\u00e9nez MJ",
+    "year": 2008,
+    "authors": "H Chen and M Ionescu and TO Ishdorj",
+    "venue": "Spiking neural P systems with extended rules: universality and languages",
+    "citations": 5,
+    "doi": "https://scholar.google.com/scholar?cluster=15430580734617046859&hl=en&oi=scholarr"
+  },
+  {
+    "title": "On the e\ufb03ciency of spiking neural P systems",
+    "year": 2006,
+    "authors": "H Chen and M Ionescu and TO Ishdorj",
+    "venue": "Proc. 8th Intern. Conf. on Electronics, Information, and Communication, Ulanbator, Mongolia",
+    "citations": 5,
+    "doi": "https://scholar.google.com/scholar?cluster=17690812836340855573&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Gene assembly models and boolean circuits",
+    "year": 2008,
+    "authors": "Tseren-Onolt Ishdorj and Ion Petre",
+    "venue": "International Journal of Foundations of Computer Science",
+    "citations": 4,
+    "doi": "https://www.worldscientific.com/doi/abs/10.1142/S0129054108006182"
+  },
+  {
+    "title": "Computational efficiency of intermolecular gene assembly",
+    "year": 2008,
+    "authors": "Tseren-Onolt Ishdorj and Remco Loos and Ion Petre",
+    "venue": "Fundamenta Informaticae",
+    "citations": 4,
+    "doi": "https://journals.sagepub.com/doi/abs/10.3233/FUN-2008-843-405"
+  },
+  {
+    "title": "A petri-net formalization of heat shock response model",
+    "year": 2008,
+    "authors": "Ralph-Johan Back and Tseren-Onolt Ishdorj and Ion Petre",
+    "venue": "Workshop on Computational Models for Cell Processes",
+    "citations": 4,
+    "doi": "https://www.researchgate.net/profile/Ion-Petre/publication/31597900_A_Petri-net_formalization_of_the_heat_shock_response_model/links/09e4150e3ed8246c23000000/A-Petri-net-formalization-of-the-heat-shock-response-model.pdf#page=61"
+  },
+  {
+    "title": "Inhibiting/de-inhibiting P systems with active membranes",
+    "year": 2005,
+    "authors": "Matteo Cavaliere and Mihai Ionescu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://dialnet.unirioja.es/servlet/articulo?codigo=4725250"
+  },
+  {
+    "title": "BIJE: a joint extraction model for biomedical information extraction",
+    "year": 2023,
+    "authors": "Yansen Su and Pengpeng Wang and Shuna Cui and Fei Xu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-99-4749-2_11"
+  },
+  {
+    "title": "Extraction of Relationship Between Esophageal Cancer and Biomolecules Based on BioBERT",
+    "year": 2023,
+    "authors": "Dayu Tan and Yang Yang and Minglu Wang and Pengpeng Wang and Lejun Zhang and Tseren-Onolt Ishdorj and Yansen Su",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-99-4749-2_10"
+  },
+  {
+    "title": "Bio-inspired Membrane Operations in P Systems with Active Membranes",
+    "year": 2011,
+    "authors": "Artiom Alhazov and Tseren-Onolt Ishdorj",
+    "venue": "Triangle",
+    "citations": 1,
+    "doi": "https://revistes.urv.cat/index.php/triangle/article/view/2388"
+  },
+  {
+    "title": "Spiking neural P systems with extended rules",
+    "year": 2006,
+    "authors": "Cheng Haiming and Tseren-Onolt Ishdorj and Gheorge Paun",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://dialnet.unirioja.es/servlet/articulo?codigo=4784977"
+  },
+  {
+    "title": "Modeling neural processes in lindenmayer systems",
+    "year": 2005,
+    "authors": "Carlos Mart\u00edn-Vide and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/11494669_19"
+  },
+  {
+    "title": "Optimal approximate computation of Euclidean distance in spiking neural P systems framework",
+    "year": 2025,
+    "authors": "Otgonbayar Agvaan and Gordon Cichon and Uuganbaatar Dulamragchaa and Hyun-chul Kim and Seonuck Paek and Tseren-Onolt Ishdorj",
+    "venue": "Scientific Reports",
+    "citations": 0,
+    "doi": "https://www.nature.com/articles/s41598-025-02793-3"
+  },
+  {
+    "title": "DeepATsers: a deep learning framework for one-pot SERS biosensor to detect SARS-CoV-2 virus",
+    "year": 2025,
+    "authors": "Ankhbayar Nyamdavaa and Kiran Kaladharan and Erdene-Ochir Ganbold and Seungdo Jeong and Seonuck Paek and Yansen Su and Fan-Gang Tseng and Tseren-Onolt Ishdorj",
+    "venue": "Scientific Reports",
+    "citations": 0,
+    "doi": "https://www.nature.com/articles/s41598-025-96557-8"
+  },
+  {
+    "title": "An Entity Alignment Model for Echinococcosis Knowledge Graph",
+    "year": 2024,
+    "authors": "Yuan Gao and Lejun Zhang and Fei Xu and Tseren-Onolt Ishdorj and YanSen Su",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-97-5678-0_6"
+  },
+  {
+    "title": "MDNNSyn: A Multi-Modal Deep Learning Framework for Drug Synergy Prediction",
+    "year": 2024,
+    "authors": "Lei Li and Haitao Li and Tseren-Onolt Ishdorj and Chunhou Zheng and Yansen Su",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10582412/"
+  },
+  {
+    "title": "Biomolecular Network-based Study of a Parasitic Disease and Therapeutic Drugs",
+    "year": 2022,
+    "authors": "Altankhuyag Avirmed and Uranchimeg Erdenedalai and Selenge Erdenechimeg and Yansen Su and Tseren-Onolt Ishdorj",
+    "venue": "ICT Focus",
+    "citations": 0,
+    "doi": "http://www.ictfocus.org/index.php/focuse/article/view/31"
+  },
+  {
+    "title": "Solving NP Hard Problems in the Framework of Gene Assembly in Ciliates",
+    "year": 2018,
+    "authors": "Ganbat Ganbaatar and Khuder Altangerel and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-13-2826-8_10"
+  },
+  {
+    "title": "Bio-inspired Membrane Operations in P Systems with Active Membranes",
+    "year": 2011,
+    "authors": "Tseren-Onolt Ishdorj and Artiom Alhazov",
+    "venue": "2013-939X",
+    "citations": 0,
+    "doi": "https://repositori.urv.cat/estatic/RP0141/en_RP4420.html"
+  },
+  {
+    "title": "About the Efficiency of Spiking Neural P Systems",
+    "year": 2009,
+    "authors": "Wang Jun and Tseren-Onolt Ishdorj and Pan Linqiang",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://dialnet.unirioja.es/servlet/articulo?codigo=4780790"
+  },
+  {
+    "title": "About the Efficiency of Spiking Neural P Systems",
+    "year": 2009,
+    "authors": "Jun Wang and Tseren-Onolt Ishdorj and Linqiang Pan",
+    "venue": "Seventh Brainstorming Week on Membrane Computing",
+    "citations": 0,
+    "doi": "http://www.gcn.us.es/7BWMC/volume/BWMC09_V2.pdf#page=249"
+  },
+  {
+    "title": "On the Efficiency of Spiking Neural P Systems",
+    "year": 2006,
+    "authors": "Cheng Haiming and Mihai Ionescu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://dialnet.unirioja.es/servlet/articulo?codigo=4784967"
+  },
+  {
+    "title": "Further Remarks on P Systems with Active Membranes, Separation, Merging, and Release Rules",
+    "year": 2004,
+    "authors": "Pan Linqiang and Artiom Alhazov and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://dialnet.unirioja.es/servlet/articulo?codigo=5802190"
+  },
+  {
+    "title": "Membrane Systems with Carriers",
+    "year": 2003,
+    "authors": "Rodica Ceterchi and Dragos Sburlan and Rudolf Freund and Marion Oswald and Artiom Alhazov and Tseren-Onolt Ishdorj and Gabriel Ciobanu and Gabriel Ciobanu and Rahul Desai and Akash Kumar and Vladimir Rogozhin and Elena Boian and Ion Petre and Luigia Petre and Ion Petre and Luigia Petre and Luca Cardelli and Jose M Sempere and Luca Cardelli",
+    "venue": "Theoretical Computer Science",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=10793015875164344889&hl=en&oi=scholarr"
+  },
+  {
+    "title": "An Error-Tolerant Serial Binary Full-Adder via a Spiking Neural P System using HP/LP Basic Neurons",
+    "year": "N/A",
+    "authors": "Gordon Cichon and Tseren-Onolt Ishdorj and Otgonnaran Ochirbat and Khuder Altangerel",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://media.cichon.com/papers/CMC-2019.pdf"
+  },
+  {
+    "title": "Massively parallel concept for cryptanalysis of RSA in a bio-computation framework",
+    "year": "N/A",
+    "authors": "Gordon Cichon and Galbadrakh Battsogt and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://webusers.i3s.unice.fr/CMC2024/resources/short/CMC_2024_paper_15.pdf"
+  },
+  {
+    "title": "DATA AUGMENTATION TECHNIQUE WITH SMILES OF DRUGS FOR MASHINE LEARNING",
+    "year": "N/A",
+    "authors": "Ariunaa Uuriintsetseg and Dolgorsuren Batjargal and Tseren-Onolt Ishdorj",
+    "venue": "Institute of Mathematics and Digital Technology Mongolian Academy of Sciences, Mongolia",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=16833609612313142565&hl=en&oi=scholarr"
+  },
+  {
+    "title": "LNCS 12687 Membrane Computing",
+    "year": "N/A",
+    "authors": "Rudolf Freund and Tseren-Onolt Ishdorj and Grzegorz Rozenberg and Arto Salomaa and Claudio Zandron",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/content/pdf/10.1007/978-3-030-77102-7.pdf"
+  },
+  {
+    "title": "Petri net based cluster and reachability analysis of the heat shock response in eukaryotes",
+    "year": "N/A",
+    "authors": "Tseren-Onolt Ishdorj and Baatarkhuu Enkhtuya",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/81456633/template12.pdf"
+  },
+  {
+    "title": "Inhibiting/De-inhibiting P Systems with Active Membranes",
+    "year": "N/A",
+    "authors": "Mihai Ionescu and Tseren-Onolt Ishdorj",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=16463586448716446058&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Rule-Based Modelling Framework: Cellucidate Beta Exercises, 19 March, 2008",
+    "year": "N/A",
+    "authors": "R Back and I Petre and TO Ishdorj and V Preoteasa",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://users.abo.fi/backrj/RuleBaseModels/material/KappAssignments_I.pdf"
+  },
+  {
+    "title": "Leporati, Alberto 344 Lucanu, Dorel 126 Manca, Vincenzo 63 Margenstern, Maurice 1, 161",
+    "year": "N/A",
+    "authors": "Giancarlo Mauri and Luca Bianco and Matteo Cavaliere and Rodica Ceterchi and Gabriel Ciobanu and Lo\u0131c Colson and Andr\u00e9s Cord\u00f3n-Franco and Erzs\u00e9bet Csuhaj-Varj\u00fa and Federico Fontana and Rudolf Freund and Marian Gheorghe and Miguel A Guti\u00e9rrez-Naranjo and Mihai Ionescu and Tseren-Onolt Ishdorj and Nata\u0161a Jonoska and Norio Kato and Petros Kefalas and Marion Oswald and Andrei Paun and Mario J P\u00e9rez-Jim\u00e9nez and Agust\u0131n Riscos-N\u00fanez and Vladimir Rogozhin and Yurii Rogozhin and Francisco Jos\u00e9 Romero-Campero and Fernando Sancho-Caparrini and Dragos Sburlan and Ioanna Stamatopoulou and Kazunori Ueda and Gy\u00f6rgy Vaszil and Sergey Verlan",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=194685447106979992&hl=en&oi=scholarr"
+  }
+]

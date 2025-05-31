@@ -1,0 +1,1874 @@
+[
+  {
+    "title": "Multi-layer blockchain-based security architecture for internet of things",
+    "year": 2021,
+    "authors": "Houshyar Honar Pajooh and Mohammad Rashid and Fakhrul Alam and Serge Demidenko",
+    "venue": "Sensors",
+    "citations": 172,
+    "doi": "https://www.mdpi.com/1424-8220/21/3/772"
+  },
+  {
+    "title": "Hyperledger fabric blockchain for securing the edge internet of things",
+    "year": 2021,
+    "authors": "Houshyar Honar Pajooh and Mohammad Rashid and Fakhrul Alam and Serge Demidenko",
+    "venue": "Sensors",
+    "citations": 150,
+    "doi": "https://www.mdpi.com/1424-8220/21/2/359"
+  },
+  {
+    "title": "Master\u2013slave control of a teleoperated anthropomorphic robotic arm with gripping force sensing",
+    "year": 2006,
+    "authors": "Gourab Sen Gupta and Subhas Chandra Mukhopadhyay and Christopher H Messom and Serge N Demidenko",
+    "venue": "IEEE transactions on instrumentation and measurement",
+    "citations": 115,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4014710/"
+  },
+  {
+    "title": "Generation and application of pseudorandom sequences for random testing",
+    "year": 1988,
+    "authors": "V N Yarmolik and S N Demidenko",
+    "venue": "N/A",
+    "citations": 112,
+    "doi": "https://dl.acm.org/doi/abs/10.5555/60286"
+  },
+  {
+    "title": "A low-cost sensing system for quality monitoring of dairy products",
+    "year": 2006,
+    "authors": "Subhas Chandra Mukhopadhyay and Chinthaka P Gooneratne and G Sen Gupta and Serge N Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 96,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1658388/"
+  },
+  {
+    "title": "Multivariate alternating decision trees",
+    "year": 2016,
+    "authors": "Hong Kuan Sok and Melanie Po-Leen Ooi and Ye Chow Kuang and Serge Demidenko",
+    "venue": "Pattern Recognition",
+    "citations": 79,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0031320315003027"
+  },
+  {
+    "title": "Eye tracking system to detect driver drowsiness",
+    "year": 2015,
+    "authors": "TP Nguyen and Moi-Tin Chew and S Demidenko",
+    "venue": "N/A",
+    "citations": 75,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7081194/"
+  },
+  {
+    "title": "Defect cluster recognition system for fabricated semiconductor wafers",
+    "year": 2013,
+    "authors": "Melanie Po-Leen Ooi and Hong Kuan Sok and Ye Chow Kuang and Serge Demidenko and Chris Chan",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "citations": 73,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S095219761200084X"
+  },
+  {
+    "title": "Saxophone reed inspection employing planar electromagnetic sensors",
+    "year": 2007,
+    "authors": "Subhas Chandra Mukhopadhyay and Gourab Sen Gupta and Jonathan D Woolley and Serge N Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 62,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4389122/"
+  },
+  {
+    "title": "Reducing burn-in time through high-voltage stress test and Weibull statistical analysis",
+    "year": 2006,
+    "authors": "Mohd Fairuz Zakaria and Zainal Abu Kassim and MP-L Ooi and Serge Demidenko",
+    "venue": "IEEE Design & Test of computers",
+    "citations": 61,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1613787/"
+  },
+  {
+    "title": "\u0413\u0435\u043d\u0435\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0445 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f",
+    "year": 1986,
+    "authors": "\u0412\u041d \u042f\u0440\u043c\u043e\u043b\u0438\u043a and \u0421\u041d \u0414\u0435\u043c\u0438\u0434\u0435\u043d\u043a\u043e",
+    "venue": "N/A",
+    "citations": 56,
+    "doi": ""
+  },
+  {
+    "title": "IoT Big Data provenance scheme using blockchain on Hadoop ecosystem",
+    "year": 2021,
+    "authors": "Houshyar Honar Pajooh and Mohammed A Rashid and Fakhrul Alam and Serge Demidenko",
+    "venue": "Journal of Big Data",
+    "citations": 54,
+    "doi": "https://link.springer.com/article/10.1186/s40537-021-00505-y"
+  },
+  {
+    "title": "FieldLight: Device-free indoor human localization using passive visible light positioning and artificial potential fields",
+    "year": 2019,
+    "authors": "Daniel Konings and Nathaniel Faulkner and Fakhrul Alam and Edmund M-K Lai and Serge Demidenko",
+    "venue": "IEEE Sensors Journal",
+    "citations": 53,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8851195/"
+  },
+  {
+    "title": "Watchers on the wall: Passive visible light-based positioning and tracking with embedded light-sensors on the wall",
+    "year": 2019,
+    "authors": "Nathaniel Faulkner and Fakhrul Alam and Mathew Legg and Serge Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 50,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8901190/"
+  },
+  {
+    "title": "Wireless sensor network for selective activity monitoring in a home for the elderly",
+    "year": 2007,
+    "authors": "G Sen Gupta and SC Mukhopadhyay and Michael Sutherland and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 49,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4258154/"
+  },
+  {
+    "title": "Size/position identification in real-time image processing using run length encoding",
+    "year": 2002,
+    "authors": "CH Messom and Serge Demidenko and K Subramaniam and G Sen Gupta",
+    "venue": "N/A",
+    "citations": 48,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1007101/"
+  },
+  {
+    "title": "March PS (23N) test for DRAM pattern-sensitive faults",
+    "year": 1998,
+    "authors": "V Yarmolik and Yu Klimets and S Demidenko",
+    "venue": "N/A",
+    "citations": 48,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/741638/"
+  },
+  {
+    "title": "Getting more from the semiconductor test: Data mining with defect-cluster extraction",
+    "year": 2011,
+    "authors": "Melanie Po-Leen Ooi and Eric Kwang Joo Joo and Ye Chow Kuang and Serge Demidenko and Lindsay Kleeman and Chris Wei Keong Chan",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 47,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5740361/"
+  },
+  {
+    "title": "Real-time identification and predictive control of fast mobile robots using global vision sensing",
+    "year": 2005,
+    "authors": "Gourab Sen Gupta and Chris H Messom and Serge Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 45,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1381816/"
+  },
+  {
+    "title": "Shortening burn-in test: Application of HVST and Weibull statistical analysis",
+    "year": 2007,
+    "authors": "Melanie Po-Leen Ooi and Zainal Abu Kassim and Serge N Demidenko",
+    "venue": "IEEE Transactions on instrumentation and measurement",
+    "citations": 44,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4201013/"
+  },
+  {
+    "title": "Blockchain and 6G-enabled IoT",
+    "year": 2022,
+    "authors": "Houshyar Honar Pajooh and Serge Demidenko and Saad Aslam and Muhammad Harris",
+    "venue": "N/A",
+    "citations": 42,
+    "doi": "https://www.mdpi.com/2411-5134/7/4/109"
+  },
+  {
+    "title": "Experimental performance analysis of a scalable distributed hyperledger fabric for a large-scale IoT testbed",
+    "year": 2022,
+    "authors": "Houshyar Honar Pajooh and Mohammad A Rashid and Fakhrul Alam and Serge Demidenko",
+    "venue": "Sensors",
+    "citations": 41,
+    "doi": "https://www.mdpi.com/1424-8220/22/13/4868"
+  },
+  {
+    "title": "Moment-constrained maximum entropy method for expanded uncertainty evaluation",
+    "year": 2018,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko and Herman Carstens",
+    "venue": "IEEE Access",
+    "citations": 40,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8248634/"
+  },
+  {
+    "title": "Gaussian process dynamical models for hand gesture interpretation in sign language",
+    "year": 2011,
+    "authors": "Nuwan Gamage and Ye Chow Kuang and Rini Akmeliawati and Serge Demidenko",
+    "venue": "Pattern Recognition Letters",
+    "citations": 39,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0167865511002662"
+  },
+  {
+    "title": "RAM diagnostic tests",
+    "year": 1996,
+    "authors": "VN Yarmolik and YV Klimets and AJ Van De Goor and SN Demidenko",
+    "venue": "N/A",
+    "citations": 38,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/782499/"
+  },
+  {
+    "title": "Low cost sensing system for dairy products quality monitoring",
+    "year": 2005,
+    "authors": "SC Mukhopadhyay and CP Gooneratne and Serge Demidenko and G Sen Gupta",
+    "venue": "N/A",
+    "citations": 32,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1604109/"
+  },
+  {
+    "title": "CapLoc: Capacitive sensing floor for device-free localization and fall detection",
+    "year": 2020,
+    "authors": "Nathaniel Faulkner and Baden Parr and Fakhrul Alam and Mathew Legg and Serge Demidenko",
+    "venue": "IEEE Access",
+    "citations": 31,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9220093/"
+  },
+  {
+    "title": "Hough transform run length encoding for real-time image processing",
+    "year": 2007,
+    "authors": "Christopher H Messom and Gourab Sen Gupta and Serge N Demidenko",
+    "venue": "IEEE transactions on instrumentation and measurement",
+    "citations": 31,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4201008/"
+  },
+  {
+    "title": "Robotics competitions in engineering education",
+    "year": 2009,
+    "authors": "Moi-Tin Chew and S Demidenko and C Messom and G Sen Gupta",
+    "venue": "N/A",
+    "citations": 30,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4804032/"
+  },
+  {
+    "title": "Defect analysis of grit-blasted or spray printed surface using vision sensing technique",
+    "year": 2003,
+    "authors": "G Sengupta and TA Win and C Messom and S Demidenko and SC Mukhopadhyay",
+    "venue": "Proceedings of Image and Vision Computing NZ",
+    "citations": 29,
+    "doi": "https://scholar.google.com/scholar?cluster=11624013561498631475&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Improving predictive control of a mobile robot: Application of image processing and kalman filtering",
+    "year": 2003,
+    "authors": "CH Messom and G Sen Gupta and S Demidenko and Lim Yuen Siong",
+    "venue": "N/A",
+    "citations": 29,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1207998/"
+  },
+  {
+    "title": "Towards real-time sign language analysis via markerless gesture tracking",
+    "year": 2009,
+    "authors": "Rini Akmeliawati and F Dadgostar and Serge Demidenko and Nuwan Gamage and Ye Chow Kuang and Chris Messom and Melanie Ooi and A Sarrafzadeh and G SenGupta",
+    "venue": "N/A",
+    "citations": 28,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5168637/"
+  },
+  {
+    "title": "Benchmark test distributions for expanded uncertainty evaluation algorithms",
+    "year": 2015,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 27,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7364247/"
+  },
+  {
+    "title": "Analytical standard uncertainty evaluation using Mellin transform",
+    "year": 2015,
+    "authors": "Arvind Rajan and Melanie Po-Leen Ooi and Ye Chow Kuang and Serge N Demidenko",
+    "venue": "IEEE Access",
+    "citations": 27,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7064781/"
+  },
+  {
+    "title": "Roadmap on signal processing for next generation measurement systems",
+    "year": 2021,
+    "authors": "Dimitris K Iakovidis and Melanie Ooi and Ye Chow Kuang and Serge Demidenko and Alexandr Shestakov and Vladimir Sinitsin and Manus Henry and Andrea Sciacchitano and Stefano Discetti and Silvano Donati and Michele Norgia and Andreas Menychtas and Ilias Maglogiannis and Selina C Wriessnegger and Luis Alberto Barradas Chacon and George Dimas and Dimitris Filos and Anthony H Aletras and Johannes T\u00f6ger and Feng Dong and Shangjie Ren and Andreas Uhl and Jacek Paziewski and Jianghui Geng and Francesco Fioranelli and Ram M Narayanan and Carlos Fernandez and Christoph Stiller and Konstantina Malamousi and Spyros Kamnis and Konstantinos Delibasis and Dong Wang and Jianjing Zhang and Robert X Gao",
+    "venue": "Measurement Science and Technology",
+    "citations": 26,
+    "doi": "https://iopscience.iop.org/article/10.1088/1361-6501/ac2dbd/meta"
+  },
+  {
+    "title": "Design of a low-cost physiological parameter measurement and monitoring device",
+    "year": 2007,
+    "authors": "G Sen Gupta and SC Mukhopadhyay and BS Devlin and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 26,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4258047/"
+  },
+  {
+    "title": "Indoor visible light positioning using spring-relaxation technique in real-world setting",
+    "year": 2019,
+    "authors": "Fakhrul Alam and Nathaniel Faulkner and Mathew Legg and Serge Demidenko",
+    "venue": "Ieee Access",
+    "citations": 25,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8758814/"
+  },
+  {
+    "title": "Automatic defect cluster extraction for semiconductor wafers",
+    "year": 2010,
+    "authors": "Melanie Po-Leen Ooi and Eric Kwang Joo Sim and Ye Chow Kuang and Lindsay Kleeman and Chris Chan and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 23,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5488012/"
+  },
+  {
+    "title": "Project-based learning in robotics and electronics in undergraduate engineering program setting",
+    "year": 2010,
+    "authors": "Andrew Price and Ros Rimington and Moi-Tin Chew and S Demidenko",
+    "venue": "N/A",
+    "citations": 22,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5438692/"
+  },
+  {
+    "title": "Smart wall: Passive visible light positioning with ambient light only",
+    "year": 2019,
+    "authors": "Nathaniel Faulkner and Fakhrul Alam and Mathew Legg and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8826875/"
+  },
+  {
+    "title": "Vision inspection system for pharmaceuticals",
+    "year": 2014,
+    "authors": "NM Duong and Moi-Tin Chew and Sergey Demidenko and Quoc Hung Pham and Dang Khoa Pham and MP-L Ooi and Ye Chow Kuang",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6798946/"
+  },
+  {
+    "title": "Instrumentation and control of a high power BLDC motor for small vehicle applications",
+    "year": 2012,
+    "authors": "Alexander Rowe and Gourab Sen Gupta and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6229466/"
+  },
+  {
+    "title": "Evaluating the performance of different classification algorithms for fabricated semiconductor wafers",
+    "year": 2010,
+    "authors": "Jian Wei Cheng and Melanie Po-Leen Ooi and Chris Chan and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5438664/"
+  },
+  {
+    "title": "Improving efficiency of IC burn-In testing",
+    "year": 2008,
+    "authors": "Yong Han Ng and Yew Hock Low and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4547315/"
+  },
+  {
+    "title": "Sign Language Analysis and Recognition: A Preliminary Investigation",
+    "year": 2009,
+    "authors": "Shujjat Khan and Gourab Sen Gupta and Donald Bailey and Serge Demidenko and Chris Messom",
+    "venue": "24th International Conference Image and Vision Computing New Zealand (IVCNZ 2009), IEEE",
+    "citations": 18,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5378426/"
+  },
+  {
+    "title": "Moments and Maximum Entropy Method for Expanded Uncertainty Estimation in Measurements",
+    "year": 2017,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko",
+    "venue": "N/A",
+    "citations": 17,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7969851/"
+  },
+  {
+    "title": "Automated visual inspection system for mass production of hard disk drive media",
+    "year": 2012,
+    "authors": "Zhi Sheng Chow and Melanie Po-Leen Ooi and Ye Chow Kuang and Serge Demidenko",
+    "venue": "Procedia Engineering",
+    "citations": 17,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1877705812025970"
+  },
+  {
+    "title": "Simulation and development of short transparent tests for RAM",
+    "year": 2001,
+    "authors": "S Demidenko and A Van De Goor and S Henderson and P Knoppers",
+    "venue": "N/A",
+    "citations": 16,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/990276/"
+  },
+  {
+    "title": "Classifying Cannabis sativa flowers, stems and leaves using statistical machine learning with near-infrared hyperspectral reflectance imaging",
+    "year": 2020,
+    "authors": "Wayne S Holmes and Melanie Po-Leen Ooi and Ye Chow Kuang and Ray Simpkin and Irene Lopez-Ubiria and Alvaro Vidiella and Dan Blanchon and Gourab Sen Gupta and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 15,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9129531/"
+  },
+  {
+    "title": "Reliability\u2010based design optimisation of technical systems: analytical response surface moments method",
+    "year": 2017,
+    "authors": "Arvind Rajan and Melanie Po\u2010Leen Ooi and Ye Chow Kuang and Serge N Demidenko",
+    "venue": "The Journal of Engineering",
+    "citations": 15,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/joe.2016.0244"
+  },
+  {
+    "title": "Wireless master-slave embedded controller for a teleoperated anthropomorphic robotic arm with gripping force sensing",
+    "year": 2006,
+    "authors": "G Sen Gupta and R Paddison and Chris H Messom and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 15,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1628410/"
+  },
+  {
+    "title": "Industry-academia collaboration in undergraduate test engineering unit development",
+    "year": 2006,
+    "authors": "Serge Demidenko and Victor Lai and Zainal Abu Kassim",
+    "venue": "N/A",
+    "citations": 15,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1581199/"
+  },
+  {
+    "title": "Robotic competitions: Motivation for engineering programmes",
+    "year": 2002,
+    "authors": "CH Messom and Dale Carnegie and Peter Xu and Serge Demidenko and Donald Bailey",
+    "venue": "Proceedings of the Ninth New Zealand Electronics Conference, Dunedin, Dunedin, New Zealand",
+    "citations": 15,
+    "doi": "https://www.researchgate.net/profile/Donald-Bailey-5/publication/2910961_Robotic_Competitions_Motivation_for_Engineering/links/0deec516c6fec6772e000000/Robotic-Competitions-Motivation-for-Engineering.pdf"
+  },
+  {
+    "title": "An intelligent warehouse stock management and tracking system based on silicon identification technology and 1-wire network communication",
+    "year": 2011,
+    "authors": "Kai-Xin Tee and Moi-Tin Chew and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 14,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5729550/"
+  },
+  {
+    "title": "Alternating decision trees",
+    "year": 2017,
+    "authors": "Melanie Po-Leen Ooi and Hong Kuan Sok and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://www.sciencedirect.com/science/article/pii/B9780128113189000193"
+  },
+  {
+    "title": "Assistive technology for relieving communication lumber between hearing/speech impaired and hearing people",
+    "year": 2014,
+    "authors": "Rini Akmeliawati and Donald Bailey and Sara Bilal and Serge Demidenko and Nuwan Gamage and Shujjat Khan and Ye Chow Kuang and Melanie Ooi and Gourab Sen Gupta",
+    "venue": "The Journal of Engineering",
+    "citations": 13,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/joe.2014.0039"
+  },
+  {
+    "title": "Simple mobile robots for introduction into engineering",
+    "year": 2009,
+    "authors": "Moi Tin Chew and Serge Demidenko and Loulin Huang and Chris Messom and G SenGupta and Malcolm Watts",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5168559/"
+  },
+  {
+    "title": "Towards a simple mobile robot with obstacle avoidance and target seeking capabilities using fuzzy logic",
+    "year": 2008,
+    "authors": "Anuradha Menon and R Akmeliawati and S Demidenko",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4547183/"
+  },
+  {
+    "title": "Optimal dual-tone frequency selection for ADC sine-wave tests",
+    "year": 2011,
+    "authors": "Meng Sang Ong and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge Demidenko and Poon Liam",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 12,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5705571/"
+  },
+  {
+    "title": "IC handler throughput evaluation for test process optimization",
+    "year": 2007,
+    "authors": "Sheau-Chyi Lee and Serge Demidenko and Kok-Hua Lee",
+    "venue": "N/A",
+    "citations": 12,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4258369/"
+  },
+  {
+    "title": "Device-free localization using privacy-preserving infrared signatures acquired from thermopiles and machine learning",
+    "year": 2021,
+    "authors": "Nathaniel Faulkner and Fakhrul Alam and Mathew Legg and Serge Demidenko",
+    "venue": "IEEE Access",
+    "citations": 11,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9446866/"
+  },
+  {
+    "title": "Data-driven condition-based maintenance of test handlers in semiconductor manufacturing",
+    "year": 2011,
+    "authors": "Timothy Guan and Ye Chow Kuang and Melanie Po-Leen Ooi and Xiang Gin Cheah and Yeung Shun Tan and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 11,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5729565/"
+  },
+  {
+    "title": "Concurrent self-checking for microprogrammed control units: an analytical survey",
+    "year": 1991,
+    "authors": "SN Demidenko and EM Levin and KV Lever",
+    "venue": "IEE Proceedings E-Computers and Digital Techniques",
+    "citations": 11,
+    "doi": "https://ieeexplore.ieee.org/iel1/2207/3224/00105100.pdf"
+  },
+  {
+    "title": "Sparse reproducible machine learning for near infrared hyperspectral imaging: Estimating the tetrahydrocannabinolic acid concentration in Cannabis sativa L.",
+    "year": 2023,
+    "authors": "Sanush K Abeysekera and Amanda Robinson and Melanie Po-Leen Ooi and Ye Chow Kuang and Merilyn Manley-Harris and Wayne Holmes and Evan Hirst and Jessika Nowak and Manu Caddie and Gregor Steinhorn and Serge Demidenko",
+    "venue": "Industrial Crops and Products",
+    "citations": 10,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S092666902201620X"
+  },
+  {
+    "title": "Using the ADTree for feature reduction through knowledge discovery",
+    "year": 2013,
+    "authors": "Hong Kuan Sok and Mohammed Shahnewaz Chowdhury and Melanie Po-Leen Ooi and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6555573/"
+  },
+  {
+    "title": "Vision assisted measurement for optimization of robot motion and position control functions",
+    "year": 2004,
+    "authors": "G Sen Gupta and CH Messom and S Demidenko",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1351048/"
+  },
+  {
+    "title": "Analysis and application of digital spectral warping in analog and mixed-signal testing",
+    "year": 2003,
+    "authors": "Warwick PM Allen and Donald G Bailey and Serge N Demidenko and Vincenzo Piuri",
+    "venue": "IEEE Transactions on Reliability",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1260595/"
+  },
+  {
+    "title": "Identification and prediction of a moving object using real-time global vision sensing",
+    "year": 2003,
+    "authors": "G Sen Gupta and CH Messom and S Demidenko and Lim Yuen Siong",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1207981/"
+  },
+  {
+    "title": "Analysis of the frequency characteristics of a digital spectral warping network",
+    "year": 1993,
+    "authors": "Serge N Demidenko and Kenneth Lever",
+    "venue": "International Workshop on Design Methodologies for Microelectronics and Signal Processing, Gliwice-Cracow, Poland",
+    "citations": 10,
+    "doi": "https://scholar.google.com/scholar?cluster=1289752806991233840&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Efficient analytical moments for the robustness analysis in design optimisation",
+    "year": 2016,
+    "authors": "Arvind Rajan and Melanie Po\u2010Leen Ooi and Ye Chow Kuang and Serge N Demidenko",
+    "venue": "The Journal of Engineering",
+    "citations": 9,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/joe.2016.0264"
+  },
+  {
+    "title": "Vietnamese sign language reader using Intel Creative Senz3D",
+    "year": 2015,
+    "authors": "VD Nguyen and Moi-Tin Chew and S Demidenko",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7081128/"
+  },
+  {
+    "title": "Making ATE accessible for academic institutions",
+    "year": 2002,
+    "authors": "Wayne Moorhead and S Demidenko",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/994618/"
+  },
+  {
+    "title": "Machine learning techniques for device-free localization using low-resolution thermopiles",
+    "year": 2022,
+    "authors": "Nathaniel Faulkner and Daniel Konings and Fakhrul Alam and Mathew Legg and Serge Demidenko",
+    "venue": "IEEE Internet of Things Journal",
+    "citations": 8,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9740175/"
+  },
+  {
+    "title": "Combining ATE and flying probe in-circuit test strategies for load board verification and test",
+    "year": 2009,
+    "authors": "Soh Ying Seah and Melanie Po-Leen Ooi and Ye Chow Kuang and Chee Sun See and Shanti Panchadcharam and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 8,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5168671/"
+  },
+  {
+    "title": "Special issue on intelligent sensors-Guest Editorial",
+    "year": 2007,
+    "authors": "SC Mukhopadhyay and G Sen Gupta and S Demidenko",
+    "venue": "IEEE Sensors Journal",
+    "citations": 8,
+    "doi": "https://scholar.google.com/scholar?cluster=7145100136180373856&hl=en&oi=scholarr"
+  },
+  {
+    "title": "State transition based (STB) role assignment and behaviour programming in collaborative robotics",
+    "year": 2004,
+    "authors": "G Sen Gupta and CH Messom and S Demidenko",
+    "venue": "Proceedings of the 2nd International Conference on Autonomous Robots and Agents",
+    "citations": 8,
+    "doi": "https://sfat.massey.ac.nz/research/centres/crisp/pdfs/2004_ICARA_385.pdf"
+  },
+  {
+    "title": "Global vision based optimization of control functions and kalman filtering for robotic applications",
+    "year": 2003,
+    "authors": "G Sen Gupta and Chris Messom and Serge Demidenko",
+    "venue": "Proceedings of the 2nd International Conference on Computational Intelligence, Robotics and Autonomous Systems, CIRAS",
+    "citations": 8,
+    "doi": "https://www.researchgate.net/profile/Sn-Demidenko/publication/228574388_Global_Vision_Based_Optimization_of_Control_Functions_and_Kalman_Filtering_for_Robotic_Applications/links/00b7d51fa8e10ee98a000000/Global-Vision-Based-Optimization-of-Control-Functions-and-Kalman-Filtering-for-Robotic-Applications.pdf"
+  },
+  {
+    "title": "On-line testing in digital neural networks",
+    "year": 1996,
+    "authors": "Serge Demidenko and Vincenzo Piuri",
+    "venue": "N/A",
+    "citations": 8,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/555174/"
+  },
+  {
+    "title": "Robust statistical analysis to predict and estimate the concentration of the cannabidiolic acid in Cannabis sativa L.: A comparative study",
+    "year": 2022,
+    "authors": "Melanie Po-Leen Ooi and Amanda Robinson and Merilyn Manley-Harris and Stefan Hill and Laura Raymond and Ye Chow Kuang and Gregor Steinhorn and Manu Caddie and Jessika Nowak and Wayne Holmes and Serge Demidenko",
+    "venue": "Industrial Crops and Products",
+    "citations": 7,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0926669022012274"
+  },
+  {
+    "title": "Measurement uncertainty evaluation: could it help to improve engineering design?",
+    "year": 2019,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko",
+    "venue": "IEEE Instrumentation & Measurement Magazine",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8674631/"
+  },
+  {
+    "title": "Family of Low-Cost Semiconductor Testers for Engineering Education",
+    "year": 2017,
+    "authors": "S. N. Demidenko and M. T. Chew and Y. C. Kuang and M. P.-L. Ooi",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": ""
+  },
+  {
+    "title": "Low-cost automatic visual inspection system for media in hard disk drive mass production",
+    "year": 2012,
+    "authors": "Zhi Sheng Chow and Melanie Po-Leen Ooi and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6229423/"
+  },
+  {
+    "title": "Fast and accurate automatic defect cluster extraction for semiconductor wafers",
+    "year": 2010,
+    "authors": "Melanie Po-Leen Ooi and Chris Chan and Wey Jean Tee and Ye Chow Kuang and Lindsay Kleeman and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5438675/"
+  },
+  {
+    "title": "Analysis and implementation of a spectral warping network",
+    "year": 2001,
+    "authors": "W Allen and D Bailey and S Demidenko and Vincenzo Piuri",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://www.researchgate.net/profile/Sn-Demidenko/publication/254389210_ANALYSIS_AND_IMPLEMENTATION_OF_A_SPECTRAL_WARPING_NETWORK/links/0deec53a94bca159fc000000/ANALYSIS-AND-IMPLEMENTATION-OF-A-SPECTRAL-WARPING-NETWORK.pdf"
+  },
+  {
+    "title": "March 3N and March 4N Memory Tests",
+    "year": 1999,
+    "authors": "S Demidenko and V Yarmolik and Yu Klimets and Ad. vande Googr",
+    "venue": "Journal of the Institution of Engineers, Singapore",
+    "citations": 7,
+    "doi": "https://scholar.google.com/scholar?cluster=14185184581630658564&hl=en&oi=scholarr"
+  },
+  {
+    "title": "BIST Module for Mixed-Signal Circuits.",
+    "year": 1998,
+    "authors": "S N Demidenko and V Piuri and V N Yarmolik and A Shmidman",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://www.researchgate.net/profile/Sn-Demidenko/publication/221426120_BIST_module_for_mixed-signal_circuits/links/09e415094ab7a79b69000000/BIST-module-for-mixed-signal-circuits.pdf"
+  },
+  {
+    "title": "Error localization in test outputs: A generalized analysis of signature compression",
+    "year": 1993,
+    "authors": "S Demidenko and V Piuri and A Ivaniukovich",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/398824/"
+  },
+  {
+    "title": "Identifying systematic failures on semiconductor wafers using ADCAS",
+    "year": 2013,
+    "authors": "Melanie Po-Leen Ooi and Sok Hong Kuan and Ye Chow Kuang and Huiyuan Cheng and Eric Kwang Joo Sim and Serge N Demidenko and Chris Wei Keong Chan",
+    "venue": "IEEE Design & Test",
+    "citations": 6,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6484887/"
+  },
+  {
+    "title": "Spectral warping revisited",
+    "year": 2004,
+    "authors": "Donald Bailey and Warwick Allen and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1409811/"
+  },
+  {
+    "title": "Transparent Tests for Semiconductor Memory",
+    "year": 1997,
+    "authors": "V Yarmolik and Yu Klimets and S Demidenko and V Piuri",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://elibrary.ru/item.asp?id=27776589"
+  },
+  {
+    "title": "On the binary sequences with indistinguishable signature for a given error multiplicity in electronic testing",
+    "year": 1995,
+    "authors": "S Demidenko and A Ivanyukovich and L Makhist and V Piuri",
+    "venue": "Journal of The Institution of Engineers, Singapore",
+    "citations": 6,
+    "doi": "https://rep.bstu.by/handle/data/26668"
+  },
+  {
+    "title": "On machine learning methods to estimate cannabidiolic acid content of Cannabis sativa L. from near-infrared hyperspectral imaging",
+    "year": 2023,
+    "authors": "Wayne S Holmes and Melanie Po-Leen Ooi and Sanush Abeysekera and Ye Chow Kuang and Ray Simpkin and Manu Caddie and Jessika Nowak and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10175994/"
+  },
+  {
+    "title": "Device free localization with capacitive sensing floor",
+    "year": 2020,
+    "authors": "Nathaniel Faulkner and Baden Parr and Fakhrul Alam and Mathew Legg and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9220042/"
+  },
+  {
+    "title": "Proximal near-infrared spectral reflectance characterisation of weeds species in New Zealand pasture",
+    "year": 2019,
+    "authors": "Wayne S Holmes and Melanie Po-Leen Ooi and Morgan Look and Ye Chow and Ray Simpkin and Dan Blanchon and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8826876/"
+  },
+  {
+    "title": "Eliminating Re-Burn-In in semiconductor manufacturing through statistical analysis of production test data",
+    "year": 2017,
+    "authors": "Hung V Pham and Serge N Demidenko and Giovanni M Merola",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7969957/"
+  },
+  {
+    "title": "Moment-based measurement uncertainty evaluation for reliability analysis in design optimization",
+    "year": 2016,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7520535/"
+  },
+  {
+    "title": "Standard Uncertainty estimation on polynomial regression models",
+    "year": 2014,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6798947/"
+  },
+  {
+    "title": "Robot soccer: integrated framework for Multidisciplinary hi-tech education",
+    "year": 2003,
+    "authors": "G Sen Gupta and YS Lim and CH Messom and S Demidenko and SC Mukhopadhyay and DN Pinder",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://gnosis.library.ucy.ac.cy/handle/7/64522"
+  },
+  {
+    "title": "Test chirp signal generation using spectral warping",
+    "year": 2002,
+    "authors": "Warwick Allen and D Bailey and S Demidenko and Vincenzo Piuri",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/994682/"
+  },
+  {
+    "title": "Signature compression: A generalised description and its applications",
+    "year": 1995,
+    "authors": "S Demidenko and V Piuri",
+    "venue": "Journal of Microelectronic Systems Integration",
+    "citations": 5,
+    "doi": "https://air.unimi.it/handle/2434/160532"
+  },
+  {
+    "title": "New approach to synthesis of self-checking microprogrammed control units with specified fault-detection probabilities",
+    "year": 1991,
+    "authors": "SN Demidenko and EM Levin and KV Lever",
+    "venue": "IEE Proceedings E-Computers and Digital Techniques",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/iel1/2207/3224/00105101.pdf"
+  },
+  {
+    "title": "Signal-to-noise ratio contributors and effects in proximal near-infrared spectral reflectance measurement on plant leaves",
+    "year": 2020,
+    "authors": "Wayne S Holmes and Melanie Po-Leen Ooi and Ye Chow Kuang and Ray Simpkin and Dan Blanchon and Gourab Sen Gupta and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9129359/"
+  },
+  {
+    "title": "Real-time acoustic analysis for flow rate estimation in a medical aerosol application",
+    "year": 2018,
+    "authors": "Peony Pangputt and Baden Parr and Serge Demidenko and Andrew Drain",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8409875/"
+  },
+  {
+    "title": "Mobile robots in the engineering education setting",
+    "year": 2011,
+    "authors": "Moi-Tin Chew and Serge Demidenko and Gourab Sen Gupta and L Huang",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6144846/"
+  },
+  {
+    "title": "Automatic yield management system for semiconductor production test",
+    "year": 2011,
+    "authors": "Huiyuan Cheng and Melanie Po-Leen Ooi and Ye Chow Kuang and Eric Sim and Bryan Cheah and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5729577/"
+  },
+  {
+    "title": "Optimal frequency selection algorithm for ADC frequency domain dynamic tests",
+    "year": 2010,
+    "authors": "Meng Sang Ong and Ye Chow Kuang and Melanie Po-leen Ooi and Serge Demidenko and Kui Ting Soo and Homer David",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5488173/"
+  },
+  {
+    "title": "Laser and vision sensing for obstacle avoidance and target seeking for a simple mobile robot",
+    "year": 2009,
+    "authors": "Rini Akmeliawati and Serge Demidenko and Anuradha Menon",
+    "venue": "International journal of intelligent systems technologies and applications",
+    "citations": 4,
+    "doi": "https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2009.025111"
+  },
+  {
+    "title": "Obstacle avoidance in a collaborative environment",
+    "year": 2008,
+    "authors": "Gourab Sen Gupta and Serge Demidenko and Chris Messom",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4547181/"
+  },
+  {
+    "title": "Predictive die-level reliability-yield modeling for deep sub-micron devices",
+    "year": 2008,
+    "authors": "Melanie Po-Leen Ooi and Ye Chow Kuang and Chris Chan and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4459543/"
+  },
+  {
+    "title": "Analysis and generation of test sequences based on hamming code and its modifications",
+    "year": 2006,
+    "authors": "Serge Demidenko and Alexander Ivanyukovich and Leonid Makhist",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4124315/"
+  },
+  {
+    "title": "Electronic test technology curriculum revisiting",
+    "year": 2006,
+    "authors": "Serge Demidenko and Wayne Moorhead",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1581201/"
+  },
+  {
+    "title": "Concurrent diagnosis in digital implementations of neural networks",
+    "year": 2002,
+    "authors": "Serge Demidenko and Vincenzo Piuri",
+    "venue": "Neurocomputing",
+    "citations": 4,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0925231201006786"
+  },
+  {
+    "title": "Implementing Signal Processing Algorithms in FPGA's: Digital Spectral Warping",
+    "year": 2002,
+    "authors": "D Johnson and K Gribbon and D Bailey and S Demidenko",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://scholar.google.com/scholar?cluster=9591942896935022151&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Addressing emerging needs of hi-tech industry: collaborative engineering program in electronic testing, instrumentation and Measurement",
+    "year": 2019,
+    "authors": "Serge Demidenko and Melanie Ooi and Moi Tin Chew and Ye Chow Kuang and Arvind Rajan",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8827016/"
+  },
+  {
+    "title": "Outlier distribution detection approach to semiconductor wafer fabrication process monitoring",
+    "year": 2011,
+    "authors": "Huiyuan Cheng and Melanie Po-Leen Ooi and Ye Chow Kuang and Serge Demidenko and Bryan Cheah",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6111703/"
+  },
+  {
+    "title": "Adaptive classifier for robust detection of signing articulators based on skin colour",
+    "year": 2011,
+    "authors": "Shujjat Khan and Donald Bailey and Gourab Sen Gupta and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5729578/"
+  },
+  {
+    "title": "Meeting engineering learning objectives through team based creative robot construction",
+    "year": 2010,
+    "authors": "A Price and MT Chew and R Rimington and S Demidenko",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5488143/"
+  },
+  {
+    "title": "Virtual instrumentation based IC parametric tester for engineering education",
+    "year": 2010,
+    "authors": "Loren Nolan and Moi-Tin Chew and Serge Demidenko and Melanie Ooi",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5438669/"
+  },
+  {
+    "title": "Intelligent Method of Teaching Electromagnetics Theory: Measurements under Virtual Environment",
+    "year": 2008,
+    "authors": "SC Mukhopadhyay and G Sen Gupta and S Demidenko",
+    "venue": "International Journal on Smart Sensing and Intelligent Systems,",
+    "citations": 3,
+    "doi": "https://intapi.sciendo.com/pdf/10.21307/ijssis-2017-300"
+  },
+  {
+    "title": "Chirp Signal Generation Using Spectral Warping",
+    "year": 2001,
+    "authors": "W Allen and D Bailey and S Demidenko",
+    "venue": "Proc. ENZCon\u201901",
+    "citations": 3,
+    "doi": "https://www.researchgate.net/profile/Sn-Demidenko/publication/220804979_Test_Chirp_Signal_Generation_Using_Spectral_Warping/links/09e415094ab786bef0000000/Test-Chirp-Signal-Generation-Using-Spectral-Warping.pdf"
+  },
+  {
+    "title": "Navigating the Governance of Artificial Intelligence (AI) in Asian Nations: A Focus on India, Indonesia, Malaysia and the Philippines",
+    "year": 2024,
+    "authors": "Kayzad Nilgiriwala and Uma Mahajan and Riris Ahmad and Romulo de Castro and Lucita Lazo and Jude Dzevela Kong and Angela Lee and Abhi Veerakumarasivam and Nurfadhlina Sharef and Demidenko and Serge",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735279"
+  },
+  {
+    "title": "Logic built-in self-test instrumentation system for engineering test technology education",
+    "year": 2020,
+    "authors": "S Demidenko and Moi-Tin Chew and BT Nguyen and MP-L Ooi and Ye Chow Kuang",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9128856/"
+  },
+  {
+    "title": "Measured Quantity Value Estimator for Multiplicative Nonlinear Measurement Models",
+    "year": 2017,
+    "authors": "Ye Chow Kuang and Arvind Rajan and Melanie Po-Leen Ooi and Serge N Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7857051/"
+  },
+  {
+    "title": "Automating measurement of renal interstitial fibrosis: Effect of colour spaces on quantification",
+    "year": 2016,
+    "authors": "Wei Keat Tey and Ye Chow Kuang and Joon Joon Khoo and Melanie Po-Leen Ooi and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7520504/"
+  },
+  {
+    "title": "Performance comparison between expanded uncertainty evaluation algorithms",
+    "year": 2015,
+    "authors": "Ye Chow Kuang and Melanie Po-Leen Ooi and Arvind Rajan and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7151541/"
+  },
+  {
+    "title": "Recent Advances in Robotics and Automation",
+    "year": 2013,
+    "authors": "Gourab Sen Gupta and Donald Bailey and Serge Demidenko and Dale Carnegie",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://link.springer.com/content/pdf/10.1007/978-3-642-37387-9.pdf"
+  },
+  {
+    "title": "Microcontroller testing using on-load-board DAC",
+    "year": 2011,
+    "authors": "Serge Demidenko and AZ Mohtar and KH Lee",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5944348/"
+  },
+  {
+    "title": "Critical assessment of die level predictor models",
+    "year": 2008,
+    "authors": "Melanie Po-Leen Ooi and Chris Chan and Su-Lyn Lee and Wai Loon Chin and Ling Ying Goh and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5507886/"
+  },
+  {
+    "title": "A multi-tiered framework for Virtual Instrumentation System (VIS)",
+    "year": 2006,
+    "authors": "G Sen Gupta and A Buhler and S Demidenko and CH Messom and SC Mukhopadhyay",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4124481/"
+  },
+  {
+    "title": "Virtual laboratory for measurements in electromagnetics",
+    "year": 2005,
+    "authors": "SC Mukhopadhyay and DN Pinder and G Sen Gupta and S Demidenko",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1604460/"
+  },
+  {
+    "title": "Shortening Burn-In Test: Application of Weibull Statistical Analysis & HVST",
+    "year": 2005,
+    "authors": "Melanie Po-Leen Ooi and Zainal Abu Kassim and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1604066/"
+  },
+  {
+    "title": "Message from the General Co-Chairs",
+    "year": 2002,
+    "authors": "Serge Demidenko and Kozo Kinoshita",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": ""
+  },
+  {
+    "title": "Induction motor control using load profiling measurement and processing",
+    "year": 2001,
+    "authors": "S Demidenko and J Kells and K Mercer and D Bailey",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/928888/"
+  },
+  {
+    "title": "Is there a Tester for Educational Institutes?",
+    "year": 1997,
+    "authors": "S Demidenko and S K Jhajharia and T-B Tan and W-Y Wong",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=16063846528907430506&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Fault-tolerant neural architectures: a general approach to concurrent diagnosis based on signature analysis",
+    "year": 1993,
+    "authors": "Serge Demidenko and Vincenzo Piuri and Mariagiovanna Sami and Renato Stefanelli",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/717030/"
+  },
+  {
+    "title": "Yield process control based on the production data",
+    "year": 2020,
+    "authors": "Nhan D Truong and Serge N Demidenko and Giovanni M Merola",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9220086/"
+  },
+  {
+    "title": "Towards implementing uncertainty propagation in probabilistic floating-point computation error bounding",
+    "year": 2018,
+    "authors": "Rivan Zhang and Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8409672/"
+  },
+  {
+    "title": "Automatic renal interstitial fibrosis quantification system",
+    "year": 2017,
+    "authors": "Wei Keat Tey and Ye Chow Kuang and Joon Joon Khoo and Melanie Po-Leen Ooi and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7969716/"
+  },
+  {
+    "title": "Simple Signature Verification Sub-System for Identity Recognition",
+    "year": 2017,
+    "authors": "V. Q. Tran and M. T. Chew and S. N. Demidenko and Y. C. Kuang and M. P.-L. Ooi",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7995308/"
+  },
+  {
+    "title": "Periodic piecewise linear excitation for ADC testing",
+    "year": 2012,
+    "authors": "Tat Chern Ong and Min Tong Tee and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6229680/"
+  },
+  {
+    "title": "Fault-tolerance in micro programmed control: architectures & schematic synthesis",
+    "year": 2005,
+    "authors": "Serge Demidenko and Eugene Levine and Vincenzo Piuri and Gourab Sen Gupta",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1604123/"
+  },
+  {
+    "title": "Quasi on-line testing of embedded random access memory",
+    "year": 2002,
+    "authors": "S Demidenko and N Lord and A Van de Goor and V Piuri",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.academia.edu/download/50297336/MPCS02_SD.pdf"
+  },
+  {
+    "title": "Synthesis of on-line testing control units: flow graph coding/monitoring approach",
+    "year": 2000,
+    "authors": "Serge N Demidenko and Eugene M Levine and Vincenzo Piuri",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/887166/"
+  },
+  {
+    "title": "Design, Characterization, and Packaging for MEMS and Microelectronics",
+    "year": 1999,
+    "authors": "Bernard Courtois and Serge - Editors Demidenko",
+    "venue": "SPIE Proceedings Series",
+    "citations": 1,
+    "doi": ""
+  },
+  {
+    "title": "Designing online self-testing control units with guaranteed fault coverage",
+    "year": 1999,
+    "authors": "Serge N Demidenko",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3893/0000/Designing-online-self-testing-control-units-with-guaranteed-fault-coverage/10.1117/12.368456.short"
+  },
+  {
+    "title": "Microelectronic component of an information and telecommunication degree",
+    "year": 1999,
+    "authors": "Robert Hodgson and Roger F Browne and Serge N Demidenko",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3894/0000/Microelectronic-component-of-an-information-and-telecommunication-degree/10.1117/12.364515.short"
+  },
+  {
+    "title": "i-Button Electronic Identification Technology: Hi-Tech Tool for Final Year Student Project Development",
+    "year": 1998,
+    "authors": "M-T Chew and S Demidenko and B Tok and D Koh and J Hon and P-S Loh and D Lim and J Lee",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/978-94-011-5110-8_42"
+  },
+  {
+    "title": "Flowrate Sensing and Measurement in Portable Smart Inhalers",
+    "year": 2024,
+    "authors": "Ivan Mysovskikh and Mathew Legg and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.mdpi.com/1424-8220/24/21/6848"
+  },
+  {
+    "title": "Analytical Evaluation of Uncertainty Propagation for Probabilistic Design Optimisation",
+    "year": 2023,
+    "authors": "Melanie Po-Leen Ooi and Arvind Rajan and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://iopscience.iop.org/book/mono/978-0-7503-4931-4"
+  },
+  {
+    "title": "Mixed-Signal Test System for Education in Instrumentation and Measurement Technology",
+    "year": 2022,
+    "authors": "J Xu and Sergey Demidenko and Moi-Tin Chew",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9853692/"
+  },
+  {
+    "title": "Interactive System for Maintenance of Automatic Test Equipment on the IC Production Floor",
+    "year": 2022,
+    "authors": "Trung Hieu Tran and Serge Demidenko and Moi Tin Chew",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-981-16-8129-5_133"
+  },
+  {
+    "title": "Guest Editorial Special Section on Sensors Applications Symposium",
+    "year": 2021,
+    "authors": "Serge Demidenko and Alessandro Depari",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9345593/"
+  },
+  {
+    "title": "Society news: I2MTC 2019",
+    "year": 2020,
+    "authors": "Gourab Sen Gupta and Serge Demidenko",
+    "venue": "IEEE Instrumentation & Measurement Magazine",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8979530/"
+  },
+  {
+    "title": "Developing Automatic Markerless Sign Language Gesture Tracking and Recognition System",
+    "year": 2019,
+    "authors": "Sergey Demidenko and M Ooi and Rini Akmeliawati and G Sen Gupta and Ye Chow Kuang and D Bailey and Shujjat Khan and Nuwan Gamage and S Bilal",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8921358/"
+  },
+  {
+    "title": "Application of moment-based measurement uncertainty evaluation to reliability analysis of structural systems",
+    "year": 2018,
+    "authors": "Arvind Rajan and Ye Chow Kuang and Melanie Po-Leen Ooi and Serge N Demidenko and Temitope Egbelakin",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8409598/"
+  },
+  {
+    "title": "Proceedings of the 2nd International Workshop on Recent Trends in Telecommunications Research 2017: Technically Co-sponsored by IEEE: Refereed Papers",
+    "year": 2017,
+    "authors": "Faraz Hasan and Xiang Gui and Fakhrul Alam and Mohammad Rashid and Serge\u012d Nikolaevich Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=4731403758906132118&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Digital pathology: Identifying spongiosis in unstained histopathology specimen",
+    "year": 2015,
+    "authors": "Sanush Abeysekera and Nicholas Kar and Wei Siew and Melanie Po-Leen Ooi and Ye Chow Kuang and Sharifah Syed Hassan and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7151584/"
+  },
+  {
+    "title": "On the Way to Construct the First IC Wafer Fab",
+    "year": 2013,
+    "authors": "Dang Trong Trinh and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "\u5728\u7535\u5b50\u6d4b\u8bd5\u6280\u672f\u5de5\u7a0b\u6559\u80b2\u4e2d, \u4f7f\u7528 NI LabVIEW \u548c NI ELVIS \u8fdb\u884c IC \u53c2\u6570\u6d4b\u8bd5",
+    "year": 2013,
+    "authors": "Serge Demidenko and Moi-Tin Chew and Nhat Minh Doung and Ye Chow Kuang and Melanie Ooi",
+    "venue": "\u56fd\u5916\u7535\u5b50\u6d4b\u91cf\u6280\u672f",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=2989733971271738107&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Integrated Circuit Parametric Test System for Engineering Education in Electronic Test Technology",
+    "year": 2012,
+    "authors": "S Demidenko and M. T. Chew and M. N. Doung and Y. C. Kuang and M. Ooi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Proceedings of the Fifth International Conference on Automation, Robotics and Applications (ICARA 2011)",
+    "year": 2011,
+    "authors": "G Sen Gupta and D Bailey and S Demidenko and D Carnegie",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "2011 Sixth IEEE International Symposium on Electronic Design, Test and Application (DELTA 2011)",
+    "year": 2011,
+    "authors": "G Sen Gupta and D Bailey and S Demidenko and A Osseiran and M Renovell",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "A contingent of autonomous Marching Robots: Intricacies of system design and motion control",
+    "year": 2011,
+    "authors": "C Messom and GS Gupta and R Craig and S Demidenko and TS Khoon",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=13764671150085485104&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Fixture control for mobile phone testing",
+    "year": 2009,
+    "authors": "Jason Je Sun Wan and Alan Choong and Moi Tin Chew and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/5168672/"
+  },
+  {
+    "title": "Triangular Targeting Algorithm (TTA) for Accurate Motion Control of Fast Mobile Robots",
+    "year": 2009,
+    "authors": "Gourab Sen Gupta and Chris Messom and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-89933-4_21"
+  },
+  {
+    "title": "Sensors in the Information Age",
+    "year": 2009,
+    "authors": "Serge DEMIDENKO and GOURAB SEN GUPTA and Subhas MUKHOPADHYAY",
+    "venue": "International journal of intelligent systems technologies and applications (Print)",
+    "citations": 0,
+    "doi": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=21620332"
+  },
+  {
+    "title": "Design of embedded differential equation solver",
+    "year": 2009,
+    "authors": "Ye Chow Kuang and Melanie Po-Leen Ooi and Wei Hong Loh and Serge Demidenko",
+    "venue": "International journal of intelligent systems technologies and applications",
+    "citations": 0,
+    "doi": "https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2009.025104"
+  },
+  {
+    "title": "Proceedings-4th IEEE International Symposium on Electronic Design, Test and Applications, DELTA 2008: Message from the general chairs",
+    "year": 2008,
+    "authors": "Amine Bermak and Serge Demidenko",
+    "venue": "Proceedings-4th IEEE International Symposium on Electronic Design, Test and Applications, DELTA 2008",
+    "citations": 0,
+    "doi": "https://researchportal.hbku.edu.qa/en/publications/proceedings-4th-ieee-international-symposium-on-electronic-design"
+  },
+  {
+    "title": "Proceedings of the Fourth IEEE International Symposium on Electronic Design, Test and Applications (DELTA 2008)",
+    "year": 2008,
+    "authors": "A Osseiran and M Renovell and A Amira and KP Pun and LLK Leung",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Optical Sources",
+    "year": 2008,
+    "authors": "Tin Win and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118256053.ch47"
+  },
+  {
+    "title": "Data Messaging and Control in Sensor-Actuator Networks using PowerBus Technology",
+    "year": 2008,
+    "authors": "Moi-Tin Chew and Serge Demidenko and Yoke-Fei Ng",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-79590-2_3"
+  },
+  {
+    "title": "SSETI ESEO New Zealand Ground Station Project",
+    "year": 2007,
+    "authors": "S Adams and F Alam and I Bond and S Demidenko and X Gui and R Harris and F Kennedy and E Lai and Janina Mazierska and F Weehuizen and M Alkazaki and J Amstrong and A Bullen and M Cameron and N Eichler and Y Guan and M Henderson and D Jia and F Jiang and B Lowry and M Lyon and D McIntyre and P Patel and N Pereira and S Oshana and U Ryken and S Selvaraj and D Wai and J White and J Xu",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://researchonline.jcu.edu.au/8157/"
+  },
+  {
+    "title": "BIST design for CCD based digital imaging system",
+    "year": 2007,
+    "authors": "Bin Jin and Nohpill Park and Serge N Demidenko and Minsu Choi and Fabrizio Lombardi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4258189/"
+  },
+  {
+    "title": "Application of PowerBus technology for data messaging and control in sensor/actuator networks",
+    "year": 2007,
+    "authors": "Yoke Fei Ng and Moi Tin Chew and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://research.monash.edu/en/publications/application-of-powerbus-technology-for-data-messaging-and-control"
+  },
+  {
+    "title": "Intelligent sensing technologies and applications",
+    "year": 2007,
+    "authors": "S DEMIDENKO and S MUKHOPADHYAY and G SEN GUPTA",
+    "venue": "International journal of intelligent systems technologies and applications (Print)",
+    "citations": 0,
+    "doi": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=18820352"
+  },
+  {
+    "title": "Message from the General Chairs",
+    "year": 2006,
+    "authors": "Serge N Demidenko and Zainal Abu-Kassim",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Shortening Burn-In Test: Application of a Novel Approach in optimizing Burn-In Time using Weibull Statistical Analysis with HVST",
+    "year": 2005,
+    "authors": "Fairuz Zakaria and Zainal Abu Kassim and Melanie Po-Leen Ooi and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.computer.org/csdl/proceedings-article/ats/2005/24810472/12OmNyz5JYI"
+  },
+  {
+    "title": "SPECIAL ISSUE ON IMTC'04-Guest Editorial",
+    "year": 2005,
+    "authors": "R Ottoboni and S Demidenko",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=12555894884198424786&hl=en&oi=scholarr"
+  },
+  {
+    "title": "On test data compaction using linear cycle registers",
+    "year": 2004,
+    "authors": "S Demidenko and E Levine and V Piuri and G Sen Gupta",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1351397/"
+  },
+  {
+    "title": "Proceeding of the 21th IEEE Instrumentation & Measurement Technology Conference",
+    "year": 2004,
+    "authors": "D Chong Tad Weng and S Demidenko and Roberto Ottoboni and D Petri and V Piuri",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://re.public.polimi.it/handle/11311/554631"
+  },
+  {
+    "title": "Message from the Program Chairs",
+    "year": 2004,
+    "authors": "Serge Demidenko and Michel Revovell",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "A contingent of autonomous marching robots: intricacies of system design and motion control",
+    "year": 2003,
+    "authors": "Toh Ser Khoon and Gourab Sen Gupta and Chris Messom and Serge Demidenko and Robert Craig",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1302060/"
+  },
+  {
+    "title": "Neural networks to solve the problems of control and identification [automated TV-set raster tuning]",
+    "year": 2002,
+    "authors": "Serge Demidenko and R Kh Sadykhov and Leonid P Podenok and Maxim E Vatkin and Alexey N Klimovich",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/994638/"
+  },
+  {
+    "title": "Harnessing geographically distributed co-operation in microtechnology course at Massey University",
+    "year": 2002,
+    "authors": "R Browne and S Demidenko and R O'Driscoll",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/994624/"
+  },
+  {
+    "title": "Mobile Data Collection and Transmission System Using 1-Wire and Wireless Communication Protocols",
+    "year": 2002,
+    "authors": "J B Y Cheong and S Demidenko",
+    "venue": "Projects",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Mobile Data Collection & Transmission System using 1-Wire and Wireless Communication Protocols",
+    "year": 2002,
+    "authors": "J B Y Cheong and S Demidenko and K Subramaniam",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Comparative Analysis of Error Detection Techniques in Control Unit Self-Checking",
+    "year": 2002,
+    "authors": "K Subramaniam and S Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Delta 2002: Keeping Oceania and the Pacific Rim Connected",
+    "year": 2002,
+    "authors": "Serge Demidenko",
+    "venue": "IEEE Design and Test of Computers",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Proceedings of the First International Workshop on Electronic Design, Test and Applications DELTA'02",
+    "year": 2002,
+    "authors": "Michel Renovell and S Kajihara and I Ai-Bahadly and S Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Open exams: efficient approach in student assessment in engineering education",
+    "year": 2001,
+    "authors": "S Demidenko and D Chong",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/929547/"
+  },
+  {
+    "title": "10TH ANNIVERSARYCOMPENDIUM OF PAPERS FROM ASIAN TEST SYMPOSIUM",
+    "year": 2001,
+    "authors": "Yinghua Min and Yuzo Takamatsu and Vishwani D Agrawal and Cheng-Wen Wu and Serge Demidenko and Kiyoshi Furuya and Shiyi Xu and Kuen-Jong Lee and Chau-Chin Su and Hiromi Hiraishi and et al - Editors Hatayama and Kazumi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "http://testplaza.fujiwaralab.net/ats/10thAnniversary.pdf"
+  },
+  {
+    "title": "Conversion of DOS Based Software packages using Rapid Application Development Environments",
+    "year": 2001,
+    "authors": "N D Lord and S Demidenko",
+    "venue": "Projects",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Application for Wireless Communication Technology: Wireless Retrieval of Livestock Disease Information",
+    "year": 2001,
+    "authors": "M J Ryan and S Demidenko",
+    "venue": "Projects",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Analysis of the Spectral Warping Transform",
+    "year": 2001,
+    "authors": "W P M Allen and S N Demidenko and D G Bailey",
+    "venue": "Projects",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Monitoring of Industrial Equipment Utilization: Application of Advanced Communication Protocols",
+    "year": 2001,
+    "authors": "S. Demidenko and A. Sadeghi and K. Mercer and M-T. Chew",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Correlating Failure Modes with Component Reliability in Synthesis of Self-Checking Control Unit Circuits",
+    "year": 2001,
+    "authors": "S Demidenko and K Subramaniam",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "LFRS-based fault diagnosis for circuits with a feedback loop",
+    "year": 2001,
+    "authors": "S Demidenko and E Levine and V Piuri",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://elibrary.ru/item.asp?id=27830288"
+  },
+  {
+    "title": "Design, Modeling, and Simulation in Microelectronics",
+    "year": 2000,
+    "authors": "Bernard Courtois and Serge N Demidenko and Lee Y Lau",
+    "venue": "Design, Modeling, and Simulation in Microelectronics",
+    "citations": 0,
+    "doi": "https://ui.adsabs.harvard.edu/abs/2000SPIE.4228.....C/abstract"
+  },
+  {
+    "title": "Design in Microelectronics & Computer Engineering: Teaching Undergraduates",
+    "year": 2000,
+    "authors": "S Demidenko and R Browne and R Hodgson",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-94-015-9506-3_57"
+  },
+  {
+    "title": "Design and Analysis of RAM Transparent March Test for BIST Implementation",
+    "year": 2000,
+    "authors": "S Henderson and S Demidenko",
+    "venue": "Projects",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Improving Student Assessment in Electronics: Open Exams",
+    "year": 2000,
+    "authors": "S Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-94-015-9506-3_50"
+  },
+  {
+    "title": "Design and analysis of RAM transparent March test for BIST implementation",
+    "year": 2000,
+    "authors": "Serge N Demidenko and Scott A Henderson",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4228/0000/Design-and-analysis-of-RAM-transparent-March-test-for-BIST/10.1117/12.405434.short"
+  },
+  {
+    "title": "Analysis of fault coverage and simulation of test data compactors for online testing control units",
+    "year": 2000,
+    "authors": "Serge N Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4228/0000/Analysis-of-fault-coverage-and-simulation-of-test-data-compactors/10.1117/12.405404.short"
+  },
+  {
+    "title": "Matrix Description Specifics for Synthesis of Self-Checking Micro-Programmed Control Units",
+    "year": 2000,
+    "authors": "Serge N Demidenko and Eugene M Levine",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Accelerating test data processing",
+    "year": 1999,
+    "authors": "Serge Demidenko and Kenneth Lever",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/810738/"
+  },
+  {
+    "title": "PROCEEDINGS-1998 IEEE INTERNATIONAL SYMPOSIUM ON DEFECT AND FAULT TOLERANCE IN VLSI SYSTEMS, DFT 1998",
+    "year": 1998,
+    "authors": "C Metra and M Favalli and B Ricco and S Demidenko and V Piuri and V Yarmolik and A Shmidman",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=8944310265144567056&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Using Industrial ATE for Tertiary Electronics Education: Is it the Best Solution?",
+    "year": 1998,
+    "authors": "S Demidenko and SK Jhajharia and T-B Tan and W-Y Wong",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-94-011-5110-8_65"
+  },
+  {
+    "title": "RECORDS OF THE IEEE INTERNATIONAL WORKSHOP ON MEMORY TECHNOLOGY, DESIGN AND TESTING",
+    "year": 1996,
+    "authors": "VN Yarmolik and YV Klimets and AJ Van De Goor and SN Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=4564302008604892381&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Touch Memory Automatic Identification Technology: Application for Final Year Student Projects",
+    "year": 1996,
+    "authors": "S Demidenko and T T Quek",
+    "venue": "Singapore Polytechnic Technical Journal",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Developing My Teaching",
+    "year": 1996,
+    "authors": "S Demidenko",
+    "venue": "Journal of Teaching Practice",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Error masking in compact testing based on the Hamming code and its modifications",
+    "year": 1995,
+    "authors": "Serge Demidenko and Alexander Ivanyukovich and Leonid Makhist and Vincenzo Piuri",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/485352/"
+  },
+  {
+    "title": "Validity of the Compression Techniques Based on the Hamming Code and its Modifications in Digital Circuit Testing",
+    "year": 1995,
+    "authors": "Serge Demidenko and A Ivanyukovich and L Makhnist and V Piuri",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "A Generalised Approach to Digital Circuit Error Localisation by Using Fault Signature Information",
+    "year": 1995,
+    "authors": "S Demidenko and V Piuri",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "A generalized approach to error localisation by using fault signature information",
+    "year": 1993,
+    "authors": "S.N. Demidenko and V Piuri",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Digital Neural Network Architectures and Problems Related to Testing and Fault-Tolerance",
+    "year": 1993,
+    "authors": "S Demidenko and W Fornaciari and V Piuri and R Stefanelli",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://re.public.polimi.it/handle/11311/694014"
+  },
+  {
+    "title": "Concurrent diagnosis in artificial neural networks: the use of signature analysis",
+    "year": 1993,
+    "authors": "S Demidenko and V Piuri and M Sami and R Stefanelli",
+    "venue": "ATTI DEL CONGRESSO ANNUALE-ASSOCIAZIONE ITALIANA PER L INFORMATICA ED IL CALCOLO AUTOMATICO",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=18034420671091133334&hl=en&oi=scholarr"
+  },
+  {
+    "title": "An analytical approach to error localization by using information derived from error signature",
+    "year": 1993,
+    "authors": "SERGE DEMIDENKO and VINCENZO PIURI",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=17262459453913414363&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Erratum: New approach to synthesis of self-checking microprogrammed control units with specified fault-detection probabilities",
+    "year": 1992,
+    "authors": "SN Demidenko and EM Levin and KV Lever",
+    "venue": "IEE Proceedings E (Computers and Digital Techniques)",
+    "citations": 0,
+    "doi": "https://digital-library.theiet.org/doi/abs/10.1049/ip-e.1992.0014"
+  },
+  {
+    "title": "Erratum: Concurrent self-checking for microprogrammed control units: an analytical survey",
+    "year": 1992,
+    "authors": "SN Demidenko and EM Levin and KV Lever",
+    "venue": "IEE Proceedings E (Computers and Digital Techniques)",
+    "citations": 0,
+    "doi": "https://digital-library.theiet.org/doi/abs/10.1049/ip-e.1992.0013"
+  },
+  {
+    "title": "Vibration testing control using spectral warping",
+    "year": 1991,
+    "authors": "SN Demidenko and KV Lever",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/98450/"
+  },
+  {
+    "title": "\u0421\u0438\u043d\u0442\u0435\u0437 \u0441\u0430\u043c\u043e\u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0445 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043d\u044b\u0445 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432",
+    "year": 1990,
+    "authors": "\u0421 \u041d \u0414\u0435\u043c\u0438\u0434\u0435\u043d\u043a\u043e and \u0415 \u041c \u041b\u0435\u0432\u0438\u043d",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "\u041c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u041a\u0410\u041c\u0410\u041a-\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u042d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430",
+    "year": 1990,
+    "authors": "\u0421 \u041d \u0414\u0435\u043c\u0438\u0434\u0435\u043d\u043a\u043e and \u041b \u0421 \u0410\u043f\u0430\u043d\u0430\u0441\u0435\u043d\u043a\u043e and \u0412 \u041d \u0414\u0430\u0448\u0443\u043a and \u042d \u0411 \u041a\u0443\u043d\u043e\u0432\u0441\u043a\u0438\u0439",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Reliability of functional diagnostics for control units",
+    "year": 1989,
+    "authors": "S.N. Demidenko and E.M. Levine",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "\u0424\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u0430\u043a\u0442\u043d\u044b\u0445 \u0442\u0435\u0441\u0442\u043e\u0432\u044b\u0445 \u043e\u0431\u0440\u0430\u0437\u043e\u0432 \u043d\u0430 \u043b\u0438\u043d\u0435\u0439\u043d\u044b\u0445 \u0446\u0438\u043a\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0445",
+    "year": 1988,
+    "authors": "\u0421.\u041d. \u0414\u0435\u043c\u0438\u0434\u0435\u043d\u043a\u043e and \u0415.\u041c. \u041b\u0435\u0432\u0438\u043d",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Functional checking and testing of microprogrammed control units with use of built-in features",
+    "year": 1988,
+    "authors": "E.M. Levin and S.N. Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "IEEE Open Journal of Instrumentation and Measurement",
+    "year": "N/A",
+    "authors": "JUAN MANUEL RAMIREZ CORT ES and KURT BARBE and REZA ZOUGHI and SHERVIN SHIRMOHAMMADI and MOHAMMAD TAYEB AL QASEER and LOREDANA CRISTALDI and ERIC FUJIWARA and WEIWEN LIU and CARLO MUSCAS and JACOB SCHARCANSKI and GANG TANG and SALVATORE BAGLIO and SERGE DEMIDENKO and SABRINA GRASSINI and MINGYANG LU and ALI ASGHAR NAZARI SHIREHJINI and CHANGQING SHEN and SAMIR TRABELSI and MARCO CARRATU and ALESSANDRO FERRERO and RUYI HUANG and GIANFRANCO MIELE and HELENA GEIRINHAS RAMOS and LING-FENG SHI and FEDERICO TRAMARIN and AMITAVA CHATTERJEE and EDOARDO FIORUCCI and NAN LI and SUBHAS MUKHOPADHYAY and ANIK KUMAR SAMANTA and JIANGTAO SUN",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10402604/"
+  },
+  {
+    "title": "Recent advances in robotics and automation",
+    "year": "N/A",
+    "authors": "Gourab Sen Gupta and Donald Bailey and Serge Demidenko and Dale Carnegie",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://cir.nii.ac.jp/crid/1130000797004552832"
+  },
+  {
+    "title": "IEEE Open Journal of Instrumentation and Measurement",
+    "year": "N/A",
+    "authors": "SALVATORE BAGLIO and GEORGE XIAO and SHERVIN SHIRMOHAMMADI and EDOARDO FIORUCCI and SHUTAO LI and CARLO MUSCAS and JACOB SCHARCANSKI and SAMIR TRABELSI and AMITAVA CHATTERJEE and ERIC FUJIWARA and WEIWEN LIU and MOHAMMAD TAYEB AL QASEER and CHANGQING SHEN and WUQIANG YANG and SERGE DEMIDENKO and RUYI HUANG and GIANFRANCO MIELE and HELENA GEIRINHAS RAMOS and VR SINGH and REZA ZOUGHI and ALESSANDRO FERRERO and NAN LI and SUBHAS MUKHOPADHYAY and ANIK KUMAR SAMANTA and GANG TANG",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10035819/"
+  },
+  {
+    "title": "2021 18th International Multi-Conference on Systems, Signals &amp; Devices (SSD)| 978-1-6654-1493-7/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/SSD52085. 2021.9429455",
+    "year": "N/A",
+    "authors": "Kasim Al-Aubidy and Ahmad Al-Mahasneh and Faisal Alghayadh and Mohammed Mehdi Ali and Thamraa Alshayeb and Bruno Ando and Imed Ben Dhaou and Saad Bennani Dosse and Omar Daoud and Serge Demidenko and Nabil Derbel",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9429455/"
+  },
+  {
+    "title": "Erik Jan Marinissen Edward J. Yinghua Min Miura Zain Navabi",
+    "year": "N/A",
+    "authors": "Einar J Aas and Vishwani D Agrawal and Robert Aitken and Melvin A Breuer and Krishnendu Chakrabarty and Soon-Jyh Chang and Tsin-Yuan Chang and Yen-Jen Chang and Parimal Pal Chaudhuri and Jwu-E Chen and Ching-Hwa Cheng and Kwang-Ting Cheng and Wu-Tung Cheng and Serge Demidenko and Jianhua Feng and Joan Figueras and Yasuo Furukawa and Kiyoshi Furuya and Andre Ivanov and Wen-Ben Jone and Jing-Yang Jou and Bozena Kaminska and Hans Kerkhoff and Christian Landrault and Chung-Len Lee and Kuen-Jone Lee and Jin-Fu Li and Xiaowei Li and Hsing-Chung Liang and Jing-Jia Liou and Chih-Wen Lu and Shyue-Kung Lu and Daniele Rossi and K Kewal and Jacob Savir and Sharad C Seth and Li Shen and Meng-Lieh Sheu and Ming-Der Shieh and Tsuyoshi Shinogi and Mani Soma and Matteo Sonza Reorda and Bernd Straube and Chau-Chin Su and Yihe Sun and Hiroshi Takahashi and Sadami Takeoka and Hideo Tamamoto and Jing-Jou Tang and J Paulo Teixeira and Tatsuhiro Tsuchiya and Masahiro Tsunoyama and Raimund Ubar",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.computer.org/csdl/proceedings-article/ats/2004/01376520/12OmNweBUG2"
+  },
+  {
+    "title": "Steering Committee Chair",
+    "year": "N/A",
+    "authors": "Xiaowei Li and Masaki Hashizume and Kuen-Jong Lee and Bhargab Bhattacharya and Krishnendu Chakrabarty and Serge Demidenko and Michiko Inoue and Shi-Yu Huang and Tomoo Inoue and Seiji Kajihara and Virendra Singh and Chau-Chin Su and Hiroshi Takahashi and Shiyi Xu and Dafang Zhang",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.computer.org/csdl/proceedings-article/ats/2013/5080z013/12OmNwE9OC6"
+  },
+  {
+    "title": "Welcome Message from the Chairs",
+    "year": "N/A",
+    "authors": "Serge Demidenko and Gourab Sen Gupta",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9220019/"
+  },
+  {
+    "title": "General Co-Chairs",
+    "year": "N/A",
+    "authors": "Ashutosh Dutta and Gerhard Fettweis and Latif Ladid and Heinz Bernold and Jean-Pierre Bienaim\u00e9 and Li-Fung Chang and Upkar Dhaliwal and Andrea Goldsmith and Asha Keddy and Tim Lee and Peter Nagy and Vincent Poor and Henning Schulzrinne and Peter Vetter and Peiying Zhu",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8517016/"
+  },
+  {
+    "title": "The Lords of the IMS: Expanding the Frontiers of Metrology Innovations",
+    "year": "N/A",
+    "authors": "Gourab Sen Gupta and Serge Demidenko and Melanie Ooi and Vincenzo Piuri and Andrew Taberner",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8674623/"
+  }
+]
