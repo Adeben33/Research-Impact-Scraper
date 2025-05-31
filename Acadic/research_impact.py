@@ -12,6 +12,7 @@ UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
 DEBUG_MODE = True
 REFRESH_CACHE = True
 
+# OUTPUT_DIR = "Acadic"
 OUTPUT_DIR = "Acadic"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

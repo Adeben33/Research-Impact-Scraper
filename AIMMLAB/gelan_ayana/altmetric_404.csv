@@ -24,4 +24,5 @@ Patchless deep transfer learning for improved mammographic breast mass classific
 U-net with vision transformer encoder for polyp segmentation in colonoscopy images
 Vision transformers for endoscopic pathological findings classification
 Multistage Transfer Learning for Breast Cancer Early Diagnosis via Ultrasound
+Nonlocal means method using clustering pre-classification and rotational invariant block matching for de-speckling of breast ultrasound images
 Non-invasive anemia and pregnant total hemoglobin detection device

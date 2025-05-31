@@ -36,12 +36,16 @@
     "year": 2021,
     "authors": "Michele Kremer Sott and Leandro da Silva Nascimento and Cristian Rog\u00e9rio Foguesatto and Leonardo B Furstenau and Kad\u00edgia Faccin and Paulo Ant\u00f4nio Zawislak and Bruce Mellado and Jude Dzevela Kong and Nicola Luigi Bragazzi",
     "venue": "N/A",
-    "citations": 66,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
+    "citations": 67,
     "doi": "https://www.mdpi.com/1424-8220/21/23/7889"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
+  },
+  {
+    "title": "Comparing public sentiment toward COVID-19 vaccines across Canadian cities: analysis of comments on Reddit",
+    "year": 2021,
+    "authors": "Cathy Yan and Melanie Law and Stephanie Nguyen and Janelle Cheung and Jude Kong",
+    "venue": "Journal of medical Internet research",
+    "citations": 49,
+    "doi": "https://www.jmir.org/2021/9/e32685/"
   },
   {
     "title": "Fangcang shelter hospitals during the COVID-19 epidemic, Wuhan, China",
@@ -50,18 +54,6 @@
     "venue": "Bulletin of the World Health Organization",
     "citations": 49,
     "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7716094/"
-  },
-  {
-    "title": "Comparing public sentiment toward COVID-19 vaccines across Canadian cities: analysis of comments on Reddit",
-    "year": 2021,
-    "authors": "Cathy Yan and Melanie Law and Stephanie Nguyen and Janelle Cheung and Jude Kong",
-    "venue": "Journal of medical Internet research",
-    "citations": 48,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
-    "doi": "https://www.jmir.org/2021/9/e32685/"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
   },
   {
     "title": "Safety profile of Dupilumab during pregnancy: a data mining and disproportionality analysis of over 37,000 reports from the WHO individual case safety reporting database (VigiBase\u2122)",
@@ -96,14 +88,6 @@
     "doi": "https://link.springer.com/article/10.1007/s11538-014-9996-9"
   },
   {
-    "title": "Dynamics of a cholera transmission model with immunological threshold and natural phage control in reservoir",
-    "year": 2014,
-    "authors": "Jude D Kong and William Davis and Hao Wang",
-    "venue": "Bulletin of mathematical biology",
-    "citations": 33,
-    "doi": ""
-  },
-  {
     "title": "Well-being and quality of life in people with disabilities practicing sports, athletes with disabilities, and para-athletes: Insights from a critical review of the literature",
     "year": 2023,
     "authors": "Luca Puce and Patrick Mbah Okwen and Mirabel Nain Yuh and Gloria Akah Ndum Okwen and Rigobert Hanny Pambe Miong and Jude Dzevela Kong and Nicola Luigi Bragazzi",
@@ -125,11 +109,7 @@
     "authors": "Maxime Descartes Mbogning Fonkou and Nicola Luigi Bragazzi and Emmanuel Kagning Tsinda and Yagai Bouba and Gideon Sadikiel Mmbando and Jude Dzevela Kong",
     "venue": "International journal of environmental research and public health",
     "citations": 32,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
     "doi": "https://www.mdpi.com/1660-4601/18/14/7273"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
   },
   {
     "title": "Integrated vaccination and non-pharmaceutical interventions based strategies in Ontario, Canada, as a case study: a mathematical modelling study",
@@ -144,7 +124,7 @@
     "year": 2021,
     "authors": "Rola Khamisy-Farah and Leonardo B Furstenau and Jude Dzevela Kong and Jianhong Wu and Nicola Luigi Bragazzi",
     "venue": "N/A",
-    "citations": 30,
+    "citations": 31,
     "doi": "https://www.mdpi.com/1660-4601/18/10/5058"
   },
   {
@@ -204,14 +184,6 @@
     "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724000745"
   },
   {
-    "title": "Understanding the impact of HIV on mpox transmission in the MSM population: A mathematical modeling study",
-    "year": 2024,
-    "authors": "Andrew Omame and Qing Han and Sarafa A Iyaniwura and Adeniyi Ebenezer and Nicola L Bragazzi and Xiaoying Wang and Jude D Kong and Woldegebriel A Woldegerima",
-    "venue": "Infectious Disease Modelling",
-    "citations": 26,
-    "doi": ""
-  },
-  {
     "title": "The effect of COVID-19 on public hospital revenues in Iran: An interrupted time-series analysis",
     "year": 2022,
     "authors": "Masoud Behzadifar and Afshin Aalipour and Mohammad Kehsvari and Banafsheh Darvishi Teli and Mahboubeh Khaton Ghanbari and Hasan Abolghasem Gorji and Alaeddin Sheikhi and Samad Azari and Mohammad Heydarian and Seyed Jafar Ehsanzadeh and Jude Dzevela Kong and Maryam Ahadi and Nicola Luigi Bragazzi",
@@ -225,11 +197,7 @@
     "authors": "Noomen Guelmami and Maher Ben Khalifa and Nasr Chalghaf and Jude Dzevela Kong and Tannoubi Amayra and Jianhong Wu and Fairouz Azaiez and Nicola Luigi Bragazzi",
     "venue": "JMIR formative research",
     "citations": 26,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
     "doi": "https://formative.jmir.org/2021/6/e27280"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
   },
   {
     "title": "Public sentiments toward COVID-19 vaccines in South African cities: An analysis of Twitter posts",
@@ -296,20 +264,20 @@
     "doi": "https://www.mdpi.com/1660-4601/18/17/8989"
   },
   {
+    "title": "Cost and social distancing dynamics in a mathematical model of COVID-19 with application to Ontario, Canada",
+    "year": 2021,
+    "authors": "Iain R Moyles and Jane M Heffernan and Jude D Kong",
+    "venue": "Royal Society open science",
+    "citations": 23,
+    "doi": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.201770"
+  },
+  {
     "title": "A stoichiometric organic matter decomposition model in a chemostat culture",
     "year": 2018,
     "authors": "Jude D Kong and Paul Salceanu and Hao Wang",
     "venue": "Journal of Mathematical Biology",
     "citations": 23,
     "doi": "https://link.springer.com/article/10.1007/s00285-017-1152-3"
-  },
-  {
-    "title": "Cost and social distancing dynamics in a mathematical model of COVID-19 with application to Ontario, Canada",
-    "year": 2021,
-    "authors": "Iain R Moyles and Jane M Heffernan and Jude D Kong",
-    "venue": "Royal Society open science",
-    "citations": 22,
-    "doi": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.201770"
   },
   {
     "title": "Harnessing big data, smart and digital technologies and artificial intelligence for preventing, early intercepting, managing, and treating psoriatic arthritis: insights from a systematic review of the literature",
@@ -368,14 +336,6 @@
     "doi": "https://epubs.siam.org/doi/abs/10.1137/140959638"
   },
   {
-    "title": "Stability and sensitivity analysis of the iSIR model for indirectly transmitted infectious diseases with immunological threshold",
-    "year": 2014,
-    "authors": "Jude D Kong and William Davis and Xiong Li and Hao Wang",
-    "venue": "SIAM Journal on Applied Mathematics",
-    "citations": 18,
-    "doi": ""
-  },
-  {
     "title": "Harnessing artificial intelligence to assess the impact of nonpharmaceutical interventions on the second wave of the coronavirus disease 2019 pandemic across the world",
     "year": 2022,
     "authors": "Sile Tao and Nicola Luigi Bragazzi and Jianhong Wu and Bruce Mellado and Jude Dzevela Kong",
@@ -405,11 +365,7 @@
     "authors": "Jude D Kong and Chaochao Jin and Hao Wang",
     "venue": "Bulletin of mathematical biology",
     "citations": 17,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
     "doi": "https://link.springer.com/article/10.1007/s11538-015-0121-5"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
   },
   {
     "title": "Assessing the impact of adherence to Non-pharmaceutical interventions and indirect transmission on the dynamics of COVID-19: a mathematical modelling study",
@@ -452,14 +408,6 @@
     "doi": "https://www.tandfonline.com/doi/abs/10.2147/CLEP.S314802"
   },
   {
-    "title": "Burden of respiratory infection and tuberculosis among US states from 1990 to 2019",
-    "year": 2021,
-    "authors": "Wen Zhong and Nicola Luigi Bragazzi and Jude Dzevela Kong and Saeid Safiri and Masoud Behzadifar and Jun Liu and Xinyao Liu and Weijun Wang",
-    "venue": "Clinical Epidemiology",
-    "citations": 14,
-    "doi": ""
-  },
-  {
     "title": "Observation wards and control of the transmission of COVID-19 in Wuhan",
     "year": 2020,
     "authors": "Juan Li and Pei Yuan and Jane Heffernan and Tingting Zheng and Nick Ogden and Beate Sander and Jun Li and Qi Li and Jacques B\u00e9lair11 and Jude Dzevela Kong and Elena Aruffo and Yi Tan and Zhen Jin and Meng Fan13 and Jingan Cui14 and Zhidong Teng and Huaiping Zhu",
@@ -481,11 +429,7 @@
     "authors": "Sarafa A Iyaniwura and Rabiu Musa and Jude D Kong",
     "venue": "Mathematical Biosciences and Engineering",
     "citations": 13,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
     "doi": "https://www.aimspress.com/article/doi/10.3934/mbe.2023249"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
   },
   {
     "title": "A bibliometrics-enhanced, PAGER-compliant scoping review of the literature on paralympic powerlifting: insights for practices and future research",
@@ -584,14 +528,6 @@
     "doi": "https://par.nsf.gov/servlets/purl/10288177"
   },
   {
-    "title": "A mathematical model for Vibrio-phage interactions",
-    "year": 2021,
-    "authors": "Christopher Botelho and Jude Dzevela Kong and Mentor Ali Lucien and Zhisheng Shuai and Hao Wang",
-    "venue": "Mathematical Biosciences and Engineering",
-    "citations": 10,
-    "doi": ""
-  },
-  {
     "title": "Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in infectious diseases, workshop report",
     "year": 2024,
     "authors": "Marta C Nunes and Edward Thommes and Holger Fr\u00f6hlich and Antoine Flahault and Julien Arino and Marc Baguelin and Matthew Biggerstaff and Gaston Bizel-Bizellot and Rebecca Borchering and Giacomo Cacciapaglia and Simon Cauchemez and Alex Barbier and Carsten Claussen and Christine Choirat and Monica Cojocaru and Catherine Commaille-Chapus and Chitin Hon and Jude Kong and Nicolas Lambert and Katharina B Lauer and Thorsten Lehr and C\u00e9dric Mahe and Vincent Marechal and Adel Mebarki and Seyed Moghadas and Rene Niehus and Lulla Opatowski and Francesco Parino and Gery Pruvost and Andreas Schuppert and Rodolphe Thi\u00e9baut and Andrea Thomas-Bachli and Cecile Viboud and Jianhong Wu and Pascal Cr\u00e9pey and Laurent Coudeville",
@@ -608,24 +544,20 @@
     "doi": "https://www.nature.com/articles/s41598-023-39723-0"
   },
   {
+    "title": "A Twitter dataset for monkeypox, May 2022",
+    "year": 2023,
+    "authors": "Zahra M Nia and Nicola L Bragazzi and Jianhong Wu and Jude D Kong",
+    "venue": "Data in Brief",
+    "citations": 9,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2352340923002378"
+  },
+  {
     "title": "Effectiveness of community face mask use on COVID-19 epidemiological trends and patterns in Italy: evidence from a \u201ctranslational\u201d study",
     "year": 2021,
     "authors": "Nicola Luigi Bragazzi and Naim Mahroum and Giovanni Damiani and Jude Dzevela Kong and Jianhong Wu",
     "venue": "N/A",
     "citations": 9,
-<<<<<<< HEAD:AIMMLAB/jude_kong/cached_publications.json
     "doi": "https://www.tandfonline.com/doi/full/10.1080/23744235.2021.1883731"
-=======
-    "doi": ""
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/cached_publications.json
-  },
-  {
-    "title": "A Twitter dataset for monkeypox, May 2022",
-    "year": 2023,
-    "authors": "Zahra M Nia and Nicola L Bragazzi and Jianhong Wu and Jude D Kong",
-    "venue": "Data in Brief",
-    "citations": 8,
-    "doi": "https://www.sciencedirect.com/science/article/pii/S2352340923002378"
   },
   {
     "title": "Can post-vaccination sentiment affect the acceptance of booster jab?",
@@ -836,6 +768,14 @@
     "doi": "https://www.sciencedirect.com/science/article/pii/S1007570423004446"
   },
   {
+    "title": "Detecting the presence of COVID-19 vaccination hesitancy from South African twitter data using machine learning",
+    "year": 2023,
+    "authors": "Nicholas Perikli and Srimoy Bhattacharya and Blessing Ogbuokiri and Zahra Movahedi Nia and Benjamin Lieberman and Nidhi Tripathi and Salah-Eddine Dahbi and Finn Stevenson and Nicola Bragazzi and Jude Kong and Bruce Mellado",
+    "venue": "arXiv preprint arXiv:2307.15072",
+    "citations": 3,
+    "doi": "https://arxiv.org/abs/2307.15072"
+  },
+  {
     "title": "A tale of two (and more) stories: smallpox-monkeypox viruses (HIV, and other sexually transmitted disesases) interaction dynamics",
     "year": 2022,
     "authors": "Nicola Luigi Bragazzi and Jude Dzevela Kong and Jianhong Wu",
@@ -882,14 +822,6 @@
     "venue": "Frontiers in Public Health",
     "citations": 2,
     "doi": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1190722/full"
-  },
-  {
-    "title": "Detecting the presence of COVID-19 vaccination hesitancy from South African twitter data using machine learning",
-    "year": 2023,
-    "authors": "Nicholas Perikli and Srimoy Bhattacharya and Blessing Ogbuokiri and Zahra Movahedi Nia and Benjamin Lieberman and Nidhi Tripathi and Salah-Eddine Dahbi and Finn Stevenson and Nicola Bragazzi and Jude Kong and Bruce Mellado",
-    "venue": "arXiv preprint arXiv:2307.15072",
-    "citations": 2,
-    "doi": "https://arxiv.org/abs/2307.15072"
   },
   {
     "title": "Women\u2019s Birth Preparedness and Complication Readiness in Nigeria: A Systematic Review and Meta-Analysis",

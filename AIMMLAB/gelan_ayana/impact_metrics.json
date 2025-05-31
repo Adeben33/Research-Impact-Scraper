@@ -758,7 +758,7 @@
     "Paper Title":"Proper Base-model and Optimizer Combination Improves Transfer Learning Performance for Ultrasound Breast Cancer Classification",
     "Year":2021,
     "Citations":1,
-    "DOI":"https:\/\/doi.org\/10.5815\/ijigsp.2023.01.02",
+    "DOI":"https:\/\/doi.org\/10.1007\/978-981-19-9819-5_37",
     "PMID":null,
     "Authors":"Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "Journal":"Proceedings of the Korean Institute of Information and Commucation Sciences Conference",
@@ -777,7 +777,7 @@
     "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.5815\/ijigsp.2023.01.02"
+    "Paper Link":"https:\/\/doi.org\/10.1007\/978-981-19-9819-5_37"
   },
   {
     "Author":"Gelan Ayana",
@@ -1168,6 +1168,32 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.3390\/diagnostics12010135"
+  },
+  {
+    "Author":"Gelan Ayana",
+    "Paper Title":"Nonlocal means method using clustering pre-classification and rotational invariant block matching for de-speckling of breast ultrasound images",
+    "Year":2020,
+    "Citations":0,
+    "DOI":"https:\/\/doi.org\/10.3390\/diagnostics12040862",
+    "PMID":null,
+    "Authors":"Gelan Ayana and Timothy Kwa and Hakkins Raj and Kokeb Dese",
+    "Journal":"Gates Open Res",
+    "Altmetric Score":0.0,
+    "Twitter Mentions":0,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.3390\/diagnostics12040862"
   },
   {
     "Author":"Gelan Ayana",

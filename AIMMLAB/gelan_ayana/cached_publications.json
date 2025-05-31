@@ -5,7 +5,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Se-woon Choe",
     "venue": "N/A",
     "citations": 163,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2072-6694/13/4/738"
   },
   {
     "title": "A novel multistage transfer learning for ultrasound breast cancer image classification",
@@ -13,7 +13,7 @@
     "authors": "Gelan Ayana and Jinhyung Park and Jin-Woo Jeong and Se-woon Choe",
     "venue": "Diagnostics",
     "citations": 127,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2075-4418/12/1/135"
   },
   {
     "title": "Accurate machine-learning-based classification of leukemia from blood smear images",
@@ -21,7 +21,7 @@
     "authors": "Kokeb Dese and Hakkins Raj and Gelan Ayana and Tilahun Yemane and Wondimagegn Adissu and Janarthanan Krishnamoorthy and Timothy Kwa",
     "venue": "Clinical Lymphoma Myeloma and Leukemia",
     "citations": 87,
-    "doi": ""
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2152265021002706"
   },
   {
     "title": "Vision-transformer-based transfer learning for mammogram classification",
@@ -29,7 +29,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Yisak Dereje and Yonas Kebede and Hika Barki and Dechassa Amdissa and Nahimiya Husen and Fikadu Mulugeta and Bontu Habtamu and Se-Woon Choe",
     "venue": "Diagnostics",
     "citations": 81,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2075-4418/13/2/178"
   },
   {
     "title": "BUViTNet: breast ultrasound detection via vision transformers",
@@ -37,7 +37,7 @@
     "authors": "Gelan Ayana and Se-Woon Choe",
     "venue": "Diagnostics",
     "citations": 48,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2075-4418/12/11/2654"
   },
   {
     "title": "Patchless multi-stage transfer learning for improved mammographic breast mass classification",
@@ -45,7 +45,7 @@
     "authors": "Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "venue": "Cancers",
     "citations": 35,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2072-6694/14/5/1280"
   },
   {
     "title": "Ultrasound-responsive nanocarriers for breast cancer chemotherapy",
@@ -53,7 +53,7 @@
     "authors": "Gelan Ayana and Jaemyung Ryu and Se-woon Choe",
     "venue": "N/A",
     "citations": 28,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2072-666X/13/9/1508"
   },
   {
     "title": "Decolonizing global AI governance: assessment of the state of decolonized AI governance in Sub-Saharan Africa",
@@ -61,7 +61,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Bontu Habtamu and Bruce Mellado and Kingsley Badu and Edmund Yamba and Sylvain Landry Faye and Moise Ondua and Dickson Nsagha and Denis Nkweteyim and Jude Dzevela Kong",
     "venue": "Royal Society Open Science",
     "citations": 20,
-    "doi": ""
+    "doi": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231994"
   },
   {
     "title": "De-speckling breast cancer ultrasound images using a rotationally invariant block matching based non-local means (RIBM-NLM) method",
@@ -69,7 +69,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Hakkins Raj and Janarthanan Krishnamoorthy and Timothy Kwa",
     "venue": "Diagnostics",
     "citations": 19,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2075-4418/12/4/862"
   },
   {
     "title": "Automatic early detection and classification of leukemia from microscopic blood image",
@@ -77,7 +77,7 @@
     "authors": "Kokeb Dese Gebremeskel and Timothy Chung Kwa and K Hakkins Raj and Gelan Ayana Zewdie and Tilahun Yemaneh Shenkute and Wondimagegn Addisu Maleko",
     "venue": "Abyssinia Journal of Engineering and Computing",
     "citations": 19,
-    "doi": ""
+    "doi": "https://www.ajol.info/index.php/ajec/article/view/281182"
   },
   {
     "title": "Low cost, non-invasive, and continuous vital signs monitoring device for pregnant women in low resource settings (Lvital device)",
@@ -85,7 +85,7 @@
     "authors": "Kokeb Dese and Gelan Ayana and Gizeaddis Lamesgin Simegn",
     "venue": "HardwareX",
     "citations": 14,
-    "doi": ""
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468067222000219"
   },
   {
     "title": "Progress of near-infrared-based medical imaging and cancer cell suppressors",
@@ -93,7 +93,7 @@
     "authors": "Vicky Mudeng and Gelan Ayana and Sung-Uk Zhang and Se-woon Choe",
     "venue": "N/A",
     "citations": 12,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2227-9040/10/11/471"
   },
   {
     "title": "Multistage transfer learning for medical images",
@@ -101,7 +101,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Ahmed Mohammed Abagaro and Kwangcheol Casey Jeong and Soon-Do Yoon and Se-woon Choe",
     "venue": "Artificial Intelligence Review",
     "citations": 11,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1007/s10462-024-10855-7"
   },
   {
     "title": "Vision transformers for breast cancer human epidermal growth factor receptor 2 expression staging without immunohistochemical staining",
@@ -109,7 +109,7 @@
     "authors": "Gelan Ayana and Eonjin Lee and Se-woon Choe",
     "venue": "The American Journal of Pathology",
     "citations": 10,
-    "doi": ""
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0002944023004601"
   },
   {
     "title": "Automated ECG signals analysis for cardiac abnormality detection and classification",
@@ -117,7 +117,7 @@
     "authors": "Ahmed Mohammed Abagaro and Hika Barki and Gelan Ayana and Ahmed Ali Dawud and Bheema Lingaiah Thamineni and Towfik Jemal and Se-woon Choe",
     "venue": "Journal of Electrical Engineering & Technology",
     "citations": 8,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1007/s42835-024-01902-y"
   },
   {
     "title": "Domain and histopathology adaptations\u2013based classification for malignancy grading system",
@@ -125,7 +125,7 @@
     "authors": "Vicky Mudeng and Mifta Nur Farid and Gelan Ayana and Se-woon Choe",
     "venue": "The American Journal of Pathology",
     "citations": 8,
-    "doi": ""
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0002944023003127"
   },
   {
     "title": "Vision transformers-based transfer learning for breast mass classification from multiple diagnostic modalities",
@@ -133,7 +133,7 @@
     "authors": "Gelan Ayana and Se-woon Choe",
     "venue": "Journal of Electrical Engineering & Technology",
     "citations": 6,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1007/s42835-024-01904-w"
   },
   {
     "title": "Pathological Insights: Enhanced Vision Transformers for the Early Detection of Colorectal Cancer",
@@ -141,7 +141,7 @@
     "authors": "Gelan Ayana and Hika Barki and Se-woon Choe",
     "venue": "Cancers",
     "citations": 5,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2072-6694/16/7/1441"
   },
   {
     "title": "Deep learning model meets community-based surveillance of acute flaccid paralysis",
@@ -149,7 +149,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Hamdia Murad and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Elbetel Taye and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Netsanet Workneh Gidi and Bontu Habtamu and Jude Kong",
     "venue": "Infectious Disease Modelling",
     "citations": 2,
-    "doi": ""
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724001283"
   },
   {
     "title": "Deep learning for improved community-based acute flaccid paralysis surveillance in Ethiopia",
@@ -157,7 +157,7 @@
     "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Filimona Bisrat and Tenager Tadesse and Netsanet Workneh Gidi and Jude Dzevela Kong",
     "venue": "Available at SSRN 4750946",
     "citations": 2,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750946"
   },
   {
     "title": "From Diagnosis to Treatment: A Review of AI Applications in Psoriasis Management",
@@ -165,7 +165,7 @@
     "authors": "Eyerusalem Gebremeskel and Gelane Biru and Honey Gemechu and Tewodros Belay Alemneh and Gelan Ayana and Se-woon Choe",
     "venue": "N/A",
     "citations": 1,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1007/s42835-025-02195-5"
   },
   {
     "title": "Community-based surveillance of acute flaccid paralysis: A review on detection and reporting strategy",
@@ -173,7 +173,7 @@
     "authors": "Gelane Biru and Honey Gemechu and Eyerusalem Gebremeskel and Hundessa Daba Nemomssa and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Kong and Gelan Ayana",
     "venue": "N/A",
     "citations": 1,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1007/s44197-025-00349-2"
   },
   {
     "title": "Vision Transformers for Low-Quality Histopathological Images: A Case Study on Squamous Cell Carcinoma Margin Classification",
@@ -181,7 +181,7 @@
     "authors": "So-yun Park and Gelan Ayana and Beshatu Debela Wako and Kwangcheol Casey Jeong and Soon-Do Yoon and Se-woon Choe",
     "venue": "Diagnostics",
     "citations": 1,
-    "doi": ""
+    "doi": "https://www.mdpi.com/2075-4418/15/3/260"
   },
   {
     "title": "A survey on acute flaccid paralysis health system-based surveillance",
@@ -189,7 +189,7 @@
     "authors": "Honey Gemechu and Gelane Biru and Eyerusalem Gebremeskel and Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
     "venue": "N/A",
     "citations": 1,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937185"
   },
   {
     "title": "Leveraging artificial intelligence for acute flaccid paralysis surveillance: A survey",
@@ -197,7 +197,7 @@
     "authors": "Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
     "venue": "N/A",
     "citations": 1,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903744"
   },
   {
     "title": "Insights and implications from the analysis of acute flaccid paralysis surveillance data in Ethiopia",
@@ -205,7 +205,7 @@
     "authors": "Gashaw Demlew and Mesfin Tefera and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mikias Alayu and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
     "venue": "N/A",
     "citations": 1,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901340"
   },
   {
     "title": "Superpixel-based Landmark Identification and Disease Diagnosis from Gastrointestinal Images",
@@ -213,7 +213,7 @@
     "authors": "Hika Barki and Gelan Ayana and Muhammad Rushdi and Ahmed Morsy and Se-woon Choe",
     "venue": "Journal of Electrical Engineering & Technology",
     "citations": 1,
-    "doi": ""
+    "doi": "https://link.springer.com/article/10.1007/s42835-024-01903-x"
   },
   {
     "title": "Vision-Transformer-Based Transfer Learning for Mammogram Classification. Diagnostics 2023, 13, 178",
@@ -221,7 +221,7 @@
     "authors": "G Ayana and K Dese and Y Dereje and Y Kebede and H Barki and D Amdissa and N Husen and F Mulugeta and B Habtamu and SW Choe",
     "venue": "N/A",
     "citations": 1,
-    "doi": ""
+    "doi": "https://www.academia.edu/download/98716896/pdf.pdf"
   },
   {
     "title": "Spatial Pyramid Pooling based end-to-end deep learning for mammogram breast masses classification",
@@ -229,7 +229,7 @@
     "authors": "Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "venue": "\ud55c\uad6d\ud1b5\uc2e0\ud559\ud68c \ud559\uc220\ub300\ud68c\ub17c\ubb38\uc9d1",
     "citations": 1,
-    "doi": ""
+    "doi": "https://www.researchgate.net/profile/Gelan-Ayana/publication/360034447_Spatial_Pyramid_Pooling_based_end-to-end_deep_learning_for_mammogram_breast_masses_classification/links/625e992fa279ec5dd702605a/Spatial-Pyramid-Pooling-based-end-to-end-deep-learning-for-mammogram-breast-masses-classification.pdf"
   },
   {
     "title": "Proper Base-model and Optimizer Combination Improves Transfer Learning Performance for Ultrasound Breast Cancer Classification",
@@ -237,7 +237,7 @@
     "authors": "Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "venue": "Proceedings of the Korean Institute of Information and Commucation Sciences Conference",
     "citations": 1,
-    "doi": ""
+    "doi": "https://koreascience.kr/article/CFKO202132348617266.page"
   },
   {
     "title": "Shifting from Margins to Momentum of the Global South Leadership in Responsible Artificial Intelligence Solutions for Health: Lessons from the UNGA79 Science Summit",
@@ -245,7 +245,7 @@
     "authors": "Gelan Ayana and Hana Trigui and Romulo de Castro and Andre Carlos Ponce de Leon Ferreira de Carvalho and Dickson Nsagha and Kingsley Badu and Sylvain Landry Faye and Bruce Mellado and Lucita Lazo and Angela Lee and Manuel Colome and Patricia Espinoza-Lopez and Alvin Marcelo and Mohammed-Amine Koulali and Radwan Qasrawi and Chaitali Sinha and Hannah Chirgwin and Emmanuel Musa and Jude Dzevela Kong",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222262"
   },
   {
     "title": "Critical Analysis of Canada's Africa Strategy: A Partnership for Shared Prosperity and Security",
@@ -253,7 +253,7 @@
     "authors": "Gelan Ayana and Jude Dzevela Kong",
     "venue": "Available at SSRN",
     "citations": 0,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5171987"
   },
   {
     "title": "Significance of the ARIMA epidemiological modeling to predict the rate of HIV and AIDS in the Kumba Health District of Cameroon",
@@ -261,7 +261,7 @@
     "authors": "Arrey Emmanuel Besong and Odette Dzemo Kibu and Elvis Asangbeng Tanue and Besong Agbor Obinkem and Ginyu Innocentia Kwalar and Fabrice Chethkwo and Valentine Ndze Ngum and Maurice Marcel Sandeu and Patrick Jolly Ngono Ema and Nkweteyim Denis and Onduo Moise and Ayana Gelan and Jude Dzevela Kong and Dickson Shey Nsagha",
     "venue": "Frontiers in Public Health",
     "citations": 0,
-    "doi": ""
+    "doi": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1526454/full"
   },
   {
     "title": "Squamous Cell Carcinoma Margin Classification Using Vision Transformers from Digital Histopathology Images",
@@ -269,7 +269,7 @@
     "authors": "So-Yun Park and Gelan Ayana and Se-woon Choe",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10920655/"
   },
   {
     "title": "Vision Transformers for Mpox Detection",
@@ -277,7 +277,7 @@
     "authors": "Gelan Ayana and So-Yun Park and Se-Woon Choe",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10920820/"
   },
   {
     "title": "Machine Learning for Early Prediction of Preterm Birth",
@@ -285,7 +285,7 @@
     "authors": "Firanol Teshome and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952965"
   },
   {
     "title": "Epidemiological Trends and Clinical Features of Polio in Ethiopia: A Preliminary Pooled Data Analysis and Literature Review",
@@ -293,7 +293,7 @@
     "authors": "Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926664"
   },
   {
     "title": "3D Printing-based Customizable LED Photodynamic Therapy Stimulation System",
@@ -301,7 +301,7 @@
     "authors": "LEE Eonjin and Gelan AYANA and Se-woon CHOE",
     "venue": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c",
     "citations": 0,
-    "doi": ""
+    "doi": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11410023"
   },
   {
     "title": "A Robust Transfer Learning for Breast Cancer Early Detection from Multiple Imaging Modalities",
@@ -309,7 +309,7 @@
     "authors": "Gelan Ayana",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://www.dbpia.co.kr/journal/detail?nodeId=T16882921"
   },
   {
     "title": "Vision transformer-based transfer learning for mammographic breast mass detection",
@@ -317,7 +317,7 @@
     "authors": "Gelan Ayana and Se-woon Choe",
     "venue": "\ub300\ud55c\uc804\uae30\ud559\ud68c \ud559\uc220\ub300\ud68c \ub17c\ubb38\uc9d1",
     "citations": 0,
-    "doi": ""
+    "doi": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11146011"
   },
   {
     "title": "Patchless deep transfer learning for improved mammographic breast mass classification",
@@ -325,7 +325,7 @@
     "authors": "Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "venue": "Cancer Research",
     "citations": 0,
-    "doi": ""
+    "doi": "https://aacrjournals.org/cancerres/article/82/12_Supplement/5052/702270"
   },
   {
     "title": "U-net with vision transformer encoder for polyp segmentation in colonoscopy images",
@@ -333,7 +333,7 @@
     "authors": "Gelan Ayana and Se-woon Choe",
     "venue": "Proceedings of the Korean Institute of Information and Commucation Sciences Conference",
     "citations": 0,
-    "doi": ""
+    "doi": "https://koreascience.kr/article/CFKO202232558483352.page"
   },
   {
     "title": "Vision transformers for endoscopic pathological findings classification",
@@ -341,7 +341,7 @@
     "authors": "Gelan Ayana and Se-woon Choe",
     "venue": "Proceedings of the Korean Institute of Information and Commucation Sciences Conference",
     "citations": 0,
-    "doi": ""
+    "doi": "https://koreascience.kr/article/CFKO202221536131029.page"
   },
   {
     "title": "Transfer Learning in Breast Cancer Diagnoses via Ultrasound Imaging. Cancers 2021, 13, 738",
@@ -349,7 +349,7 @@
     "authors": "G Ayana and K Dese and S-w Choe",
     "venue": "N/A",
     "citations": 0,
-    "doi": ""
+    "doi": "https://www.academia.edu/download/77347598/pdf.pdf"
   },
   {
     "title": "Multistage Transfer Learning for Breast Cancer Early Diagnosis via Ultrasound",
@@ -357,7 +357,7 @@
     "authors": "Gelan Ayana and Jinhyung Park and Se-woon Choe",
     "venue": "Proceedings of the Korean Institute of Information and Commucation Sciences Conference",
     "citations": 0,
-    "doi": ""
+    "doi": "https://koreascience.kr/article/CFKO202121751147225.page"
   },
   {
     "title": "Nonlocal means method using clustering pre-classification and rotational invariant block matching for de-speckling of breast ultrasound images",

@@ -30,7 +30,7 @@
     "Paper Title":"The impact of non-pharmaceutical interventions, demographic, social, and climatic factors on the initial growth rate of COVID-19: A cross-country study",
     "Year":2021,
     "Citations":98,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1016\/j.scitotenv.2020.144325",
     "PMID":"33338848",
     "Authors":"Jacqueline Duhon and Nicola Bragazzi and Jude Dzevela Kong",
     "Journal":"Science of The Total Environment",
@@ -46,17 +46,17 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1016\/j.scitotenv.2020.144325"
   },
   {
     "Author":"Jude Kong",
     "Paper Title":"Global, regional, and national burden of Guillain\u2013Barr\u00e9 syndrome and its underlying causes from 1990 to 2019",
     "Year":2021,
     "Citations":84,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1186\/s12974-021-02319-4",
     "PMID":"34763713",
     "Authors":"Nicola Luigi Bragazzi and Ali-Asghar Kolahi and Seyed Aria Nejadghaderi and Piergiorgio Lochner and Francesco Brigo and Andrea Naldi and Paola Lanteri and Sergio Garbarino and Mark JM Sullman and Haijiang Dai and Jianhong Wu and Jude Dzevela Kong and Haitham Jahrami and Mohammad-Reza Sohrabi and Saeid Safiri",
     "Journal":"Journal of neuroinflammation",
@@ -72,10 +72,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1186\/s12974-021-02319-4"
   },
   {
     "Author":"Jude Kong",
@@ -107,7 +107,7 @@
     "Author":"Jude Kong",
     "Paper Title":"A bibliometric network analysis of recent publications on digital agriculture to depict strategic themes and evolution structure",
     "Year":2021,
-    "Citations":66,
+    "Citations":67,
     "DOI":"https:\/\/doi.org\/10.3390\/s21237889",
     "PMID":"34883903",
     "Authors":"Michele Kremer Sott and Leandro da Silva Nascimento and Cristian Rog\u00e9rio Foguesatto and Leonardo B Furstenau and Kad\u00edgia Faccin and Paulo Ant\u00f4nio Zawislak and Bruce Mellado and Jude Dzevela Kong and Nicola Luigi Bragazzi",
@@ -125,35 +125,6 @@
     "OA Status":"doaj",
     "Preprint":false,
     "Publication Type":"Open Access",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
-=======
-    "Public Health Impact":false,
-    "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.3390\/s21237889"
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"Fangcang shelter hospitals during the COVID-19 epidemic, Wuhan, China",
-    "Year":2020,
-    "Citations":49,
-    "DOI":"N\/A",
-    "PMID":"38484353",
-    "Authors":"Juan Li and Pei Yuan and Jane Heffernan and Tingting Zheng and Nick Ogden and Beate Sander and Jun Li and Qi Li and Jacques B\u00e9lair and Jude Dzevela Kong and Elena Aruffo and Yi Tan and Zhen Jin and Yong Yu and Meng Fan and Jingan Cui and Zhidong Teng and Huaiping Zhu",
-    "Journal":"Bulletin of the World Health Organization",
-    "Altmetric Score":0.0,
-    "Twitter Mentions":0,
-    "Reddit Mentions":0,
-    "News Mentions":0,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":false,
-    "Open Access":true,
-    "OA Status":"doaj",
-    "Preprint":false,
-    "Publication Type":"Unknown",
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.3390\/s21237889"
@@ -162,7 +133,7 @@
     "Author":"Jude Kong",
     "Paper Title":"Comparing public sentiment toward COVID-19 vaccines across Canadian cities: analysis of comments on Reddit",
     "Year":2021,
-    "Citations":48,
+    "Citations":49,
     "DOI":"https:\/\/doi.org\/10.2196\/32685",
     "PMID":"34519654",
     "Authors":"Cathy Yan and Melanie Law and Stephanie Nguyen and Janelle Cheung and Jude Kong",
@@ -183,6 +154,32 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.2196\/32685"
+  },
+  {
+    "Author":"Jude Kong",
+    "Paper Title":"Fangcang shelter hospitals during the COVID-19 epidemic, Wuhan, China",
+    "Year":2020,
+    "Citations":49,
+    "DOI":"https:\/\/doi.org\/10.2471\/blt.20.258152",
+    "PMID":"38484353",
+    "Authors":"Juan Li and Pei Yuan and Jane Heffernan and Tingting Zheng and Nick Ogden and Beate Sander and Jun Li and Qi Li and Jacques B\u00e9lair and Jude Dzevela Kong and Elena Aruffo and Yi Tan and Zhen Jin and Yong Yu and Meng Fan and Jingan Cui and Zhidong Teng and Huaiping Zhu",
+    "Journal":"Bulletin of the World Health Organization",
+    "Altmetric Score":23.25,
+    "Twitter Mentions":9,
+    "Reddit Mentions":0,
+    "News Mentions":1,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":3,
+    "Policy Mentions":0,
+    "Media Mentioned":true,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.2471\/blt.20.258152"
   },
   {
     "Author":"Jude Kong",
@@ -396,7 +393,7 @@
     "Author":"Jude Kong",
     "Paper Title":"Gynecology meets big data in the disruptive innovation medical era: state-of-art and future prospects",
     "Year":2021,
-    "Citations":30,
+    "Citations":31,
     "DOI":"https:\/\/doi.org\/10.3390\/ijerph18105058",
     "PMID":"34064710",
     "Authors":"Rola Khamisy-Farah and Leonardo B Furstenau and Jude Dzevela Kong and Jianhong Wu and Nicola Luigi Bragazzi",
@@ -553,11 +550,10 @@
     "Paper Title":"SARS-CoV-2 and self-medication in Cameroon: a mathematical model",
     "Year":2021,
     "Citations":27,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1080\/17513758.2021.1883130",
     "PMID":"37598351",
     "Authors":"Jude D Kong and Rinel F Tchuendom and Samuel A Adeleye and Jummy F David and Fikreab Solomon Admasu and Emmanuel A Bakare and Nourridine Siewe",
     "Journal":"Journal of biological dynamics",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
     "Altmetric Score":16.85,
     "Twitter Mentions":21,
     "Reddit Mentions":0,
@@ -586,10 +582,6 @@
     "Journal":"Infectious Disease Modelling",
     "Altmetric Score":0.0,
     "Twitter Mentions":0,
-=======
-    "Altmetric Score":1.0,
-    "Twitter Mentions":1,
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
     "Reddit Mentions":0,
     "News Mentions":0,
     "Blog Mentions":0,
@@ -633,69 +625,10 @@
   },
   {
     "Author":"Jude Kong",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
     "Paper Title":"Development of the 12-item social media disinformation scale and its association with social media addiction and mental health related to COVID-19 in Tunisia: Survey-based pilot case study",
     "Year":2021,
     "Citations":26,
     "DOI":"https:\/\/doi.org\/10.2196\/27280",
-=======
-    "Paper Title":"Understanding the impact of HIV on mpox transmission in the MSM population: A mathematical modeling study",
-    "Year":2024,
-    "Citations":26,
-    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.4762707",
-    "PMID":"40083295",
-    "Authors":"Andrew Omame and Qing Han and Sarafa A Iyaniwura and Adeniyi Ebenezer and Nicola L Bragazzi and Xiaoying Wang and Jude D Kong and Woldegebriel A Woldegerima",
-    "Journal":"Infectious Disease Modelling",
-    "Altmetric Score":0.0,
-    "Twitter Mentions":0,
-    "Reddit Mentions":0,
-    "News Mentions":0,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":false,
-    "Open Access":true,
-    "OA Status":"doaj",
-    "Preprint":false,
-    "Publication Type":"Open Access",
-    "Public Health Impact":true,
-    "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.4762707"
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"The effect of COVID-19 on public hospital revenues in Iran: An interrupted time-series analysis",
-    "Year":2022,
-    "Citations":26,
-    "DOI":"https:\/\/doi.org\/10.1371\/journal.pone.0266343",
-    "PMID":"40140858",
-    "Authors":"Masoud Behzadifar and Afshin Aalipour and Mohammad Kehsvari and Banafsheh Darvishi Teli and Mahboubeh Khaton Ghanbari and Hasan Abolghasem Gorji and Alaeddin Sheikhi and Samad Azari and Mohammad Heydarian and Seyed Jafar Ehsanzadeh and Jude Dzevela Kong and Maryam Ahadi and Nicola Luigi Bragazzi",
-    "Journal":"Plos one",
-    "Altmetric Score":8.0,
-    "Twitter Mentions":0,
-    "Reddit Mentions":0,
-    "News Mentions":1,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":true,
-    "Open Access":true,
-    "OA Status":"doaj",
-    "Preprint":false,
-    "Publication Type":"Open Access",
-    "Public Health Impact":false,
-    "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.1371\/journal.pone.0266343"
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"Development of the 12-item social media disinformation scale and its association with social media addiction and mental health related to COVID-19 in Tunisia: Survey-based pilot case study",
-    "Year":2021,
-    "Citations":26,
-    "DOI":"N\/A",
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
     "PMID":"34021742",
     "Authors":"Noomen Guelmami and Maher Ben Khalifa and Nasr Chalghaf and Jude Dzevela Kong and Tannoubi Amayra and Jianhong Wu and Fairouz Azaiez and Nicola Luigi Bragazzi",
     "Journal":"JMIR formative research",
@@ -711,17 +644,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
     "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.2196\/27280"
-=======
-    "Publication Type":"Unknown",
-    "Public Health Impact":false,
-    "Capacity Building":false,
-    "Paper Link":"N\/A"
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
   },
   {
     "Author":"Jude Kong",
@@ -858,7 +784,7 @@
     "Paper Title":"Is monkeypox a new, emerging sexually transmitted disease? A rapid review of the literature",
     "Year":2023,
     "Citations":23,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1002\/jmv.28145",
     "PMID":"36101012",
     "Authors":"Nicola Luigi Bragazzi and Jude Dzevela Kong and Jianhong Wu",
     "Journal":"N\/A",
@@ -874,10 +800,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1002\/jmv.28145"
   },
   {
     "Author":"Jude Kong",
@@ -933,6 +859,32 @@
   },
   {
     "Author":"Jude Kong",
+    "Paper Title":"Cost and social distancing dynamics in a mathematical model of COVID-19 with application to Ontario, Canada",
+    "Year":2021,
+    "Citations":23,
+    "DOI":"https:\/\/doi.org\/10.1101\/2020.10.21.20217158",
+    "PMID":null,
+    "Authors":"Iain R Moyles and Jane M Heffernan and Jude D Kong",
+    "Journal":"Royal Society open science",
+    "Altmetric Score":35.0,
+    "Twitter Mentions":5,
+    "Reddit Mentions":0,
+    "News Mentions":4,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":true,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1101\/2020.10.21.20217158"
+  },
+  {
+    "Author":"Jude Kong",
     "Paper Title":"A stoichiometric organic matter decomposition model in a chemostat culture",
     "Year":2018,
     "Citations":23,
@@ -956,32 +908,6 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.1007\/s00285-017-1152-3"
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"Cost and social distancing dynamics in a mathematical model of COVID-19 with application to Ontario, Canada",
-    "Year":2021,
-    "Citations":22,
-    "DOI":"https:\/\/doi.org\/10.1101\/2020.10.21.20217158",
-    "PMID":null,
-    "Authors":"Iain R Moyles and Jane M Heffernan and Jude D Kong",
-    "Journal":"Royal Society open science",
-    "Altmetric Score":35.0,
-    "Twitter Mentions":5,
-    "Reddit Mentions":0,
-    "News Mentions":4,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":true,
-    "Open Access":true,
-    "OA Status":"doaj",
-    "Preprint":false,
-    "Publication Type":"Open Access",
-    "Public Health Impact":false,
-    "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.1101\/2020.10.21.20217158"
   },
   {
     "Author":"Jude Kong",
@@ -1170,7 +1096,7 @@
     "Paper Title":"Harnessing artificial intelligence to assess the impact of nonpharmaceutical interventions on the second wave of the coronavirus disease 2019 pandemic across the world",
     "Year":2022,
     "Citations":17,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1038\/s41598-021-04731-5",
     "PMID":"35042945",
     "Authors":"Sile Tao and Nicola Luigi Bragazzi and Jianhong Wu and Bruce Mellado and Jude Dzevela Kong",
     "Journal":"Scientific reports",
@@ -1186,10 +1112,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1038\/s41598-021-04731-5"
   },
   {
     "Author":"Jude Kong",
@@ -1222,7 +1148,7 @@
     "Paper Title":"Quantifying the annual incidence and underestimation of seasonal influenza: A modelling approach",
     "Year":2020,
     "Citations":17,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1186\/s12976-020-00129-4",
     "PMID":"32646444",
     "Authors":"Zachary McCarthy and Safia Athar and Mahnaz Alavinejad and Christopher Chow and Iain Moyles and Kyeongah Nah and Jude D Kong and Nishant Agrawal and Ahmed Jaber and Laura Keane and Sam Liu and Myles Nahirniak and Danielle St Jean and Razvan Romanescu and Jessica Stockdale and Bruce T Seet and Laurent Coudeville and Edward Thommes and Anne-Frieda Taurel and Jason Lee and Thomas Shin and Julien Arino and Jane Heffernan and Ayman Chit and Jianhong Wu",
     "Journal":"Theoretical Biology and Medical Modelling",
@@ -1238,10 +1164,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1186\/s12976-020-00129-4"
   },
   {
     "Author":"Jude Kong",
@@ -1639,7 +1565,7 @@
     "Year":2017,
     "Citations":12,
     "DOI":"https:\/\/doi.org\/10.31223\/x56m1v",
-    "PMID":"40388544",
+    "PMID":null,
     "Authors":"Jude D Kong",
     "Journal":"N\/A",
     "Altmetric Score":0.0,
@@ -1843,6 +1769,32 @@
   },
   {
     "Author":"Jude Kong",
+    "Paper Title":"A Twitter dataset for monkeypox, May 2022",
+    "Year":2023,
+    "Citations":9,
+    "DOI":"https:\/\/doi.org\/10.1016\/j.dib.2023.109118",
+    "PMID":"38443914",
+    "Authors":"Zahra M Nia and Nicola L Bragazzi and Jianhong Wu and Jude D Kong",
+    "Journal":"Data in Brief",
+    "Altmetric Score":1.75,
+    "Twitter Mentions":4,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1016\/j.dib.2023.109118"
+  },
+  {
+    "Author":"Jude Kong",
     "Paper Title":"Effectiveness of community face mask use on COVID-19 epidemiological trends and patterns in Italy: evidence from a \u201ctranslational\u201d study",
     "Year":2021,
     "Citations":9,
@@ -1866,32 +1818,6 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.1080\/23744235.2021.1883731"
-  },
-  {
-    "Author":"Jude Kong",
-    "Paper Title":"A Twitter dataset for monkeypox, May 2022",
-    "Year":2023,
-    "Citations":8,
-    "DOI":"https:\/\/doi.org\/10.1016\/j.dib.2023.109118",
-    "PMID":"38443914",
-    "Authors":"Zahra M Nia and Nicola L Bragazzi and Jianhong Wu and Jude D Kong",
-    "Journal":"Data in Brief",
-    "Altmetric Score":1.75,
-    "Twitter Mentions":4,
-    "Reddit Mentions":0,
-    "News Mentions":0,
-    "Blog Mentions":0,
-    "Facebook Mentions":0,
-    "Wikipedia Mentions":0,
-    "Policy Mentions":0,
-    "Media Mentioned":false,
-    "Open Access":true,
-    "OA Status":"doaj",
-    "Preprint":false,
-    "Publication Type":"Open Access",
-    "Public Health Impact":false,
-    "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.1016\/j.dib.2023.109118"
   },
   {
     "Author":"Jude Kong",
@@ -2516,8 +2442,6 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.1136\/bmjgh-2024-016937"
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
-=======
   },
   {
     "Author":"Jude Kong",
@@ -2544,7 +2468,6 @@
     "Public Health Impact":true,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.3390\/healthcare12191959"
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
   },
   {
     "Author":"Jude Kong",
@@ -2574,8 +2497,32 @@
   },
   {
     "Author":"Jude Kong",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
-=======
+    "Paper Title":"Detecting the presence of COVID-19 vaccination hesitancy from South African twitter data using machine learning",
+    "Year":2023,
+    "Citations":3,
+    "DOI":"https:\/\/doi.org\/10.1109\/isriti56927.2022.10053035",
+    "PMID":null,
+    "Authors":"Nicholas Perikli and Srimoy Bhattacharya and Blessing Ogbuokiri and Zahra Movahedi Nia and Benjamin Lieberman and Nidhi Tripathi and Salah-Eddine Dahbi and Finn Stevenson and Nicola Bragazzi and Jude Kong and Bruce Mellado",
+    "Journal":"arXiv preprint arXiv:2307.15072",
+    "Altmetric Score":0.0,
+    "Twitter Mentions":0,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":true,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1109\/isriti56927.2022.10053035"
+  },
+  {
+    "Author":"Jude Kong",
     "Paper Title":"A tale of two (and more) stories: smallpox-monkeypox viruses (HIV, and other sexually transmitted disesases) interaction dynamics",
     "Year":2022,
     "Citations":3,
@@ -2602,7 +2549,32 @@
   },
   {
     "Author":"Jude Kong",
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
+    "Paper Title":"Covid-19 vaccine hesitancy and information diffusion: An agent-based modeling approach",
+    "Year":2021,
+    "Citations":3,
+    "DOI":"https:\/\/doi.org\/10.1257\/rct.8909-1.0",
+    "PMID":null,
+    "Authors":"Pooria Taghizadeh Naderi and Ali Asgary and Jude Kong and Jianhong Wu and Fattaneh Taghiyareh",
+    "Journal":"arXiv preprint arXiv:2109.01182",
+    "Altmetric Score":0.0,
+    "Twitter Mentions":0,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":false,
+    "Paper Link":"https:\/\/doi.org\/10.1257\/rct.8909-1.0"
+  },
+  {
+    "Author":"Jude Kong",
     "Paper Title":"Deep learning model meets community-based surveillance of acute flaccid paralysis",
     "Year":2025,
     "Citations":2,
@@ -2632,11 +2604,11 @@
     "Paper Title":"Deep learning for improved community-based acute flaccid paralysis surveillance in Ethiopia",
     "Year":2024,
     "Citations":2,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.4750946",
     "PMID":"39720666",
     "Authors":"Gelan Ayana and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Filimona Bisrat and Tenager Tadesse and Netsanet Workneh Gidi and Jude Dzevela Kong",
     "Journal":"Available at SSRN 4750946",
-    "Altmetric Score":4.85,
+    "Altmetric Score":3.7,
     "Twitter Mentions":4,
     "Reddit Mentions":0,
     "News Mentions":0,
@@ -2647,11 +2619,11 @@
     "Media Mentioned":false,
     "Open Access":true,
     "OA Status":"doaj",
-    "Preprint":true,
-    "Publication Type":"Preprint",
+    "Preprint":false,
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
-    "Paper Link":"https:\/\/papers.ssrn.com\/sol3\/papers.cfm?abstract_id=4750946"
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.4750946"
   },
   {
     "Author":"Jude Kong",
@@ -2866,7 +2838,7 @@
     "Paper Title":"Community-based surveillance of acute flaccid paralysis: A review on detection and reporting strategy",
     "Year":2025,
     "Citations":1,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1007\/s44197-025-00349-2",
     "PMID":"39976723",
     "Authors":"Gelane Biru and Honey Gemechu and Eyerusalem Gebremeskel and Hundessa Daba Nemomssa and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Kong and Gelan Ayana",
     "Journal":"N\/A",
@@ -2882,10 +2854,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1007\/s44197-025-00349-2"
   },
   {
     "Author":"Jude Kong",
@@ -2912,7 +2884,6 @@
     "Public Health Impact":true,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.1016\/j.artmed.2025.103076"
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
   },
   {
     "Author":"Jude Kong",
@@ -2939,8 +2910,6 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.3390\/iot5040032"
-=======
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
   },
   {
     "Author":"Jude Kong",
@@ -3077,12 +3046,12 @@
     "Paper Title":"Regional variation and epidemiological insights in malaria underestimation in Cameroon",
     "Year":2023,
     "Citations":1,
-    "DOI":"https:\/\/doi.org\/10.1101\/2023.11.06.23298167",
+    "DOI":"https:\/\/doi.org\/10.1016\/j.idm.2025.05.006",
     "PMID":null,
     "Authors":"Sarafa A Iyaniwura and Qing Han and Ngem Bede Yong and Ghislain Rutayisire and Agnes Adom-Konadu and Okwen Patrick Mbah and David Poumo Tchouassi and Kingsley Badu and Jude D Kong",
     "Journal":"medRxiv",
-    "Altmetric Score":2.75,
-    "Twitter Mentions":4,
+    "Altmetric Score":0.0,
+    "Twitter Mentions":0,
     "Reddit Mentions":0,
     "News Mentions":0,
     "Blog Mentions":0,
@@ -3096,7 +3065,7 @@
     "Publication Type":"Open Access",
     "Public Health Impact":true,
     "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.1101\/2023.11.06.23298167"
+    "Paper Link":"https:\/\/doi.org\/10.1016\/j.idm.2025.05.006"
   },
   {
     "Author":"Jude Kong",
@@ -3516,6 +3485,32 @@
   },
   {
     "Author":"Jude Kong",
+    "Paper Title":"Shifting from Margins to Momentum of the Global South Leadership in Responsible Artificial Intelligence Solutions for Health: Lessons from the UNGA79 Science Summit",
+    "Year":2025,
+    "Citations":0,
+    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.5222262",
+    "PMID":null,
+    "Authors":"Gelan Ayana and Hana Trigui and Romulo de Castro and Andre Carlos Ponce de Leon Ferreira de Carvalho and Dickson Nsagha and Kingsley Badu and Sylvain Landry Faye and Bruce Mellado and Lucita Lazo and Angela Lee and Manuel Colome and Patricia Espinoza-Lopez and Alvin Marcelo and Mohammed-Amine Koulali and Radwan Qasrawi and Chaitali Sinha and Hannah Chirgwin and Emmanuel Musa and Jude Dzevela Kong",
+    "Journal":"N\/A",
+    "Altmetric Score":2.7,
+    "Twitter Mentions":3,
+    "Reddit Mentions":0,
+    "News Mentions":0,
+    "Blog Mentions":0,
+    "Facebook Mentions":0,
+    "Wikipedia Mentions":0,
+    "Policy Mentions":0,
+    "Media Mentioned":false,
+    "Open Access":true,
+    "OA Status":"doaj",
+    "Preprint":false,
+    "Publication Type":"Open Access",
+    "Public Health Impact":false,
+    "Capacity Building":true,
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5222262"
+  },
+  {
+    "Author":"Jude Kong",
     "Paper Title":"From Detection to Decision: A Systematic Literature Review of AI and Machine Learning Evolution in Methane Modelling",
     "Year":2025,
     "Citations":0,
@@ -3909,7 +3904,7 @@
     "Paper Title":"Leveraging machine learning and big data techniques to map the global patent landscape of phage therapy",
     "Year":2024,
     "Citations":0,
-    "DOI":"N\/A",
+    "DOI":"https:\/\/doi.org\/10.1038\/s41587-024-02493-9",
     "PMID":"39663481",
     "Authors":"Maxime Descartes Mbogning Fonkou and Jude Dzevela Kong",
     "Journal":"N\/A",
@@ -3925,10 +3920,10 @@
     "Open Access":true,
     "OA Status":"doaj",
     "Preprint":false,
-    "Publication Type":"Unknown",
+    "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"N\/A"
+    "Paper Link":"https:\/\/doi.org\/10.1038\/s41587-024-02493-9"
   },
   {
     "Author":"Jude Kong",
@@ -4170,11 +4165,7 @@
     "Year":2024,
     "Citations":0,
     "DOI":"https:\/\/doi.org\/10.3389\/fpubh.2024.1406363",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
-    "PMID":"40416670",
-=======
     "PMID":"40440921",
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
     "Authors":"Qing Han and Ghislain Rutayisire and Maxime Descartes Mbogning Fonkou and Wisdom Stallone Avusuglo and Ali Ahmadi and Ali Asgary and James Orbinski and Jianhong Wu and Jude Dzevela Kong",
     "Journal":"Frontiers in Public Health",
     "Altmetric Score":3.0,
@@ -4356,11 +4347,7 @@
     "Year":2024,
     "Citations":0,
     "DOI":"https:\/\/doi.org\/10.1201\/b19470-34",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
-    "PMID":"40438543",
-=======
-    "PMID":"40440224",
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
+    "PMID":"40448113",
     "Authors":"Andrew Omame and Qing Han and Sarafa A Iyaniwura and Adeniyi Ebenezer and Nicola L Bragazzi and Xiaoying Wang and Jude D Kong and Woldegebriel A Woldegerima",
     "Journal":"N\/A",
     "Altmetric Score":0.0,
@@ -4486,7 +4473,6 @@
   },
   {
     "Author":"Jude Kong",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
     "Paper Title":"Higher Rates of COVID-19 but Less Severe Infections Reported for Patients on Il-4\/Il-13 Blocker: A Big Data Analysis of the WHO Vigibase",
     "Year":2021,
     "Citations":0,
@@ -4513,8 +4499,6 @@
   },
   {
     "Author":"Jude Kong",
-=======
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
     "Paper Title":"Social Media COVID-19 Information and Vaccine Decision: A Latent Class Analysis",
     "Year":2021,
     "Citations":0,
@@ -4590,7 +4574,6 @@
     "Public Health Impact":false,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.1186\/s12976-020-00129-4"
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
   },
   {
     "Author":"Jude Kong",
@@ -4643,20 +4626,18 @@
     "Public Health Impact":true,
     "Capacity Building":false,
     "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5210208"
-=======
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
   },
   {
     "Author":"Jude Kong",
-    "Paper Title":"Disproportionate Impact of the COVID-19 Pandemic on Socially Vulnerable Communities: The Case of Jane and Finch in Toronto, Ontario",
+    "Paper Title":"A Mechanistic Stage-Structured Model for Estimating Maturation, Mortality, and Recruitment Parameters of Three Economically Significant Fish Species in Canadian Waters",
     "Year":"N\/A",
     "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.1161\/circoutcomes.122.009294",
+    "DOI":"https:\/\/doi.org\/10.2139\/ssrn.5206508",
     "PMID":null,
-    "Authors":"Zahra Movahedi Nia and Cheryl Prescod and Michelle Westin and Patricia Perkins and Mary Goitom and Kesha Fevrier and Sylvia Bawa and Jude Dzevela Kong",
-    "Journal":"Frontiers in Public Health",
-    "Altmetric Score":2.75,
-    "Twitter Mentions":6,
+    "Authors":"Sherif Shuaib and Jude Dzevela Kong and Ghislain Rutayisire and Qing Han and Amy Veprauskas",
+    "Journal":"Mortality, and Recruitment Parameters of Three Economically Significant Fish Species in Canadian Waters",
+    "Altmetric Score":1.0,
+    "Twitter Mentions":0,
     "Reddit Mentions":0,
     "News Mentions":0,
     "Blog Mentions":0,
@@ -4668,9 +4649,9 @@
     "OA Status":"doaj",
     "Preprint":false,
     "Publication Type":"Open Access",
-    "Public Health Impact":true,
+    "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.1161\/circoutcomes.122.009294"
+    "Paper Link":"https:\/\/doi.org\/10.2139\/ssrn.5206508"
   },
   {
     "Author":"Jude Kong",
@@ -4678,11 +4659,7 @@
     "Year":"N\/A",
     "Citations":0,
     "DOI":"https:\/\/doi.org\/10.1039\/2754-7000\/2022",
-<<<<<<< HEAD:AIMMLAB/jude_kong/impact_metrics.json
-    "PMID":"40439783",
-=======
-    "PMID":"40442704",
->>>>>>> 02e7edef5c607d286975430bc0ea8e86f6597e44:jude_kong/impact_metrics.json
+    "PMID":"40446644",
     "Authors":"Noor Fatima and Sherif Eneye Shuaib and Jude Dzevela Kong",
     "Journal":"N\/A",
     "Altmetric Score":0.0,
@@ -4863,7 +4840,7 @@
     "Paper Title":"Mathematical Biology Seminar",
     "Year":"N\/A",
     "Citations":0,
-    "DOI":"https:\/\/doi.org\/10.2307\/4441216",
+    "DOI":"https:\/\/doi.org\/10.1002\/phbl.19810370921",
     "PMID":"40275196",
     "Authors":"Jude Kong",
     "Journal":"N\/A",
@@ -4882,6 +4859,6 @@
     "Publication Type":"Open Access",
     "Public Health Impact":false,
     "Capacity Building":false,
-    "Paper Link":"https:\/\/doi.org\/10.2307\/4441216"
+    "Paper Link":"https:\/\/doi.org\/10.1002\/phbl.19810370921"
   }
 ]
