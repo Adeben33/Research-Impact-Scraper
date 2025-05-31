@@ -12,13 +12,19 @@ UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
 DEBUG_MODE = True
 REFRESH_CACHE = True
 
+OUTPUT_DIR = "AI4PEP"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+
+LOG_FILE = os.path.join(OUTPUT_DIR, 'research_impact_log.txt')
 # ---------- LOGGING ----------
 logging.basicConfig(
-    filename='research_impact_log.txt',
+    filename='LOG_FILE',
     filemode='a',
     format='%(asctime)s - %(levelname)s - %(message)s',
     level=logging.INFO
 )
+
 
 
 # ---------- DOI + PMID HELPERS ----------
@@ -313,7 +319,8 @@ def safe_fill(pub, retries=3, delay=2):
 
 
 def get_scholar_publications(filled_author, max_results=3000):
-    author_dir = filled_author['name'].lower().replace(' ', '_')
+    # author_dir = filled_author['name'].lower().replace(' ', '_')
+    author_dir = os.path.join(OUTPUT_DIR, filled_author['name'].lower().replace(' ', '_'))
     os.makedirs(author_dir, exist_ok=True)
     cache_file = f"{author_dir}/cached_publications.json"
 
@@ -391,7 +398,8 @@ def refine_open_access_label(is_oa, oa_status):
 
 # ---------- PROCESS ----------
 def process_author(author_name, profile, works):
-    safe_name = author_name.lower().replace(' ', '_')
+    # safe_name = author_name.lower().replace(' ', '_')
+    safe_name = os.path.join(OUTPUT_DIR, author_name.lower().replace(' ', '_'))
     os.makedirs(safe_name, exist_ok=True)
     results = []
     altmetric_404_titles = []
@@ -505,14 +513,30 @@ capacity_building_keywords = [
     "public health training", "AI and data innovation", "institutional strengthening", "infrastructure building"
 ]
 
-# ---------- AUTHOR DICTIONARY ----------
+# ----------AI4PEP AUTHOR DICTIONARY ----------
 author_dict = {
     "Jude Kong": "dPAVmL0AAAAJ",
-    "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
-    "Gelan Ayana": "bNK6lMoAAAAJ",
-    "Andrew Omame": "AA539_cAAAAJ",
-    "Abbas Yazdinejad": "YSgLh0YAAAAJ",
-    "Ebenezer Olayinka Adeniyi": "a8CzUvIAAAAJ"
+    "Denis Nkweteyim":"4UR2BucAAAAJ",
+    "Gelan Ayana":"bNK6lMoAAAAJ",
+    "Kingsley Badu":"de6nT0EAAAAJ",
+    "Dr. Evelyn Folake Kissi":"ZsuY1NsAAAAJ",
+    "Rachel Gorman":"6VcJPOEAAAAJ",
+    "Sylvain Landry FAYE":"B6hMjn4AAAAJ",
+    "Bruce Mellado": "BTJnR0UAAAAJ",
+    "Adesina Sodiya":"iNnkbzgAAAAJ",
+    "Arlindo Oliveira da Veiga":"zJFo_6MAAAAJ",
+    "Riris Andono Ahmad":"H3T6XqcAAAAJ",
+    "Serge Demidenko":"0DcFUWkAAAAJ",
+    "Romulo de Castro":"Hi5-8lwAAAAJ",
+    "Tseren-Onolt Ishdorj":"0WHrk08AAAAJ",
+    "André Carlos Ponce de Leon Ferreira de Carvalho":"Jx_5GrgAAAAJ",
+    "Manuel Colomé-Hidalgo":"aKZ8i6IAAAAJ",
+    "Cesar Ugarte-Gil MD, MSc, PhD":"oMSZ_EgAAAAJ",
+    "Simon George ANDERSON":"eVPe_kAAAAAJ",
+    "Radwan Qasrawi":"KjrEOroAAAAJ",
+    "Elie Salem Sokhn":"xPIHn-MAAAAJ",
+    "tayalati yahya":"MuR6AzYAAAAJ",
+    "Sadri Znaidi":"qNuluioAAAAJ"
 
 }
 

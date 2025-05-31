@@ -393,3 +393,13 @@
 2025-05-29 14:24:52,665 - INFO - ❌ Skipping — No DOI or PMID found for: Detecting the presence of COVID-19 vaccination hesitancy from South African twitter data using machine learning
 2025-05-29 14:31:30,204 - WARNING - Crossref DOI lookup failed for 'Democratising Artificial Intelligence for Pandemic Preparedness and Global Governance in Latin American and Caribbean Countries': HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=10)
 2025-05-29 14:31:30,613 - INFO - ❌ Skipping — No DOI or PMID found for: Democratising Artificial Intelligence for Pandemic Preparedness and Global Governance in Latin American and Caribbean Countries
+2025-05-30 01:56:03,897 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-30 01:56:03,908 - WARNING - No such comm: c91e77d6-d4cd-43b8-97c7-341e5143dda5
+2025-05-30 09:16:04,299 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-30 09:16:04,303 - WARNING - No such comm: de3b485f-172f-4c27-b0ed-437df41d8ccb
+2025-05-30 09:23:55,139 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-30 09:23:55,140 - WARNING - No such comm: 1da78d46-0373-48a4-bc72-09a2ed75ada9
+2025-05-30 09:23:57,005 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-30 09:23:57,007 - WARNING - No such comm: 5a7d246f-9e19-4568-8eed-31fb8d0a3c99
+2025-05-30 09:30:20,987 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-30 09:30:20,989 - WARNING - No such comm: d9adbb4f-0d0c-4208-aafd-c37309ab041d
