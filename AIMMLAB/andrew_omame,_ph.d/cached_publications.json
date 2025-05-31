@@ -4,7 +4,7 @@
     "year": 2020,
     "authors": "D Okuonghae and Andrew Omame",
     "venue": "Chaos, Solitons & Fractals",
-    "citations": 298,
+    "citations": 301,
     "doi": ""
   },
   {
@@ -164,7 +164,7 @@
     "year": 2023,
     "authors": "Andrew Omame and Mujahid Abbas and Anwarud Din",
     "venue": "Mathematics and Computers in Simulation",
-    "citations": 37,
+    "citations": 38,
     "doi": ""
   },
   {
@@ -196,7 +196,7 @@
     "year": 2021,
     "authors": "Ugochukwu K Nwajeri and Andrew Omame and Chibueze P Onyenegecha",
     "venue": "Results in Physics",
-    "citations": 31,
+    "citations": 32,
     "doi": ""
   },
   {
@@ -228,7 +228,7 @@
     "year": 2020,
     "authors": "A Omame and D Okuonghae and SC Inyama",
     "venue": "N/A",
-    "citations": 26,
+    "citations": 27,
     "doi": ""
   },
   {
@@ -236,7 +236,7 @@
     "year": 2024,
     "authors": "Andrew Omame and Qing Han and Sarafa A Iyaniwura and Adeniyi Ebenezer and Nicola L Bragazzi and Xiaoying Wang and Jude D Kong and Woldegebriel A Woldegerima",
     "venue": "Infectious Disease Modelling",
-    "citations": 25,
+    "citations": 26,
     "doi": ""
   },
   {
@@ -261,6 +261,14 @@
     "authors": "Andrew Omame and Aeshah A Raezah and Uchenna H Diala and Chinyere Onuoha",
     "venue": "Axioms",
     "citations": 22,
+    "doi": ""
+  },
+  {
+    "title": "On the fractional order model for HPV and Syphilis using non\u2013singular kernel",
+    "year": 2022,
+    "authors": "Ugochukwu Kizito Nwajeri and AB Panle and Andrew Omame and Martin C Obi and CP Onyenegecha",
+    "venue": "Results in Physics",
+    "citations": 21,
     "doi": ""
   },
   {
@@ -304,11 +312,11 @@
     "doi": ""
   },
   {
-    "title": "On the fractional order model for HPV and Syphilis using non\u2013singular kernel",
-    "year": 2022,
-    "authors": "Ugochukwu Kizito Nwajeri and AB Panle and Andrew Omame and Martin C Obi and CP Onyenegecha",
-    "venue": "Results in Physics",
-    "citations": 20,
+    "title": "Mathematical analysis of a novel fractional order vaccination model for Tuberculosis incorporating susceptible class with underlying ailment",
+    "year": 2024,
+    "authors": "A El-Mesady and Olumuyiwa James Peter and Andrew Omame and Festus Abiodun Oguntolu",
+    "venue": "International Journal of Modelling and Simulation",
+    "citations": 18,
     "doi": ""
   },
   {
@@ -325,14 +333,6 @@
     "authors": "RA Umana and A Omame and SC Inyama",
     "venue": "FUTO Journals Series",
     "citations": 17,
-    "doi": ""
-  },
-  {
-    "title": "Mathematical analysis of a novel fractional order vaccination model for Tuberculosis incorporating susceptible class with underlying ailment",
-    "year": 2024,
-    "authors": "A El-Mesady and Olumuyiwa James Peter and Andrew Omame and Festus Abiodun Oguntolu",
-    "venue": "International Journal of Modelling and Simulation",
-    "citations": 16,
     "doi": ""
   },
   {
@@ -456,6 +456,14 @@
     "doi": ""
   },
   {
+    "title": "Comparative analysis of a fractional co-infection model using nonstandard finite difference and two-step Lagrange polynomial methods",
+    "year": 2024,
+    "authors": "Anum Aish Buhader and Mujahid Abbas and Mudassar Imran and Andrew Omame",
+    "venue": "Partial Differential Equations in Applied Mathematics",
+    "citations": 7,
+    "doi": ""
+  },
+  {
     "title": "Analysis of a non\u2011integer order mathematical model for double strains of dengue and COVID\u201119 co\u2011circulation using an efficient finite\u2011difference method",
     "year": 2023,
     "authors": "Emeka F Obiajulu and Andrew Omame and Simeon C Inyama and Uchenna H Diala and Salman A AlQahtani and Mabrook S Al\u2011Rakhami and Abdulaziz M Alawwad and Abdullilah A Alotaibi",
@@ -468,14 +476,6 @@
     "year": 2024,
     "authors": "Noreen Mustafa and Jamshaid Ul Rahman and Andrew Omame",
     "venue": "Modeling earth systems and environment",
-    "citations": 6,
-    "doi": ""
-  },
-  {
-    "title": "Comparative analysis of a fractional co-infection model using nonstandard finite difference and two-step Lagrange polynomial methods",
-    "year": 2024,
-    "authors": "Anum Aish Buhader and Mujahid Abbas and Mudassar Imran and Andrew Omame",
-    "venue": "Partial Differential Equations in Applied Mathematics",
     "citations": 6,
     "doi": ""
   },
