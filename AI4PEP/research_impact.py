@@ -12,7 +12,7 @@ UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
 DEBUG_MODE = True
 REFRESH_CACHE = True
 
-# OUTPUT_DIR = "AI4PEP"
+OUTPUT_DIR = "."
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
@@ -515,29 +515,61 @@ capacity_building_keywords = [
 
 # ----------AI4PEP AUTHOR DICTIONARY ----------
 author_dict = {
-    "Jude Kong": "dPAVmL0AAAAJ",
-    "Denis Nkweteyim":"4UR2BucAAAAJ",
-    "Gelan Ayana":"bNK6lMoAAAAJ",
-    "Kingsley Badu":"de6nT0EAAAAJ",
-    "Dr. Evelyn Folake Kissi":"ZsuY1NsAAAAJ",
-    "Rachel Gorman":"6VcJPOEAAAAJ",
-    "Sylvain Landry FAYE":"B6hMjn4AAAAJ",
+    "Jude Dzevela Kong": "dPAVmL0AAAAJ",
+    "Ketema Lemma": "TTaX1mcAAAAJ",
+    "Victor Ngu Ngwa": "wjYy0nsAAAAJ",
+    "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
+    "Hundessa Daba": "oXqyAqMAAAAJ",
+    "Bontu Habtamu": "6zRhejEAAAAJ",
+    "Gashaw Demlew": "2Vtu-KsAAAAJ",
+    "Elbetel Taye": "fo-Q3Y0AAAAJ",
+    "Mikias Alayu": "xTS5iYIAAAAJ",
+    "Kingsley Badu": "de6nT0EAAAAJ",
+    "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
+    "Michael Owusu": "IPTvRYcAAAAJ",
+    "Evelyn Kissi": "ZsuY1NsAAAAJ",
+    "Christo El Morr": "_X58b2IAAAAJ",
+    "Collins Adu": "0ujYGxoAAAAJ",
+    "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
+    "Jerry Kponyoh": "feQo2zYAAAAJ",
+    "Peter Haddawy": "lovm5cAAAAAJ",
+    "Rudith King": "eZs2YKwAAAAJ",
+    "Anuwat Wiratsudakul": "wfovEncAAAAJ",
+    "Rachel Gorman": "6VcJPOEAAAAJ",
+    "Gideon Anapey": "12TF5uEAAAAJ",
+    "Sylvain Landry Faye": "B6hMjn4AAAAJ",
     "Bruce Mellado": "BTJnR0UAAAAJ",
-    "Adesina Sodiya":"iNnkbzgAAAAJ",
-    "Arlindo Oliveira da Veiga":"zJFo_6MAAAAJ",
-    "Riris Andono Ahmad":"H3T6XqcAAAAJ",
-    "Serge Demidenko":"0DcFUWkAAAAJ",
-    "Romulo de Castro":"Hi5-8lwAAAAJ",
-    "Tseren-Onolt Ishdorj":"0WHrk08AAAAJ",
-    "André Carlos Ponce de Leon Ferreira de Carvalho":"Jx_5GrgAAAAJ",
-    "Manuel Colomé-Hidalgo":"aKZ8i6IAAAAJ",
-    "Cesar Ugarte-Gil MD, MSc, PhD":"oMSZ_EgAAAAJ",
-    "Simon George ANDERSON":"eVPe_kAAAAAJ",
-    "Radwan Qasrawi":"KjrEOroAAAAJ",
-    "Elie Salem Sokhn":"xPIHn-MAAAAJ",
-    "tayalati yahya":"MuR6AzYAAAAJ",
-    "Sadri Znaidi":"qNuluioAAAAJ"
-
+    "Adesina Simon Sodiya": "iNnkbzgAAAAJ",
+    "Riris Andono Ahmad": "H3T6XqcAAAAJ",
+    "Serge Demidenko": "0DcFUWkAAAAJ",
+    "Romulo de Castro": "Hi5-8lwAAAAJ",
+    "Tseren-Onolt Ishdorj": "0WHrk08AAAAJ",
+    "Andre de Carvalho": "Jx_5GrgAAAAJ",
+    "Manuel Colome": "aKZ8i6IAAAAJ",
+    "Cesar Ugarte-Gil": "oMSZ_EgAAAAJ",
+    "Simon Anderson": "eVPe_kAAAAAJ",
+    "Radwan Qasrawi": "eVPe_kAAAAAJ",
+    "Elie Sokhn": "xPIHn-MAAAAJ",
+    "Yahya Tayalati": "MuR6AzYAAAAJ",
+    "Sadri Znaidi": "qNuluioAAAAJ",
+    "Dolvara Gunatilaka": "b8LUlLkAAAAJ",
+    "Augustina Sylverken": "i4W1CtsAAAAJ",
+    "Saranath Lawpoolsri": "ycuPRikAAAAJ",
+    "Edmund Yamba": "Br4DbcIAAAAJ",
+    "Patchara Sriwichai": "BYW6VxcAAAAJ",
+    "Ibrahima Dia": "SjstYn0AAAAJ",
+    "Massamba Diouf": "9jQ4KJIAAAAJ",
+    "Halima Diallo": "Qd3EZREAAAAJ",
+    "Vincent Duclos": "sqXi04wAAAAJ",
+    "Pallab Basu": "A8upqZoAAAAJ",
+    "Shamayeta Bhattacharya": "JYKiu1YAAAAJ",
+    "Vongani Chabalala": "NjifuRwAAAAJ",
+    "Mpho Gololo": "uYVSpLMAAAAJ",
+    "Mary Kawonga": "hOwZrkAAAAAJ",
+    "Benjamin Lieberman": "Ll1tz1UAAAAJ",
+    "Edward Nkadimeng": "idJhYpUAAAAJ",
+    "Busisiwe Nkala-Dlamini": "oATqSg4AAAAJ",
+    "Chuene Mosomane": "rme82R4AAAAJ"
 }
 
 # ---------- EXECUTION ----------

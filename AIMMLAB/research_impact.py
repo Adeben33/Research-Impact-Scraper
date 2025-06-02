@@ -12,7 +12,7 @@ UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
 DEBUG_MODE = True
 REFRESH_CACHE = True
 
-# OUTPUT_DIR = "AIMMLAB"
+OUTPUT_DIR = "."
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 

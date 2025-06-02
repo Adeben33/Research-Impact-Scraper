@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cervix type and cervical cancer classification system using deep learning techniques",
+    "year": 2022,
+    "authors": "Lidiya Wubshet Habtemariam and Elbetel Taye Zewde and Gizeaddis Lamesgin Simegn",
+    "venue": "Medical devices: evidence and research",
+    "citations": 59,
+    "doi": "https://www.tandfonline.com/doi/abs/10.2147/MDER.S366303"
+  },
+  {
+    "title": "Classification of breast cancer types, sub-types and grade from histopathological images using deep learning technique",
+    "year": 2021,
+    "authors": "Elbetel Taye Zewdie and Abel Worku Tessema and Gizeaddis Lamesgin Simegn",
+    "venue": "Health and Technology",
+    "citations": 42,
+    "doi": "https://link.springer.com/article/10.1007/s12553-021-00592-0"
+  },
+  {
+    "title": "A novel wearable device for automated real-time detection of epileptic seizures",
+    "year": 2023,
+    "authors": "Mikael Habtamu and Keneni Tolosa and Kidus Abera and Lamesgin Demissie and Samrawit Samuel and Yeabsera Temesgen and Elbetel Taye Zewde and Ahmed Ali Dawud",
+    "venue": "BMC Biomedical Engineering",
+    "citations": 3,
+    "doi": "https://link.springer.com/article/10.1186/s42490-023-00073-7"
+  },
+  {
+    "title": "Automatic diagnosis of breast cancer from histopathological images using deep learning technique",
+    "year": 2021,
+    "authors": "Elbetel Taye Zewde and Gizeaddis Lamesgin Simegn",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-030-93709-6_42"
+  },
+  {
+    "title": "Deep learning for improved community-based acute flaccid paralysis surveillance in Ethiopia",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Filimona Bisrat and Tenager Tadesse and Netsanet Workneh Gidi and Jude Dzevela Kong",
+    "venue": "Available at SSRN 4750946",
+    "citations": 2,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750946"
+  },
+  {
+    "title": "Artificial Intelligence-Based Breast and Cervical Cancer Diagnosis and Management System",
+    "year": 2022,
+    "authors": "Elbetel Taye Zewde and Mizanu Zelalem Degu and Gizeaddis Lamesgin Simegn",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-031-28725-1_6"
+  },
+  {
+    "title": "Leveraging artificial intelligence for acute flaccid paralysis surveillance: A survey",
+    "year": 2024,
+    "authors": "Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903744"
+  },
+  {
+    "title": "Insights and implications from the analysis of acute flaccid paralysis surveillance data in Ethiopia",
+    "year": 2024,
+    "authors": "Gashaw Demlew and Mesfin Tefera and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mikias Alayu and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901340"
+  },
+  {
+    "title": "Machine Learning Based Stroke Segmentation and Classification from CT-Scan: A Survey",
+    "year": 2023,
+    "authors": "Elbetel Taye Zewde and Mersibon Melese Motuma and Yehualashet Megersa Ayano and Taye Girma Debelee and Degaga Wolde Feyisa",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-031-57624-9_1"
+  }
+]

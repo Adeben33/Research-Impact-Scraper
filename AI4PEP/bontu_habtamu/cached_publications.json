@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Vision-transformer-based transfer learning for mammogram classification",
+    "year": 2023,
+    "authors": "Gelan Ayana and Kokeb Dese and Yisak Dereje and Yonas Kebede and Hika Barki and Dechassa Amdissa and Nahimiya Husen and Fikadu Mulugeta and Bontu Habtamu and Se-Woon Choe",
+    "venue": "Diagnostics",
+    "citations": 81,
+    "doi": "https://www.mdpi.com/2075-4418/13/2/178"
+  },
+  {
+    "title": "Decolonizing global AI governance: assessment of the state of decolonized AI governance in Sub-Saharan Africa",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Bontu Habtamu and Bruce Mellado and Kingsley Badu and Edmund Yamba and Sylvain Landry Faye and Moise Ondua and Dickson Nsagha and Denis Nkweteyim and Jude Dzevela Kong",
+    "venue": "Royal Society Open Science",
+    "citations": 20,
+    "doi": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231994"
+  },
+  {
+    "title": "Kokeb Dese, Yisak Dereje, Yonas Kebede, Hika Barki, Dechassa Amdissa, Nahimiya Husen, Fikadu Mulugeta, Bontu Habtamu, and Se-Woon Choe. 2023",
+    "year": 2023,
+    "authors": "Gelan Ayana",
+    "venue": "Vision-Transformer-Based Transfer Learning for Mammogram Classification. Diagnostics",
+    "citations": 4,
+    "doi": "https://scholar.google.com/scholar?cluster=12585799125933934797&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Deep learning model meets community-based surveillance of acute flaccid paralysis",
+    "year": 2025,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Hamdia Murad and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Elbetel Taye and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Netsanet Workneh Gidi and Bontu Habtamu and Jude Kong",
+    "venue": "Infectious Disease Modelling",
+    "citations": 2,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724001283"
+  },
+  {
+    "title": "Deep learning for improved community-based acute flaccid paralysis surveillance in Ethiopia",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Filimona Bisrat and Tenager Tadesse and Netsanet Workneh Gidi and Jude Dzevela Kong",
+    "venue": "Available at SSRN 4750946",
+    "citations": 2,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750946"
+  },
+  {
+    "title": "Community-based surveillance of acute flaccid paralysis: A review on detection and reporting strategy",
+    "year": 2025,
+    "authors": "Gelane Biru and Honey Gemechu and Eyerusalem Gebremeskel and Hundessa Daba Nemomssa and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/article/10.1007/s44197-025-00349-2"
+  },
+  {
+    "title": "A survey on acute flaccid paralysis health system-based surveillance",
+    "year": 2024,
+    "authors": "Honey Gemechu and Gelane Biru and Eyerusalem Gebremeskel and Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937185"
+  },
+  {
+    "title": "Leveraging artificial intelligence for acute flaccid paralysis surveillance: A survey",
+    "year": 2024,
+    "authors": "Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903744"
+  },
+  {
+    "title": "Insights and implications from the analysis of acute flaccid paralysis surveillance data in Ethiopia",
+    "year": 2024,
+    "authors": "Gashaw Demlew and Mesfin Tefera and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mikias Alayu and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901340"
+  },
+  {
+    "title": "Vision-Transformer-Based Transfer Learning for Mammogram Classification. Diagnostics 2023, 13, 178",
+    "year": 2023,
+    "authors": "G Ayana and K Dese and Y Dereje and Y Kebede and H Barki and D Amdissa and N Husen and F Mulugeta and B Habtamu and SW Choe",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.academia.edu/download/98716896/pdf.pdf"
+  },
+  {
+    "title": "Bio\u2010Inspired Synthesis of Luminescent AgNPs Using Groundnut Oil Cake Extract for the Photocatalytic Degradation of Orange II Dye",
+    "year": 2025,
+    "authors": "Velu Manikandan and Velu Subash and Palaniyappan Jayanthi and Bontu Habtamu Geremew and R Mythili and Kwang Soup Song",
+    "venue": "Luminescence",
+    "citations": 0,
+    "doi": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/bio.70118"
+  },
+  {
+    "title": "Epidemiological Trends and Clinical Features of Polio in Ethiopia: A Preliminary Pooled Data Analysis and Literature Review",
+    "year": 2024,
+    "authors": "Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926664"
+  },
+  {
+    "title": "Self-Amplifying Ito-Graphene Heterojunction Photodetector",
+    "year": "N/A",
+    "authors": "Jin Kim and Doyun Kim and Bontu Habtamu",
+    "venue": "Kwang soup, Self-Amplifying Ito-Graphene Heterojunction Photodetector",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750117"
+  }
+]

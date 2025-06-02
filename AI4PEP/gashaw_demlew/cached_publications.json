@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Resolving Amharic Lexical Ambiguity using Neural Word Embedding",
+    "year": 2022,
+    "authors": "Gashaw Demlew and Dessalew Yohannes",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9971344/"
+  },
+  {
+    "title": "Deep learning model meets community-based surveillance of acute flaccid paralysis",
+    "year": 2025,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Hamdia Murad and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Elbetel Taye and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Netsanet Workneh Gidi and Bontu Habtamu and Jude Kong",
+    "venue": "Infectious Disease Modelling",
+    "citations": 2,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724001283"
+  },
+  {
+    "title": "Deep learning for improved community-based acute flaccid paralysis surveillance in Ethiopia",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Filimona Bisrat and Tenager Tadesse and Netsanet Workneh Gidi and Jude Dzevela Kong",
+    "venue": "Available at SSRN 4750946",
+    "citations": 2,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750946"
+  },
+  {
+    "title": "Amharic semantic parser using deep learning",
+    "year": 2021,
+    "authors": "Gashaw Demlew",
+    "venue": "Proceeding of the 2nd deep learning Indaba-X Ethiopia conference",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Mulualem-Bitew/publication/359976349_Machine_Learning_Approach_for_Green_Usage_of_Computing_Devices/links/6259646c4173a21a0d14efb1/Machine-Learning-Approach-for-Green-Usage-of-Computing-Devices.pdf#page=16"
+  },
+  {
+    "title": "Community-based surveillance of acute flaccid paralysis: A review on detection and reporting strategy",
+    "year": 2025,
+    "authors": "Gelane Biru and Honey Gemechu and Eyerusalem Gebremeskel and Hundessa Daba Nemomssa and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/article/10.1007/s44197-025-00349-2"
+  },
+  {
+    "title": "A survey on acute flaccid paralysis health system-based surveillance",
+    "year": 2024,
+    "authors": "Honey Gemechu and Gelane Biru and Eyerusalem Gebremeskel and Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937185"
+  },
+  {
+    "title": "Leveraging artificial intelligence for acute flaccid paralysis surveillance: A survey",
+    "year": 2024,
+    "authors": "Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903744"
+  },
+  {
+    "title": "Insights and implications from the analysis of acute flaccid paralysis surveillance data in Ethiopia",
+    "year": 2024,
+    "authors": "Gashaw Demlew and Mesfin Tefera and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mikias Alayu and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901340"
+  },
+  {
+    "title": "Epidemiological Trends and Clinical Features of Polio in Ethiopia: A Preliminary Pooled Data Analysis and Literature Review",
+    "year": 2024,
+    "authors": "Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926664"
+  },
+  {
+    "title": "Answering an Amharic Language Semantic Question over Interlinked Data",
+    "year": 2022,
+    "authors": "Gashaw Demlew and Fekade Getahun",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10090069/"
+  }
+]
