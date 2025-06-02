@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Real-time wireless sensor-actuator networks for industrial cyber-physical systems",
+    "year": 2015,
+    "authors": "Chenyang Lu and Abusayeed Saifullah and Bo Li and Mo Sha and Humberto Gonzalez and Dolvara Gunatilaka and Chengjie Wu and Lanshun Nie and Yixin Chen",
+    "venue": "N/A",
+    "citations": 460,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7348717/"
+  },
+  {
+    "title": "Empirical study and enhancements of industrial wireless sensor\u2013actuator network protocols",
+    "year": 2017,
+    "authors": "Mo Sha and Dolvara Gunatilaka and Chengjie Wu and Chenyang Lu",
+    "venue": "IEEE Internet of Things Journal",
+    "citations": 81,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7817794/"
+  },
+  {
+    "title": "Schedulability analysis under graph routing in WirelessHART networks",
+    "year": 2015,
+    "authors": "Abusayeed Saifullah and Dolvara Gunatilaka and Paras Tiwari and Mo Sha and Chenyang Lu and Bo Li and Chengjie Wu and Yixin Chen",
+    "venue": "N/A",
+    "citations": 81,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7383574/"
+  },
+  {
+    "title": "Analysis of EDF scheduling for wireless sensor-actuator networks",
+    "year": 2014,
+    "authors": "Chengjie Wu and Mo Sha and Dolvara Gunatilaka and Abusayeed Saifullah and Chenyang Lu and Yixin Chen",
+    "venue": "N/A",
+    "citations": 72,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6914298/"
+  },
+  {
+    "title": "Maximizing network lifetime of WirelessHART networks under graph routing",
+    "year": 2016,
+    "authors": "Chengjie Wu and Dolvara Gunatilaka and Abusayeed Saifullah and Mo Sha and Paras Babu Tiwari and Chenyang Lu and Yixin Chen",
+    "venue": "N/A",
+    "citations": 56,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7471361/"
+  },
+  {
+    "title": "A survey of privacy and security issues in social networks",
+    "year": 2011,
+    "authors": "Dolvara Gunatilaka",
+    "venue": "N/A",
+    "citations": 43,
+    "doi": "https://scholar.google.com/scholar?cluster=16808243733160836735&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Holistic cyber-physical management for dependable wireless control systems",
+    "year": 2018,
+    "authors": "Yehan Ma and Dolvara Gunatilaka and Bo Li and Humberto Gonzalez and Chenyang Lu",
+    "venue": "ACM Transactions on Cyber-Physical Systems",
+    "citations": 40,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3185510"
+  },
+  {
+    "title": "Implementation and experimentation of industrial wireless sensor-actuator network protocols",
+    "year": 2015,
+    "authors": "Mo Sha and Dolvara Gunatilaka and Chengjie Wu and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 37,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-15582-1_15"
+  },
+  {
+    "title": "Impacts of channel selection on industrial wireless sensor-actuator networks",
+    "year": 2017,
+    "authors": "Dolvara Gunatilaka and Mo Sha and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 35,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8057049/"
+  },
+  {
+    "title": "A flexible retransmission policy for industrial wireless sensor actuator networks",
+    "year": 2018,
+    "authors": "Ryan Brummet and Dolvara Gunatilaka and Dhruv Vyas and Octav Chipara and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 30,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8539106/"
+  },
+  {
+    "title": "Real-time wireless routing for industrial internet of things",
+    "year": 2018,
+    "authors": "Chengjie Wu and Dolvara Gunatilaka and Mo Sha and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 30,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8366995/"
+  },
+  {
+    "title": "REACT: An agile control plane for industrial wireless sensor-actuator networks",
+    "year": 2020,
+    "authors": "Dolvara Gunatilaka and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9097588/"
+  },
+  {
+    "title": "Conservative channel reuse in real-time industrial wireless sensor-actuator networks",
+    "year": 2018,
+    "authors": "Dolvara Gunatilaka and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 18,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8416305/"
+  },
+  {
+    "title": "Conflict-aware real-time routing for industrial wireless sensor-actuator networks",
+    "year": 2015,
+    "authors": "Chengjie Wu and Dolvara Gunatilaka and Mo Sha and Chenyang Lu",
+    "venue": "N/A",
+    "citations": 14,
+    "doi": "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1508&context=cse_research"
+  },
+  {
+    "title": "An iot-enabled acoustic sensing platform for noise pollution monitoring",
+    "year": 2021,
+    "authors": "Dolvara Gunatilaka",
+    "venue": "N/A",
+    "citations": 11,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9666534/"
+  },
+  {
+    "title": "Chenyang and Y",
+    "year": 2015,
+    "authors": "Chengjie Wu and D Gunatilaka and A Saifullah and Mo Sha and PB Tiwar",
+    "venue": "Chen,\u201cMaximizing Network Lifetime of WirelessHART Networks under Graph Routing,\u201d IEEE",
+    "citations": 9,
+    "doi": "https://scholar.google.com/scholar?cluster=2424003189398515559&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Recent information-centric networking approaches",
+    "year": 2013,
+    "authors": "Dolvara Gunatilaka",
+    "venue": "Recent Information-Centric Netw. Approaches",
+    "citations": 7,
+    "doi": "https://scholar.google.com/scholar?cluster=15197176357435669716&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Airadar: a sensing platform for indoor air quality monitoring",
+    "year": 2022,
+    "authors": "Dolvara Gunatilaka and Purinat Sanbundit and Supawit Puengchim and Chayarat Boontham",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9836252/"
+  },
+  {
+    "title": "Maximizing network lifetime of wireless sensor-actuator networks under graph routing",
+    "year": 2015,
+    "authors": "Chengjie Wu and Dolvara Gunatilaka and Abusayeed Saifullah and Mo Sha and Paras Tiwari and Chenyang Lu and Yixin Chen",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1507&context=cse_research"
+  },
+  {
+    "title": "High performance wireless sensor-actuator networks for industrial Internet of Things",
+    "year": 2019,
+    "authors": "Dolvara Gunatilaka",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://search.proquest.com/openview/b0758ab6272c7bb5c462489c10df8960/1?pq-origsite=gscholar&cbl=18750&diss=y"
+  },
+  {
+    "title": "MosquitoSongSense: IoT-based mosquito wingbeat data collection system",
+    "year": 2023,
+    "authors": "Myat Su Yin and Dolvara Gunatilaka and Kanpitcha Assawavinijkulchai and Thanawit Thampakorn and Wasin Heesawat and Peter Haddawy and Songpol Eiamsamang and Patchara Sriwichai and Michael Weber",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3582515.3609546"
+  },
+  {
+    "title": "Program Committee Members (Main Conference)",
+    "year": "N/A",
+    "authors": "LIGM Yasmina Abdedda\u00efm and Amir Aminifar and Jim Anderson and Fatima Anwar and Shunsuke Aoki and Takuya Azumi and Stanley Bak and Cl\u00e9ment Ballabriga and Sanjoy Baruah and Gedare Bloom and Rakesh Bobba and Florian Brandner and Daniel Bristot de Oliveira and Artem Burmyakov and Nicola Capodieci and Daniel Casini and Sudipta Chattopadhyay and Kuan-Hsun Chen and Dakshina Dasari and Soumyajit Dey and Arvind Easwaran and Pontus Ekberg and Rolf Ernst and Dario Faggioli and Nathan Fisher and Miriam Garc\u00eda and Georgia Giannopoulou and Jo\u00ebl Goossens and Ann Gordon-Ross and Dip Goswami and Giovani Gracioli and Ian Gray and Arpan Gujarati and Dolvara Gunatilaka and Soonhoi Ha and Monowar Hasan and Mohamed Hassan and Pi-Cheng Hsiu and Tingting Hu and Chadlia Jerad and Prachi Joshi and Mehdi Kargahi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.computer.org/csdl/proceedings-article/rtss/2021/280200z020/1z92h7JZZrW"
+  }
+]

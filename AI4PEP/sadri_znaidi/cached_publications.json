@@ -1,0 +1,386 @@
+[
+  {
+    "title": "A Human-Curated Annotation of the Candida albicans      Genome",
+    "year": 2005,
+    "authors": "Burkhard R Braun and Marco van Het Hoog and Christophe d'Enfert and Mikhail Martchenko and Jan Dungan and Alan Kuo and Diane O Inglis and M Andrew Uhl and Herv\u00e9 Hogues and Matthew Berriman and Michael Lorenz and Anastasia Levitin and Ursula Oberholzer and Catherine Bachewich and Doreen Harcus and Anne Marcil and Daniel Dignard and Tatiana Iouk and Rosa Zito and Lionel Frangeul and Fredj Tekaia and Kim Rutherford and Edwin Wang and Carol A Munro and Steve Bates and Neil A Gow and Lois L Hoyer and Gerwald K\u00f6hler and Joachim Morschh\u00e4user and George Newport and Sadri Znaidi and Martine Raymond and Bernard Turcotte and Gavin Sherlock and Maria Costanzo and Jan Ihmels and Judith Berman and Dominique Sanglard and Nina Agabian and Aaron P Mitchell and Alexander D Johnson and Malcolm Whiteway and Andr\u00e9 Nantel",
+    "venue": "PLoS genetics",
+    "citations": 427,
+    "doi": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010001"
+  },
+  {
+    "title": "Genome-Wide Expression and Location Analyses of the Candida albicans Tac1p Regulon",
+    "year": 2007,
+    "authors": "Teresa T Liu and Sadri Znaidi and Katherine S Barker and Lijing Xu and Ramin Homayouni and Saloua Saidane and Joachim Morschha\u0308user and Andr\u00e9 Nantel and Martine Raymond and P David Rogers",
+    "venue": "Eukaryotic cell",
+    "citations": 159,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/ec.00327-07"
+  },
+  {
+    "title": "Regulation of efflux pump expression and drug resistance by the transcription factors Mrr1, Upc2, and Cap1 in Candida albicans",
+    "year": 2011,
+    "authors": "Sabrina Schubert and Katherine S Barker and Sadri Znaidi and Sabrina Schneider and Franziska Dierolf and Nico Dunkel and Malika A\u00efd and Genevi\u00e8ve Boucher and P David Rogers and Martine Raymond and Joachim Morschh\u00e4user",
+    "venue": "Antimicrobial agents and chemotherapy",
+    "citations": 155,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/aac.01343-10"
+  },
+  {
+    "title": "Genomewide Location Analysis of Candida albicans Upc2p, a Regulator of Sterol Metabolism and Azole Drug Resistance",
+    "year": 2008,
+    "authors": "Sadri Znaidi and Sandra Weber and Osman Zin Al-Abdin and Perrine Bomme and Saloua Saidane and Simon Drouin and S\u00e9bastien Lemieux and Xavier De Deken and Fran\u00e7ois Robert and Martine Raymond",
+    "venue": "Eukaryotic cell",
+    "citations": 153,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/ec.00070-08"
+  },
+  {
+    "title": "Identification of the Candida albicans Cap1p Regulon",
+    "year": 2009,
+    "authors": "Sadri Znaidi and Katherine S Barker and Sandra Weber and Anne-Marie Alarco and Teresa T Liu and Genevieve Boucher and P David Rogers and Martine Raymond",
+    "venue": "Eukaryotic cell",
+    "citations": 135,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/ec.00002-09"
+  },
+  {
+    "title": "A Versatile Overexpression Strategy in the Pathogenic Yeast Candida albicans: Identification of Regulators of Morphogenesis and Fitness",
+    "year": 2012,
+    "authors": "Murielle Chauvel and Audrey Nesseir and Vitor Cabral and Sadri Znaidi and Sophie Goyard and Sophie Bachellier-Bassi and Arnaud Firon and Melanie Legrand and Dorothee Diogo and Claire Naulleau and Tristan Rossignol and Christophe d\u2019Enfert",
+    "venue": "N/A",
+    "citations": 124,
+    "doi": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045912"
+  },
+  {
+    "title": "The zinc cluster transcription factor Tac1p regulates PDR16 expression in Candida albicans",
+    "year": 2007,
+    "authors": "Sadri Znaidi and Xavier De Deken and Sandra Weber and Tracey Rigby and Andr\u00e9 Nantel and Martine Raymond",
+    "venue": "Molecular microbiology",
+    "citations": 123,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2958.2007.05931.x"
+  },
+  {
+    "title": "A Comprehensive Functional Portrait of Two Heat Shock Factor-Type Transcriptional Regulators Involved in Candida albicans Morphogenesis and Virulence",
+    "year": 2013,
+    "authors": "Sadri Znaidi and Audrey Nesseir and Murielle Chauvel and Tristan Rossignol and Christophe d'Enfert",
+    "venue": "PLoS pathogens",
+    "citations": 80,
+    "doi": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003519"
+  },
+  {
+    "title": "Targeted Changes of the Cell Wall Proteome Influence Candida albicans Ability to Form Single- and Multi-strain Biofilms",
+    "year": 2014,
+    "authors": "Vitor Cabral and Sadri Znaidi and Louise A Walker and H\u00e9l\u00e8ne Martin-Yken and Etienne Dague and M\u00e9lanie Legrand and Keunsook Lee and Murielle Chauvel and Arnaud Firon and Tristan Rossignol and Mathias L Richard and Carol A Munro and Sophie Bachellier-Bassi and Christophe d'Enfert",
+    "venue": "PLoS pathogens",
+    "citations": 69,
+    "doi": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004542"
+  },
+  {
+    "title": "The Schizosaccharomyces pombe corepressor Tup11 interacts with the iron-responsive transcription factor Fep1",
+    "year": 2004,
+    "authors": "Sadri Znaidi and Benoit Pelletier and Yukio Mukai and Simon Labb\u00e9",
+    "venue": "Journal of Biological Chemistry",
+    "citations": 59,
+    "doi": "https://www.jbc.org/article/S0021-9258(17)47858-6/fulltext"
+  },
+  {
+    "title": "From Genes to Networks: The Regulatory Circuitry Controlling Candida albicans Morphogenesis",
+    "year": 2018,
+    "authors": "Virginia Basso and Christophe d\u2019Enfert and Sadri Znaidi and Sophie Bachellier-Bassi",
+    "venue": "N/A",
+    "citations": 54,
+    "doi": "https://link.springer.com/chapter/10.1007/82_2018_144"
+  },
+  {
+    "title": "Systematic gene overexpression in Candida albicans identifies a regulator of early adaptation to the mammalian gut",
+    "year": 2018,
+    "authors": "Sadri Znaidi and Lasse Van Wijlick and Arturo Hern\u00e1ndez\u2010Cervantes and Natacha Sertour and Jean\u2010Luc Desseyn and Fr\u00e9d\u00e9ric Vincent and Ralitsa Atanassova and Val\u00e9rie Gouyer and Carol A Munro and Sophie Bachellier\u2010Bassi and Fr\u00e9d\u00e9ric Dalle and Thierry Jouault and Marie\u2010Elisabeth Bougnoux and Christophe d'Enfert",
+    "venue": "Cellular Microbiology",
+    "citations": 42,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cmi.12890"
+  },
+  {
+    "title": "Mechanisms underlying the delayed activation of the Cap1 transcription factor in Candida albicans following combinatorial oxidative and cationic stress important for phagocytic potency",
+    "year": 2016,
+    "authors": "Iaroslava Kos and Miranda J Patterson and Sadri Znaidi and Despoina Kaloriti and Alessandra da Silva Dantas and Carmen M Herrero-de-Dios and Christophe d\u2019Enfert and Alistair JP Brown and Janet Quinn",
+    "venue": "MBio",
+    "citations": 38,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/mbio.00331-16"
+  },
+  {
+    "title": "Generating genomic platforms to study Candida albicans pathogenesis",
+    "year": 2018,
+    "authors": "M\u00e9lanie Legrand and Sophie Bachellier-Bassi and Keunsook K Lee and Yogesh Chaudhari and H\u00e9l\u00e8ne Tournu and Laurence Arbogast and H\u00e9l\u00e8ne Boyer and Murielle Chauvel and Vitor Cabral and Corinne Maufrais and Audrey Nesseir and Irena Maslanka and Emmanuelle Permal and Tristan Rossignol and Louise A Walker and Ute Zeidler and Sadri Znaidi and Floris Schoeters and Charlotte Majgier and Renaud A Julien and Laurence Ma and Magali Tichit and Christiane Bouchier and Patrick Van Dijck and Carol A Munro and Christophe d\u2019Enfert",
+    "venue": "Nucleic Acids Research",
+    "citations": 35,
+    "doi": "https://academic.oup.com/nar/article-abstract/46/14/6935/5049210"
+  },
+  {
+    "title": "The two\u2010component response regulator Skn7 belongs to a network of transcription factors regulating morphogenesis in Candida albicans and independently limits morphogenesis\u2010induced ROS accumulation",
+    "year": 2017,
+    "authors": "Virginia Basso and Sadri Znaidi and Valentine Lagage and Vitor Cabral and Franziska Schoenherr and Salom\u00e9 LeibundGut\u2010Landmann and Christophe d'Enfert and Sophie Bachellier\u2010Bassi",
+    "venue": "Molecular microbiology",
+    "citations": 26,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.13758"
+  },
+  {
+    "title": "Identification and Characterization of Mediators of Fluconazole Tolerance in Candida albicans",
+    "year": 2020,
+    "authors": "Eric Delarze and Ludivine Brandt and Emilie Trachsel and Marion Patxot and Claire Pralong and Fabio Maranzano and Murielle Chauvel and M\u00e9lanie Legrand and Sadri Znaidi and Marie-Elisabeth Bougnoux and Christophe d\u2019Enfert and Dominique Sanglard",
+    "venue": "Frontiers in microbiology",
+    "citations": 21,
+    "doi": "https://www.frontiersin.org/articles/10.3389/fmicb.2020.591140/full"
+  },
+  {
+    "title": "A conserved regulator controls asexual sporulation in the fungal pathogen Candida albicans",
+    "year": 2020,
+    "authors": "Arturo Hern\u00e1ndez-Cervantes and Sadri Znaidi and Lasse van Wijlick and Iryna Denega and Virginia Basso and Jeanne Ropars and Natacha Sertour and Derek Sullivan and Gary Moran and Louise Basmaciyan and Fabienne Bon and Fr\u00e9d\u00e9ric Dalle and Marie-Elisabeth Bougnoux and Teun Boekhout and Ying Yang and Zongwei Li and Sophie Bachellier-Bassi and Christophe d\u2019Enfert",
+    "venue": "Nature Communications",
+    "citations": 16,
+    "doi": "https://www.nature.com/articles/s41467-020-20010-9"
+  },
+  {
+    "title": "A Luciferase Reporter for Gene Expression Studies and Dynamic Imaging of Superficial Candida albicans Infections",
+    "year": 2012,
+    "authors": "Donatella Pietrella and Brice Enjalbert and Ute Zeidler and Sadri Znaidi and Anna Rachini and Anna Vecchiarelli and Christophe d\u2019Enfert",
+    "venue": "Host-Fungus Interactions: Methods and Protocols",
+    "citations": 16,
+    "doi": "https://link.springer.com/protocol/10.1007/978-1-61779-539-8_39"
+  },
+  {
+    "title": "A gain-of-function mutation in zinc cluster transcription factor Rob1 drives Candida albicans adaptive growth in the cystic fibrosis lung environment",
+    "year": 2024,
+    "authors": "Mayssa Gnaien and Corinne Maufrais and Yasmine Rebai and Aicha Kallel and Laurence Ma and Samia Hamouda and Fatma Khalsi and Khaoula Meftah and Hanen Smaoui and Monia Khemiri and Sondes Hadj Fredj and Sophie Bachellier-Bassi and Im\u00e8ne Najjar and Taieb Messaoud and Khadija Boussetta and Kalthoum Kallel and Helmi Mardassi and Christophe D\u2019enfert and Marie-Elisabeth Bougnoux and Sadri Znaidi",
+    "venue": "PLoS Pathogens",
+    "citations": 12,
+    "doi": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012154"
+  },
+  {
+    "title": "Functional Portrait of Irf1 (Orf19.217), a Regulator of Morphogenesis and Iron Homeostasis in Candida albicans",
+    "year": 2022,
+    "authors": "Lasse van Wijlick and Sadri Znaidi and Arturo Hern\u00e1ndez-Cervantes and Virginia Basso and Sophie Bachellier-Bassi and Christophe d\u2019Enfert",
+    "venue": "Frontiers in Cellular and Infection Microbiology",
+    "citations": 12,
+    "doi": "https://www.frontiersin.org/articles/10.3389/fcimb.2022.960884/full"
+  },
+  {
+    "title": "High Frequency of Enterocytozoon bieneusi Genotype WL12 Occurrence among Immunocompromised Patients with Intestinal Microsporidiosis",
+    "year": 2021,
+    "authors": "Mariem Messaoud and Salma Abbes and Mayssa Gnaien and Yasmine Rebai and Aicha Kallel and Sana Jemel and Ghaya Cherif and Mohamed Amine Skhairia and Sonia Marouen and Najla Fakhfekh and Helmi Mardassi and Slaheddine Belhadj and Sadri Znaidi and Kalthoum Kallel",
+    "venue": "Journal of Fungi",
+    "citations": 9,
+    "doi": "https://www.mdpi.com/2309-608X/7/3/161"
+  },
+  {
+    "title": "A conserved fungal hub protein involved in adhesion and drug resistance in the human pathogen Candida albicans",
+    "year": 2018,
+    "authors": "H\u00e9l\u00e8ne Martin-Yken and Tina Bedekovic and Alexandra C Brand and Mathias L Richard and Sadri Znaidi and Christophe d'Enfert and Etienne Dague",
+    "venue": "The Cell Surface",
+    "citations": 8,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468233018300239"
+  },
+  {
+    "title": "High-throughput functional profiling of the human fungal pathogen Candida albicans genome",
+    "year": 2023,
+    "authors": "Murielle Chauvel and Sophie Bachellier-Bassi and Anne-Marie Gu\u00e9rout and Keunsook K Lee and Corinne Maufrais and Emmanuelle Permal and Juliana Pipoli Da Fonseca and Sadri Znaidi and Didier Mazel and Carol A Munro and Christophe D\u2019enfert and Melanie Legrand",
+    "venue": "Research in Microbiology",
+    "citations": 5,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0923250822001061"
+  },
+  {
+    "title": "Ethylzingerone, a novel compound with antifungal activity",
+    "year": 2021,
+    "authors": "Tristan Rossignol and Sadri Znaidi and Murielle Chauvel and Rebecca Wesgate and Laurence Decourty and Florence Menard-Szczebara and Sylvie Cupferman and Maria Dalko-Sciba and Rosemary Barnes and Jean-Yves Maillard and Cosmin Saveanu and Christophe d\u2019Enfert",
+    "venue": "Antimicrobial Agents and Chemotherapy",
+    "citations": 5,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/aac.02711-20"
+  },
+  {
+    "title": "Inflammatory Bowel Disease Increases the Severity of Myocardial Infarction after Acute Ischemia\u2013Reperfusion Injury in Mice",
+    "year": 2023,
+    "authors": "Wael Mami and Soumaya Znaidi-Marzouki and Raoudha Doghri and Melika Ben Ahmed and Sadri Znaidi and Erij Messadi",
+    "venue": "Biomedicines",
+    "citations": 3,
+    "doi": "https://www.mdpi.com/2227-9059/11/11/2945"
+  },
+  {
+    "title": "Escherichia coli Nissle 1917 Antagonizes Candida albicans Growth and Protects Intestinal Cells from C. albicans-Mediated Damage",
+    "year": 2023,
+    "authors": "Yasmine Rebai and Lysett Wagner and Mayssa Gnaien and Merle L Hammer and Mario Kapitan and Maria Joanna Niemiec and Wael Mami and Amor Mosbah and Erij Messadi and Helmi Mardassi and Slavena Vylkova and Ilse D Jacobsen and Sadri Znaidi",
+    "venue": "Microorganisms",
+    "citations": 3,
+    "doi": "https://www.mdpi.com/2076-2607/11/8/1929"
+  },
+  {
+    "title": "Pathway Maps of Orphan and Complex Diseases Using an Integrative Computational Approach",
+    "year": 2020,
+    "authors": "Kais Ghedira and Soumaya Kouidhi and Yosr Hamdi and Houcemeddine Othman and Sonia Kechaou and Sadri Znaidi and Sghaier Ha\u00eftham and Imen Rabhi",
+    "venue": "BioMed Research International",
+    "citations": 3,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2020/4280467"
+  },
+  {
+    "title": "mSphere of influence: decoding transcriptional regulatory networks to illuminate the mechanisms of microbial pathogenicity",
+    "year": 2020,
+    "authors": "Sadri Znaidi",
+    "venue": "Msphere",
+    "citations": 2,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/msphere.00917-19"
+  },
+  {
+    "title": "Strategies for the identification of the mode-of-action of antifungal drug candidates., p 183\u2013209",
+    "year": 2015,
+    "authors": "Sadri Znaidi",
+    "venue": "Antifungals: from Genomics to Resistance and the Development of Novel Agents. Caister Academic Press, Norfolk, UK.[Google Scholar]",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=1611290276154174729&hl=en&oi=scholarr"
+  },
+  {
+    "title": "ChIP-Seq in Candida albicans",
+    "year": 2014,
+    "authors": "Sadri Znaidi and Caroline Proux and Sandra Weber and Simon Drouin and Fran\u00e7ois Robert and Martine Raymond and Jean-Yves Copp\u00e9e and Christophe d\u2019Enfert",
+    "venue": "Bio-protocol",
+    "citations": 2,
+    "doi": "https://bio-protocol.org/pdf/bio-protocol1158.pdf"
+  },
+  {
+    "title": "535 De Deken X, Robert F, Raymond M. 2008. Genomewide location analysis of 536 Candida albicans Upc2p, a regulator of sterol metabolism and azole drug 537 resistance",
+    "year": "N/A",
+    "authors": "S Znaidi and S Weber and OZ Al-Abdin and P Bomme and S Saidane and S Drouin and S Lemieux",
+    "venue": "Eukaryot Cell",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=3159772369444948488&hl=en&oi=scholarr"
+  },
+  {
+    "title": "When HSFs bring the heat\u2014mapping the transcriptional circuitries of HSF-type regulators in Candida albicans",
+    "year": 2025,
+    "authors": "Sadri Znaidi",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://journals.asm.org/doi/abs/10.1128/msphere.00644-23"
+  },
+  {
+    "title": "A highly parallel conditional overexpression screen, in vivo, identifies a new regulator of Candida albicans commensalism",
+    "year": 2015,
+    "authors": "Sadri Znaidi and Arturo Hern\u00e1ndez Cervantes and Jean-Luc Desseyn and Natacha Sertour and Fr\u00e9d\u00e9ric Vincent and Val\u00e9rie Gouyer and Fr\u00e9d\u00e9ric Dalle and Thierry Jouault and Marie-\u00c9lisabeth Bougnoux and Christophe d\u2019Enfert",
+    "venue": "Journal de Mycologie M\u00e9dicale",
+    "citations": 1,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1156523315000232"
+  },
+  {
+    "title": "Genome-wide approaches to understand multi-drug resistance in pathogenic fungi",
+    "year": 2008,
+    "authors": "Amelie Waldin and Nitnipa Soontorngun and Sarah MacPherson and Sadri Znaidi and Martine Raymond and Bernard Turcotte",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=15637207161761256124&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A human-curated annotation of the",
+    "year": 2005,
+    "authors": "Burkhard R Braun and Marco van het Hoog and Christophe dEnfert and Mikhail Martchenko and Jan Dungan and Alan Kuo and Diane O Inglis and M Andrew Uhl and Herve\u00c2 Hogues and Matthew Berriman and Michael Lorenz and Anastasia Levitin and Ursula Oberholzer and Catherine Bachewich and Doreen Harcus and Anne Marcil and Daniel Dignard and Tatiana Iouk and Rosa Zito and Lionel Frangeul and Fredj Tekaia and Kim Rutherford and Edwin Wang and Carol A Munro and Steve Bates and Neil A Gow and Lois L Hoyer and Gerwald Ko\u00c8hler and Joachim Morschha\u00c8user and George Newport and Sadri Znaidi and Martine Raymond and Bernard Turcotte and Gavin Sherlock and Maria Costanzo and Jan Ihmels and Judith Berman and Dominique Sanglard and Nina Agabian and Aaron P Mitchell and Alexander D Johnson and Malcolm Whiteway and Andre\u00c2 Nantel",
+    "venue": "Candida albicans",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=15131848490219270714&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Inflammatory bowel disease increases the severity of myocardial infarction after acute ischemia-reperfusion injury in mice",
+    "year": 2024,
+    "authors": "Wael Mami and Soumaya Znaidi-Marzouki and Raoudha Doghri and Melika Ben Ahmed and Sadri Znaidi and Erij Messadi",
+    "venue": "Archives of Cardiovascular Diseases",
+    "citations": 0,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1875213624001037"
+  },
+  {
+    "title": "Exploring AI Governance in the MENA Region: Gaps, Efforts, and Initiatives",
+    "year": 2024,
+    "authors": "Hana Trigui and Fatma Guerfali and Emna Harigua and Radwan Qasrawi and Chiraz Atri and Elie Salem Sokhn and Christo El Morr and Karima Hammami and Oussama Souiai and Jianhong Wu and Jude Dzevela Kong and Sadri Znaidi",
+    "venue": "Efforts, and Initiatives (January 24, 2024)",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4796071"
+  },
+  {
+    "title": "Exploring AI governance in the Middle East and North Africa (MENA) region: gaps, efforts, and initiatives",
+    "year": 2024,
+    "authors": "Hana Trigui and Fatma Guerfali and Emna Harigua-Souiai and Radwan Qasrawi and Chiraz Atri and Elie Salem Sokhn and Christo El Morr and Karima Hammami and Oussama Souiai and Jianhong Wu and Jude Dzevela Kong and Jean Jacques Rousseau and Sadri Znaidi",
+    "venue": "Data & Policy",
+    "citations": 0,
+    "doi": "https://www.cambridge.org/core/journals/data-and-policy/article/exploring-ai-governance-in-the-middle-east-and-north-africa-mena-region-gaps-efforts-and-initiatives/867858AA465EEB06B5C43FF7048D8652"
+  },
+  {
+    "title": "Genotypic and phenotypic portrait of Candida albicans clinical isolates colonizing the airways of patients with cystic fibrosis",
+    "year": 2021,
+    "authors": "Mayssa Gnaien and Aicha Kallel and Fatma Khalsi and Samia Hamouda and Hanen Smaoui and Monia Khemiri and Sondes Hadj Fredj and Taieb Messaoud and Khadija Boussetta and Kalthoum Kallel and Christophe d'Enfert and Marie-Elisabeth Bougnoux and Helmi Mardassi and Sadri Znaidi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.cc2021.po0015"
+  },
+  {
+    "title": "Regulatory networks controlling pathogenesis in the fungal pathogen Candida albicans",
+    "year": 2019,
+    "authors": "L van Wijlick and S Znaidi and S Bachellier-Bassi and C D'Enfert",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=3383176511833837765&hl=en&oi=scholarr"
+  },
+  {
+    "title": "CONFERENCE 1: MOLECULES BARCODES: FROM THE DISCO-VERY OF BIOLOGICAL CIRCUITRIES TO DRUG TARGET DECONVOLUTION STUDIES",
+    "year": 2018,
+    "authors": "Sadri Znaidi",
+    "venue": "Archives de l'Institut Pasteur de Tunis",
+    "citations": 0,
+    "doi": "https://search.proquest.com/openview/711fc2b40eaa7412861df32bcda643b5/1?pq-origsite=gscholar&cbl=54094"
+  },
+  {
+    "title": "CO21: UN CRIBLE HAUTEMENT PARALLELE PAR SUREXPRESSION IDENTIFIE UN NOUVEAU DETERMINANT DE LA COLONISATION DIGESTIVE CHEZ CANDIDA ALBICANS",
+    "year": 2015,
+    "authors": "S Znaidi and A Hernandez-Cervantes and N Sertour and JL Desseyn and F Vincent and R Atanassova and V Gouyer and F Dalle and T Jouault and ME Bougnoux and C D'Enfert",
+    "venue": "Archives de l'Institut Pasteur de Tunis",
+    "citations": 0,
+    "doi": "https://search.proquest.com/openview/c4e2c7f8d1209ca0b73d1aacfdfaaaec/1?pq-origsite=gscholar&cbl=54094"
+  },
+  {
+    "title": "Development of a high throughput cytotoxicity assay of Caco-2 cells using a Candida albicans homozygous deletion library",
+    "year": 2012,
+    "authors": "Fr\u00e9d\u00e9ric Vincent and Sadri Znaidi and Marc Sautour and Caroline Truntzer and Christophe D'Enfert and Fr\u00e9d\u00e9ric Dalle",
+    "venue": "(55, supplement 4) 2012; 18. Congress of the International Society for Human and Animal Mycology, ISHAM (International Society for Human and Animal Mycology), Berlin, DEU, 2012-06-11-2012-06-15,",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/107197935/2012-104b_2.pdf"
+  },
+  {
+    "title": "A systematic over-expression approach to explore Candida albicans pathogenesis",
+    "year": 2012,
+    "authors": "C d'Enfert and S Bachellier-Bassi and V Cabral and M Chauvel and A Nesseir and M Legrand and S Znaidi and C Munro",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=8636193429584841522&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Identification des r\u00e9seaux transcriptionnnels de r\u00e9sistance aux antifongiques chez Candida albicans",
+    "year": 2010,
+    "authors": "Sadri Znaidi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papyrus.bib.umontreal.ca/xmlui/handle/1866/3560"
+  },
+  {
+    "title": "Le facteur de transcription Fep1 interagit avec Tup11, un cor\u00e9presseur de la famille des prot\u00e9ines \u00e0 motifs WD40",
+    "year": 2004,
+    "authors": "Sadri Znaidi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/001/mr00310.pdf?is_thesis=1&oclc_number=63194036"
+  },
+  {
+    "title": "Le facteur de transcription Fep1 interagit avec Tup11, un corepresseur de la famille des proteines a motifs WD40 (French text)",
+    "year": 2004,
+    "authors": "S Znaidi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://elibrary.ru/item.asp?id=9062140"
+  },
+  {
+    "title": "Christophe d'Enfert",
+    "year": 1989,
+    "authors": "Marie-Elisabeth Bougnoux and Sophie Bachellier-Bassi and Sadri Znaidi and Bernhard Hube",
+    "venue": "University of California, Berkeley",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=5272768695674022587&hl=en&oi=scholarr"
+  }
+]

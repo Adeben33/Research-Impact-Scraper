@@ -1,0 +1,682 @@
+[
+  {
+    "title": "Mode combination in an ideal wireless OAM-MIMO multiplexing system",
+    "year": 2015,
+    "authors": "Kwasi A Opare and Yujun Kuang and Jerry J Kponyo",
+    "venue": "IEEE Wireless Communications Letters",
+    "citations": 92,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7109839/"
+  },
+  {
+    "title": "Performance analysis and comparison of ZF and MRT based downlink massive MIMO systems",
+    "year": 2014,
+    "authors": "Tebe Parfait and Yujun Kuang and Kponyo Jerry",
+    "venue": "N/A",
+    "citations": 90,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6876818/"
+  },
+  {
+    "title": "Lightweight and host-based denial of service (DoS) detection and defense mechanism for resource-constrained IoT devices",
+    "year": 2020,
+    "authors": "Jerry John Kponyo and Justice Owusu Agyemang and Griffith Selorm Klogo and Joshua Ofori Boateng",
+    "venue": "Internet of Things",
+    "citations": 35,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2542660520301505"
+  },
+  {
+    "title": "VANET cluster-on-demand minimum spanning tree (MST) prim clustering algorithm",
+    "year": 2013,
+    "authors": "Jerry John Kponyo and Yujun Kuang and Enzhan Zhang and Kamenyi Domenic",
+    "venue": "N/A",
+    "citations": 31,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6893585/"
+  },
+  {
+    "title": "Asymmetric circularly polarized open\u2010slot antenna",
+    "year": 2020,
+    "authors": "Mubarak Sani Ellis and Francis B Effah and Abdul\u2010Rahman Ahmed and Jerry J Kponyo and Javad Nourinia and Changiz Ghobadi and Bahman Mohammadi",
+    "venue": "International Journal of RF and Microwave Computer\u2010Aided Engineering",
+    "citations": 28,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mmce.22141"
+  },
+  {
+    "title": "Adaptive storage optimization scheme for blockchain-IIoT applications using deep reinforcement learning",
+    "year": 2022,
+    "authors": "Nana Kwadwo Akrasi-Mensah and Andrew Selasi Agbemenu and Henry Nunoo-Mensah and Eric Tutu Tchao and Abdul-Rahman Ahmed and Eliel Keelson and Axel Sikora and Dominik Welte and Jerry John Kponyo",
+    "venue": "IEEE Access",
+    "citations": 26,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10004557/"
+  },
+  {
+    "title": "The degrees of freedom in wireless line-of-sight OAM multiplexing systems using a circular array of receiving antennas",
+    "year": 2015,
+    "authors": "Kwasi A Opare and Yujun Kuang and Jerry J Kponyo and Kenneth S Nwizege and Zhang Enzhan",
+    "venue": "N/A",
+    "citations": 24,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7079154/"
+  },
+  {
+    "title": "Unidirectional planar monopole antenna using a quasi-radiator",
+    "year": 2018,
+    "authors": "Mubarak Sani Ellis and Abdul-Rahman Ahmed and Jerry John Kponyo and Javad Nourinia and Changiz Ghobadi and Bahman Mohammadi",
+    "venue": "IEEE Antennas and Wireless Propagation Letters",
+    "citations": 23,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8546765/"
+  },
+  {
+    "title": "Dynamic travel path optimization system using ant colony optimization",
+    "year": 2014,
+    "authors": "Jerry Kponyo and Yujun Kung and Enzhan Zhang",
+    "venue": "N/A",
+    "citations": 23,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7046053/"
+  },
+  {
+    "title": "Lightweight rogue access point detection algorithm for WiFi-enabled Internet of Things (IoT) devices",
+    "year": 2020,
+    "authors": "Justice Owusu Agyemang and Jerry John Kponyo and Griffith Selorm Klogo and Joshua Ofori Boateng",
+    "venue": "Internet of Things",
+    "citations": 22,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2542660518301501"
+  },
+  {
+    "title": "Real time status collection and dynamic vehicular traffic control using ant colony optimization",
+    "year": 2012,
+    "authors": "Jerry John Kponyo and Yujun Kuang and Zejiao Li",
+    "venue": "N/A",
+    "citations": 22,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6384297/"
+  },
+  {
+    "title": "Detecting end-point (EP) man-in-the-middle (MITM) attack based on ARP analysis: A machine learning approach",
+    "year": 2020,
+    "authors": "Jerry John Kponyo and Justice Owusu Agyemang and Griffith Selorm Klogo",
+    "venue": "International Journal of Communication Networks and Information Security",
+    "citations": 19,
+    "doi": "https://www.researchgate.net/profile/Justice-Owusu-Agyemang/publication/347947532_Detecting_End-Point_EP_Man-In-The-Middle_MITM_Attack_based_on_ARP_Analysis_A_Machine_Learning_Approach/links/5fe9ab3392851c13feca0e58/Detecting-End-Point-EP-Man-In-The-Middle-MITM-Attack-based-on-ARP-Analysis-A-Machine-Learning-Approach.pdf"
+  },
+  {
+    "title": "Lightweight man-in-the-middle (MITM) detection and defense algorithm for WiFi-enabled Internet of Things (IoT) gateways",
+    "year": 2019,
+    "authors": "Justice Owusu Agyemang and Jerry John Kponyo and Isaac Acquah",
+    "venue": "Information Security and Computer Fraud",
+    "citations": 19,
+    "doi": "https://www.researchgate.net/profile/Justice-Owusu-Agyemang/publication/330728546_Lightweight_Man-In-The-Middle_MITM_Detection_and_Defense_Algorithm_for_WiFi-Enabled_Internet_of_Things_IoT_Gateways/links/5c51722ea6fdccd6b5d384c9/Lightweight-Man-In-The-Middle-MITM-Detection-and-Defense-Algorithm-for-WiFi-Enabled-Internet-of-Things-IoT-Gateways.pdf"
+  },
+  {
+    "title": "Light fidelity (LiFi) as an alternative data transmission medium in VANET",
+    "year": 2017,
+    "authors": "Justice Owusu Agyemang and Jerry John Kponyo and Joseph Mouzna",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8356814/"
+  },
+  {
+    "title": "Miniaturised printed monopole antenna with a linked ground plane and radiator",
+    "year": 2018,
+    "authors": "MS Ellis and A\u2010R Ahmed and JJ Kponyo and J Nourinia and Ch Gbobadi and B Mohammadi",
+    "venue": "Electronics Letters",
+    "citations": 17,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/el.2018.0756"
+  },
+  {
+    "title": "AI ethics in higher education: insights from Africa and beyond",
+    "year": 2023,
+    "authors": "Caitlin C Corrigan and Simon Atuah Asakipaam and Jerry John Kponyo and Christoph Luetge",
+    "venue": "N/A",
+    "citations": 16,
+    "doi": "https://library.oapen.org/handle/20.500.12657/61297"
+  },
+  {
+    "title": "Pilot low-cost concentrating solar power systems deployment in sub-Saharan Africa: a case study of implementation challenges",
+    "year": 2020,
+    "authors": "Emmanuel Wendsongre Ramde and Eric Tutu Tchao and Yesuenyeagbe Atsu Kwabla Fiagbe and Jerry John Kponyo and Asakipaam Simon Atuah",
+    "venue": "N/A",
+    "citations": 16,
+    "doi": "https://www.mdpi.com/2071-1050/12/15/6223"
+  },
+  {
+    "title": "On telemedicine implementations in Ghana",
+    "year": 2019,
+    "authors": "ET Tchao and Isaac Acquah and SD Kotey and CS Aggor and JJ Kponyo",
+    "venue": "International Journal of Advanced Computer Science and Applications",
+    "citations": 16,
+    "doi": "https://www.researchgate.net/profile/E-T-Tchao/publication/332098410_On_Telemedicine_Implementations_in_Ghana/links/5cb85875299bf120976d43d2/On-Telemedicine-Implementations-in-Ghana.pdf"
+  },
+  {
+    "title": "NetLogo implementation of an ant colony optimisation solution to the traffic problem",
+    "year": 2015,
+    "authors": "Kponyo Jerry and Kuang Yujun and Opare Kwasi and Zhang Enzhan and Tebe Parfait",
+    "venue": "IET Intelligent Transport Systems",
+    "citations": 16,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-its.2014.0285"
+  },
+  {
+    "title": "Autonomic IoT: towards smart system components with cognitive IoT",
+    "year": 2021,
+    "authors": "Justice Owusu Agyemang and Dantong Yu and Jerry John Kponyo",
+    "venue": "N/A",
+    "citations": 14,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-030-93314-2_16"
+  },
+  {
+    "title": "Design of a minimal overhead control traffic topology discovery and data forwarding protocol for software-defined wireless sensor networks",
+    "year": 2020,
+    "authors": "Simon Atuah Asakipaam and Jerry John Kponyo and Justice Owusu Agyemang and Fredrick Appiah-Twum",
+    "venue": "Int. J. Commun. Netw. Inf. Secur",
+    "citations": 14,
+    "doi": "https://www.academia.edu/download/65960039/4803_9404_1_PB.pdf"
+  },
+  {
+    "title": "Assessing blockchain and IoT technologies for agricultural food supply chains in Africa: A feasibility analysis",
+    "year": 2024,
+    "authors": "Andrews Tang and Eric Tutu Tchao and Andrew Selasi Agbemenu and Eliel Keelson and Griffith Selorm Klogo and Jerry John Kponyo",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://www.cell.com/heliyon/fulltext/S2405-8440(24)10615-9"
+  },
+  {
+    "title": "Simple circularly polarized planar monopole inverted T\u2010shaped antenna",
+    "year": 2020,
+    "authors": "Mubarak S Ellis and Abdul Rahman Ahmed and Jerry John Kponyo and Javad Nourinia and Changiz Ghobadi and Bahman Mohammadi",
+    "venue": "Microwave and Optical Technology Letters",
+    "citations": 13,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.32026"
+  },
+  {
+    "title": "Compact broadband circularly polarized printed antenna with a shifted monopole and modified ground plane",
+    "year": 2019,
+    "authors": "MS Ellis and AR Ahmed and JJ Kponyo and FB Effah and J Nourinia and Ch Ghobadi and B Mohammadi",
+    "venue": "Journal of Instrumentation",
+    "citations": 12,
+    "doi": "https://iopscience.iop.org/article/10.1088/1748-0221/14/11/P11026/meta"
+  },
+  {
+    "title": "Performance assessment and resilience of solar mini-grids for sustainable energy access in Ghana",
+    "year": 2023,
+    "authors": "Akwasi Adu-Poku and God'sable Sitsofe Koku Aidam and Godfrey Atta Jackson and Kokouvi Edem N'tsoukpoe and Jerry John Kponyo and Adamah Messan and Ozioma Ikonne and Wofa Kwarteng and Francis Kemausuor",
+    "venue": "Energy",
+    "citations": 10,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0360544223028256"
+  },
+  {
+    "title": "A distributed intelligent traffic system using ant colony optimization: a NetLogo modeling approach",
+    "year": 2016,
+    "authors": "JJ Kponyo and KS Nwizege and KA Opare and AR Ahmed and H Hamdoun and LO Akazua and S Alshehri and H Frank",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7811863/"
+  },
+  {
+    "title": "The effect of channel estimation errors on the energy efficiency of downlink massive MIMO systems",
+    "year": 2015,
+    "authors": "Parfait I Tebe and Yujun Kuang and Kwasi A Opare and Jerry J Kponyo",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7182689/"
+  },
+  {
+    "title": "A new research agenda for African generative AI",
+    "year": 2023,
+    "authors": "Rachel Adams and Ayantola Alayande and Zameer Brey and Brantley Browning and Michael Gastrow and Jerry John Kponyo and Dona Mathew and Moremi Nkosi and Henry Nunoo-Mensah and Diana Nyakundi and Victor Odumuyiwa and Olubunmi Okunowo and Philipp Olbrich and Nawal Omar and Kemi Omotubora and Paul Plantinga and Gabriella Razzano and Zara Schroeder and Andrew Selasi Agbemenu and Araba Sey and Kristophina Shilongo and Shreya Shirude and Matthew Smith and Eric Tutu Tchao and Davy K Uwizera",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://www.nature.com/articles/s41562-023-01735-1"
+  },
+  {
+    "title": "A lightweight messaging protocol for internet of things devices",
+    "year": 2022,
+    "authors": "Justice Owusu Agyemang and Jerry John Kponyo and James Dzisi Gadze and Henry Nunoo-Mensah and Dantong Yu",
+    "venue": "Technologies",
+    "citations": 9,
+    "doi": "https://www.mdpi.com/2227-7080/10/1/21"
+  },
+  {
+    "title": "An intelligent irrigation system for rural agriculture",
+    "year": 2019,
+    "authors": "Jerry John Kponyo and Kwasi Adu-Boahen Opare and AA Rahman and Justice Owusu Agyemang",
+    "venue": "International Journal of Applied Agricultural Sciences",
+    "citations": 9,
+    "doi": "https://www.academia.edu/download/72008692/10.11648.j.ijaas.20190503.13.pdf"
+  },
+  {
+    "title": "Investigating the best radio propagation model for 4G-WiMAX networks deployment in 2530MHz Band in Sub-Saharan Africa",
+    "year": 2017,
+    "authors": "Awal Halifa and Eric Tutu Tchao and Jerry John Kponyo",
+    "venue": "arXiv preprint arXiv:1711.08065",
+    "citations": 9,
+    "doi": "https://arxiv.org/abs/1711.08065"
+  },
+  {
+    "title": "An artificial intelligence\u2010based non\u2010intrusive load monitoring of energy consumption in an electrical energy system using a modified K\u2010Nearest Neighbour algorithm",
+    "year": 2024,
+    "authors": "Benjamin Kommey and Elvis Tamakloe and Jerry John Kponyo and Eric Tutu Tchao and Andrew Selasi Agbemenu and Henry Nunoo\u2010Mensah",
+    "venue": "IET Smart Cities",
+    "citations": 8,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/smc2.12075"
+  },
+  {
+    "title": "A web based system for easy and secured managing process of University Accreditation Information",
+    "year": 2022,
+    "authors": "Benjamin Kommey and Francis Gyimah and Jerry John Kponyo and Samuel Ato Andam-Akorful",
+    "venue": "Indonesian Journal of Computing, Engineering, and Design (IJoCED)",
+    "citations": 8,
+    "doi": "https://ojs.sampoernauniversity.ac.id/index.php/IJOCED/article/view/240"
+  },
+  {
+    "title": "Design and circuit analysis of a single and dual band-notched UWB antenna using vertical stubs embedded in feedline",
+    "year": 2021,
+    "authors": "Mubarak Sani Ellis and Philip Arthur and Abdul Rahman Ahmed and Jerry John Kponyo and Benedicta Andoh-Mensah and Bob John",
+    "venue": "Heliyon",
+    "citations": 8,
+    "doi": "https://www.cell.com/heliyon/fulltext/S2405-8440(21)02657-8"
+  },
+  {
+    "title": "A compact wideband circularly polarized L-slot antenna edge-fed by a microstrip feedline for C-band applications",
+    "year": 2017,
+    "authors": "Sani Mubarak Ellis and Jerry John Kponyo and Abdul-Rahman Ahmed",
+    "venue": "Progress In Electromagnetics Research Letters",
+    "citations": 8,
+    "doi": "https://www.jpier.org/PIERL/pier.php?paper=16111105"
+  },
+  {
+    "title": "A wideband single fed circularly polarized slot antenna for multi-band applications",
+    "year": 2013,
+    "authors": "Oteng Gyasi Kwame and Mubarak Sani Ellis and Kponyo Jerry John",
+    "venue": "N/A",
+    "citations": 8,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6743353/"
+  },
+  {
+    "title": "Improved bandwidth and F/B ratio of a CPW-fed planar monopole antenna",
+    "year": 2022,
+    "authors": "MS Ellis and A-R Ahmed and JJ Kponyo and KO Gyasi and KSO Kwakye and S Ameyaw",
+    "venue": "Heliyon",
+    "citations": 7,
+    "doi": "https://www.cell.com/heliyon/fulltext/S2405-8440(22)01325-1"
+  },
+  {
+    "title": "Artificial intelligence-based strategies for sustainable energy planning and electricity demand estimation: A systematic review",
+    "year": 2025,
+    "authors": "Julius Adinkrah and Francis Kemausuor and Eric Tutu Tchao and Henry Nunoo-Mensah and Andrew Selasi Agbemenu and Akwasi Adu-Poku and Jerry John Kponyo",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1364032124008876"
+  },
+  {
+    "title": "Characteristic mode analysis of a compact circularly polarized rotated square slot antenna",
+    "year": 2023,
+    "authors": "Kwame Oteng Gyasi and Abdelheq Boukarkar and Kingsford Sarkodie Obeng Kwakye and Mubarak Sani Ellis and Abdul\u2010Rahman Ahmed and Jerry John Kponyo and Muhammad Abdul Basit and Nosherwan Shoaib",
+    "venue": "Microwave and Optical Technology Letters",
+    "citations": 6,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.33616"
+  },
+  {
+    "title": "A lightweight rogue access point detection algorithm for embedded internet of things (IOT) devices",
+    "year": 2019,
+    "authors": "J Owusu Agyemang and J John Kponyo and G Selorm Klogo",
+    "venue": "Information Security and Computer Fraud",
+    "citations": 5,
+    "doi": "https://www.academia.edu/download/83516263/iscf-7-1-2.pdf"
+  },
+  {
+    "title": "Design and Analysis of a Low\u2010Profile Dual\u2010Band Circularly Polarized Monopole Antenna Based on Characteristic Mode Analysis",
+    "year": 2023,
+    "authors": "Kingsford Sarkodie Obeng Kwakye and Nouman Rasool and Kwame Oteng Gyasi and Joseph Abroquah and Mubarak Sani Ellis and Ohemeng Lord Owusu and Abdul-Rahman Ahmed and Jerry John Kponyo",
+    "venue": "International Journal of RF and Microwave Computer\u2010Aided Engineering",
+    "citations": 4,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/7855907"
+  },
+  {
+    "title": "An Optimized Vertical Handover Decision Model for the Heterogeneous DSRC/LTE Vehicular Networks.",
+    "year": 2023,
+    "authors": "Michael Agyare and Jerry John Kponyo and Kwasi Adu-Boahen Opare and Kwame Oteng Gyasi",
+    "venue": "J. Commun.",
+    "citations": 3,
+    "doi": "https://www.jocm.us/2023/JCM-V18N8-489.pdf"
+  },
+  {
+    "title": "Heterogeneous Architecture for DSRC/LTE Vehicular Communication Networks Based on the ITS Reference Architecture with Fuzzy Logic for Decision-Making.",
+    "year": 2023,
+    "authors": "Michael Agyare and Jerry John Kponyo and Kwasi Adu-Boahen Opare and Kwame Oteng Gyasi",
+    "venue": "J. Commun.",
+    "citations": 3,
+    "doi": "https://www.academia.edu/download/104829165/JCM-V18N5-318.pdf"
+  },
+  {
+    "title": "\u1eccd\u1ecbgbo metaheuristic optimization algorithm for computation of real-parameters and engineering design optimization",
+    "year": 2023,
+    "authors": "CV Ikpo and EK Akowuah and JJ Kponyo and KO Boateng",
+    "venue": "International Journal of Advanced Computer Science and Applications",
+    "citations": 3,
+    "doi": "https://www.researchgate.net/profile/Emmanuel-Akowuah-3/publication/367983317_Odigbo_Metaheuristic_Optimization_Algorithm_for_Computation_of_Real-Parameters_and_Engineering_Design_Optimization/links/642aff34ad9b6d17dc31fe1c/Odigbo-Metaheuristic-Optimization-Algorithm-for-Computation-of-Real-Parameters-and-Engineering-Design-Optimization.pdf"
+  },
+  {
+    "title": "Design of pattern-reconfigurable circularly polarized unidirectional antenna based on quasi-radiator for ISM applications",
+    "year": 2022,
+    "authors": "Philip Arthur and Mubarak Sani Ellis and Abdul-Rahman Ahmed and Jerry John Kponyo",
+    "venue": "Heliyon",
+    "citations": 3,
+    "doi": "https://www.cell.com/heliyon/fulltext/S2405-8440(22)03009-2"
+  },
+  {
+    "title": "Intelligent traffic management system based on historical data analysis",
+    "year": 2019,
+    "authors": "Frederick Egyin Appiah-Twum and Jerry John Kponyo and Isaac Acquah",
+    "venue": "International Journal of Engineering and Advanced Technology",
+    "citations": 3,
+    "doi": "https://www.researchgate.net/profile/Frederick-Appiah-Twum/publication/331978760_Intelligent_traffic_management_system_based_on_historical_data_analysis/links/6221d7fe84ce8e5b4d052d01/Intelligent-traffic-management-system-based-on-historical-data-analysis.pdf"
+  },
+  {
+    "title": "The effect of receiver-side circular antenna arrays on bit error probability in a wireless line-of-sight OAM communication system",
+    "year": 2015,
+    "authors": "Kwasi A Opare and Yujun Kuang and Jerry J Kponyo and Kenneth S Nwizege and Parfait I Tebe",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7079155/"
+  },
+  {
+    "title": "Optimal coverage enhancement for multiple uavs using multi-agent learning technique",
+    "year": 2023,
+    "authors": "Raymond Sabogu-Sumah and Kwasi A Opare and James D D Gadze and Jerry J Kponyo and Abdul-Rahman Ahmed and Edmund Fianko",
+    "venue": "International Journal of Computing and Digital Systems",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Raymond-Sabogu-Sumah/publication/381462161_Optimal_Coverage_Enhancement_for_Multiple_UAVs_Using_Multi-agent_Learning_Technique/links/666ec5eaa54c5f0b94664d97/Optimal-Coverage-Enhancement-for-Multiple-UAVs-Using-Multi-agent-Learning-Technique.pdf"
+  },
+  {
+    "title": "Innovative prediction of vehicle position based on closed loop modeling of capacitive accelerometer",
+    "year": 2019,
+    "authors": "Mamudu Hamidu and Jerry John Kponyo and Amevi Acakpovi",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9058218/"
+  },
+  {
+    "title": "The optimum number of base station antennas in an energy efficient downlink massive MIMO system",
+    "year": 2015,
+    "authors": "Parfait I Tebe and Yujun Kuang and Kwasi A Opare and Jerry J Kponyo",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7434291/"
+  },
+  {
+    "title": "Wavelet\u2010Based Feature Extraction for Efficient High\u2010Resolution Image Classification",
+    "year": 2025,
+    "authors": "Albert Dede and Henry Nunoo\u2010Mensah and Emmanuel Kofi Akowuah and Kwame Osei Boateng and Prince Ebenezer Adjei and Francisca Adoma Acheampong and Isaac Acquah and Jerry John Kponyo",
+    "venue": "Engineering Reports",
+    "citations": 1,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/eng2.70027"
+  },
+  {
+    "title": "Multi\u2010Wound Classification: Exploring Image Enhancement and Deep Learning Techniques",
+    "year": 2025,
+    "authors": "Prince Odame and Maxwell Mawube Ahiamadzor and Nana Kwaku Baah Derkyi and Kofi Agyekum Boateng and Kelvin Sarfo\u2010Acheampong and Eric Tutu Tchao and Andrew Selasi Agbemenu and Henry Nunoo\u2010Mensah and Dorothy Araba Yakoba Agyapong and Jerry John Kponyo",
+    "venue": "Engineering Reports",
+    "citations": 1,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/eng2.70001"
+  },
+  {
+    "title": "Techno-neocolonialism: an emerging risk in the artificial intelligence revolution",
+    "year": 2024,
+    "authors": "Jerry John KPONYO and Dickson Marfo FOSU and Frederica Efia Birago OWUSU and Musah Ibrahim ALI and Maxwell Mawube AHIAMADZOR",
+    "venue": "Trayectorias Humanas Trascontinentales",
+    "citations": 1,
+    "doi": "https://www.unilim.fr/trahs/index.php?id=6382&lang=fr"
+  },
+  {
+    "title": "Resource Provisioning and Utilization in 5G Network Slicing: A Survey of Recent Advances, Challenges, and Open Issues",
+    "year": 2023,
+    "authors": "Simon Atuah Asakipaam and Jerry John Kponyo and Kwame Oteng Gyasi",
+    "venue": "International Journal of Computer Networks and Applications",
+    "citations": 1,
+    "doi": "https://www.ijcna.org/Manuscripts/IJCNA-2023-O-16.pdf"
+  },
+  {
+    "title": "Technical and financial analysis of grid-tied solar PV for sustainable irrigation in rural agro-based communities in developing countries: a case study in Ghana",
+    "year": 2021,
+    "authors": "Benson Ahunu and Richard Opoku and Jerry J Kponyo and Eric K Antwi-Agyei",
+    "venue": "International Journal of Energy Technology and Policy",
+    "citations": 1,
+    "doi": "https://www.inderscienceonline.com/doi/abs/10.1504/IJETP.2021.119851"
+  },
+  {
+    "title": "A Critical Survey on Overhead Control Traffic Reduction Strategies in Software-Defined Wireless Sensor Networking",
+    "year": 2021,
+    "authors": "Simon Atuah Asakipaam and Jerry John Kponyo and Justice Owusu Agyemang and Frederick Egyin Appiah-Twum",
+    "venue": "Int. J. Comput. Netw. Appl.(IJCNA)",
+    "citations": 1,
+    "doi": "https://www.ijcna.org/Manuscripts/IJCNA-2021-O-01.pdf"
+  },
+  {
+    "title": "An Orchestration Framework for IoT Devices based on Public Key Infrastructure (PKI)",
+    "year": 2019,
+    "authors": "Justice Owusu Agyemang and Jerry John Kponyo",
+    "venue": "International Journal of Simulation--Systems, Science & Technology",
+    "citations": 1,
+    "doi": "https://www.researchgate.net/profile/Justice-Owusu-Agyemang/publication/332014036_An_Orchestration_Framework_for_IoT_Devices_Based_on_Public_Key_Infrastructure_PKI/links/5c9b3cc5299bf1116949b24f/An-Orchestration-Framework-for-IoT-Devices-Based-on-Public-Key-Infrastructure-PKI.pdf"
+  },
+  {
+    "title": "Miniaturized planar monopole UWB antenna with integrated RFID/GPS/GSM/WLAN bands using capactively loaded loop resonator (CLLRs)",
+    "year": 2018,
+    "authors": "Mubarak Sani Ellis and Ahmed Abdul-Rahman and Jerry John Kponyo",
+    "venue": "International Journal of Microwave and Wireless Technologies",
+    "citations": 1,
+    "doi": "https://www.researchgate.net/profile/Kponyo-Jerry/publication/329067590_Miniaturized_Planar_Monopole_UWB_Antenna_with_Integrated_RFIDGPSGSMWLAN_Bands_Using_Capactively_Loaded_Loop_Resonator_CLLRs/links/5d769b58299bf1cb80952742/Miniaturized-Planar-Monopole-UWB-Antenna-with-Integrated-RFID-GPS-GSM-WLAN-Bands-Using-Capactively-Loaded-Loop-Resonator-CLLRs.pdf"
+  },
+  {
+    "title": "A Circularly Polarized Planar Monopole Antenna with Wide AR Bandwidth Using a Novel Radiator/Ground Structure",
+    "year": 2017,
+    "authors": "Mubarak Sani Ellis and Abdul-Rahman Ahmed and Jerry John Kponyo",
+    "venue": "Glob J Res Eng F Electr Electron Eng",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=3046814718612495913&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Efficient RFID Modulation Scheme for Better Ubiquitous Network Performance",
+    "year": 2016,
+    "authors": "Hilary Frank and Kenneth S Nwizege and Jerry Kponyo and Abdul-Rahman Ahmed and Nte N Isioto and Akazua L Ugochukwu and Salman Alshehri",
+    "venue": "International Journal of Simulation--Systems, Science & Technology",
+    "citations": 1,
+    "doi": "https://www.academia.edu/download/52045815/Efficient_RFID_Modulation_Scheme_for_Better_Ubiquitous_Network_Performance_paper151.pdf"
+  },
+  {
+    "title": "Analysis of Packets Reception Rate for One-Hop Broadcast in 2-D VANETs",
+    "year": 2013,
+    "authors": "Enzhan Zhang and Yujun Kuang and Jerry John Kponyo",
+    "venue": "SmartCR",
+    "citations": 1,
+    "doi": "https://www.researchgate.net/profile/Kponyo-Jerry/publication/265600055_Analysis_of_Packets_Reception_Rate_for_One-Hop_Broadcast_in_2-D_VANETs/links/545645290cf26d5090a95d31/Analysis-of-Packets-Reception-Rate-for-One-Hop-Broadcast-in-2-D-VANETs.pdf"
+  },
+  {
+    "title": "A Time and Area Limited Epidemic Forwarding Method for Alleviating Vehicular Traffic Congestion",
+    "year": 2012,
+    "authors": "Enzhan Zhang and Yujun Kuang and Jerry John Kponyo",
+    "venue": "SmartCR",
+    "citations": 1,
+    "doi": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02465085"
+  },
+  {
+    "title": "Promoting Transparency in Generative AI: A Focus on Africa",
+    "year": 2025,
+    "authors": "Jerry John Kponyo and Francis Kemausuor and Eric Tutu Tchao and Henry Nunoo Mensah and Rachel Yayra Adjoe",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://academic.oup.com/edited-volume/59908/chapter/512460614"
+  },
+  {
+    "title": "Deep learning for efficient high-resolution image processing: A systematic review",
+    "year": 2025,
+    "authors": "Albert Dede and Henry Nunoo-Mensah and Eric Tutu Tchao and Andrew Selasi Agbemenu and Prince Ebenezer Adjei and Francisca Adoma Acheampong and Jerry John Kponyo",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2667305325000316"
+  },
+  {
+    "title": "We need Afrocentric datasets for inclusive AI growth",
+    "year": 2025,
+    "authors": "Jerry John Kponyo and Francis Kemausuor and Eric Tutu Tchao and Henry Nunoo-Mensah and Rachel Yayra Adjoe",
+    "venue": "Nature Human Behaviour",
+    "citations": 0,
+    "doi": "https://www.nature.com/articles/s41562-025-02140-6"
+  },
+  {
+    "title": "Predictive AI Maintenance of Distribution Oil\u2010Immersed Transformer via Multimodal Data Fusion: A New Dynamic Multiscale Attention CNN\u2010LSTM Anomaly Detection Model for Industrial Energy Management",
+    "year": 2025,
+    "authors": "Elvis Tamakloe and Benjamin Kommey and Jerry John Kponyo and Eric Tutu Tchao and Andrew Selasi Agbemenu and Griffith Selorm Klogo",
+    "venue": "IET Electric Power Applications",
+    "citations": 0,
+    "doi": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/elp2.70011"
+  },
+  {
+    "title": "Ancient Cultural Models from Informal Learning Structures That Can Transform Developments in Africa: This Nd\u1ecbgbo Discuss",
+    "year": 2025,
+    "authors": "CV Ikpo and EK Akowuah and KO Boateng and JJ Kponyo and H Nunoo-Mensah and YS Appiah",
+    "venue": "Journal of Entrepreneurship and Innovation in Emerging Economies",
+    "citations": 0,
+    "doi": "https://journals.sagepub.com/doi/abs/10.1177/23939575241277709"
+  },
+  {
+    "title": "AfroPALM-Afrocentric palm oil adulteration learning models: An end-to-end deep learning approach for detection of palm oil adulteration",
+    "year": 2024,
+    "authors": "Andrew Selasi Agbemenu and Andrews Tang and Elton Modestus Gyabeng and Prince Odame and Eric Tutu Tchao and Eliel Keelson and John-Lewis Zinia Zaukuu and Jerry John Kponyo",
+    "venue": "LWT",
+    "citations": 0,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0023643824011873"
+  },
+  {
+    "title": "Characteristic modal analysis in miniaturization and bandwidth\u2010enhancement of monopole antenna for WLAN/WiMAX/LTE applications",
+    "year": 2024,
+    "authors": "Mubarak S Ellis and Abdul\u2010Rahman Ahmed and Jerry J Kponyo and Isaac Acquah and Nouman Rasool",
+    "venue": "Microwave and Optical Technology Letters",
+    "citations": 0,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.33921"
+  },
+  {
+    "title": "Selective Blocking Approach of User Equipment in Restricted Communication Zones",
+    "year": 2021,
+    "authors": "Michael Agyare and Jerry John Kponyo and Francis Kwabena Oduro-Gyimah",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9565196/"
+  },
+  {
+    "title": "Pilot Low-Cost Concentrating Solar Power Systems Deployment in Sub-Saharan Africa: A Case Study of Implementation Challenges",
+    "year": 2020,
+    "authors": "Emmanuel Wendsongre Ramde and Eric Tutu Tchao and Yesuenyeagbe Atsu Kwabla Fiagbe and Jerry John Kponyo and Asakipaam Simon Atuah",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ui.adsabs.harvard.edu/abs/2020arXiv200712785W/abstract"
+  },
+  {
+    "title": "Design of A Minimal Control Traffic Overhead Topology Discovery and Data Forwarding Protocol for SDWSNS",
+    "year": 2020,
+    "authors": "Simon Asakipaam and Justice Agyemang and Fred Appiah-Twum and Jerry Kponyo",
+    "venue": "Authorea Preprints",
+    "citations": 0,
+    "doi": "https://www.authorea.com/doi/full/10.22541/au.158456504.48145761"
+  },
+  {
+    "title": "Simple circularly polarized planar monopole inverted T-shaped antenna",
+    "year": 2020,
+    "authors": "Abdul-Rahman Ahmed and S Ellis Mubarak and Jerry John Kponyo",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=11263793825724521087&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Compact Wideband Circularly Polarized L-Slot Antenna Edge-Fed by a Microstrip Feedline for C-Band Applications",
+    "year": 2017,
+    "authors": "Abdul-Rahman Ahmed and S Ellis Mubarak and Jerry J Kponyo",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=270186548248889630&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A 6-port Network Technique for Extraction of 2-Port DUT Noise Correlation Matrix: A Theoretical Verification through Modeling and Simulation",
+    "year": 2016,
+    "authors": "AR Ahmed and J Kponyo and A Opare and S Nwezege and HI Frank and H Hamdoun and S Alshehri and LO Akazua",
+    "venue": "International Journal of Simulation--Systems, Science & Technology",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/107616704/paper11.pdf"
+  },
+  {
+    "title": "Temperature Calibration of a Passive Eight-Port Network for Noise Parameters Measurement",
+    "year": 2015,
+    "authors": "Abdul-Rahman Ahmed and Jerry Kponyo and Kwasi Opare and Nwizege S Kenneth and Koudjo Koumadi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://dl.acm.org/doi/abs/10.5555/2867552.2868271"
+  },
+  {
+    "title": "Optimization of PHY Layer Protocol for Wireless and Mobile Networks",
+    "year": 2014,
+    "authors": "Kenneth Nwizege and Jerry Kponyo and Kwasi Opare and Mmeah Shedrack",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7154038/"
+  },
+  {
+    "title": "A Routing Strategy with Distributed Location Service for VANETs",
+    "year": 2014,
+    "authors": "Kponyo Jerry Yang Xing and Kuang Yujun",
+    "venue": "Journal of Chongqing University of Post and Telecommunications(Natural Science Edition)",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "A Three-Party Password Authenticated Key Exchange Protocol with Key Confirmation",
+    "year": 2011,
+    "authors": "Gang Yao",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.archive.org/work/7cujjyikcngefln7vsqntumbpa/access/wayback/http://www.mecs-press.org/ijwmt/ijwmt-v1-n5/IJWMT-V1-N5-3.pdf"
+  },
+  {
+    "title": "Intelligent Systems with Applications",
+    "year": "N/A",
+    "authors": "Albert Dede and Henry Nunoo-Mensah and Eric Tutu Tchao and Andrew Selasi Agbemenu and Prince Ebenezer Adjei and Francisca Adoma Acheampong and Jerry John Kponyo",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Albert-Dede/publication/390042268_Deep_learning_for_efficient_high-resolution_image_processing_A_systematic_review/links/67e46c70a43a11173be74179/Deep-learning-for-efficient-high-resolution-image-processing-A-systematic-review.pdf"
+  },
+  {
+    "title": "Miniature High Gain Monopole Antenna",
+    "year": "N/A",
+    "authors": "Sani Mubarak Ellis and A-R Ahmed and JJ Kponyo and KO Gyasi and KSO Kwakye",
+    "venue": "Available at SSRN 4541279",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4541279"
+  },
+  {
+    "title": "Closed Loop Capacitive Accelerometer Model using Simple Regression Test for Linearity",
+    "year": "N/A",
+    "authors": "Mamudu Hamidu and Jerry John Kponyo",
+    "venue": "choice",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Mamudu-Hamidu/publication/353013207_Closed_Loop_Capacitive_Accelerometer_Model_using_Simple_Regression_Test_for_Linearity/links/62a05697a3fe3e3df8669834/Closed-Loop-Capacitive-Accelerometer-Model-using-Simple-Regression-Test-for-Linearity.pdf"
+  },
+  {
+    "title": "Design of an Intelligent System to Selectively Block Mobile Phone Communication within a Mobile Phone Restricted Area",
+    "year": "N/A",
+    "authors": "Michael Agyare and Jerry John Kponyo and Francis Kwabena Oduro-Gyimah",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/77795003/design-of-an-intelligent-system-to-selectively-block-mobile-phone-communication-within-a-mobile-phone-restricted-area.pdf"
+  },
+  {
+    "title": "Emergency Call Routing Schemes",
+    "year": "N/A",
+    "authors": "Jennifer Appiah-Kubi and Jerry John Kponyo and Kwasi Adu-Boahen Opare",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/59509343/emergency-call-routing-schemes-IJERTV6IS02018420190604-64754-ydwsuf.pdf"
+  },
+  {
+    "title": "An Algorithm to Determine the Extent of an Epidemic Spread: A NetLogo Modeling Approach",
+    "year": "N/A",
+    "authors": "Jerry John Kponyo and Kenneth Coker and Justice Owusu Agyemang and Joyce Der",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.academia.edu/download/86776108/10.11648.j.eas.20190404.11.pdf"
+  }
+]

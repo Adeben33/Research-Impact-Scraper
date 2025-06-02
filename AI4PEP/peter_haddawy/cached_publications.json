@@ -1,0 +1,2266 @@
+[
+  {
+    "title": "A comparative analysis of techniques for predicting academic performance",
+    "year": 2007,
+    "authors": "Nguyen Thai Nghe and Paul Janecek and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 362,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4417993/"
+  },
+  {
+    "title": "Construction of a Bayesian network for mammographic diagnosis of breast cancer",
+    "year": 1997,
+    "authors": "Charles E Kahn Jr and Linda M Roberts and Katherine A Shaffer and Peter Haddawy",
+    "venue": "Computers in biology and medicine",
+    "citations": 265,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S001048259600039X"
+  },
+  {
+    "title": "Answering queries from context-sensitive probabilistic knowledge bases",
+    "year": 1997,
+    "authors": "Liem Ngo and Peter Haddawy",
+    "venue": "Theoretical Computer Science",
+    "citations": 242,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0304397596001284"
+  },
+  {
+    "title": "Anytime deduction for probabilistic logic",
+    "year": 1994,
+    "authors": "Alan M Frisch and Peter Haddawy",
+    "venue": "Artificial Intelligence",
+    "citations": 176,
+    "doi": "https://www.sciencedirect.com/science/article/pii/0004370294900795"
+  },
+  {
+    "title": "A bibliometric study of the world\u2019s research activity in sustainable development and its sub-areas using scientific literature",
+    "year": 2014,
+    "authors": "Saeed-Ul Hassan and Peter Haddawy and Jia Zhu",
+    "venue": "Scientometrics",
+    "citations": 173,
+    "doi": "https://link.springer.com/article/10.1007/s11192-013-1193-3"
+  },
+  {
+    "title": "Bayesian network model for reliability assessment of power systems",
+    "year": 2002,
+    "authors": "David C Yu and Thanh C Nguyen and Peter Haddawy",
+    "venue": "IEEE transactions on power systems",
+    "citations": 169,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/761860/"
+  },
+  {
+    "title": "Utility Models for Goal\u2010Directed, Decision\u2010Theoretic Planners",
+    "year": 1998,
+    "authors": "Peter Haddawy and Steve Hanks",
+    "venue": "Computational Intelligence",
+    "citations": 168,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/0824-7935.00068"
+  },
+  {
+    "title": "Intelligent dental training simulator with objective skill assessment and feedback",
+    "year": 2011,
+    "authors": "Phattanapon Rhienmora and Peter Haddawy and Siriwan Suebnukarn and Matthew N Dailey",
+    "venue": "Artificial intelligence in medicine",
+    "citations": 131,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365711000352"
+  },
+  {
+    "title": "Representations for Decision-Theoretic Planning: Utility Functions for Deadline Goals.",
+    "year": 1992,
+    "authors": "Peter Haddawy and Steve Hanks",
+    "venue": "KR",
+    "citations": 124,
+    "doi": "https://books.google.com/books?hl=en&lr=&id=Eg4ZAQAAIAAJ&oi=fnd&pg=PA71&dq=info:JyOvwV2AHj0J:scholar.google.com&ots=FMSPDvv_7l&sig=ZnCu0XH1GI60BSLMe6iW_HFSaGo"
+  },
+  {
+    "title": "An overview of some recent developments in Bayesian problem-solving techniques",
+    "year": 1999,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 122,
+    "doi": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1453"
+  },
+  {
+    "title": "A collaborative intelligent tutoring system for medical problem-based learning",
+    "year": 2004,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 116,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/964442.964447"
+  },
+  {
+    "title": "Generating Bayesian networks from probability logic knowledge bases",
+    "year": 1994,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 116,
+    "doi": "https://www.sciencedirect.com/science/article/pii/B9781558603325500389"
+  },
+  {
+    "title": "Access cavity preparation training using haptic virtual reality and microcomputed tomography tooth models",
+    "year": 2011,
+    "authors": "Siriwan Suebnukarn and R Hataidechadusadee and N Suwannasri and N Suprasert and Phattanapon Rhienmora and P Haddawy",
+    "venue": "International endodontic journal",
+    "citations": 110,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2591.2011.01899.x"
+  },
+  {
+    "title": "A virtual reality simulator for teaching and evaluating dental procedures",
+    "year": 2010,
+    "authors": "Phattanapon Rhienmora and Peter Haddawy and P Khanal and Siriwan Suebnukarn and Matthew N Dailey",
+    "venue": "Methods of information in medicine",
+    "citations": 102,
+    "doi": "https://www.thieme-connect.com/products/ejournals/abstract/10.3414/ME9310"
+  },
+  {
+    "title": "Towards case-based preference elicitation: Similarity measures on preference structures",
+    "year": 2013,
+    "authors": "Vu A Ha and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1301.7379",
+    "citations": 101,
+    "doi": "https://arxiv.org/abs/1301.7379"
+  },
+  {
+    "title": "A decision support system for evaluating international student applications",
+    "year": 2007,
+    "authors": "Nguyen Thi Ngoc Hien and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 99,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4417958/"
+  },
+  {
+    "title": "Process and outcome measures of expert/novice performance on a haptic virtual reality system",
+    "year": 2009,
+    "authors": "Siriwan Suebnukarn and Nattharat Phatthanasathiankul and Sunantha Sombatweroje and Phattanapon Rhienmora and Peter Haddawy",
+    "venue": "Journal of dentistry",
+    "citations": 91,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0300571209000943"
+  },
+  {
+    "title": "Problem-focused incremental elicitation of multi-attribute utility models",
+    "year": 2013,
+    "authors": "Vu A Ha and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1302.1544",
+    "citations": 86,
+    "doi": "https://arxiv.org/abs/1302.1544"
+  },
+  {
+    "title": "Decision-theoretic Refinement Planning Using Inheritance Abstraction.",
+    "year": 1994,
+    "authors": "Peter Haddawy and Meliani Suwandi",
+    "venue": "N/A",
+    "citations": 85,
+    "doi": "https://cdn.aaai.org/Symposia/Spring/1994/SS-94-06/SS94-06-020.pdf"
+  },
+  {
+    "title": "Issues in decision-theoretic planning: Symbolic goals and numeric utilities",
+    "year": 1990,
+    "authors": "Peter Haddawy and Steve Hanks",
+    "venue": "Proceedings of the DARPA Workshop on Innovative Approaches to Planning, Scheduling, and Control",
+    "citations": 85,
+    "doi": "https://scholar.google.com/scholar?cluster=8221703394812102013&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Bayesian approach to generating tutorial hints in a collaborative medical problem-based learning system",
+    "year": 2006,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 84,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365705000898"
+  },
+  {
+    "title": "Preference elicitation via theory refinement",
+    "year": 2003,
+    "authors": "Peter Haddawy and Vu Ha and Angelo Restificar and Benjamin Geisler and John Miyamoto",
+    "venue": "Journal of Machine Learning Research",
+    "citations": 78,
+    "doi": "http://www.jmlr.org/papers/v4/haddawy03a.html"
+  },
+  {
+    "title": "Identifying important citations using contextual information from full text",
+    "year": 2017,
+    "authors": "Saeed-Ul Hassan and Anam Akram and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 77,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7991558/"
+  },
+  {
+    "title": "The decision-theoretic video advisor",
+    "year": 1998,
+    "authors": "Hien Nguyen and Peter Haddawy",
+    "venue": "AAAI-98 Workshop on Recommender Systems",
+    "citations": 76,
+    "doi": "https://cdn.aaai.org/Workshops/1998/WS-98-08/WS98-08-020.pdf"
+  },
+  {
+    "title": "Probabilistic logic programming and Bayesian networks",
+    "year": 1995,
+    "authors": "Liem Ngo and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 76,
+    "doi": "https://link.springer.com/chapter/10.1007/3-540-60688-2_51"
+  },
+  {
+    "title": "Efficient decision-theoretic planning: Techniques and empirical analysis",
+    "year": 2013,
+    "authors": "Peter Haddawy and AnHai Doan and Richard Goodwin",
+    "venue": "arXiv preprint arXiv:1302.4952",
+    "citations": 72,
+    "doi": "https://arxiv.org/abs/1302.4952"
+  },
+  {
+    "title": "Augmented reality haptics system for dental surgical skills training",
+    "year": 2010,
+    "authors": "Phattanapon Rhienmora and Kugamoorthy Gajananan and Peter Haddawy and Matthew N Dailey and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 72,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/1889863.1889883"
+  },
+  {
+    "title": "Modeling individual and collaborative problem-solving in medical problem-based learning",
+    "year": 2006,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "citations": 70,
+    "doi": "https://link.springer.com/article/10.1007/s11257-006-9011-8"
+  },
+  {
+    "title": "Similarity of personal preferences: Theoretical foundations and empirical analysis",
+    "year": 2003,
+    "authors": "Vu Ha and Peter Haddawy",
+    "venue": "Artificial Intelligence",
+    "citations": 69,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0004370203000134"
+  },
+  {
+    "title": "A bibliometric study of research activity in ASEAN related to the EU in FP7 priority areas",
+    "year": 2012,
+    "authors": "Saeed-Ul Hassan and Peter Haddawy and Pratikshya Kuinkel and Alexander Degelsegger and Cosima Blasy",
+    "venue": "Scientometrics",
+    "citations": 68,
+    "doi": "https://akjournals.com/view/journals/11192/91/3/article-p1035.xml"
+  },
+  {
+    "title": "Measuring international knowledge flows and scholarly impact of scientific research",
+    "year": 2013,
+    "authors": "Saeed-Ul Hassan and Peter Haddawy",
+    "venue": "Scientometrics",
+    "citations": 66,
+    "doi": "https://link.springer.com/article/10.1007/s11192-012-0786-6"
+  },
+  {
+    "title": "Augmented kinematic feedback from haptic virtual reality for dental skill acquisition",
+    "year": 2010,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy and Phattanapon Rhienmora and Pannapa Jittimanee and Piyanuch Viratket",
+    "venue": "Journal of Dental Education",
+    "citations": 64,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/j.0022-0337.2010.74.12.tb05011.x"
+  },
+  {
+    "title": "Haptic virtual reality for skill acquisition in endodontics",
+    "year": 2010,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy and Phattanapon Rhienmora and Kugamoorthy Gajananan",
+    "venue": "Journal of endodontics",
+    "citations": 63,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0099239909007808"
+  },
+  {
+    "title": "Small-world phenomenon of keywords network based on complex network",
+    "year": 2013,
+    "authors": "Danhao Zhu and Dongbo Wang and Saeed-Ul Hassan and Peter Haddawy",
+    "venue": "Scientometrics",
+    "citations": 61,
+    "doi": "https://link.springer.com/article/10.1007/s11192-013-1019-3"
+  },
+  {
+    "title": "Spatiotemporal Bayesian networks for malaria prediction",
+    "year": 2018,
+    "authors": "Peter Haddawy and AHM Imrul Hasan and Rangwan Kasantikul and Saranath Lawpoolsri and Patiwat Sa-Angchai and Jaranit Kaewkungwal and Pratap Singhasivanon",
+    "venue": "Artificial intelligence in medicine",
+    "citations": 60,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365716305164"
+  },
+  {
+    "title": "Preliminary investigation of a Bayesian network for mammographic diagnosis of breast cancer",
+    "year": 1995,
+    "authors": "Charles E Kahn Jr and Linda M Roberts and Kun Wang and Deb Jenks and Peter Haddawy",
+    "venue": "Proceedings of the Annual Symposium on Computer Application in Medical Care",
+    "citations": 60,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2579085/"
+  },
+  {
+    "title": "A comprehensive examination of the relation of three citation-based journal metrics to expert judgment of journal quality",
+    "year": 2016,
+    "authors": "Peter Haddawy and Saeed-Ul Hassan and Awais Asghar and Sarah Amin",
+    "venue": "Journal of Informetrics",
+    "citations": 59,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1751157715301164"
+  },
+  {
+    "title": "Analyzing knowledge flows of scientific literature through semantic links: a case study in the field of energy",
+    "year": 2015,
+    "authors": "Saeed-Ul Hassan and Peter Haddawy",
+    "venue": "Scientometrics",
+    "citations": 59,
+    "doi": "https://link.springer.com/article/10.1007/s11192-015-1528-3"
+  },
+  {
+    "title": "BANTER: a Bayesian network tutoring shell",
+    "year": 1997,
+    "authors": "Peter Haddawy and Joel Jacobson and Charles E Kahn Jr",
+    "venue": "Artificial Intelligence in Medicine",
+    "citations": 55,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365796003740"
+  },
+  {
+    "title": "Large scale detailed mapping of dengue vector breeding sites using street view images",
+    "year": 2019,
+    "authors": "Peter Haddawy and Poom Wettayakorn and Boonpakorn Nonthaleerak and Myat Su Yin and Anuwat Wiratsudakul and Johannes Sch\u00f6ning and Yongjua Laosiritaworn and Klestia Balla and Sirinut Euaungkanakul and Papichaya Quengdaeng and Kittipop Choknitipakin and Siripong Traivijitkhun and Benyarut Erawan and Thansuda Kraisang",
+    "venue": "PLoS neglected tropical diseases",
+    "citations": 54,
+    "doi": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007555"
+  },
+  {
+    "title": "COMET: A collaborative tutoring system for medical problem-based learning",
+    "year": 2007,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "IEEE Intelligent Systems",
+    "citations": 54,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4287276/"
+  },
+  {
+    "title": "Automatic classification of algorithm citation functions in scientific literature",
+    "year": 2019,
+    "authors": "Suppawong Tuarob and Sung Woo Kang and Poom Wettayakorn and Chanatip Pornprasit and Tanakitti Sachati and Saeed-Ul Hassan and Peter Haddawy",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "citations": 51,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8700263/"
+  },
+  {
+    "title": "Theoretical foundations for abstraction-based probabilistic planning",
+    "year": 2013,
+    "authors": "Vu A Ha and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1302.3581",
+    "citations": 49,
+    "doi": "https://arxiv.org/abs/1302.3581"
+  },
+  {
+    "title": "Geometric foundations for interval-based probabilities",
+    "year": 1998,
+    "authors": "Vu A Ha and AnHai Doan and Van H Vu and Peter Haddawy",
+    "venue": "Annals of Mathematics and Artificial Intelligence",
+    "citations": 49,
+    "doi": "https://link.springer.com/article/10.1023/A:1018936829318"
+  },
+  {
+    "title": "Accuracy of dengue clinical diagnosis with and without NS1 antigen rapid test: Comparison between human and Bayesian network model decision",
+    "year": 2018,
+    "authors": "Chaitawat Sa-Ngamuang and Peter Haddawy and Viravarn Luvira and Watcharapong Piyaphanee and Sopon Iamsirithaworn and Saranath Lawpoolsri",
+    "venue": "PLoS neglected tropical diseases",
+    "citations": 48,
+    "doi": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006573"
+  },
+  {
+    "title": "A theoretical framework for context-sensitive temporal probability model construction with application to plan projection",
+    "year": 2013,
+    "authors": "Liem Ngo and Peter Haddawy and James Helwig",
+    "venue": "arXiv preprint arXiv:1302.4974",
+    "citations": 45,
+    "doi": "https://arxiv.org/abs/1302.4974"
+  },
+  {
+    "title": "Explaining the transatlantic gap in research excellence",
+    "year": 2017,
+    "authors": "Andrea Bonaccorsi and Tindaro Cicero and Peter Haddawy and Saeed-UL Hassan",
+    "venue": "Scientometrics",
+    "citations": 44,
+    "doi": "https://link.springer.com/article/10.1007/s11192-016-2180-2"
+  },
+  {
+    "title": "The use of cone\u2010beam computed tomography and virtual reality simulation for pre\u2010surgical practice in endodontic microsurgery",
+    "year": 2012,
+    "authors": "Siriwan Suebnukarn and Phattanapon Rhienmora and P Haddawy",
+    "venue": "International endodontic journal",
+    "citations": 44,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2591.2012.02018.x"
+  },
+  {
+    "title": "Higher Education in Asia: Expanding Out, Expanding Up\u2014The rise of graduate Education and University Research",
+    "year": 2014,
+    "authors": "David W Chapman and Chiao-Ling Chien and Peter Haddawy and Gali Halevi and S Hassan and Inn Beng Lee and Henk F Moed and Patrick Montjourides and Martin Schaaper and Shailendra Sigdel and NV Vafghese",
+    "venue": "Montreal, Canada: UNESCO Institute for Statistics",
+    "citations": 40,
+    "doi": "https://www.voced.edu.au/content/ngv:62480"
+  },
+  {
+    "title": "A logic of time, chance, and action for representing plans",
+    "year": 1996,
+    "authors": "Peter Haddawy",
+    "venue": "Artificial Intelligence",
+    "citations": 39,
+    "doi": "https://www.sciencedirect.com/science/article/pii/0004370294000700"
+  },
+  {
+    "title": "Automated outcome scoring in a virtual reality simulator for endodontic surgery",
+    "year": 2018,
+    "authors": "Myat Su Yin and Peter Haddawy and Siriwan Suebnukarn and Phattanapon Rhienmora",
+    "venue": "Computer Methods and Programs in Biomedicine",
+    "citations": 38,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0169260716313797"
+  },
+  {
+    "title": "The solitude of stars. An analysis of the distributed excellence model of European universities",
+    "year": 2017,
+    "authors": "Andrea Bonaccorsi and Peter Haddawy and Tindaro Cicero and Saeed-Ul Hassan",
+    "venue": "Journal of Informetrics",
+    "citations": 38,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1751157716303091"
+  },
+  {
+    "title": "Development of a dental skills training simulator using virtual reality and haptic device",
+    "year": 2008,
+    "authors": "Phattanapon Rhienmora and P Haddawy and MN Dailey and P Khanal and S Suebnukarn",
+    "venue": "NECTEC Technical Journal",
+    "citations": 37,
+    "doi": "http://www2.cs.ait.ac.th/~mdailey/papers/Rhienmora-ToothHaptics.pdf"
+  },
+  {
+    "title": "A Bayesian network model for radiological diagnosis and procedure selection: Work\u2010up of suspected gallbladder disease",
+    "year": 1994,
+    "authors": "Peter Haddawy and Charles E Kahn Jr and Manonton Butarbutar",
+    "venue": "Medical physics",
+    "citations": 37,
+    "doi": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.597400"
+  },
+  {
+    "title": "Formative feedback generation in a VR-based dental surgical skill training simulator",
+    "year": 2021,
+    "authors": "Myat Su Yin and Peter Haddawy and Siriwan Suebnukarn and Farin Kulapichitr and Phattanapon Rhienmora and Varistha Jatuwat and Nuttanun Uthaipattanacheep",
+    "venue": "Journal of Biomedical Informatics",
+    "citations": 36,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1532046420302872"
+  },
+  {
+    "title": "Employing UMLS for generating hints in a tutoring system for medical problem-based learning",
+    "year": 2012,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "Journal of biomedical informatics",
+    "citations": 36,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1532046412000408"
+  },
+  {
+    "title": "Representing plans under uncertainty: a logic of time, chance, and action",
+    "year": 1994,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 36,
+    "doi": "https://link.springer.com/content/pdf/10.1007/3-540-57697-5_15.pdf"
+  },
+  {
+    "title": "A hybrid approach to reasoning with partially elicited preference models",
+    "year": 2013,
+    "authors": "Vu A Ha and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1301.6702",
+    "citations": 35,
+    "doi": "https://arxiv.org/abs/1301.6702"
+  },
+  {
+    "title": "Effects of COVID-19 government travel restrictions on mobility in a rural border area of Northern Thailand: A mobile phone tracking study",
+    "year": 2021,
+    "authors": "Peter Haddawy and Saranath Lawpoolsri and Chaitawat Sa-Ngamuang and Myat Su Yin and Thomas Barkowsky and Anuwat Wiratsudakul and Jaranit Kaewkungwal and Amnat Khamsiriwatchara and Patiwat Sa-Angchai and Jetsumon Sattabongkot and Liwang Cui",
+    "venue": "PLoS One",
+    "citations": 34,
+    "doi": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245842"
+  },
+  {
+    "title": "Effectiveness of the multilayered caries model and visuo-tactile virtual reality simulator for minimally invasive caries removal: a randomized controlled trial",
+    "year": 2018,
+    "authors": "AP Dwisaptarini and S Suebnukarn and P Rhienmora and P Haddawy and S Koontongkaew",
+    "venue": "Operative Dentistry",
+    "citations": 34,
+    "doi": "https://meridian.allenpress.com/operative-dentistry/article-abstract/43/3/E110/194857"
+  },
+  {
+    "title": "DIVA: applying decision theory to collaborative filtering",
+    "year": 1998,
+    "authors": "Hien Nguyen and Peter Haddawy",
+    "venue": "Proc. of the AAAI Workshop on Recommender Systems",
+    "citations": 34,
+    "doi": "https://cdn.aaai.org/Workshops/1999/WS-99-01/WS99-01-004.pdf"
+  },
+  {
+    "title": "Leveraging a domain ontology to increase the quality of feedback in an intelligent tutoring system",
+    "year": 2010,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 33,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-13388-6_12"
+  },
+  {
+    "title": "Abstracting probabilistic actions",
+    "year": 1994,
+    "authors": "Peter Haddawy and AnHai Doan",
+    "venue": "N/A",
+    "citations": 33,
+    "doi": "https://www.sciencedirect.com/science/article/pii/B9781558603325500390"
+  },
+  {
+    "title": "CSCW and artificial intelligence",
+    "year": 2012,
+    "authors": "John H Connolly and Ernest A Edmonds",
+    "venue": "N/A",
+    "citations": 32,
+    "doi": "https://books.google.com/books?hl=en&lr=&id=tIPuBwAAQBAJ&oi=fnd&pg=PR19&dq=info:jOLYIqqO2MIJ:scholar.google.com&ots=q49BrqoAoz&sig=lVfWg7IxQa_O_60koAxNZOyQQpU"
+  },
+  {
+    "title": "Efficient temporal probabilistic reasoning via context-sensitive model construction",
+    "year": 1997,
+    "authors": "Liem Ngo and Peter Haddawy and Robert A Krieger and James Helwig",
+    "venue": "Computers in Biology and Medicine",
+    "citations": 31,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0010482597000152"
+  },
+  {
+    "title": "Uncovering fine-grained research excellence: The global research benchmarking system",
+    "year": 2017,
+    "authors": "Peter Haddawy and Saeed-Ul Hassan and Craig W Abbey and Inn Beng Lee",
+    "venue": "Journal of Informetrics",
+    "citations": 30,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1751157715300146"
+  },
+  {
+    "title": "Haptic augmented reality dental trainer with automatic performance assessment",
+    "year": 2010,
+    "authors": "Phattanapon Rhienmora and Kugamoorthy Gajananan and Peter Haddawy and Siriwan Suebnukarn and Matthew N Dailey and Ekarin Supataratarn and Poonam Shrestha",
+    "venue": "N/A",
+    "citations": 30,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/1719970.1720054"
+  },
+  {
+    "title": "A lightweight deep learning approach to mosquito classification from wingbeat sounds",
+    "year": 2021,
+    "authors": "Myat Su Yin and Peter Haddawy and Borvorntat Nirandmongkol and Tup Kongthaworn and Chanaporn Chaisumritchoke and Akara Supratak and Chaitawat Sa-Ngamuang and Patchara Sriwichai",
+    "venue": "N/A",
+    "citations": 29,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3462203.3475908"
+  },
+  {
+    "title": "Pyramid graph cut: Integrating intensity and gradient information for grayscale medical image segmentation",
+    "year": 2020,
+    "authors": "Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "Computers in Biology and Medicine",
+    "citations": 29,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0010482520303280"
+  },
+  {
+    "title": "Integrating visualization and multi-attribute utility theory for online product selection",
+    "year": 2007,
+    "authors": "Churee Theetranont and Peter Haddawy and Donyaprueth Krairit",
+    "venue": "International Journal of Information Technology & Decision Making",
+    "citations": 29,
+    "doi": "https://www.worldscientific.com/doi/abs/10.1142/S0219622007002691"
+  },
+  {
+    "title": "Decision-theoretic refinement planning in medical decision making: Management of acute deep venous thrombosis",
+    "year": 1996,
+    "authors": "Peter Haddawy and AnHai Doan and Charles E Kahn Jr",
+    "venue": "Medical Decision Making",
+    "citations": 29,
+    "doi": "https://journals.sagepub.com/doi/abs/10.1177/0272989X9601600402"
+  },
+  {
+    "title": "Situation awareness in crowdsensing for disease surveillance in crisis situations",
+    "year": 2015,
+    "authors": "P. Haddawy and L. Frommberger and T. Kauppinen and G. De Felice and P. Charkratpahu and S. Saengpao and P. Kanchanakitsakul",
+    "venue": "N/A",
+    "citations": 27,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/2737856.2737879"
+  },
+  {
+    "title": "Representing plans under uncertainty: A logic of time, chance, and action",
+    "year": 1991,
+    "authors": "Peter Fahrid Haddawy",
+    "venue": "N/A",
+    "citations": 27,
+    "doi": "https://search.proquest.com/openview/323d55502cdd6d092ff733be2f3ee1f8/1?pq-origsite=gscholar&cbl=18750&diss=y"
+  },
+  {
+    "title": "Outer wall segmentation of abdominal aortic aneurysm by variable neighborhood search through intensity and gradient spaces",
+    "year": 2018,
+    "authors": "Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 25,
+    "doi": "https://link.springer.com/article/10.1007/s10278-018-0049-z"
+  },
+  {
+    "title": "Modeling user preferences via theory refinement",
+    "year": 2001,
+    "authors": "Ben Geisler and Vu Ha and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 24,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/359784.360291"
+  },
+  {
+    "title": "A deep learning-based pipeline for mosquito detection and classification from wingbeat sounds",
+    "year": 2023,
+    "authors": "Myat Su Yin and Peter Haddawy and Tim Ziemer and Fabian Wetjen and Akara Supratak and Kanrawee Chiamsakul and Worameth Siritanakorn and Tharit Chantanalertvilai and Patchara Sriwichai and Chaitawat Sa-ngamuang",
+    "venue": "Multimedia Tools and Applications",
+    "citations": 22,
+    "doi": "https://link.springer.com/article/10.1007/s11042-022-13367-0"
+  },
+  {
+    "title": "Counting mosquitoes in the wild: An internet of things approach",
+    "year": 2021,
+    "authors": "Dinarte Vasconcelos and Myat Su Yin and Fabian Wetjen and Alexander Herbst and Tim Ziemer and Anna F\u00f6rster and Thomas Barkowsky and Nuno Nunes and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 22,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3462203.3475914"
+  },
+  {
+    "title": "3D segmentation of exterior wall surface of abdominal aortic aneurysm from CT images using variable neighborhood search",
+    "year": 2019,
+    "authors": "Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "Computers in biology and medicine",
+    "citations": 21,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0010482519300332"
+  },
+  {
+    "title": "Utilization of a geographical information system for surveillance of Aedes aegypti and dengue haemorrhagic fever in north-eastern Thailand.",
+    "year": 2007,
+    "authors": "Anun Chaikoolvatana and Pratap Singhasivanon and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 21,
+    "doi": "https://www.ict.mahidol.ac.th/wp-content/subweb/personal/~haddawy/YearPapers/P-2007-7.pdf"
+  },
+  {
+    "title": "A variable precision logic inference system employing the Dempster-Shafer uncertainty calculus",
+    "year": 1987,
+    "authors": "Peter Fahrid Haddawy",
+    "venue": "N/A",
+    "citations": 20,
+    "doi": "https://scholar.google.com/scholar?cluster=1566396404056467185&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Automatic segmentation of kidney and liver tumors in CT images",
+    "year": 2019,
+    "authors": "Dina B Efremova and Dmitry A Konovalov and Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1908.01279",
+    "citations": 19,
+    "doi": "https://arxiv.org/abs/1908.01279"
+  },
+  {
+    "title": "Development of a Bayesian network for diagnosis of breast cancer",
+    "year": 1995,
+    "authors": "M Roberts and E Kahn and Peter Haddawy",
+    "venue": "IJCAI-95 workshop on building probabilistic networks",
+    "citations": 19,
+    "doi": "http://www.magic5.unile.it/PapDoc/Article/Document/20040614100909606.pdf"
+  },
+  {
+    "title": "Decision-theoretic refinement planning: Principles and application",
+    "year": 1995,
+    "authors": "A Doan and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://www.researchgate.net/profile/Peter-Haddawy/publication/2744919_Decision-Theoretic_Refinement_Planning_Principles_and_Application/links/54213d3c0cf241a65a1e7a18/Decision-Theoretic-Refinement-Planning-Principles-and-Application.pdf"
+  },
+  {
+    "title": "A temporal probability logic for representing actions",
+    "year": 1991,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://dl.acm.org/doi/abs/10.5555/3087158.3087190"
+  },
+  {
+    "title": "Implementation of and Experiments with a Variable Precision Logic Inference System.",
+    "year": 1986,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 19,
+    "doi": "https://cdn.aaai.org/AAAI/1986/AAAI86-039.pdf"
+  },
+  {
+    "title": "Believing change and changing belief",
+    "year": 2002,
+    "authors": "Peter Haddawy",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans",
+    "citations": 18,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/487963/"
+  },
+  {
+    "title": "A shared haptic virtual environment for dental surgical skill training",
+    "year": 2021,
+    "authors": "Maximilian Kaluschke and Myat Su Yin and Peter Haddawy and Natchalee Srimaneekarn and Pipop Saikaew and Gabriel Zachmann",
+    "venue": "N/A",
+    "citations": 17,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9419258/"
+  },
+  {
+    "title": "Inferring implicit preferences from negotiation actions",
+    "year": 2004,
+    "authors": "Angelo Restificar\u0403 and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 17,
+    "doi": "https://www.ict.mahidol.ac.th/wp-content/subweb/personal/~haddawy/YearPapers/P-2003-2.pdf"
+  },
+  {
+    "title": "An educational tool for high-level interaction with Bayesian networks",
+    "year": 1994,
+    "authors": "Peter Haddawy and Joel Jacobson and Charles E Kahn",
+    "venue": "N/A",
+    "citations": 17,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/346440/"
+  },
+  {
+    "title": "Differentiating surgeons\u2019 expertise solely by eye movement features",
+    "year": 2021,
+    "authors": "Benedikt Hosp and Myat Su Yin and Peter Haddawy and Ratthapoom Watcharopas and Paphon Sa-Ngasoongsong and Enkelejda Kasneci",
+    "venue": "N/A",
+    "citations": 16,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3461615.3485437"
+  },
+  {
+    "title": "Generating explanations and tutorial problems from Bayesian networks",
+    "year": 1994,
+    "authors": "Peter Haddawy and Joel Jacobson and Charles E Kahn Jr",
+    "venue": "Proceedings of the Annual Symposium on Computer Application in Medical Care",
+    "citations": 16,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2247885/"
+  },
+  {
+    "title": "Sound abstraction of probabilistic actions in the constraint mass assignment framework",
+    "year": 2013,
+    "authors": "AnHai Doan and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1302.3574",
+    "citations": 15,
+    "doi": "https://arxiv.org/abs/1302.3574"
+  },
+  {
+    "title": "Expanding the space of plausible solutions in a medical tutoring system for problem-based learning",
+    "year": 2009,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "citations": 15,
+    "doi": "https://journals.sagepub.com/doi/abs/10.3233/IRG-2009-19%283%2904"
+  },
+  {
+    "title": "Intelligent tutoring for surgical decision making: A planning-based approach",
+    "year": 2022,
+    "authors": "Narumol Vannaprathip and Peter Haddawy and Holger Schultheis and Siriwan Suebnukarn",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "citations": 14,
+    "doi": "https://link.springer.com/article/10.1007/s40593-021-00261-3"
+  },
+  {
+    "title": "Time, chance, and action",
+    "year": 2013,
+    "authors": "Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1304.1099",
+    "citations": 14,
+    "doi": "https://arxiv.org/abs/1304.1099"
+  },
+  {
+    "title": "Providing objective feedback on skill assessment in a dental surgical training simulator",
+    "year": 2009,
+    "authors": "Phattanapon Rhienmora and Peter Haddawy and Siriwan Suebnukarn and Matthew N Dailey",
+    "venue": "N/A",
+    "citations": 14,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-02976-9_43"
+  },
+  {
+    "title": "Clinical simulation using context-sensitive temporal probability models",
+    "year": 1995,
+    "authors": "Peter Haddawy and James W Helwig and Liem Ngo and Robert A Krieger",
+    "venue": "Proceedings of the Annual Symposium on Computer Application in Medical Care",
+    "citations": 14,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2579084/"
+  },
+  {
+    "title": "Planning and decision theory",
+    "year": 1990,
+    "authors": "Peter Haddawy and Larry Rendell",
+    "venue": "The Knowledge Engineering Review",
+    "citations": 14,
+    "doi": "https://www.cambridge.org/core/journals/knowledge-engineering-review/article/planning-and-decision-theory/E7A9A6E82B5AD017E78B414D8BC7AB76"
+  },
+  {
+    "title": "Desitra: A simulator for teaching situated decision making in dental surgery",
+    "year": 2016,
+    "authors": "Narumol Vannaprathip and Peter Haddawy and Siriwan Suebnukarn and Patcharapon Sangsartra and Nunnapin Sasikhant and Sornram Sangutai",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/2856767.2856807"
+  },
+  {
+    "title": "Decision-theoretic refinement planning: a new method for clinical decision analysis",
+    "year": 1995,
+    "authors": "A Doan and Peter Haddawy and Charles E Kahn Jr",
+    "venue": "Proceedings of the Annual Symposium on Computer Application in Medical Care",
+    "citations": 13,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2579103/"
+  },
+  {
+    "title": "Modal logics of higher-order probability",
+    "year": 1990,
+    "authors": "Peter Haddawy and Alan M Frisch",
+    "venue": "N/A",
+    "citations": 13,
+    "doi": "https://www.sciencedirect.com/science/article/pii/B9780444886507500160"
+  },
+  {
+    "title": "Bayesian networks in radiology",
+    "year": 2023,
+    "authors": "Shawn X Ma and Ali H Dhanaliwala and Jeffrey D Rudie and Andreas M Rauschecker and Douglas Roberts-Wolfe and Peter Haddawy and Charles E Kahn Jr",
+    "venue": "N/A",
+    "citations": 12,
+    "doi": "https://pubs.rsna.org/doi/abs/10.1148/ryai.210187"
+  },
+  {
+    "title": "Optimizing ad hoc trade in a commercial barter trade exchange",
+    "year": 2005,
+    "authors": "Peter Haddawy and Christine Cheng and Namthip Rujikeadkumjorn and Khaimook Dhananaiyapergse",
+    "venue": "Electronic Commerce Research and Applications",
+    "citations": 12,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1567422305000232"
+  },
+  {
+    "title": "Balanced matching of buyers and sellers in e-Marketplaces: the barter trade exchange model",
+    "year": 2004,
+    "authors": "Peter Haddawy and Namthip Rujikeadkumjorn and Khaimook Dhananaiyapergse and Christine Cheng",
+    "venue": "N/A",
+    "citations": 12,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/1052220.1052232"
+  },
+  {
+    "title": "A modular structured approach to conditional decision-theoretic planning",
+    "year": 1998,
+    "authors": "Liem Ngo and Peter Haddawy and Hien Nguyen",
+    "venue": "N/A",
+    "citations": 12,
+    "doi": "https://dl.acm.org/doi/abs/10.5555/3090522.3090539"
+  },
+  {
+    "title": "An abstraction-based approach to interleaving planning and execution in partially-observable domains",
+    "year": 1996,
+    "authors": "James Helwig and Peter Haddawy",
+    "venue": "AAAI Fall Symposium",
+    "citations": 12,
+    "doi": "https://cdn.aaai.org/Symposia/Fall/1996/FS-96-01/FS96-01-015.pdf"
+  },
+  {
+    "title": "Added-value of mosquito vector breeding sites from street view images in the risk mapping of dengue incidence in Thailand",
+    "year": 2021,
+    "authors": "Myat Su Yin and Dominique J Bicout and Peter Haddawy and Johannes Sch\u00f6ning and Yongjua Laosiritaworn and Patiwat Sa-Angchai",
+    "venue": "PLoS neglected tropical diseases",
+    "citations": 11,
+    "doi": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009122"
+  },
+  {
+    "title": "Probability as a modal operator",
+    "year": 2013,
+    "authors": "Alan M Frisch and Peter Haddawy",
+    "venue": "arXiv preprint arXiv:1304.2352",
+    "citations": 11,
+    "doi": "https://arxiv.org/abs/1304.2352"
+  },
+  {
+    "title": "Segmentation of text and non-text in on-line handwritten patient record based on spatio-temporal analysis",
+    "year": 2009,
+    "authors": "Rattapoom Waranusast and Peter Haddawy and Matthew Dailey",
+    "venue": "N/A",
+    "citations": 11,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-642-02976-9_47"
+  },
+  {
+    "title": "Anatomical sketch understanding: Recognizing explicit and implicit structure",
+    "year": 2007,
+    "authors": "Peter Haddawy and Matthew N Dailey and Ploen Kaewruen and Natapope Sarakhette and Le Hong Hai",
+    "venue": "Artificial Intelligence in Medicine",
+    "citations": 11,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365706001114"
+  },
+  {
+    "title": "Focusing attention in anytime decision-theoretic planning",
+    "year": 1996,
+    "authors": "Peter Haddawy",
+    "venue": "ACM SIGART Bulletin",
+    "citations": 11,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/242587.242596"
+  },
+  {
+    "title": "Assessment of malaria risk in Southeast Asia: a systematic review",
+    "year": 2023,
+    "authors": "Chaitawat Sa-Ngamuang and Saranath Lawpoolsri and Myat Su Yin and Thomas Barkowsky and Liwang Cui and Jetsumon Prachumsri and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://link.springer.com/article/10.1186/s12936-023-04772-3"
+  },
+  {
+    "title": "A 3D deep learning approach to epicardial fat segmentation in non-contrast and post-contrast cardiac CT images",
+    "year": 2021,
+    "authors": "Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "PeerJ Computer Science",
+    "citations": 10,
+    "doi": "https://peerj.com/articles/cs-806/"
+  },
+  {
+    "title": "States of confusion: eye and head tracking reveal surgeons\u2019 confusion during arthroscopic surgery",
+    "year": 2021,
+    "authors": "Benedikt Hosp and Myat Su Yin and Peter Haddawy and Ratthaphum Watcharopas and Paphon Sa-Ngasoongsong and Enkelejda Kasneci",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3462244.3479953"
+  },
+  {
+    "title": "Use of haptic feedback to train correct application of force in endodontic surgery",
+    "year": 2017,
+    "authors": "Myat Su Yin and Peter Haddawy and Siriwan Suebnukarn and Holger Schultheis and Phattanapon Rhienmora",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3025171.3025217"
+  },
+  {
+    "title": "Toward intelligent tutorial feedback in surgical simulation: Robust outcome scoring for endodontic surgery",
+    "year": 2016,
+    "authors": "Myat Su Yin and Peter Haddawy and Siriwan Suebnukarn and Phattanapon Rhienmora",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/2856767.2856810"
+  },
+  {
+    "title": "A Comparison of Three Prominent Journal Metrics with Expert Judgment of Journal Quality",
+    "year": 2014,
+    "authors": "P. Haddawy and S. Hassan",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://www.academia.edu/download/46944769/Methodological_Proposal_for_Evaluating.pdf#page=250"
+  },
+  {
+    "title": "Intelligent clinical training systems",
+    "year": 2010,
+    "authors": "P Haddawy and Siriwan Suebnukarn",
+    "venue": "Methods of Information in Medicine",
+    "citations": 10,
+    "doi": "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0038-1625342.pdf"
+  },
+  {
+    "title": "Data-driven agent-based simulation of commercial barter trade",
+    "year": 2004,
+    "authors": "Peter Haddawy and Khaimook Dhananaiyapergse and Yongyos Kaewpitakkun and Thai Bui",
+    "venue": "N/A",
+    "citations": 10,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/1342947/"
+  },
+  {
+    "title": "Eliciting utilities by refining theories of monotonicity and risk",
+    "year": 2002,
+    "authors": "Angelo Restificar and Peter Haddawy and Vu Ha and John Miyamoto",
+    "venue": "Working Notes of the AAAI-02 Workshop on Preferences in AI and CP: Symbolic Approaches",
+    "citations": 10,
+    "doi": "https://cdn.aaai.org/Workshops/2002/WS-02-13/WS02-13-011.pdf"
+  },
+  {
+    "title": "Generating macro operators for decision-theoretic planning",
+    "year": 1995,
+    "authors": "A Doan and Peter Haddawy",
+    "venue": "Working Notes of the AAAI Spring Symposium on Extending Theories of Action, Stanford",
+    "citations": 10,
+    "doi": "https://cdn.aaai.org/Symposia/Spring/1995/SS-95-07/SS95-07-013.pdf"
+  },
+  {
+    "title": "Representing iterative loops for decision-theoretic planning (preliminary report)",
+    "year": 1995,
+    "authors": "Liem Ngo and Peter Haddawy",
+    "venue": "Working Notes of the AAAI Spring Symposium on Extending Theories of Action",
+    "citations": 10,
+    "doi": "https://cdn.aaai.org/Symposia/Spring/1995/SS-95-07/SS95-07-030.pdf"
+  },
+  {
+    "title": "Generating tutorial interventions for teaching situation awareness in dental surgery\u2013preliminary report",
+    "year": 2017,
+    "authors": "Narumol Vannaprathip and Peter Haddawy and Holger Schultheis and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-69456-6_6"
+  },
+  {
+    "title": "Clinical reasoning gains in medical PBL: an UMLS based tutoring system",
+    "year": 2013,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "Journal of Intelligent Information Systems",
+    "citations": 9,
+    "doi": "https://link.springer.com/article/10.1007/s10844-013-0244-9"
+  },
+  {
+    "title": "Convergent deduction for probabilistic logic",
+    "year": 2013,
+    "authors": "Peter Haddawy and Alan M Frisch",
+    "venue": "arXiv preprint arXiv:1304.2742",
+    "citations": 9,
+    "doi": "https://arxiv.org/abs/1304.2742"
+  },
+  {
+    "title": "Interactive segmentation and three-dimension reconstruction for cone-beam computed-tomography images",
+    "year": 2008,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy and Matthew Dailey and DN Cao",
+    "venue": "NECTEC Technical Journal",
+    "citations": 9,
+    "doi": "http://www.cs.ait.ac.th/~mdailey/papers/Suebnukarn-3D-ToothSeg.pdf"
+  },
+  {
+    "title": "Deriving financial aid optimization models from admissions data",
+    "year": 2007,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 9,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/4417959/"
+  },
+  {
+    "title": "Evaluation of the effectiveness of a computer-based learning (CBL) program in diabetes management.",
+    "year": 2007,
+    "authors": "Anun Chaikoolvatana and Peter Haddawy",
+    "venue": "Journal of the Medical Association of Thailand= Chotmaihet thangphaet",
+    "citations": 9,
+    "doi": "https://europepmc.org/article/med/17710988"
+  },
+  {
+    "title": "The development of a computer based learning (CBL) program in diabetes management.",
+    "year": 2006,
+    "authors": "Anun Chaikoolvatana and Peter Haddawy",
+    "venue": "Journal of the Medical Association of Thailand= Chotmaihet Thangphaet",
+    "citations": 9,
+    "doi": "https://europepmc.org/article/med/17128851"
+  },
+  {
+    "title": "Fostering innovation in higher education",
+    "year": 2006,
+    "authors": "Peter Haddawy and Barbara Igel",
+    "venue": "Asian Institute of Technology, Pathumthani: Thailand",
+    "citations": 9,
+    "doi": "https://www.academia.edu/download/68020139/Fostering_Innovation_in_Higher_Education20210712-3368-1nektah.pdf"
+  },
+  {
+    "title": "Clinical-reasoning skill acquisition through intelligent group tutoring",
+    "year": 2005,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE",
+    "citations": 9,
+    "doi": "https://www.academia.edu/download/80944979/0531.pdf"
+  },
+  {
+    "title": "The ihi rochester report 2022 on healthcare informatics research: Resuming after the covid-19",
+    "year": 2023,
+    "authors": "Carlo Combi and Julio C Facelli and Peter Haddawy and John H Holmes and Sabine Koch and Hongfang Liu and Jochen Meyer and Mor Peleg and Giuseppe Pozzi and Gregor Stiglic and Pierangelo Veltri and Christopher C Yang",
+    "venue": "Journal of healthcare informatics research",
+    "citations": 8,
+    "doi": "https://link.springer.com/article/10.1007/s41666-023-00126-5"
+  },
+  {
+    "title": "Quantifying the impact of data characteristics on the transferability of sleep stage scoring models",
+    "year": 2023,
+    "authors": "Akara Supratak and Peter Haddawy",
+    "venue": "Artificial Intelligence in Medicine",
+    "citations": 8,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365723000544"
+  },
+  {
+    "title": "Spatiotemporal Bayesian networks for malaria prediction: case study of northern Thailand",
+    "year": 2016,
+    "authors": "Peter Haddawy and Rangwan Kasantikul and AHM Hasan and Chunyanuch Rattanabumrung and Pichamon Rungrun and Natwipa Suksopee and Saran Tantiwaranpant and Natcha Niruntasuk",
+    "venue": "N/A",
+    "citations": 8,
+    "doi": "https://ebooks.iospress.nl/doi/10.3233/978-1-61499-678-1-773"
+  },
+  {
+    "title": "Similarity measures on preference structures, part ii: utility functions",
+    "year": 2013,
+    "authors": "Vu A Ha and Peter Haddawy and John Miyamoto",
+    "venue": "arXiv preprint arXiv:1301.2274",
+    "citations": 8,
+    "doi": "https://arxiv.org/abs/1301.2274"
+  },
+  {
+    "title": "A bibliometric study of research activity in sustainable development",
+    "year": 2011,
+    "authors": "Peter Haddawy Saeed-Ul-Hassan and Pratikshya Kuinkel and Surendra Sedhai",
+    "venue": "Proceedings of 13th Conference of the International Society for Scientometrics and Informetrics",
+    "citations": 8,
+    "doi": "https://www.issi-society.org/proceedings/issi_2011/ISSI_2011_Proceedings_Vol2_62.pdf"
+  },
+  {
+    "title": "Supporting multi-level multi-perspective dynamic decision making in medicine",
+    "year": 1999,
+    "authors": "Suman Sundaresh and Tze-Yun Leong and Peter Haddawy",
+    "venue": "Proceedings of the AMIA Symposium",
+    "citations": 8,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2232854/"
+  },
+  {
+    "title": "The effect of 3D stereopsis and hand-tool alignment on learning effectiveness and skill transfer of a VR-based simulator for dental training",
+    "year": 2023,
+    "authors": "Maximilian Kaluschke and Myat Su Yin and Peter Haddawy and Siriwan Suebnukarn and Gabriel Zachmann",
+    "venue": "Plos one",
+    "citations": 7,
+    "doi": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291389"
+  },
+  {
+    "title": "Immersive visualization of dengue vector breeding sites extracted from street view images",
+    "year": 2020,
+    "authors": "Mores Prachyabrued and Peter Haddawy and Krittayoch Tengputtipong and Myat Su Yin and Dominique Bicout and Yongjua Laosiritaworn",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9319073/"
+  },
+  {
+    "title": "Automated extraction of causal relations from text for teaching surgical concepts",
+    "year": 2020,
+    "authors": "Myat Su Yin and Mihai Pomarlan and Peter Haddawy and Muhammad Rauf Tabassam and Chitpol Chaimanakarn and Natchalee Srimaneekarn and Saeed-Ul Hassan",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9374310/"
+  },
+  {
+    "title": "Complexity-based spatial hierarchical clustering for malaria prediction",
+    "year": 2018,
+    "authors": "Peter Haddawy and Myat Su Yin and Tanawan Wisanrakkit and Rootrada Limsupavanich and Promporn Promrat and Saranath Lawpoolsri and Patiwat Sa-Angchai",
+    "venue": "Journal of healthcare informatics research",
+    "citations": 7,
+    "doi": "https://link.springer.com/article/10.1007/s41666-018-0031-z"
+  },
+  {
+    "title": "Effectiveness of a low-cost VR simulator for emergency management training in dental surgery",
+    "year": 2018,
+    "authors": "Nat Sararit and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8457353/"
+  },
+  {
+    "title": "A VR simulator for emergency management in endodontic surgery",
+    "year": 2017,
+    "authors": "Nat Sararit and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3030024.3040976"
+  },
+  {
+    "title": "Learning predictive choice models for decision optimization",
+    "year": 2014,
+    "authors": "Waheed Noor and Matthew N Dailey and Peter Haddawy",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "citations": 7,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6848808/"
+  },
+  {
+    "title": "Modeling individual and collaborative problem solving in medical problem-based learning",
+    "year": 2005,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://link.springer.com/chapter/10.1007/11527886_49"
+  },
+  {
+    "title": "An abstraction-based approach to decision-theoretic planning for partially observable metric domains",
+    "year": 1995,
+    "authors": "AnHai Doan",
+    "venue": "N/A",
+    "citations": 7,
+    "doi": "https://scholar.google.com/scholar?cluster=14519195390532013372&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Building a crowdsourcing community: how online social learning helps in poverty reduction",
+    "year": 2013,
+    "authors": "Han Ei Chew and Borort Sort and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/2442882.2442909"
+  },
+  {
+    "title": "Barrier-free mapping for development and poverty reduction",
+    "year": 2012,
+    "authors": "Lutz Frommberger and Falko Schmid and Chunyuan Cai and Christian Freksa and Peter Haddawy",
+    "venue": "Role of volunteered geographic information in advancing science: quality and credibility",
+    "citations": 6,
+    "doi": "https://scholar.google.com/scholar?cluster=4922356088180727389&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A VR environment for assessing dental surgical expertise",
+    "year": 2009,
+    "authors": "Phattanapon Rhienmora and Peter Haddawy and Siriwan Suebnukarn and Matthew N Dailey",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://ebooks.iospress.nl/volumearticle/5265"
+  },
+  {
+    "title": "A collaborative medical case authoring environment based on the UMLS",
+    "year": 2008,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy and Phattanapon Rhienmora",
+    "venue": "Journal of Biomedical Informatics",
+    "citations": 6,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S1532046407000858"
+  },
+  {
+    "title": "Optimizing, diagnostic, and therapeutic strategies using decision-theoretic planning: principles and applications",
+    "year": 1995,
+    "authors": "Charles E Kahn Jr and Peter Haddawy",
+    "venue": "Medinfo",
+    "citations": 6,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a6040a7e94451321574164159b89a54f5a71ef5d"
+  },
+  {
+    "title": "Management of suspected lower-extremity deep venous thrombosis",
+    "year": 1995,
+    "authors": "Charles E Kahn and Peter Haddawy",
+    "venue": "Archives of Internal Medicine",
+    "citations": 6,
+    "doi": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/620104"
+  },
+  {
+    "title": "Reflecting on excellence: VR simulation for learning indirect vision in complex Bi-manual tasks",
+    "year": 2024,
+    "authors": "Maximilian Kaluschke and Rene Weller and Myat Su Yin and Benedikt W Hosp and Farin Kulapichitr and Siriwan Suebnukarn and Peter Haddawy and Gabriel Zachmann",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10494105/"
+  },
+  {
+    "title": "Automatic cause-effect relation extraction from dental textbooks using bert",
+    "year": 2021,
+    "authors": "Terapat Chansai and Ruksit Rojpaisarnkit and Teerakarn Boriboonsub and Suppawong Tuarob and Myat Su Yin and Peter Haddawy and Saeed-Ul Hassan and Mihai Pomarlan",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-030-91669-5_11"
+  },
+  {
+    "title": "A study of expert/novice perception in arthroscopic shoulder surgery",
+    "year": 2020,
+    "authors": "Myat Su Yin and Peter Haddawy and Benedikt Hosp and Paphon Sa-Ngasoongsong and Thanwarat Tanprathumwong and Madereen Sayo and Supawit Yangyuenpradorn and Akara Supratak",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3418094.3418135"
+  },
+  {
+    "title": "A planning-based approach to generating tutorial dialog for teaching surgical decision making",
+    "year": 2018,
+    "authors": "Narumol Vannaprathip and Peter Haddawy and Holger Schultheis and Siriwan Suebnukarn and Parichat Limsuvan and Atirach Intaraudom and Nattapon Aiemlaor and Chontee Teemuenvai",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-91464-0_44"
+  },
+  {
+    "title": "Integrating ARIMA and spatiotemporal Bayesian networks for high resolution malaria prediction",
+    "year": 2016,
+    "authors": "AHM Hasan and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://ebooks.iospress.nl/volumearticle/45026"
+  },
+  {
+    "title": "Tapping into Scientific Knowledge Flows via Semantic Links.",
+    "year": 2015,
+    "authors": "Saeed-Ul Hassan and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://www.issi-society.org/proceedings/issi_2015/0654.pdf"
+  },
+  {
+    "title": "Expanding the plausible solution space for robustness in an intelligent tutoring system",
+    "year": 2008,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-69132-7_61"
+  },
+  {
+    "title": "A modular approach to e-learning content creation and maintenance",
+    "year": 2004,
+    "authors": "Phan Thanh Duc and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-540-27859-7_28"
+  },
+  {
+    "title": "Constructing utility models from observed negotiation actions",
+    "year": 2003,
+    "authors": "Angelo Restificar and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 5,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acfe35644afd50783d3d5c4c79ec08c62356ce46"
+  },
+  {
+    "title": "A knowledge-based model construction approach to medical decision making",
+    "year": 1996,
+    "authors": "Liem Ngo and Peter Haddawy",
+    "venue": "Proceedings of the AMIA Annual Fall Symposium",
+    "citations": 5,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2233039/"
+  },
+  {
+    "title": "Principled construction of minimal bayesian networks from probability logic knowledge bases",
+    "year": 1994,
+    "authors": "Peter Haddawy and Robert A Krieger",
+    "venue": "Submitted to Journal of AI Research",
+    "citations": 5,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b7e64bb825a84eaa0837686fe467e9bc705e88ff"
+  },
+  {
+    "title": "High-resolution mapping of urban Aedes aegypti immature abundance through breeding site detection based on satellite and street view imagery",
+    "year": 2024,
+    "authors": "Steffen Knoblauch and Myat Su Yin and Krittin Chatrinan and Antonio Augusto de Arag\u00e3o Rocha and Peter Haddawy and Filip Biljecki and Sven Lautenbach and Bernd Resch and Dorian Arifi and Thomas J\u00e4nisch and Ivonne Morales and Alexander Zipf",
+    "venue": "Scientific Reports",
+    "citations": 4,
+    "doi": "https://www.nature.com/articles/s41598-024-67914-w"
+  },
+  {
+    "title": "A retrospective study of 3D deep learning approach incorporating coordinate information to improve the segmentation of pre-and post-operative abdominal aortic aneurysm",
+    "year": 2022,
+    "authors": "Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "PeerJ Computer Science",
+    "citations": 4,
+    "doi": "https://peerj.com/articles/cs-1033/"
+  },
+  {
+    "title": "The impact of 3D stereopsis and hand-tool alignment on effectiveness of a VR-based simulator for dental training",
+    "year": 2022,
+    "authors": "Maximilian Kaluschke and Myat Su Yin and Peter Haddawy and Siriwan Suebnukarn and Gabriel Zachmann",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9874563/"
+  },
+  {
+    "title": "A Comparative Analysis of Bayesian Network and ARIMA Approaches to Malaria Outbreak Prediction",
+    "year": 2018,
+    "authors": "AHM Imrul Hasan and Peter Haddawy and Saranath Lawpoolsri",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-60663-7_10"
+  },
+  {
+    "title": "Experience with the Mobile4D disaster reporting and alerting system in lao PDR",
+    "year": 2017,
+    "authors": "Ahmed Loai Ali and Jasper van De Ven and Thatheva Saphangthong and Christian Freksa and Thomas Barkowsky and Sithong Thongmanivong and Houngphet Chanthavong and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 4,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-59111-7_43"
+  },
+  {
+    "title": "ICT for poverty reduction in Lao PDR",
+    "year": 2011,
+    "authors": "Peter Haddawy and Sousath Sayakoummane",
+    "venue": "UN Chronicle",
+    "citations": 4,
+    "doi": "http://www.iuventum.org/download/IYD2011-3.pdf"
+  },
+  {
+    "title": "A general approach to segmentation in CT grayscale images using variable neighborhood search",
+    "year": 2018,
+    "authors": "Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8615823/"
+  },
+  {
+    "title": "Defining the concept of univeristy for research benchmarking",
+    "year": 2011,
+    "authors": "Craig Abbey and Elizabeth Capaldi and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://scholar.google.com/scholar?cluster=15872913440647198853&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Towards human-like robustness in an intelligent tutoring system",
+    "year": 2007,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "8th International Conference on Cognitive Modeling, Ann Arbor, Michigan, USA",
+    "citations": 3,
+    "doi": "https://www.academia.edu/download/86398714/iccm-2007.pdf#page=257"
+  },
+  {
+    "title": "Enriching solution space for robustness in an intelligent tutoring system",
+    "year": 2007,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "FRONTIERS IN ARTIFICIAL INTELLIGENCE AND APPLICATIONS",
+    "citations": 3,
+    "doi": "https://www.academia.edu/download/51892461/Enriching_Solution_Space_for_Robustness_20170221-21401-wd53av.pdf"
+  },
+  {
+    "title": "Extracting and Representing Qualitative Behavior of a Complex Systems in Phase Space",
+    "year": 1994,
+    "authors": "F Zaho",
+    "venue": "Artif. Intell",
+    "citations": 3,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=70f4eb5454eecc8232d7d031ae68ea94a5c3126e"
+  },
+  {
+    "title": "SDMentor: A virtual reality-based intelligent tutoring system for surgical decision making in dentistry",
+    "year": 2025,
+    "authors": "Narumol Vannaprathip and Peter Haddawy and Holger Schultheis and Siriwan Suebnukarn",
+    "venue": "Artificial Intelligence in Medicine",
+    "citations": 2,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0933365725000272"
+  },
+  {
+    "title": "METEOR: medical tutor employing ontology for robustness",
+    "year": 2011,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/1943403.1943441"
+  },
+  {
+    "title": "Haptic Augmented Reality Dental Trainer with Automatic Performance Assessment, IUI\u201910, February 7\u201310, Hong Kong, China",
+    "year": 2010,
+    "authors": "Phattanapon Rhienmora and Kugamoorthy Gajananan and Peter Haddawy and Siriwan Suebnukarn and Matthew N Dailey and Ekarin Supataratarn and Poonam Shrestha",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=9655009030879911917&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Sistema de tutor\u00edas inteligente colaborativo para ABP en medicina",
+    "year": 2007,
+    "authors": "SIRIWAN Suebnukarn and PETER Haddawy",
+    "venue": "Revista Educaci\u00f3n en Ciencias de la Salud",
+    "citations": 2,
+    "doi": "http://www.udec.cl/ofem/recs/anteriores/vol412007/artrev4107a.pdf"
+  },
+  {
+    "title": "A hybrid Bayesian Network modeling environment",
+    "year": 1999,
+    "authors": "Thuong Doan and Peter Haddawy and Tien Nguyen",
+    "venue": "Proceeding of the 1999 National Computer Science and Engineering Conference (NCSEC), Bangkok, Thailand",
+    "citations": 2,
+    "doi": "https://www.academia.edu/download/69833021/TDoan_NCSEC99_Hybrid_Bayesian.pdf"
+  },
+  {
+    "title": "Case-based preference elicitation (preliminary report)",
+    "year": 1997,
+    "authors": "V Ha and T Li and P Haddawy",
+    "venue": "Unpublished manuscript, Department of Electrical Engineering and Computer Science, University of Wisconsin-Milwaukee",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=10684583407708715337&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Temporal Reasoning with Context-Sensitive Probability Logic",
+    "year": 1995,
+    "authors": "Peter Haddawy",
+    "venue": "Proceedings of the International Workshop on Temporal Representation and Reasoning (TIME 1995), Melbourne Beach, Florida, USA",
+    "citations": 2,
+    "doi": "https://scholar.google.com/scholar?cluster=3397511268679420568&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Abstraction for Decision-Theoretic Planning",
+    "year": 1995,
+    "authors": "A Doan and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://www.researchgate.net/profile/Peter-Haddawy/publication/2672662_Abstraction_for_Decision-Theoretic_Planning/links/54213d3f0cf203f155c61e3b/Abstraction-for-Decision-Theoretic-Planning.pdf"
+  },
+  {
+    "title": "An overview of formalisms, issues, languages and systems for the representation of knowledge",
+    "year": 1984,
+    "authors": "Wolfgang Bibel and Christian Freksa and Peter Haddawy and M Moreau and Maurice Bruynooghe",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://lirias.kuleuven.be/retrieve/529186"
+  },
+  {
+    "title": "Urban Aedes aegypti suitability indicators: a study in Rio de Janeiro, Brazil",
+    "year": 2025,
+    "authors": "Steffen Knoblauch and Rutendo T Mukaratirwa and Paulo FP Pimenta and Ant\u00f4nio A de A Rocha and Myat Su Yin and Sukanya Randhawa and Sven Lautenbach and Annelies Wilder-Smith and Joacim Rockl\u00f6v and Oliver J Brady and Filip Biljecki and Peter Dambach and Thomas J\u00e4nisch and Bernd Resch and Peter Haddawy and Till B\u00e4rnighausen and Alexander Zipf",
+    "venue": "The Lancet Planetary Health",
+    "citations": 1,
+    "doi": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00049-X/fulltext"
+  },
+  {
+    "title": "MosquitoSong+: A noise-robust deep learning model for mosquito classification from wingbeat sounds",
+    "year": 2024,
+    "authors": "Akara Supratak and Peter Haddawy and Myat Su Yin and Tim Ziemer and Worameth Siritanakorn and Kanpitcha Assawavinijkulchai and Kanrawee Chiamsakul and Tharit Chantanalertvilai and Wish Suchalermkul and Chaitawat Sa-Ngamuang and Patchara Sriwichai",
+    "venue": "Plos one",
+    "citations": 1,
+    "doi": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310121"
+  },
+  {
+    "title": "Author Correction: High-resolution mapping of urban Aedes aegypti immature abundance through breeding site detection based on satellite and street view imagery",
+    "year": 2024,
+    "authors": "Stefen Knoblauch and Myat SuYin and Krittin Chatrinan and Antonio Augusto de Arag\u00e3o Rocha and Peter Haddawy and Filip Biljecki and Sven Lautenbach and Bernd Resch and Dorian Arif and Thomas J\u00e4nisch and Ivonne Morales and Alexander Zipf",
+    "venue": "Scientific Reports",
+    "citations": 1,
+    "doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11452528/"
+  },
+  {
+    "title": "MosquitoSongSense: IoT-based mosquito wingbeat data collection system",
+    "year": 2023,
+    "authors": "Myat Su Yin and Dolvara Gunatilaka and Kanpitcha Assawavinijkulchai and Thanawit Thampakorn and Wasin Heesawat and Peter Haddawy and Songpol Eiamsamang and Patchara Sriwichai and Michael Weber",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3582515.3609546"
+  },
+  {
+    "title": "Resuming HealthCare Informatics Research after CoViD-19: the HealthCare System Perspective",
+    "year": 2023,
+    "authors": "Carlo Combi and Julio C Facelli and Peter Haddawy and John H Holmes and Sabine Koch and Hongfang Liu and Jochen Meyer and Mor Peleg and Giuseppe Pozzi and Gregor Stiglic and Pierangelo Veltri and Christopher C Yang",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10337280/"
+  },
+  {
+    "title": "A Collaborative Platform Supporting Distributed Teams in Visualization and Analysis of Infectious Disease Data",
+    "year": 2022,
+    "authors": "Florian V\u00f6gtle and Peter Haddawy and Myat Su Yin and Thomas Barkowsky and Dominique Bicout and Mores Prachyabrued and Saranath Lawpoolsri",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/9874627/"
+  },
+  {
+    "title": "Dental tutorbot: Exploitation of dental textbooks for automated learning",
+    "year": 2021,
+    "authors": "Fizza Tauqeer and Muhammad Khubaib Raza and Myat Su Yin and Saeed Ul Hassan and Peter Haddawy and Mihai Pomarlan and Suppawong Tuarob",
+    "venue": "CEUR Workshop Proceedings",
+    "citations": 1,
+    "doi": "https://mahidol.elsevierpure.com/en/publications/dental-tutorbot-exploitation-of-dental-textbooks-for-automated-le"
+  },
+  {
+    "title": "A study of individual human mobility patterns related to malaria transmission along the Thai-Myanmar Border",
+    "year": 2020,
+    "authors": "Chaitawat Sa-Ngamuang and Peter Haddawy and Saranath Lawpoolsri and Thomas Barkowsky and Patiwat Sa-Angchai",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3418094.3418136"
+  },
+  {
+    "title": "Mobile Decision Support for Yellow-Spined Bamboo Locust Plague Intervention in Lao PDR",
+    "year": 2018,
+    "authors": "Jasper van de Ven and Ahmed L Ali and Thomas Barkowsky and Christian Freksa and Michael Epprecht and Thatheva Saphangthong and Peter Haddawy",
+    "venue": "Adjunct Proceedings of the 14th International Conference on Location Based Services",
+    "citations": 1,
+    "doi": "https://www.research-collection.ethz.ch/handle/20.500.11850/225590"
+  },
+  {
+    "title": "AIC-driven spatial hierarchical clustering: case study for malaria prediction in Northern Thailand",
+    "year": 2017,
+    "authors": "Peter Haddawy and Myat Su Yin and Tanawan Wisanrakkit and Rootrada Limsupavanich and Promporn Promrat and Saranath Lawpoolsri",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-319-69456-6_9"
+  },
+  {
+    "title": "Recognizing Clinical Styles in a Dental Surgery Simulator",
+    "year": 2015,
+    "authors": "P. Rhienmora and P. Haddawy and S. Suebnukarn and P. Shrestha and M.N. Dailey",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://ebooks.iospress.nl/volumearticle/40189"
+  },
+  {
+    "title": "A preliminary analysis of tutorial intervention strategies for teaching decision making in dental surgery",
+    "year": 2015,
+    "authors": "N Vannaprathip and P Haddawy and S Suebnukarn",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.researchgate.net/profile/Narumol-Vannaprathip/publication/273442185_A_preliminary_analysis_of_tutorial_intervention_strategies_for_teaching_decision_making_in_dental_surgery/links/5a7c1902a6fdcce697d7ec3f/A-preliminary-analysis-of-tutorial-intervention-strategies-for-teaching-decision-making-in-dental-surgery.pdf"
+  },
+  {
+    "title": "The development of an intelligent self-learning program in dengue mosquito and hemorrhagic fever surveillance",
+    "year": 2014,
+    "authors": "Anun Chaikoolvatana and Pratap Singhasivanon and Peter Haddawy",
+    "venue": "J Sci Technol Ubal Rajthani Univ",
+    "citations": 1,
+    "doi": "https://www.thaiscience.info/journals/Article/JSUU/10887297.pdf"
+  },
+  {
+    "title": "Innovativeness as a Criterion for Accreditation",
+    "year": 2007,
+    "authors": "Peter Haddawy",
+    "venue": "APQN Conference & AGM",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=474939511081862261&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Anatomical sketch understanding: recognizing explicit and implicit structure",
+    "year": 2005,
+    "authors": "Peter Haddawy and Matthew Dailey and Ploen Kaewruen and Natapope Sarakhette",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/chapter/10.1007/11527770_47"
+  },
+  {
+    "title": "Intelligent Tutoring for Medical Problem-Based Learning: Student Clinical Reasoning Model",
+    "year": 2003,
+    "authors": "Siriwan Suebnukarn and Peter Haddawy",
+    "venue": "Proceedings of the 4th International Conference on Cognitive Science. Sydney, Australia",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=79433565693308821&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Incremental Constraint-Based Elicitation of Multi-Attribute Utility Functions",
+    "year": 2001,
+    "authors": "Tri Le and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://cdn.aaai.org/Symposia/Spring/1998/SS-98-03/SS98-03-013.pdf"
+  },
+  {
+    "title": "Interactive and Mixed\u2010Initiative Decision\u2010Theoretic Systems",
+    "year": 1998,
+    "authors": "Peter Haddawy and Steve Hanks",
+    "venue": "AI Magazine",
+    "citations": 1,
+    "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1609/aimag.v19i3.1402"
+  },
+  {
+    "title": "Plan projection as deduction and plan generation as abduction in a context-sensitive temporal probability logic",
+    "year": 1995,
+    "authors": "Liem Ngo and Peter Haddawy",
+    "venue": "Submitted to AIPS",
+    "citations": 1,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1d0b67438056df3be92d6ea72df7e9fa53a561b8"
+  },
+  {
+    "title": "Bayesian network for radiology decision support",
+    "year": 1992,
+    "authors": "CE Kahn and P Haddawy",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=10684252419534180987&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Description of Knowledge Representation Features for a Design Support System",
+    "year": 1984,
+    "authors": "Peter Haddawy and Christian Freksa",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://scholar.google.com/scholar?cluster=6207037359582835972&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Foreword from the Conference Chair",
+    "year": 2024,
+    "authors": "Peter Haddawy",
+    "venue": "ACM International Conference Proceeding Series",
+    "citations": 0,
+    "doi": "https://mahidol.elsevierpure.com/en/publications/foreword-from-the-conference-chair"
+  },
+  {
+    "title": "In memoriam: Christian Freksa (1950-2020)",
+    "year": 2024,
+    "authors": "Thomas Barkowsky and Thora Tenbrink and Peter Haddawy and Ulrich Furbach",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.tandfonline.com/doi/full/10.1080/13875868.2023.2270137"
+  },
+  {
+    "title": "Intelligent Systems and Data Science: First International Conference, ISDS 2023, Can Tho, Vietnam, November 11-12, 2023, Proceedings, Part II",
+    "year": 2024,
+    "authors": "Thai-Nghe Nguyen and Thanh-Nghi Do and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=9363841780003218556&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Prognostic Prediction of Pediatric DHF in Two Hospitals in Thailand",
+    "year": 2023,
+    "authors": "Peter Haddawy and Myat Su Yin and Panhavath Meth and Araya Srikaew and Chonnikarn Wavemanee and Saranath Lawpoolsri Niyom and Kanokwan Sriraksa and Wannee Limpitikul and Preedawadee Kittirat and Prida Malasit and Panisadee Avirutnan and Dumrong Mairiang",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://link.springer.com/chapter/10.1007/978-3-031-34344-5_36"
+  },
+  {
+    "title": "Intelligent Systems and Data Science: First International Conference, ISDS 2023, Can Tho, Vietnam, November 11-12, 2023, Proceedings, Part II",
+    "year": 2023,
+    "authors": "Thanh-Nghi Do and Peter Haddawy and Nguyen Thai-Nghe",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=5409267294204098330&hl=en&oi=scholarr"
+  },
+  {
+    "title": "States of Confusion: Eye and Head Tracking Reveal Surgeons\u2019 Confusion during Arthroscopic Surgery",
+    "year": 2021,
+    "authors": "Myat Su Yin and Peter Haddawy and Ratthaphum Watcharopas and Paphon Sa-Ngasoongsong and Enkelejda Kasneci and Benedikt W Hosp",
+    "venue": "ICMI'21: Proceedings of the 2021 International Conference on Multimodal Interaction",
+    "citations": 0,
+    "doi": "https://tobias-lib.ub.uni-tuebingen.de/xmlui/handle/10900/132177"
+  },
+  {
+    "title": "Study of algorithmic evolution in scientific literature",
+    "year": 2019,
+    "authors": "Suppawong Tuarob and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:148293"
+  },
+  {
+    "title": "Welcome Message from the General Chairs",
+    "year": 2015,
+    "authors": "Tawiwat Veeraklaew and Hiroshi Motoda and Manukid Parnichkun and Peter Haddawy and Pavadee Aungkavattana",
+    "venue": "ACDT 2015-Proceedings: The 1st Asian Conference on Defence Technology",
+    "citations": 0,
+    "doi": "https://mahidol.elsevierpure.com/en/publications/welcome-message-from-the-general-chairs"
+  },
+  {
+    "title": "Welcome Message from Conference Honorary Chair",
+    "year": 2015,
+    "authors": "Surot Thangjitham and Peter Haddawy and Akira Namatame and Mr Brian D Steckler and Mr Chan Yi Yuen",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7111570/"
+  },
+  {
+    "title": "Automated outcome scoring in a dental surgical training simulator",
+    "year": 2015,
+    "authors": "M Su Yin and P Haddawy and S Suebnukarn and P Rhienmora",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Anatomical sketch segmentation: local refinement method",
+    "year": 2015,
+    "authors": "Phatthanaphong Chomphuwiset and Peter Haddawy and Paul Janecek and Matthew Dailey",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=6896400818595834358&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Semantic Analysis of Knowledge Flows using Scientific Literature",
+    "year": 2014,
+    "authors": "S. Hassan and P. Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": ""
+  },
+  {
+    "title": "Building a crowdsourcing community",
+    "year": 2013,
+    "authors": "Han Ei Chew and Peter Haddawy and Borort Sort",
+    "venue": "Proceedings of the 3rd ACM Symposium on Computing for Development",
+    "citations": 0,
+    "doi": "https://cir.nii.ac.jp/crid/1870302167751434624"
+  },
+  {
+    "title": "Virtual Environments for Enriching Student Learning",
+    "year": 2012,
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/6299389/"
+  },
+  {
+    "title": "La contribution des TIC \u00e0 la r\u00e9duction de la pauvret\u00e9 en RDP Lao",
+    "year": 2011,
+    "authors": "Peter Haddawy and Sousath Sayakoummane",
+    "venue": "Chronique ONU",
+    "citations": 0,
+    "doi": "https://www.un-ilibrary.org/content/journals/24119911/48/3/4"
+  },
+  {
+    "title": "Surveillance and Control of Dengue Hemorrhagic Fever (DHF) in Southern Areas of North-Eastern, Thailand.",
+    "year": 2011,
+    "authors": "A Chaikoolvatana and P Singhasivanon and P Haddawy",
+    "venue": "International Journal of Geoinformatics",
+    "citations": 0,
+    "doi": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16866576&AN=64754481&h=22VvWTCFMzXN%2BcBHlieJmKBf34aDRPAOE1Uv6ihBlusx%2FPZ%2BV3x2pk%2FogymxIcmJkZQO5Muzb4OKIWwzdrXiqQ%3D%3D&crl=c"
+  },
+  {
+    "title": "Proceedings 2010 International Symposium on Information Technology-Visual Informatics, ITSim'10: Preface",
+    "year": 2010,
+    "authors": "Ahmad Kamil Mahmood and Halimah Badioze Zaman and Peter Robinson and Steve Elliot and Peter Haddawy and Stephan Olariu and Zaiki Awang",
+    "venue": "Proceedings 2010 International Symposium on Information Technology-Visual Informatics, ITSim'10",
+    "citations": 0,
+    "doi": "https://mahidol.elsevierpure.com/en/publications/proceedings-2010-international-symposium-on-information-technolog"
+  },
+  {
+    "title": "A system to support faculty performance evaluation",
+    "year": 2009,
+    "authors": "Peter Haddawy and Nitin K Tripathi and Paul Janecek",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=10271535067218277057&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A system for benchmarking research performance and tracking research trends",
+    "year": 2009,
+    "authors": "Peter Haddawy and Nitin Tripathi and Paul Janecek",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=10032793126921696381&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Haptic Device for Web-based Clinical Skill Training in Dentistry",
+    "year": 2008,
+    "authors": "Siriwan Suebnukarn and Kriskrai Sitthiseripratip and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=1160187254571076186&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Akkaya, C., see Kaiser, K. 151",
+    "year": 2007,
+    "authors": "C Andronis and PA Bernstein and S Zhang and T Bittner and M Donnelly and O Bodenreider and B Smith and A Kumar and A Burgun and A Bottrighi and P Terenziani and A Burgun and C Clay and MH Ou and MN Dailey and P Haddawy and O Dameron and MA Musen and B Gibaud and M Donnelly and F Duch\u00eane and C Garbay and V Rialle and D Fu and S Wang and C Garbay and B Gibaud and MN Dailey and P Kaewruen and N Sarakhette and LH Hai and U Hahn and S Schulz and S Schulz and LH Hai and M Hess and F Rinaldi and D Hu and J Hunter and S Miksch and L Ironi and S Tentoni and P Kaewruen",
+    "venue": "Artificial Intelligence in Medicine",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=13513137912060836817&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Modeling Human-Like Robustness in an Intelligent Tutoring System",
+    "year": 2007,
+    "authors": "Hameedullah Kazi and Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "ECTI Transactions on Computer and Information Technology (ECTI-CIT)",
+    "citations": 0,
+    "doi": "https://ph01.tci-thaijo.org/index.php/ecticit/article/view/54206"
+  },
+  {
+    "title": "AIT Tuition Pricing Strategy Options",
+    "year": 2006,
+    "authors": "Peter Haddawy and Worsak Kanok-Nukulchai",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=12580771396140393397&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Detecting and Adapting to Change in User Preference.",
+    "year": 2005,
+    "authors": "Angelo C Restificar and Peter Haddawy and John Miyamoto",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://cdn.aaai.org/Symposia/Spring/2005/SS-05-02/SS05-02-017.pdf"
+  },
+  {
+    "title": "Learning preferences and risk behavior in agent-based e-commerce negotiation",
+    "year": 2004,
+    "authors": "Angelo C Restificar",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://search.proquest.com/openview/47bd6f15da7d2c1634622e8fb62c9a03/1?pq-origsite=gscholar&cbl=18750&diss=y"
+  },
+  {
+    "title": "Inferring Utilities from Negotiation Actions.",
+    "year": 2004,
+    "authors": "Angelo C Restificar and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=15841981695154205671&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Multi-language E-Dictionary support for Web-based training",
+    "year": 2003,
+    "authors": "Peter Haddawy and Vatcharaporn Esichaikul and Sumanta Guha",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=11983854160950497067&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Bayesian Classification Approach to Personal Automotive Marketing Analysis",
+    "year": 2002,
+    "authors": "Jantima Polpinij and Chuleerat Jaruskulchai and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://mahidol.elsevierpure.com/en/publications/a-bayesian-classification-approach-to-personal-automotive-marketi"
+  },
+  {
+    "title": "An E-catalog management framework for barter trade exchanges",
+    "year": 2002,
+    "authors": "Peter Haddawy and Vilas Wuwongse and Vatcharaporn Esichaikul",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=15976266667702152494&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A probabilistic analysis of factors affecting consumer purchase of insurance policies",
+    "year": 2001,
+    "authors": "Jantima Polpinij and Chuleerat Jaruskulchai and Peter Haddawy",
+    "venue": "Proceedings of the Second International Conference on Intelligent Technologies, Bankok (Thailand)",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=16462301999459028604&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Multi-Level Multi-Perspective Reasoning",
+    "year": 2000,
+    "authors": "Suman Sundaresh and Peter Haddawy and Tze Yun Leong and Kim Leng Poh",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=151ecaef71593308a7d90dbf41ec56c714bc244f"
+  },
+  {
+    "title": "The AAAI Spring Symposia",
+    "year": 1999,
+    "authors": "Nancy Green and Jennifer Chu-Carroll and David Kortenkamp and Alan Schultz and Michael H Coen and Dragomir R Radev and Eduard Hovy and Peter Haddawy and Steve Hanks and Eugene Freuder and Charlie Ortiz and Sandip Sen",
+    "venue": "AI Magazine",
+    "citations": 0,
+    "doi": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1469"
+  },
+  {
+    "title": "Computational Intelligence: An International Journal",
+    "year": 1998,
+    "authors": "Ronald Loui and Javier Pinto and Barbara Di Eugenio and Alessandro Cimatti and Fausto Giunchiglia and Karen L Myers and David E Wilkins and Armand E Prieditis and Wanlin Pang and Andr\u00e9 Trudel and Robert K Lindsay and Scott Goodwin and Eric Neufeld and Munindar P Singh and Joseph C Culberson and Jonathan Schaeffer and Anne Preller and ML Mugnier and M Chein and J Britanik and Michael M Marefat and Peter Haddawy and Steve Hanks and Ian P Gent and Toby Walsh and Paul Snow and Haim Schweitzer and Janell Straach and Nevin Lianwen Zhang and John L Pollock and Diana Cukierman and James P Delgrande and Andrew Fall",
+    "venue": "Computational Intelligence",
+    "citations": 0,
+    "doi": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=08247935&asa=N&AN=4370203&h=mE8Rf3saFG1Xkamer3SRqKWrajZhn4RdY3Xs1Df%2F2cR84rovHOiZUaY2L4cwuM1TlYUpOQCQX8te3LHqisdAiQ%3D%3D&crl=c"
+  },
+  {
+    "title": "Bayesian Network Model for Reliability Assessment of Power Systems",
+    "year": 1998,
+    "authors": "DC Yu and TC Nguyen and P Haddawy",
+    "venue": "IEEE Power Engineering Review",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=6517487535233208005&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Evaluation of a Bayesian-network decision aid for mammographic diagnosis of breast cancer",
+    "year": 1996,
+    "authors": "CE Kahn and LM Roberts and KA Shaffer and RA Papke and P Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=6083891776375288006&hl=en&oi=scholarr"
+  },
+  {
+    "title": "USER MANUAL DRIPS Decision Theoretic Planning System Version 3.0",
+    "year": 1996,
+    "authors": "AnHai Doan and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=9900433995950451840&hl=en&oi=scholarr"
+  },
+  {
+    "title": "D ecision-Theoretic R efinem ent Planning in M edical",
+    "year": 1996,
+    "authors": "Peter Haddawy and AnHai Doan and Charles E Kahn Jr",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=16465411058053148911&hl=en&oi=scholarr"
+  },
+  {
+    "title": "DRIPS Decision Theoretic Planning System Version 4.1 USER MANUAL",
+    "year": 1995,
+    "authors": "AnHai Doan and Peter Haddawy and Richard Goodwin",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=15576381351756403673&hl=en&oi=scholarr"
+  },
+  {
+    "title": "An Overview of Some Recent Developments in Bayesian Problem Solving Techniques",
+    "year": 1995,
+    "authors": "P HADDAWY",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://cir.nii.ac.jp/crid/1571417124023013632"
+  },
+  {
+    "title": "Preliminary Investigation of a Bayesian Network for Mammographic Diagnosis of Breast Cancer Charles E. Kahn, Jr., MD, Linda M. Roberts, MS, Kun Wang, BS, Deb Jenks, MSN, Peter Haddawy, Ph. D. The Medical Informatics and Decision Science (MIDAS) Consortium, Milwaukee, Wisconsin",
+    "year": 1995,
+    "authors": "Charles E Kahn Jr",
+    "venue": "Nineteenth Annual Symposium on Computer Applications in Medical Care: Toward Cost-effective Clinical Computing",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=11318489176580681569&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A bayesian network-based tutoring shell for diagnostic procedure selection",
+    "year": 1994,
+    "authors": "Joel Jacobson",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=13081440111425514276&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Decision-Theoretic and Symbolic Planning",
+    "year": 1992,
+    "authors": "Peter F Haddawy",
+    "venue": "NSF Award Number 9207262. Directorate for Computer and Information Science and Engineering",
+    "citations": 0,
+    "doi": "https://ui.adsabs.harvard.edu/abs/1992nsf....9207262H/abstract"
+  },
+  {
+    "title": "Issues in Decision-Theoretic Planning: Symbolic Goals and Numeric Utilities Peter Haddawy Department of Computer Science University of Illinois",
+    "year": 1990,
+    "authors": "Peter Haddawy",
+    "venue": "Innovative Approaches to Planning, Scheduling and Control: Proceedings of the 1990 DARPA Workshop",
+    "citations": 0,
+    "doi": "https://books.google.com/books?hl=en&lr=&id=W8DmWkHB7cgC&oi=fnd&pg=PA48&dq=info:4gc0q2OpT1wJ:scholar.google.com&ots=rlk21-e0h6&sig=qgsnXGYDXwE0PfsTKsqvb9_bsNk"
+  },
+  {
+    "title": "Intelligent Systems Group, Department of Computer Science, University of",
+    "year": 1987,
+    "authors": "P Haddawy and J Kelly",
+    "venue": "Artificial Intelligence in Engineering: Tools and Techniques",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=9628475442359679505&hl=en&oi=scholarr"
+  },
+  {
+    "title": "ONLINE ONLY ARTICLES",
+    "year": "N/A",
+    "authors": "AV Martins and RC Albuquerque and LD Lanza and \u00caL Vila\u00e7a and NRFA Silva and AN Moreira and RR da Silveira and AP Dwisaptarini and S Suebnukarn and P Rhienmora and P Haddawy and S Koontongkaew and LM Candido and LN Miotto and LMG Fais and PF Cesar and LAP Pinelli and A Reis and JL de Geus and L Wambier and M Schroeder and AD Loguercio and JK Mitchell and AR Furness and RJ Sword and SW Looney and WW Brackett and MG Brackett",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.repository.karyailmiah.trisakti.ac.id/documents/repository/artikel_ade-prijanti-dwisaptarini-effectiveness-of-the-multilayered-caries-model-and-visuo-tactile-virtual-reality-simulator-for-minimally-invasive-caries-removal-a-randomized-controlled-trial.pdf"
+  },
+  {
+    "title": "Mores Prachyabrued",
+    "year": "N/A",
+    "authors": "Thitinan Thanyasiri and Sompong Mukdaskul and Somnuk Tangtermsirikul and Thaweesak Koanantakool and Jarernsri L Mitrpanont and Tawiwat Veeraklaew and Hiroshi Motoda and Manukid Parnichkun and Peter Haddawy and Pavadee Aungkavattana and Ulrich Schmitt and Thomas Kohler and Ryosuke Saga and Brian Steckler and Bao Nguyen and Pornthep Nisamaneephong and Wachara Karunyavanij and Thanaruk Theeramunkong and Thepchai Supnithi and Songsri Tangsripairoj and Siwaruk Siwamogsatham and Chamnan Kumsap and Pong pan Chindaudom and Phermsak Siriphala and Pawat Chusilp and Surasak Chiangga and Ittichote Chuckpaiwong and Ganchai Tanapornaweekit",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7111571/"
+  },
+  {
+    "title": "Organizing Committees The Third Asian Conference on Defence Technology (3rd ACDT)",
+    "year": "N/A",
+    "authors": "Pongsatorn Buasup and Thitinant Thanyasiri and Sompong Mukdaskul and Somnuk Tangtermsirikul and Jarernsri L Mitrpanont and Hiroshi Motoda and Akira Namatame and Tawiwat Veeraklaew and Manukid Parnichkun and Peter Haddawy and Pavadee Aungkavattana and Thomas Kohler and Pornthep Nisamaneephong and Kiyota Hashimoto and Brian Steckler and Bao Nguyen and Ryo Maezono",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/7886141/"
+  },
+  {
+    "title": "Representing Plans Under Uncertainty [electronic resource]: A Logic of Time, Chance, and Action",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.sidalc.net/search/Record/KOHA-OAI-TEST:202090/Description"
+  },
+  {
+    "title": "Identifying Important Citations using Contextual Information from",
+    "year": "N/A",
+    "authors": "Saeed-Ul Hassan and Anam Akram and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=6740376322318397225&hl=en&oi=scholarr"
+  },
+  {
+    "title": "The Role of Spatial Cognition in Surgical Navigation in Arthroscopic Surgery.",
+    "year": "N/A",
+    "authors": "Tina Vajsbaher and Holger Schultheis and Paphon Sa-ngasoongsong and Ratthapoom Watcharopas and Myat Su Yin and Peter Haddawy and Bremen Spatial Cognition Center",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Tina-Vajsbaher/publication/341616685_The_Role_of_Spatial_Cognition_in_Surgical_Navigation_in_Arthroscopic_Surgery/links/5ecb850e299bf1c09adcea2f/The-Role-of-Spatial-Cognition-in-Surgical-Navigation-in-Arthroscopic-Surgery.pdf"
+  },
+  {
+    "title": "Automatic segmentation of kidney and liver tumors in CT images",
+    "year": "N/A",
+    "authors": "Dmitry A Konovalov and Dina B Efremova and Thanongchai Siriapisith and Worapan Kusakunniran and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=14591799869247959254&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Comprehensive Examination of Three Citation-Based Journal Metrics in Relation to Expert Judgment of Journal Quality",
+    "year": "N/A",
+    "authors": "Peter Haddawy and Saeed-Ul Hassan and Awais Asghar and Sarah Amin",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=3151912544501138310&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Toward Case-Based Preference Elicitation: Similarity Measures on Preference Structures",
+    "year": "N/A",
+    "authors": "Vu Ha Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=8917780266837648982&hl=en&oi=scholarr"
+  },
+  {
+    "title": "GENERAL CO-CHAIR",
+    "year": "N/A",
+    "authors": "Abdul Samad Ismail and Harald \u00d8verby and Keiichi Kaneko and Md Asri Ngadi and Pattanasak Mongkolwat and Peter Haddawy and Sujin Butdisuwan and Timothy K Shih and Toni Anwar and Areerat Trongratsameethong and Chin-Lin Hu and Kohta Ohshima and Krisana Chinnasarn and Morakot Choetkiertikul and Namfon Assawamekin",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8523994/"
+  },
+  {
+    "title": "International Advisory",
+    "year": "N/A",
+    "authors": "Christian Freksa and Harald \u00d8verby and Peter Haddawy and Takashi Yukawa and Rattana Wetprasit and Sasitorn Keawmun and Suppat Rungraungsilp and Pruegsa Duangphasuk and Panwit Tuwanuti and Pawitra Chiravirakul and Songsri Tangsripairoj and Boonsit Yimwadsana and Pagaporn Pengsart and Suppawong Tuarob",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/8257890/"
+  },
+  {
+    "title": "1. Type Thesis 2. Title INTELLIGENT COURSE RECOMMENDATION SYSTEM: AN ARTIFICIAL NEURAL NETWORK APPROACH",
+    "year": "N/A",
+    "authors": "Hui Cai and Paul Janecek and Peter F Haddawy and Sumanta Guha",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bc93113bc45c0919a05742b0bcf06eabffd60135"
+  },
+  {
+    "title": "Resource Allocation",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=2683917439973025112&hl=en&oi=scholarr"
+  },
+  {
+    "title": "A Bayesian Approach to Situation Awareness in Crowdsensing for Disease Surveillance",
+    "year": "N/A",
+    "authors": "PETER HADDAWY",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=17633373025895669424&hl=en&oi=scholarr"
+  },
+  {
+    "title": "1. Type: Research Study (Thesis/Research Study/Special Study/etc) 2. Title: Business Process Modeling: Case study of AIT Admission Process 3. Author: Mr. Le Tran Nguyen 4. Name (s) of Advisor and Committee Members: Dr. Paul Jenecek, Dr. Sumanta",
+    "year": "N/A",
+    "authors": "Prof Guha and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ba527e8c7c2821569c9a09d131a81e9deb861235"
+  },
+  {
+    "title": "Reform Process Program II Guidelines for Review of Existing Academic Programs",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ef1de9e65d9bfe2f82c74a5816bb3bf735228e2a"
+  },
+  {
+    "title": "Case-Based Preference Elicitation (Preliminary Report)",
+    "year": "N/A",
+    "authors": "Vu Ha Tri Le Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://cdn.aaai.org/Symposia/Spring/1998/SS-98-03/SS98-03-011.pdf"
+  },
+  {
+    "title": "Research Benchmarking",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=13093945834749941821&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Surveillance and Control of Dengue Hemorrhagic Fever (DHF) in Southern Areas of North-Eastern, Thailand Implemented by ArcGIS Database",
+    "year": "N/A",
+    "authors": "A Chaikoolvatana and P Singhasivanon and P Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Anun-Chaikoolvatana/publication/266970785_Surveillance_and_Control_of_Dengue_Hemorrhagic_Fever_DHF_in_Southern_Areas_of_North-Eastern_Thailand_Implemented_by_ArcGIS_Database/links/54405a4f0cf2be1758d00110/Surveillance-and-Control-of-Dengue-Hemorrhagic-Fever-DHF-in-Southern-Areas-of-North-Eastern-Thailand-Implemented-by-ArcGIS-Database.pdf"
+  },
+  {
+    "title": "DATA MINING FOR FINANCIAL AID OPTIMIZATION Type: Thesis",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=18253330629655767051&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Project Title: Intelligent virtual reality haptic environment for clinical skills training Problem Statement",
+    "year": "N/A",
+    "authors": "Peter Haddawy and Siriwan Suebnukarn",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=18217900668868647126&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Computer Science 7. External Examiner (for Dissertations only) 8. Expert Comments on the Work and Facility for the Feedback from the Users 9. Abstract of the Work COMET is a successful collaborative intelligent tutoring system for medical PBL",
+    "year": "N/A",
+    "authors": "Long Hoang and Peter Haddawy and Paul Janecek and Matthew Dailey and Siriwan Suebnukan",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2049b822a07454763099c95f5453b7c90e873916"
+  },
+  {
+    "title": "Theoretical Foundations for Abstraction-Based Probabilistic Planning DSAIL Technical Report TR-01-03-96",
+    "year": "N/A",
+    "authors": "Vu Ha and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Peter-Haddawy/publication/235633763_Theoretical_Foundations_for_Abstraction-Based_Probabilistic_Planning/links/00b7d525404855d366000000/Theoretical-Foundations-for-Abstraction-Based-Probabilistic-Planning.pdf"
+  },
+  {
+    "title": "RELATIONSHIP MANAGEMENT",
+    "year": "N/A",
+    "authors": "Vatcharaporn Esichaikul and Peter Haddawy and John CS Tang",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=15671768027796538300&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Decision-theoretic Refinement Medical Decision Making",
+    "year": "N/A",
+    "authors": "PETER HADDAWY and ANHAI DOAN and CHARLES E KAHN Jr",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.ict.mahidol.ac.th/wp-content/subweb/personal/~haddawy/YearPapers/P-1996-5.pdf"
+  },
+  {
+    "title": "Dr. Paul Janecek (Chairman) Prof. Peter Haddawy Dr. Vatcharaporn Esichaikul",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=9355132133281226265&hl=en&oi=scholarr"
+  },
+  {
+    "title": "E-commerce Infrastructure in the GMS: Current State and Future Prospects",
+    "year": "N/A",
+    "authors": "Raman Manandhar and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=622fc0c1d1a36fb2cda999329385406bc44a6cba"
+  },
+  {
+    "title": "Joel Jacobson Department of EE & CS Department of Radiology University of Wisconsin {Milwaukee Medical College of Wisconsin Milwaukee, WI 53201 Milwaukee, WI 53226",
+    "year": "N/A",
+    "authors": "Peter Haddawy and Charles E Kahn Jr",
+    "venue": "Age",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=7679976356743269748&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Research Performance Evaluation",
+    "year": "N/A",
+    "authors": "Peter Haddawy and Nitin K Tripathi",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.researchgate.net/profile/Nitin-Tripathi/publication/242188447_Research_Performance_Evaluation/links/00b4952b58ab0219c5000000/Research-Performance-Evaluation.pdf"
+  },
+  {
+    "title": "Professional Master\u2019s in Software Engineering",
+    "year": "N/A",
+    "authors": "Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=6841208382613543240&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Additionnal Reviewers",
+    "year": "N/A",
+    "authors": "Michael Beetz and Craig Boutilier and Alessandro Cimatti and Tom Dean and Edmund Durfee and Alfonso Gerevini and Enrico Giunchiglia and Robert P Goldman and Richard Goodwin and James Hendler and F\u00e9lix Ingrand and Froduald Kabanza and Subbarao Kambhampati and Craig Knoblock and Jana Koehler and Sven Koenig and Drew McDermott and Alfredo Milani and Nicola Muscettola and Karen Myers and Dana Nau and Bernhard Nebel and Martha Pollack and Jussi Rintanen and Erik Sandewall and Bart Selman and David Smith and Reid Simmons and Sylvie Thi\u00e9baux and Manuela Veloso and Thierry Vidal and Marco Baioletti and Christopher Beck and Piergiorgio Bertoli and Silvia Bothelo and Mike Bowling and Raja Chatila and Gabriella Cortellessa and Yannis Dimopoulos and Minh B Do and David Furcy and Ulrich Geske and Emmanuel Gu\u00e9r\u00e9 and Peter Haddawy and Patrick Haslum and Malte Helmert and Joerg Hoffmann and Philippe Laborie and Yaxin Liu and Lee McCluskey and Paul Morris and Angelo Oddi and Marco Pistore and Nicola Policella and Marco Roveri and Bernd Schattenberg and Ivan Serina and Stephen F Smith and G\u00e9rard Verfaillie and Vincent Vidal and Toby Walsh",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://cdn.aaai.org/AIPS/2002/AIPS02-038.pdf"
+  },
+  {
+    "title": "USING KNOWLEDGE STRUCTURES TO ANALYZE AND COMMUNICATE DYNAMIC WEB CONTENTS",
+    "year": "N/A",
+    "authors": "Cherylll M Natividad and Paul Janecek and Peter Haddawy and Vatcharaporn Esichaikul",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=5607373772544431592&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Effective negotiation proposals using models of preference and risk behavior",
+    "year": "N/A",
+    "authors": "Angelo Restificar and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=4028327122982266116&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Bayes Network Abstraction for Decision-Theoretic Planning",
+    "year": "N/A",
+    "authors": "Vu Ha and Peter Haddawy",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://cdn.aaai.org/Workshops/1997/WS-97-08/WS97-08-009.pdf"
+  },
+  {
+    "title": "1. Type (Thesis/Research Study/Special Study/etc) Thesis 2. Title Automated exudate detection on Thai diabetic patients\u2019 retinal images",
+    "year": "N/A",
+    "authors": "Khine Thet Nwe and Matthew N Dailey and Peter Haddawy and Bunyarit Uyyanonvara",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://scholar.google.com/scholar?cluster=758733335720963328&hl=en&oi=scholarr"
+  }
+]
