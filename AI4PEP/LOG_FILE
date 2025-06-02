@@ -18572,3 +18572,932 @@
 2025-06-02 01:08:01,540 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YGBD1fj20j8C
 2025-06-02 01:08:02,719 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YGBD1fj20j8C "HTTP/1.1 200 OK"
 2025-06-02 01:08:03,739 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yM5hbCjqDL8C
+2025-06-02 01:08:05,165 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yM5hbCjqDL8C "HTTP/1.1 200 OK"
+2025-06-02 01:08:06,182 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:31YcTh_BSL0C
+2025-06-02 01:08:07,685 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:31YcTh_BSL0C "HTTP/1.1 200 OK"
+2025-06-02 01:08:08,702 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MhMRrlfrL94C
+2025-06-02 01:08:10,534 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MhMRrlfrL94C "HTTP/1.1 200 OK"
+2025-06-02 01:08:11,562 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ftti7PncQO0C
+2025-06-02 01:08:13,398 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ftti7PncQO0C "HTTP/1.1 200 OK"
+2025-06-02 01:08:14,421 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tmIjL2MGRw8C
+2025-06-02 01:08:16,389 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tmIjL2MGRw8C "HTTP/1.1 200 OK"
+2025-06-02 01:08:17,412 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ldfaerwXgEUC
+2025-06-02 01:08:19,296 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ldfaerwXgEUC "HTTP/1.1 200 OK"
+2025-06-02 01:08:20,322 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:lEqsFd_EmTwC
+2025-06-02 01:08:21,526 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:lEqsFd_EmTwC "HTTP/1.1 200 OK"
+2025-06-02 01:08:22,554 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:v5yjM4oc5roC
+2025-06-02 01:08:24,528 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:v5yjM4oc5roC "HTTP/1.1 200 OK"
+2025-06-02 01:08:25,557 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dTyEYWd-f8wC
+2025-06-02 01:08:26,639 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dTyEYWd-f8wC "HTTP/1.1 200 OK"
+2025-06-02 01:08:27,674 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DpVJvavgj6gC
+2025-06-02 01:08:29,671 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DpVJvavgj6gC "HTTP/1.1 200 OK"
+2025-06-02 01:08:30,695 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:H_lu47GSfL8C
+2025-06-02 01:08:32,030 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:H_lu47GSfL8C "HTTP/1.1 200 OK"
+2025-06-02 01:08:33,056 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8npi0XEtz6YC
+2025-06-02 01:08:34,525 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8npi0XEtz6YC "HTTP/1.1 200 OK"
+2025-06-02 01:08:35,543 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yd8rdvfCKnwC
+2025-06-02 01:08:37,020 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yd8rdvfCKnwC "HTTP/1.1 200 OK"
+2025-06-02 01:08:38,043 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:D0skKhgEmQMC
+2025-06-02 01:08:39,539 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:D0skKhgEmQMC "HTTP/1.1 200 OK"
+2025-06-02 01:08:40,565 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Rf6a1nC3vzYC
+2025-06-02 01:08:42,297 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Rf6a1nC3vzYC "HTTP/1.1 200 OK"
+2025-06-02 01:08:43,327 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CHSYGLWDkRkC
+2025-06-02 01:08:44,551 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CHSYGLWDkRkC "HTTP/1.1 200 OK"
+2025-06-02 01:08:45,582 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vnCYxJoEvCUC
+2025-06-02 01:08:47,283 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vnCYxJoEvCUC "HTTP/1.1 200 OK"
+2025-06-02 01:08:48,308 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yenON-KGF44C
+2025-06-02 01:08:50,020 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yenON-KGF44C "HTTP/1.1 200 OK"
+2025-06-02 01:08:51,040 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:x4GVrD2nxd8C
+2025-06-02 01:08:52,367 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:x4GVrD2nxd8C "HTTP/1.1 200 OK"
+2025-06-02 01:08:53,394 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PLWDSxI5WzYC
+2025-06-02 01:08:54,528 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PLWDSxI5WzYC "HTTP/1.1 200 OK"
+2025-06-02 01:08:55,566 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1yWc8FF-_SYC
+2025-06-02 01:08:57,257 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1yWc8FF-_SYC "HTTP/1.1 200 OK"
+2025-06-02 01:08:58,282 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vbXHVlkJBrwC
+2025-06-02 01:08:59,956 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vbXHVlkJBrwC "HTTP/1.1 200 OK"
+2025-06-02 01:09:00,985 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aC46x_wKaVAC
+2025-06-02 01:09:02,701 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aC46x_wKaVAC "HTTP/1.1 200 OK"
+2025-06-02 01:09:03,726 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QNiCEvFIB1MC
+2025-06-02 01:09:05,232 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QNiCEvFIB1MC "HTTP/1.1 200 OK"
+2025-06-02 01:09:06,252 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FK6V5IJyLbEC
+2025-06-02 01:09:07,553 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FK6V5IJyLbEC "HTTP/1.1 200 OK"
+2025-06-02 01:09:08,581 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:c7U9ADMDTicC
+2025-06-02 01:09:10,229 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:c7U9ADMDTicC "HTTP/1.1 200 OK"
+2025-06-02 01:09:11,260 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vGVSmY4B7dEC
+2025-06-02 01:09:13,263 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vGVSmY4B7dEC "HTTP/1.1 200 OK"
+2025-06-02 01:09:14,292 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dpG_c9M8o0IC
+2025-06-02 01:09:15,386 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dpG_c9M8o0IC "HTTP/1.1 200 OK"
+2025-06-02 01:09:16,409 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DN-MIAfrm5UC
+2025-06-02 01:09:17,807 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DN-MIAfrm5UC "HTTP/1.1 200 OK"
+2025-06-02 01:09:18,840 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NlXFmw1SqUAC
+2025-06-02 01:09:20,353 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NlXFmw1SqUAC "HTTP/1.1 200 OK"
+2025-06-02 01:09:21,382 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1gSrWeNtq_cC
+2025-06-02 01:09:22,689 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1gSrWeNtq_cC "HTTP/1.1 200 OK"
+2025-06-02 01:09:23,710 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:U_HPUtbDl20C
+2025-06-02 01:09:24,900 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:U_HPUtbDl20C "HTTP/1.1 200 OK"
+2025-06-02 01:09:25,924 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kcGaTr3rTSUC
+2025-06-02 01:09:27,610 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kcGaTr3rTSUC "HTTP/1.1 200 OK"
+2025-06-02 01:09:28,639 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_axFR9aDTf0C
+2025-06-02 01:09:29,848 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_axFR9aDTf0C "HTTP/1.1 200 OK"
+2025-06-02 01:09:30,884 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-exNX1NhRpQC
+2025-06-02 01:09:31,959 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-exNX1NhRpQC "HTTP/1.1 200 OK"
+2025-06-02 01:09:32,980 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uL3q62Y73bEC
+2025-06-02 01:09:34,397 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uL3q62Y73bEC "HTTP/1.1 200 OK"
+2025-06-02 01:09:35,419 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZP37BPo3bngC
+2025-06-02 01:09:37,226 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZP37BPo3bngC "HTTP/1.1 200 OK"
+2025-06-02 01:09:38,251 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yD5IFk8b50cC
+2025-06-02 01:09:40,182 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yD5IFk8b50cC "HTTP/1.1 200 OK"
+2025-06-02 01:09:41,205 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9upxY1s9ReQC
+2025-06-02 01:09:42,696 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9upxY1s9ReQC "HTTP/1.1 200 OK"
+2025-06-02 01:09:43,730 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Mosl-otxj6QC
+2025-06-02 01:09:45,710 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Mosl-otxj6QC "HTTP/1.1 200 OK"
+2025-06-02 01:09:46,732 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ruyezt5ZtCIC
+2025-06-02 01:09:47,835 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ruyezt5ZtCIC "HTTP/1.1 200 OK"
+2025-06-02 01:09:48,864 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yqoGN6RLRZoC
+2025-06-02 01:09:50,098 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yqoGN6RLRZoC "HTTP/1.1 200 OK"
+2025-06-02 01:09:51,138 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tuHXwOkdijsC
+2025-06-02 01:09:52,329 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tuHXwOkdijsC "HTTP/1.1 200 OK"
+2025-06-02 01:09:53,370 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:48xauSegjOkC
+2025-06-02 01:09:55,363 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:48xauSegjOkC "HTTP/1.1 200 OK"
+2025-06-02 01:09:56,389 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:a08T_9BqD8kC
+2025-06-02 01:09:58,267 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:a08T_9BqD8kC "HTTP/1.1 200 OK"
+2025-06-02 01:09:59,296 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PAUcJbK1cpwC
+2025-06-02 01:10:00,509 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PAUcJbK1cpwC "HTTP/1.1 200 OK"
+2025-06-02 01:10:01,541 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LgRImbQfgY4C
+2025-06-02 01:10:03,576 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LgRImbQfgY4C "HTTP/1.1 200 OK"
+2025-06-02 01:10:04,612 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GN6RKO0oIOIC
+2025-06-02 01:10:06,564 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GN6RKO0oIOIC "HTTP/1.1 200 OK"
+2025-06-02 01:10:07,582 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8rpv43jQJO0C
+2025-06-02 01:10:09,193 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8rpv43jQJO0C "HTTP/1.1 200 OK"
+2025-06-02 01:10:10,212 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ak991u-2DRAC
+2025-06-02 01:10:12,097 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ak991u-2DRAC "HTTP/1.1 200 OK"
+2025-06-02 01:10:13,120 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CbVRqJ0VKAgC
+2025-06-02 01:10:14,581 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CbVRqJ0VKAgC "HTTP/1.1 200 OK"
+2025-06-02 01:10:15,603 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vV6vV6tmYwMC
+2025-06-02 01:10:16,949 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vV6vV6tmYwMC "HTTP/1.1 200 OK"
+2025-06-02 01:10:17,974 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1sJd4Hv_s6UC
+2025-06-02 01:10:19,085 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1sJd4Hv_s6UC "HTTP/1.1 200 OK"
+2025-06-02 01:10:20,107 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MrDH1isn57AC
+2025-06-02 01:10:22,021 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MrDH1isn57AC "HTTP/1.1 200 OK"
+2025-06-02 01:10:23,048 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fMQVK02IyIcC
+2025-06-02 01:10:24,915 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fMQVK02IyIcC "HTTP/1.1 200 OK"
+2025-06-02 01:10:25,941 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:O0nohqN1r9EC
+2025-06-02 01:10:27,673 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:O0nohqN1r9EC "HTTP/1.1 200 OK"
+2025-06-02 01:10:28,703 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NJ774b8OgUMC
+2025-06-02 01:10:30,577 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NJ774b8OgUMC "HTTP/1.1 200 OK"
+2025-06-02 01:10:31,604 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HE397vMXCloC
+2025-06-02 01:10:33,183 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HE397vMXCloC "HTTP/1.1 200 OK"
+2025-06-02 01:10:34,208 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:iZjK_kkZetcC
+2025-06-02 01:10:36,221 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:iZjK_kkZetcC "HTTP/1.1 200 OK"
+2025-06-02 01:10:37,245 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cmOl4sOE6EwC
+2025-06-02 01:10:38,701 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cmOl4sOE6EwC "HTTP/1.1 200 OK"
+2025-06-02 01:10:39,726 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VN7nJs4JPk0C
+2025-06-02 01:10:41,092 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VN7nJs4JPk0C "HTTP/1.1 200 OK"
+2025-06-02 01:10:42,128 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:iw8yXCQF3REC
+2025-06-02 01:10:43,363 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:iw8yXCQF3REC "HTTP/1.1 200 OK"
+2025-06-02 01:10:44,397 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:EKEN0mpOanwC
+2025-06-02 01:10:46,288 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:EKEN0mpOanwC "HTTP/1.1 200 OK"
+2025-06-02 01:10:47,313 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fAYWOECeBKAC
+2025-06-02 01:10:49,010 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fAYWOECeBKAC "HTTP/1.1 200 OK"
+2025-06-02 01:10:50,040 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zSm6S6IE-zAC
+2025-06-02 01:10:51,713 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zSm6S6IE-zAC "HTTP/1.1 200 OK"
+2025-06-02 01:10:52,734 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:judUAtIFz0MC
+2025-06-02 01:10:54,008 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:judUAtIFz0MC "HTTP/1.1 200 OK"
+2025-06-02 01:10:55,033 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZuybSZzF8UAC
+2025-06-02 01:10:56,623 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZuybSZzF8UAC "HTTP/1.1 200 OK"
+2025-06-02 01:10:57,642 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:axWd-QPguf4C
+2025-06-02 01:10:59,554 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:axWd-QPguf4C "HTTP/1.1 200 OK"
+2025-06-02 01:11:00,575 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_Re3VWB3Y0AC
+2025-06-02 01:11:02,144 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_Re3VWB3Y0AC "HTTP/1.1 200 OK"
+2025-06-02 01:11:03,165 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CaZNVDsoPx4C
+2025-06-02 01:11:04,862 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CaZNVDsoPx4C "HTTP/1.1 200 OK"
+2025-06-02 01:11:05,900 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ACz74c6ofoIC
+2025-06-02 01:11:07,221 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ACz74c6ofoIC "HTTP/1.1 200 OK"
+2025-06-02 01:11:08,244 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6ytV2K4c6ygC
+2025-06-02 01:11:10,293 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6ytV2K4c6ygC "HTTP/1.1 200 OK"
+2025-06-02 01:11:11,323 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AidG4vFzQq0C
+2025-06-02 01:11:13,044 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AidG4vFzQq0C "HTTP/1.1 200 OK"
+2025-06-02 01:11:14,077 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zuv6xw2qTDsC
+2025-06-02 01:11:16,068 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zuv6xw2qTDsC "HTTP/1.1 200 OK"
+2025-06-02 01:11:17,102 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:n3Ahz6dV9U4C
+2025-06-02 01:11:18,705 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:n3Ahz6dV9U4C "HTTP/1.1 200 OK"
+2025-06-02 01:11:19,737 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_S7C8mKT2SoC
+2025-06-02 01:11:21,191 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_S7C8mKT2SoC "HTTP/1.1 200 OK"
+2025-06-02 01:11:22,218 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-aZU7N-im6MC
+2025-06-02 01:11:23,442 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-aZU7N-im6MC "HTTP/1.1 200 OK"
+2025-06-02 01:11:24,467 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:unUvC2pz5DkC
+2025-06-02 01:11:26,066 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:unUvC2pz5DkC "HTTP/1.1 200 OK"
+2025-06-02 01:11:27,096 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6uoXvbCVPHsC
+2025-06-02 01:11:28,169 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6uoXvbCVPHsC "HTTP/1.1 200 OK"
+2025-06-02 01:11:29,193 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IrOsW1AMYYMC
+2025-06-02 01:11:30,940 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IrOsW1AMYYMC "HTTP/1.1 200 OK"
+2025-06-02 01:11:31,965 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KKkDzlMiTWAC
+2025-06-02 01:11:33,843 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KKkDzlMiTWAC "HTTP/1.1 200 OK"
+2025-06-02 01:11:34,862 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6Ag_IsLg2QYC
+2025-06-02 01:11:36,101 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6Ag_IsLg2QYC "HTTP/1.1 200 OK"
+2025-06-02 01:11:37,127 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:q7Zkh1JtSLMC
+2025-06-02 01:11:38,691 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:q7Zkh1JtSLMC "HTTP/1.1 200 OK"
+2025-06-02 01:11:39,715 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WqliGbK-hY8C
+2025-06-02 01:11:41,335 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WqliGbK-hY8C "HTTP/1.1 200 OK"
+2025-06-02 01:11:42,361 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:m0xcYT9GNsgC
+2025-06-02 01:11:43,834 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:m0xcYT9GNsgC "HTTP/1.1 200 OK"
+2025-06-02 01:11:44,857 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-rJzQCqpPy8C
+2025-06-02 01:11:46,574 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-rJzQCqpPy8C "HTTP/1.1 200 OK"
+2025-06-02 01:11:47,602 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8CxxIT2TbpUC
+2025-06-02 01:11:49,629 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8CxxIT2TbpUC "HTTP/1.1 200 OK"
+2025-06-02 01:11:50,652 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ov8rX5H-XoQC
+2025-06-02 01:11:52,543 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ov8rX5H-XoQC "HTTP/1.1 200 OK"
+2025-06-02 01:11:53,567 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DpLk1jzYIyMC
+2025-06-02 01:11:54,721 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DpLk1jzYIyMC "HTTP/1.1 200 OK"
+2025-06-02 01:11:55,756 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:99GIz-Yv2PwC
+2025-06-02 01:11:57,646 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:99GIz-Yv2PwC "HTTP/1.1 200 OK"
+2025-06-02 01:11:58,669 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8asMA1BQqT0C
+2025-06-02 01:12:00,067 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8asMA1BQqT0C "HTTP/1.1 200 OK"
+2025-06-02 01:12:01,083 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9Nmd_mFXekcC
+2025-06-02 01:12:02,226 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9Nmd_mFXekcC "HTTP/1.1 200 OK"
+2025-06-02 01:12:03,252 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9_OXdCziU5AC
+2025-06-02 01:12:05,011 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9_OXdCziU5AC "HTTP/1.1 200 OK"
+2025-06-02 01:12:06,036 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9bEIVbIRXpoC
+2025-06-02 01:12:07,192 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9bEIVbIRXpoC "HTTP/1.1 200 OK"
+2025-06-02 01:12:08,220 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:maT92bZuikUC
+2025-06-02 01:12:09,909 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:maT92bZuikUC "HTTP/1.1 200 OK"
+2025-06-02 01:12:10,931 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:qCVNMcluQZIC
+2025-06-02 01:12:12,716 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:qCVNMcluQZIC "HTTP/1.1 200 OK"
+2025-06-02 01:12:13,750 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1yQoGdGgb4wC
+2025-06-02 01:12:14,877 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1yQoGdGgb4wC "HTTP/1.1 200 OK"
+2025-06-02 01:12:15,901 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:02qyplpeh24C
+2025-06-02 01:12:17,906 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:02qyplpeh24C "HTTP/1.1 200 OK"
+2025-06-02 01:12:18,932 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NvdXxyjyBawC
+2025-06-02 01:12:20,854 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NvdXxyjyBawC "HTTP/1.1 200 OK"
+2025-06-02 01:12:21,880 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Gjbw5GcGClYC
+2025-06-02 01:12:23,697 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Gjbw5GcGClYC "HTTP/1.1 200 OK"
+2025-06-02 01:12:24,725 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VjZ-7fMbW-MC
+2025-06-02 01:12:26,774 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VjZ-7fMbW-MC "HTTP/1.1 200 OK"
+2025-06-02 01:12:27,802 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:otzGkya1bYkC
+2025-06-02 01:12:29,491 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:otzGkya1bYkC "HTTP/1.1 200 OK"
+2025-06-02 01:12:30,520 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:66l10DU8AfIC
+2025-06-02 01:12:32,354 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:66l10DU8AfIC "HTTP/1.1 200 OK"
+2025-06-02 01:12:33,384 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uUFDeDoF-5sC
+2025-06-02 01:12:34,640 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uUFDeDoF-5sC "HTTP/1.1 200 OK"
+2025-06-02 01:12:35,664 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:XMZYE28JD7YC
+2025-06-02 01:12:37,509 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:XMZYE28JD7YC "HTTP/1.1 200 OK"
+2025-06-02 01:12:38,532 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5Ul4iDaHHb8C
+2025-06-02 01:12:39,883 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5Ul4iDaHHb8C "HTTP/1.1 200 OK"
+2025-06-02 01:12:40,907 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GqxNjwjlcZUC
+2025-06-02 01:12:41,989 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GqxNjwjlcZUC "HTTP/1.1 200 OK"
+2025-06-02 01:12:43,018 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cmyi1yWdvKUC
+2025-06-02 01:12:44,507 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cmyi1yWdvKUC "HTTP/1.1 200 OK"
+2025-06-02 01:12:45,537 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Gi1ozLz4VMEC
+2025-06-02 01:12:46,895 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Gi1ozLz4VMEC "HTTP/1.1 200 OK"
+2025-06-02 01:12:47,926 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:7Cfi_26C4MwC
+2025-06-02 01:12:49,326 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:7Cfi_26C4MwC "HTTP/1.1 200 OK"
+2025-06-02 01:12:50,350 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PyEswDtIyv0C
+2025-06-02 01:12:51,700 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PyEswDtIyv0C "HTTP/1.1 200 OK"
+2025-06-02 01:12:52,728 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:xkMX9uk3x34C
+2025-06-02 01:12:54,294 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:xkMX9uk3x34C "HTTP/1.1 200 OK"
+2025-06-02 01:12:55,318 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:geHnlv5EZngC
+2025-06-02 01:12:56,934 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:geHnlv5EZngC "HTTP/1.1 200 OK"
+2025-06-02 01:12:57,962 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gRGqK76dWcgC
+2025-06-02 01:12:59,907 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gRGqK76dWcgC "HTTP/1.1 200 OK"
+2025-06-02 01:13:00,937 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ALROH1vI_8AC
+2025-06-02 01:13:02,918 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ALROH1vI_8AC "HTTP/1.1 200 OK"
+2025-06-02 01:13:03,954 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QeU__VVnWZ4C
+2025-06-02 01:13:05,243 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QeU__VVnWZ4C "HTTP/1.1 200 OK"
+2025-06-02 01:13:06,266 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cd_0fqL8BDYC
+2025-06-02 01:13:08,169 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cd_0fqL8BDYC "HTTP/1.1 200 OK"
+2025-06-02 01:13:09,203 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ys5VHli0eLIC
+2025-06-02 01:13:10,642 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ys5VHli0eLIC "HTTP/1.1 200 OK"
+2025-06-02 01:13:11,662 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LVc8VEQ2EB0C
+2025-06-02 01:13:12,776 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LVc8VEQ2EB0C "HTTP/1.1 200 OK"
+2025-06-02 01:13:13,800 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Y0pCZpjrPW0C
+2025-06-02 01:13:14,911 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Y0pCZpjrPW0C "HTTP/1.1 200 OK"
+2025-06-02 01:13:15,946 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GAAFfahtmoAC
+2025-06-02 01:13:17,482 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GAAFfahtmoAC "HTTP/1.1 200 OK"
+2025-06-02 01:13:18,508 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:TO92qYKFP5UC
+2025-06-02 01:13:19,810 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:TO92qYKFP5UC "HTTP/1.1 200 OK"
+2025-06-02 01:13:20,835 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0efLm7myNzUC
+2025-06-02 01:13:22,428 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0efLm7myNzUC "HTTP/1.1 200 OK"
+2025-06-02 01:13:23,450 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:S3k0La8tM1cC
+2025-06-02 01:13:24,910 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:S3k0La8tM1cC "HTTP/1.1 200 OK"
+2025-06-02 01:13:25,933 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZKmzCWpWGwgC
+2025-06-02 01:13:27,382 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZKmzCWpWGwgC "HTTP/1.1 200 OK"
+2025-06-02 01:13:28,412 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vRqMK49ujn8C
+2025-06-02 01:13:29,604 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vRqMK49ujn8C "HTTP/1.1 200 OK"
+2025-06-02 01:13:30,629 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WRwBgKnoutIC
+2025-06-02 01:13:32,269 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WRwBgKnoutIC "HTTP/1.1 200 OK"
+2025-06-02 01:13:33,301 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fQNAKQ3IYiAC
+2025-06-02 01:13:34,378 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fQNAKQ3IYiAC "HTTP/1.1 200 OK"
+2025-06-02 01:13:35,402 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vJ7qEjjTzjgC
+2025-06-02 01:13:37,326 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vJ7qEjjTzjgC "HTTP/1.1 200 OK"
+2025-06-02 01:13:38,347 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Hx6RvaqUy9IC
+2025-06-02 01:13:39,524 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Hx6RvaqUy9IC "HTTP/1.1 200 OK"
+2025-06-02 01:13:40,552 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0KyAp5RtaNEC
+2025-06-02 01:13:42,024 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0KyAp5RtaNEC "HTTP/1.1 200 OK"
+2025-06-02 01:13:43,049 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PELIpwtuRlgC
+2025-06-02 01:13:44,215 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PELIpwtuRlgC "HTTP/1.1 200 OK"
+2025-06-02 01:13:45,241 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ntyGEyU8WO4C
+2025-06-02 01:13:46,612 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ntyGEyU8WO4C "HTTP/1.1 200 OK"
+2025-06-02 01:13:47,644 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:t6usbXjVLHcC
+2025-06-02 01:13:49,604 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:t6usbXjVLHcC "HTTP/1.1 200 OK"
+2025-06-02 01:13:50,631 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sKqWf4bQgF4C
+2025-06-02 01:13:52,340 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sKqWf4bQgF4C "HTTP/1.1 200 OK"
+2025-06-02 01:13:53,370 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8Op0m--4DtwC
+2025-06-02 01:13:55,055 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8Op0m--4DtwC "HTTP/1.1 200 OK"
+2025-06-02 01:13:56,081 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Mw6IgDuHM-QC
+2025-06-02 01:13:57,158 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Mw6IgDuHM-QC "HTTP/1.1 200 OK"
+2025-06-02 01:13:58,192 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:RGFaLdJalmkC
+2025-06-02 01:13:59,940 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:RGFaLdJalmkC "HTTP/1.1 200 OK"
+2025-06-02 01:14:00,971 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KOo-61QkC_IC
+2025-06-02 01:14:02,399 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KOo-61QkC_IC "HTTP/1.1 200 OK"
+2025-06-02 01:14:03,425 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:mmB7mgFr6HwC
+2025-06-02 01:14:04,929 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:mmB7mgFr6HwC "HTTP/1.1 200 OK"
+2025-06-02 01:14:05,956 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4-vT4aEABaQC
+2025-06-02 01:14:07,180 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4-vT4aEABaQC "HTTP/1.1 200 OK"
+2025-06-02 01:14:08,204 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_DvUtxPN_uEC
+2025-06-02 01:14:09,863 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_DvUtxPN_uEC "HTTP/1.1 200 OK"
+2025-06-02 01:14:10,888 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8d8msizDQcsC
+2025-06-02 01:14:16,168 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8d8msizDQcsC "HTTP/1.1 200 OK"
+2025-06-02 01:14:17,202 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ye4kPcJQO24C
+2025-06-02 01:14:19,038 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ye4kPcJQO24C "HTTP/1.1 200 OK"
+2025-06-02 01:14:20,065 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:7O6l-sCV2PYC
+2025-06-02 01:14:21,653 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:7O6l-sCV2PYC "HTTP/1.1 200 OK"
+2025-06-02 01:14:22,691 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Bg7qf7VwUHIC
+2025-06-02 01:14:24,512 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Bg7qf7VwUHIC "HTTP/1.1 200 OK"
+2025-06-02 01:14:25,553 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:21wgOr8-VhMC
+2025-06-02 01:14:27,432 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:21wgOr8-VhMC "HTTP/1.1 200 OK"
+2025-06-02 01:14:28,459 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BeRTk0_SOCwC
+2025-06-02 01:14:29,640 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BeRTk0_SOCwC "HTTP/1.1 200 OK"
+2025-06-02 01:14:30,667 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CIRx8Vc1nEwC
+2025-06-02 01:14:32,296 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CIRx8Vc1nEwC "HTTP/1.1 200 OK"
+2025-06-02 01:14:33,320 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:xbJcNMh1ptEC
+2025-06-02 01:14:34,414 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:xbJcNMh1ptEC "HTTP/1.1 200 OK"
+2025-06-02 01:14:35,433 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NhqRSupF_l8C
+2025-06-02 01:14:36,925 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NhqRSupF_l8C "HTTP/1.1 200 OK"
+2025-06-02 01:14:37,951 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hCrLmN-GePgC
+2025-06-02 01:14:39,917 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hCrLmN-GePgC "HTTP/1.1 200 OK"
+2025-06-02 01:14:40,945 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ez7988xdnCEC
+2025-06-02 01:14:42,274 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ez7988xdnCEC "HTTP/1.1 200 OK"
+2025-06-02 01:14:43,302 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rVfAjsErKTsC
+2025-06-02 01:14:44,434 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rVfAjsErKTsC "HTTP/1.1 200 OK"
+2025-06-02 01:14:45,464 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ob51Qx4ddQ4C
+2025-06-02 01:14:46,735 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ob51Qx4ddQ4C "HTTP/1.1 200 OK"
+2025-06-02 01:14:47,769 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vytXtR8tOLIC
+2025-06-02 01:14:49,014 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vytXtR8tOLIC "HTTP/1.1 200 OK"
+2025-06-02 01:14:50,040 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NXHHamCF4wcC
+2025-06-02 01:14:52,097 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NXHHamCF4wcC "HTTP/1.1 200 OK"
+2025-06-02 01:14:53,125 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zR-pXGLwxqsC
+2025-06-02 01:14:54,885 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zR-pXGLwxqsC "HTTP/1.1 200 OK"
+2025-06-02 01:14:55,906 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yTVG5XyEbqwC
+2025-06-02 01:14:57,139 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yTVG5XyEbqwC "HTTP/1.1 200 OK"
+2025-06-02 01:14:58,163 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rI7N8NGxj9wC
+2025-06-02 01:14:59,902 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rI7N8NGxj9wC "HTTP/1.1 200 OK"
+2025-06-02 01:15:00,931 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:I2ffMtHfj0kC
+2025-06-02 01:15:02,720 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:I2ffMtHfj0kC "HTTP/1.1 200 OK"
+2025-06-02 01:15:03,751 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:w2hdakqS7q4C
+2025-06-02 01:15:04,946 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:w2hdakqS7q4C "HTTP/1.1 200 OK"
+2025-06-02 01:15:05,977 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4fGpz3EwCPoC
+2025-06-02 01:15:07,940 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4fGpz3EwCPoC "HTTP/1.1 200 OK"
+2025-06-02 01:15:08,969 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LjlpjdlvIbIC
+2025-06-02 01:15:10,369 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LjlpjdlvIbIC "HTTP/1.1 200 OK"
+2025-06-02 01:15:11,396 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-fCTrpcm1CwC
+2025-06-02 01:15:12,703 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-fCTrpcm1CwC "HTTP/1.1 200 OK"
+2025-06-02 01:15:13,727 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tS2w5q8j5-wC
+2025-06-02 01:15:15,265 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tS2w5q8j5-wC "HTTP/1.1 200 OK"
+2025-06-02 01:15:16,292 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uem4clYotCgC
+2025-06-02 01:15:17,439 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uem4clYotCgC "HTTP/1.1 200 OK"
+2025-06-02 01:15:18,460 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JpZHB2EbTyIC
+2025-06-02 01:15:19,704 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JpZHB2EbTyIC "HTTP/1.1 200 OK"
+2025-06-02 01:15:20,729 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Kd94shekpVQC
+2025-06-02 01:15:22,646 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Kd94shekpVQC "HTTP/1.1 200 OK"
+2025-06-02 01:15:23,682 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AI7cNJ8lPWoC
+2025-06-02 01:15:25,143 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AI7cNJ8lPWoC "HTTP/1.1 200 OK"
+2025-06-02 01:15:26,184 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AYeLSKvuSioC
+2025-06-02 01:15:27,764 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AYeLSKvuSioC "HTTP/1.1 200 OK"
+2025-06-02 01:15:28,793 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zz9UvKzyz_EC
+2025-06-02 01:15:30,050 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zz9UvKzyz_EC "HTTP/1.1 200 OK"
+2025-06-02 01:15:31,078 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:acD7cC8RtzIC
+2025-06-02 01:15:32,951 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:acD7cC8RtzIC "HTTP/1.1 200 OK"
+2025-06-02 01:15:33,972 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eLuibZyXBAwC
+2025-06-02 01:15:35,413 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eLuibZyXBAwC "HTTP/1.1 200 OK"
+2025-06-02 01:15:36,437 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:35r97b3x0nAC
+2025-06-02 01:15:37,736 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:35r97b3x0nAC "HTTP/1.1 200 OK"
+2025-06-02 01:15:38,764 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:M-gJY4s5zqEC
+2025-06-02 01:15:40,633 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:M-gJY4s5zqEC "HTTP/1.1 200 OK"
+2025-06-02 01:15:41,656 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9vKv0lC3wCwC
+2025-06-02 01:15:42,942 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9vKv0lC3wCwC "HTTP/1.1 200 OK"
+2025-06-02 01:15:43,973 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GhiSEUffbWAC
+2025-06-02 01:15:45,731 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GhiSEUffbWAC "HTTP/1.1 200 OK"
+2025-06-02 01:15:46,761 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:wKETBy42zhYC
+2025-06-02 01:15:48,498 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:wKETBy42zhYC "HTTP/1.1 200 OK"
+2025-06-02 01:15:49,516 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MLfJN-KU85MC
+2025-06-02 01:15:50,595 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MLfJN-KU85MC "HTTP/1.1 200 OK"
+2025-06-02 01:15:51,623 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:F2px_MPlIVkC
+2025-06-02 01:15:52,941 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:F2px_MPlIVkC "HTTP/1.1 200 OK"
+2025-06-02 01:15:53,964 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HmV82NGa4boC
+2025-06-02 01:15:55,566 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HmV82NGa4boC "HTTP/1.1 200 OK"
+2025-06-02 01:15:56,591 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hkOj_22Ku90C
+2025-06-02 01:15:58,561 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hkOj_22Ku90C "HTTP/1.1 200 OK"
+2025-06-02 01:15:59,590 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:TxzIK0FlDbcC
+2025-06-02 01:16:01,303 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:TxzIK0FlDbcC "HTTP/1.1 200 OK"
+2025-06-02 01:16:02,331 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:W85ARNANxrkC
+2025-06-02 01:16:03,617 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:W85ARNANxrkC "HTTP/1.1 200 OK"
+2025-06-02 01:16:04,649 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OtgrkWOl4rwC
+2025-06-02 01:16:06,273 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OtgrkWOl4rwC "HTTP/1.1 200 OK"
+2025-06-02 01:16:07,299 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VvZLgqTNBkUC
+2025-06-02 01:16:08,896 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VvZLgqTNBkUC "HTTP/1.1 200 OK"
+2025-06-02 01:16:09,930 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-lDlBIcJJzsC
+2025-06-02 01:16:11,712 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-lDlBIcJJzsC "HTTP/1.1 200 OK"
+2025-06-02 01:16:12,740 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:E5exOps3BD0C
+2025-06-02 01:16:14,224 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:E5exOps3BD0C "HTTP/1.1 200 OK"
+2025-06-02 01:16:15,249 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kFTnOY8ORlkC
+2025-06-02 01:16:16,720 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kFTnOY8ORlkC "HTTP/1.1 200 OK"
+2025-06-02 01:16:17,747 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ep47-iGnE2gC
+2025-06-02 01:16:19,391 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ep47-iGnE2gC "HTTP/1.1 200 OK"
+2025-06-02 01:16:20,418 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rNquyMnMTcEC
+2025-06-02 01:16:21,869 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rNquyMnMTcEC "HTTP/1.1 200 OK"
+2025-06-02 01:16:22,894 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YV61qt6iSr0C
+2025-06-02 01:16:24,795 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YV61qt6iSr0C "HTTP/1.1 200 OK"
+2025-06-02 01:16:25,814 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LCnflKJl4CUC
+2025-06-02 01:16:27,649 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LCnflKJl4CUC "HTTP/1.1 200 OK"
+2025-06-02 01:16:28,680 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fFSKOagxvKUC
+2025-06-02 01:16:29,988 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fFSKOagxvKUC "HTTP/1.1 200 OK"
+2025-06-02 01:16:31,013 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WXFClX6Yjg4C
+2025-06-02 01:16:32,676 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WXFClX6Yjg4C "HTTP/1.1 200 OK"
+2025-06-02 01:16:33,704 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:SD9AhAnf2F4C
+2025-06-02 01:16:35,298 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:SD9AhAnf2F4C "HTTP/1.1 200 OK"
+2025-06-02 01:16:36,323 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HDshCWvjkbEC
+2025-06-02 01:16:37,810 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HDshCWvjkbEC "HTTP/1.1 200 OK"
+2025-06-02 01:16:38,838 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:qfGPDb74yeEC
+2025-06-02 01:16:40,257 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:qfGPDb74yeEC "HTTP/1.1 200 OK"
+2025-06-02 01:16:41,284 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hVeWQqfbWb0C
+2025-06-02 01:16:43,212 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hVeWQqfbWb0C "HTTP/1.1 200 OK"
+2025-06-02 01:16:44,239 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:74dLGF7NpioC
+2025-06-02 01:16:45,795 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:74dLGF7NpioC "HTTP/1.1 200 OK"
+2025-06-02 01:16:46,817 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zc6MMoVPIMEC
+2025-06-02 01:16:47,940 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zc6MMoVPIMEC "HTTP/1.1 200 OK"
+2025-06-02 01:16:48,976 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3iO5xmXIOaUC
+2025-06-02 01:16:50,353 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3iO5xmXIOaUC "HTTP/1.1 200 OK"
+2025-06-02 01:16:51,377 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Tiz5es2fbqcC
+2025-06-02 01:16:52,466 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Tiz5es2fbqcC "HTTP/1.1 200 OK"
+2025-06-02 01:16:53,491 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ee8TWNGuaiMC
+2025-06-02 01:16:54,638 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ee8TWNGuaiMC "HTTP/1.1 200 OK"
+2025-06-02 01:16:55,659 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MO3gLFt0L2MC
+2025-06-02 01:16:57,500 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MO3gLFt0L2MC "HTTP/1.1 200 OK"
+2025-06-02 01:16:58,531 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8ThBWkzwpf8C
+2025-06-02 01:17:00,504 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8ThBWkzwpf8C "HTTP/1.1 200 OK"
+2025-06-02 01:17:01,532 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:bhJ1oIUJCLAC
+2025-06-02 01:17:02,970 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:bhJ1oIUJCLAC "HTTP/1.1 200 OK"
+2025-06-02 01:17:03,991 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:RXC9Dr9B9woC
+2025-06-02 01:17:05,429 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:RXC9Dr9B9woC "HTTP/1.1 200 OK"
+2025-06-02 01:17:06,471 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OfS8n6y7Q1sC
+2025-06-02 01:17:08,511 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OfS8n6y7Q1sC "HTTP/1.1 200 OK"
+2025-06-02 01:17:09,548 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vtsb3mgoJX0C
+2025-06-02 01:17:10,853 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vtsb3mgoJX0C "HTTP/1.1 200 OK"
+2025-06-02 01:17:11,885 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:2UJXz1VFelEC
+2025-06-02 01:17:13,858 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:2UJXz1VFelEC "HTTP/1.1 200 OK"
+2025-06-02 01:17:14,886 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rNpifYW4lDkC
+2025-06-02 01:17:16,051 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rNpifYW4lDkC "HTTP/1.1 200 OK"
+2025-06-02 01:17:17,073 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_B80troHkn4C
+2025-06-02 01:17:18,793 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_B80troHkn4C "HTTP/1.1 200 OK"
+2025-06-02 01:17:19,814 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gJphiK7odEMC
+2025-06-02 01:17:21,123 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gJphiK7odEMC "HTTP/1.1 200 OK"
+2025-06-02 01:17:22,164 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zvHLcIhAzY0C
+2025-06-02 01:17:24,212 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:zvHLcIhAzY0C "HTTP/1.1 200 OK"
+2025-06-02 01:17:25,239 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hsunh8oe8ikC
+2025-06-02 01:17:26,835 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hsunh8oe8ikC "HTTP/1.1 200 OK"
+2025-06-02 01:17:27,867 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8wYEzEdsKfwC
+2025-06-02 01:17:29,415 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8wYEzEdsKfwC "HTTP/1.1 200 OK"
+2025-06-02 01:17:30,442 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JrKf87q2z1YC
+2025-06-02 01:17:32,087 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JrKf87q2z1YC "HTTP/1.1 200 OK"
+2025-06-02 01:17:33,115 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KUbvn5osdkgC
+2025-06-02 01:17:34,354 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KUbvn5osdkgC "HTTP/1.1 200 OK"
+2025-06-02 01:17:35,381 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MmiBjv3hx7gC
+2025-06-02 01:17:37,248 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MmiBjv3hx7gC "HTTP/1.1 200 OK"
+2025-06-02 01:17:38,270 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:wYSbTkB9UeAC
+2025-06-02 01:17:40,186 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:wYSbTkB9UeAC "HTTP/1.1 200 OK"
+2025-06-02 01:17:41,218 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:L7CI7m0gUJcC
+2025-06-02 01:17:42,754 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:L7CI7m0gUJcC "HTTP/1.1 200 OK"
+2025-06-02 01:17:43,775 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:A9tQKSSE084C
+2025-06-02 01:17:45,242 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:A9tQKSSE084C "HTTP/1.1 200 OK"
+2025-06-02 01:17:46,270 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:b1ws29Fv-LEC
+2025-06-02 01:17:48,258 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:b1ws29Fv-LEC "HTTP/1.1 200 OK"
+2025-06-02 01:17:49,289 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_lZPlZTPtRIC
+2025-06-02 01:17:51,308 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_lZPlZTPtRIC "HTTP/1.1 200 OK"
+2025-06-02 01:17:52,331 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BJB_-tUCMIIC
+2025-06-02 01:17:54,306 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BJB_-tUCMIIC "HTTP/1.1 200 OK"
+2025-06-02 01:17:55,327 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:wovgKG-fgw8C
+2025-06-02 01:17:56,435 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:wovgKG-fgw8C "HTTP/1.1 200 OK"
+2025-06-02 01:17:57,472 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CLq-vN-5V-oC
+2025-06-02 01:17:59,136 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:CLq-vN-5V-oC "HTTP/1.1 200 OK"
+2025-06-02 01:18:00,162 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:l8OZr20KX_AC
+2025-06-02 01:18:01,466 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:l8OZr20KX_AC "HTTP/1.1 200 OK"
+2025-06-02 01:18:02,488 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OzVFaeRTpBgC
+2025-06-02 01:18:04,273 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OzVFaeRTpBgC "HTTP/1.1 200 OK"
+2025-06-02 01:18:05,290 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vbGhcppDl1QC
+2025-06-02 01:18:06,955 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vbGhcppDl1QC "HTTP/1.1 200 OK"
+2025-06-02 01:18:07,986 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ROrUReI3cmwC
+2025-06-02 01:18:09,607 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ROrUReI3cmwC "HTTP/1.1 200 OK"
+2025-06-02 01:18:10,632 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gC9vZy1QUBAC
+2025-06-02 01:18:12,768 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gC9vZy1QUBAC "HTTP/1.1 200 OK"
+2025-06-02 01:18:13,789 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KXHmhzr5f2IC
+2025-06-02 01:18:15,228 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KXHmhzr5f2IC "HTTP/1.1 200 OK"
+2025-06-02 01:18:16,256 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:u-coK7KVo8oC
+2025-06-02 01:18:17,918 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:u-coK7KVo8oC "HTTP/1.1 200 OK"
+2025-06-02 01:18:18,948 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:saQm9fmzhIgC
+2025-06-02 01:18:20,177 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:saQm9fmzhIgC "HTTP/1.1 200 OK"
+2025-06-02 01:18:21,209 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Tm8_04VLFrAC
+2025-06-02 01:18:22,875 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Tm8_04VLFrAC "HTTP/1.1 200 OK"
+2025-06-02 01:18:23,902 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8TaJD9JLCvQC
+2025-06-02 01:18:25,533 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8TaJD9JLCvQC "HTTP/1.1 200 OK"
+2025-06-02 01:18:26,560 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DjiG9FotU40C
+2025-06-02 01:18:27,768 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DjiG9FotU40C "HTTP/1.1 200 OK"
+2025-06-02 01:18:28,792 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:e5wmG9Sq2KIC
+2025-06-02 01:18:30,363 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:e5wmG9Sq2KIC "HTTP/1.1 200 OK"
+2025-06-02 01:18:31,385 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UxriW0iASnsC
+2025-06-02 01:18:32,732 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UxriW0iASnsC "HTTP/1.1 200 OK"
+2025-06-02 01:18:33,756 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pGO7-8DA8zIC
+2025-06-02 01:18:35,672 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pGO7-8DA8zIC "HTTP/1.1 200 OK"
+2025-06-02 01:18:36,692 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QTbT7mxiVwcC
+2025-06-02 01:18:38,268 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QTbT7mxiVwcC "HTTP/1.1 200 OK"
+2025-06-02 01:18:39,298 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LPZeul_q3PIC
+2025-06-02 01:18:40,861 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LPZeul_q3PIC "HTTP/1.1 200 OK"
+2025-06-02 01:18:41,893 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jrI7bprrqmYC
+2025-06-02 01:18:43,174 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jrI7bprrqmYC "HTTP/1.1 200 OK"
+2025-06-02 01:18:44,203 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OGpmogZ47U0C
+2025-06-02 01:18:45,739 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OGpmogZ47U0C "HTTP/1.1 200 OK"
+2025-06-02 01:18:46,765 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kkE12xK_jI8C
+2025-06-02 01:18:48,555 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kkE12xK_jI8C "HTTP/1.1 200 OK"
+2025-06-02 01:18:49,586 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:k5YuYzdwE10C
+2025-06-02 01:18:51,225 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:k5YuYzdwE10C "HTTP/1.1 200 OK"
+2025-06-02 01:18:52,251 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IsPWOBWtZBwC
+2025-06-02 01:18:53,914 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IsPWOBWtZBwC "HTTP/1.1 200 OK"
+2025-06-02 01:18:54,934 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BvAAmx3GtYsC
+2025-06-02 01:18:56,981 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BvAAmx3GtYsC "HTTP/1.1 200 OK"
+2025-06-02 01:18:58,012 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:qKlFySd_Xp4C
+2025-06-02 01:19:00,057 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:qKlFySd_Xp4C "HTTP/1.1 200 OK"
+2025-06-02 01:19:01,080 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:72moqO74ArUC
+2025-06-02 01:19:03,125 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:72moqO74ArUC "HTTP/1.1 200 OK"
+2025-06-02 01:19:04,147 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eTHRrZ8IVy8C
+2025-06-02 01:19:05,991 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eTHRrZ8IVy8C "HTTP/1.1 200 OK"
+2025-06-02 01:19:07,020 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Q3TqbNNEVGwC
+2025-06-02 01:19:08,926 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Q3TqbNNEVGwC "HTTP/1.1 200 OK"
+2025-06-02 01:19:09,956 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-3Cqc7yWwysC
+2025-06-02 01:19:11,633 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-3Cqc7yWwysC "HTTP/1.1 200 OK"
+2025-06-02 01:19:12,664 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4X0JR2_MtJMC
+2025-06-02 01:19:13,946 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4X0JR2_MtJMC "HTTP/1.1 200 OK"
+2025-06-02 01:19:14,971 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fbc8zXXH2BUC
+2025-06-02 01:19:16,349 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fbc8zXXH2BUC "HTTP/1.1 200 OK"
+2025-06-02 01:19:17,371 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ii_5XgM1DgsC
+2025-06-02 01:19:18,995 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ii_5XgM1DgsC "HTTP/1.1 200 OK"
+2025-06-02 01:19:20,028 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BzfGm06jWhQC
+2025-06-02 01:19:21,159 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BzfGm06jWhQC "HTTP/1.1 200 OK"
+2025-06-02 01:19:22,194 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BJbdYPG6LGMC
+2025-06-02 01:19:23,544 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BJbdYPG6LGMC "HTTP/1.1 200 OK"
+2025-06-02 01:19:24,573 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9c2xU6iGI7YC
+2025-06-02 01:19:25,924 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9c2xU6iGI7YC "HTTP/1.1 200 OK"
+2025-06-02 01:19:26,961 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:A5mcrx2i-EUC
+2025-06-02 01:19:28,056 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:A5mcrx2i-EUC "HTTP/1.1 200 OK"
+2025-06-02 01:19:29,080 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KcPShcMc7UQC
+2025-06-02 01:19:30,227 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KcPShcMc7UQC "HTTP/1.1 200 OK"
+2025-06-02 01:19:31,257 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UuPB9MT4CBEC
+2025-06-02 01:19:33,091 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UuPB9MT4CBEC "HTTP/1.1 200 OK"
+2025-06-02 01:19:34,136 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ok7hJWxjqH4C
+2025-06-02 01:19:35,551 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ok7hJWxjqH4C "HTTP/1.1 200 OK"
+2025-06-02 01:19:36,590 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:O2RD9yKBsIAC
+2025-06-02 01:19:37,957 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:O2RD9yKBsIAC "HTTP/1.1 200 OK"
+2025-06-02 01:19:38,977 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jgBuDB5drN8C
+2025-06-02 01:19:40,105 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jgBuDB5drN8C "HTTP/1.1 200 OK"
+2025-06-02 01:19:41,145 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yMeIxYmEMEAC
+2025-06-02 01:19:42,853 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:yMeIxYmEMEAC "HTTP/1.1 200 OK"
+2025-06-02 01:19:43,886 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:iUqnm2Sn8nEC
+2025-06-02 01:19:45,742 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:iUqnm2Sn8nEC "HTTP/1.1 200 OK"
+2025-06-02 01:19:46,758 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HsfZLPetd5UC
+2025-06-02 01:19:48,679 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HsfZLPetd5UC "HTTP/1.1 200 OK"
+2025-06-02 01:19:49,712 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5vjD7hOUf8sC
+2025-06-02 01:19:51,722 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5vjD7hOUf8sC "HTTP/1.1 200 OK"
+2025-06-02 01:19:52,748 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nmwxwYHH7YMC
+2025-06-02 01:19:54,424 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nmwxwYHH7YMC "HTTP/1.1 200 OK"
+2025-06-02 01:19:55,454 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:T8eFd79aM4kC
+2025-06-02 01:19:57,504 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:T8eFd79aM4kC "HTTP/1.1 200 OK"
+2025-06-02 01:19:58,532 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:buuFAILFPQ4C
+2025-06-02 01:20:00,099 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:buuFAILFPQ4C "HTTP/1.1 200 OK"
+2025-06-02 01:20:01,126 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HlZR3S0OUe4C
+2025-06-02 01:20:02,864 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:HlZR3S0OUe4C "HTTP/1.1 200 OK"
+2025-06-02 01:20:03,883 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_gqgxntaYjIC
+2025-06-02 01:20:05,473 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_gqgxntaYjIC "HTTP/1.1 200 OK"
+2025-06-02 01:20:06,506 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:2lbvCMPhLscC
+2025-06-02 01:20:08,512 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:2lbvCMPhLscC "HTTP/1.1 200 OK"
+2025-06-02 01:20:09,534 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MRVlgpo7AG8C
+2025-06-02 01:20:10,703 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MRVlgpo7AG8C "HTTP/1.1 200 OK"
+2025-06-02 01:20:11,735 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:046iMstqrvsC
+2025-06-02 01:20:12,873 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:046iMstqrvsC "HTTP/1.1 200 OK"
+2025-06-02 01:20:13,895 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Rfv4fJgFW-wC
+2025-06-02 01:20:15,665 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Rfv4fJgFW-wC "HTTP/1.1 200 OK"
+2025-06-02 01:20:16,695 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:D0pYM1uDXWoC
+2025-06-02 01:20:17,879 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:D0pYM1uDXWoC "HTTP/1.1 200 OK"
+2025-06-02 01:20:18,903 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KiZwpzDmlTIC
+2025-06-02 01:20:20,495 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KiZwpzDmlTIC "HTTP/1.1 200 OK"
+2025-06-02 01:20:21,525 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IYQcK9SbpeUC
+2025-06-02 01:20:22,690 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IYQcK9SbpeUC "HTTP/1.1 200 OK"
+2025-06-02 01:20:23,717 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8xSsOLtvSUcC
+2025-06-02 01:20:25,403 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8xSsOLtvSUcC "HTTP/1.1 200 OK"
+2025-06-02 01:20:26,436 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-YxgYmOPpg0C
+2025-06-02 01:20:28,003 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-YxgYmOPpg0C "HTTP/1.1 200 OK"
+2025-06-02 01:20:29,020 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_5tno0g5mFcC
+2025-06-02 01:20:30,424 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_5tno0g5mFcC "HTTP/1.1 200 OK"
+2025-06-02 01:20:31,449 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AmfT9Fphy6YC
+2025-06-02 01:20:33,468 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AmfT9Fphy6YC "HTTP/1.1 200 OK"
+2025-06-02 01:20:34,495 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:t7A7m6bhXYYC
+2025-06-02 01:20:36,429 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:t7A7m6bhXYYC "HTTP/1.1 200 OK"
+2025-06-02 01:20:37,453 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PTAhV-qmPMAC
+2025-06-02 01:20:39,030 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PTAhV-qmPMAC "HTTP/1.1 200 OK"
+2025-06-02 01:20:40,064 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-F2olFd-qnkC
+2025-06-02 01:20:41,359 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-F2olFd-qnkC "HTTP/1.1 200 OK"
+2025-06-02 01:20:42,390 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:82nz-ClWmgMC
+2025-06-02 01:20:44,282 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:82nz-ClWmgMC "HTTP/1.1 200 OK"
+2025-06-02 01:20:45,304 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:msmN0e3iQj0C
+2025-06-02 01:20:46,916 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:msmN0e3iQj0C "HTTP/1.1 200 OK"
+2025-06-02 01:20:47,947 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:EHJFEyRqrrsC
+2025-06-02 01:20:49,583 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:EHJFEyRqrrsC "HTTP/1.1 200 OK"
+2025-06-02 01:20:50,602 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eF0Eh75iGQgC
+2025-06-02 01:20:52,626 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eF0Eh75iGQgC "HTTP/1.1 200 OK"
+2025-06-02 01:20:53,654 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rweLJYnEwBcC
+2025-06-02 01:20:55,092 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rweLJYnEwBcC "HTTP/1.1 200 OK"
+2025-06-02 01:20:56,116 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-7ulzOJl1JYC
+2025-06-02 01:20:57,926 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-7ulzOJl1JYC "HTTP/1.1 200 OK"
+2025-06-02 01:20:58,953 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:338VyjalEUUC
+2025-06-02 01:21:00,776 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:338VyjalEUUC "HTTP/1.1 200 OK"
+2025-06-02 01:21:01,798 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9qwnyNWB-oEC
+2025-06-02 01:21:03,825 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9qwnyNWB-oEC "HTTP/1.1 200 OK"
+2025-06-02 01:21:04,859 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GoI6KTU-av0C
+2025-06-02 01:21:06,442 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GoI6KTU-av0C "HTTP/1.1 200 OK"
+2025-06-02 01:21:07,484 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1qzjygNMrQYC
+2025-06-02 01:21:08,926 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1qzjygNMrQYC "HTTP/1.1 200 OK"
+2025-06-02 01:21:09,955 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-bAhxkSiIPIC
+2025-06-02 01:21:11,186 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-bAhxkSiIPIC "HTTP/1.1 200 OK"
+2025-06-02 01:21:12,211 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:B-AEpnqlioYC
+2025-06-02 01:21:13,542 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:B-AEpnqlioYC "HTTP/1.1 200 OK"
+2025-06-02 01:21:14,566 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5aR9HdqQzEIC
+2025-06-02 01:21:16,167 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5aR9HdqQzEIC "HTTP/1.1 200 OK"
+2025-06-02 01:21:17,190 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Bsx0FiZadD0C
+2025-06-02 01:21:18,810 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Bsx0FiZadD0C "HTTP/1.1 200 OK"
+2025-06-02 01:21:19,837 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:70PPymoGXe8C
+2025-06-02 01:21:21,508 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:70PPymoGXe8C "HTTP/1.1 200 OK"
+2025-06-02 01:21:22,536 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UsJqgwCIJucC
+2025-06-02 01:21:23,925 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UsJqgwCIJucC "HTTP/1.1 200 OK"
+2025-06-02 01:21:24,953 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6cRkBLN27MIC
+2025-06-02 01:21:26,586 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6cRkBLN27MIC "HTTP/1.1 200 OK"
+2025-06-02 01:21:27,607 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:awctw23wKMwC
+2025-06-02 01:21:29,207 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:awctw23wKMwC "HTTP/1.1 200 OK"
+2025-06-02 01:21:30,233 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:shN7vgMs_ToC
+2025-06-02 01:21:31,569 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:shN7vgMs_ToC "HTTP/1.1 200 OK"
+2025-06-02 01:21:32,597 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5lpRS_NW7LAC
+2025-06-02 01:21:33,690 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5lpRS_NW7LAC "HTTP/1.1 200 OK"
+2025-06-02 01:21:34,727 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0Io2PRmtRJ0C
+2025-06-02 01:21:36,228 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0Io2PRmtRJ0C "HTTP/1.1 200 OK"
+2025-06-02 01:21:37,258 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8iE_KHuCw8UC
+2025-06-02 01:21:38,403 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8iE_KHuCw8UC "HTTP/1.1 200 OK"
+2025-06-02 01:21:39,423 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3yGD6V3yH-QC
+2025-06-02 01:21:40,571 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3yGD6V3yH-QC "HTTP/1.1 200 OK"
+2025-06-02 01:21:41,600 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rAzspOeyybIC
+2025-06-02 01:21:43,106 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rAzspOeyybIC "HTTP/1.1 200 OK"
+2025-06-02 01:21:44,144 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KlnHUzm9h24C
+2025-06-02 01:21:45,565 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KlnHUzm9h24C "HTTP/1.1 200 OK"
+2025-06-02 01:21:46,593 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:lmc2jWPfTJgC
+2025-06-02 01:21:48,481 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:lmc2jWPfTJgC "HTTP/1.1 200 OK"
+2025-06-02 01:21:49,504 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:7ss-JOAKpGsC
+2025-06-02 01:21:51,374 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:7ss-JOAKpGsC "HTTP/1.1 200 OK"
+2025-06-02 01:21:52,407 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ExCMsUysEqwC
+2025-06-02 01:21:54,438 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ExCMsUysEqwC "HTTP/1.1 200 OK"
+2025-06-02 01:21:55,470 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4DlfK_3Co9YC
+2025-06-02 01:21:57,160 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4DlfK_3Co9YC "HTTP/1.1 200 OK"
+2025-06-02 01:21:58,198 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3D4GOovXbekC
+2025-06-02 01:21:59,722 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3D4GOovXbekC "HTTP/1.1 200 OK"
+2025-06-02 01:22:00,843 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nKPy-z2a6tsC
+2025-06-02 01:22:02,094 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nKPy-z2a6tsC "HTTP/1.1 200 OK"
+2025-06-02 01:22:03,125 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6CaRG9m-PdQC
+2025-06-02 01:22:04,340 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6CaRG9m-PdQC "HTTP/1.1 200 OK"
+2025-06-02 01:22:05,370 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:u6FUnAyVvToC
+2025-06-02 01:22:06,477 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:u6FUnAyVvToC "HTTP/1.1 200 OK"
+2025-06-02 01:22:07,509 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:lf-30W9nveMC
+2025-06-02 01:22:08,775 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:lf-30W9nveMC "HTTP/1.1 200 OK"
+2025-06-02 01:22:09,796 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sEtWpwJB7hgC
+2025-06-02 01:22:11,710 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sEtWpwJB7hgC "HTTP/1.1 200 OK"
+2025-06-02 01:22:12,732 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:e7Kme7CWzzEC
+2025-06-02 01:22:14,004 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:e7Kme7CWzzEC "HTTP/1.1 200 OK"
+2025-06-02 01:22:15,033 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:bVPaY08nMUAC
+2025-06-02 01:22:16,955 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:bVPaY08nMUAC "HTTP/1.1 200 OK"
+2025-06-02 01:22:17,989 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ICMVstvNuWkC
+2025-06-02 01:22:19,978 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ICMVstvNuWkC "HTTP/1.1 200 OK"
+2025-06-02 01:22:21,003 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BwyfMAYsbu0C
+2025-06-02 01:22:22,505 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:BwyfMAYsbu0C "HTTP/1.1 200 OK"
+2025-06-02 01:22:23,526 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:j8SEvjWlNXcC
+2025-06-02 01:22:25,050 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:j8SEvjWlNXcC "HTTP/1.1 200 OK"
+2025-06-02 01:22:26,078 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8l94GY-vsKsC
+2025-06-02 01:22:27,615 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8l94GY-vsKsC "HTTP/1.1 200 OK"
+2025-06-02 01:22:28,640 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KhvmjqPzNGAC
+2025-06-02 01:22:30,650 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KhvmjqPzNGAC "HTTP/1.1 200 OK"
+2025-06-02 01:22:31,677 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hJR3yxWCAosC
+2025-06-02 01:22:33,445 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hJR3yxWCAosC "HTTP/1.1 200 OK"
+2025-06-02 01:22:34,464 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:99Pv1cn5vGAC
+2025-06-02 01:22:35,693 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:99Pv1cn5vGAC "HTTP/1.1 200 OK"
+2025-06-02 01:22:36,722 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:SahnW7K8seQC
+2025-06-02 01:22:38,713 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:SahnW7K8seQC "HTTP/1.1 200 OK"
+2025-06-02 01:22:39,754 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WAzi4Gm8nLoC
+2025-06-02 01:22:41,559 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WAzi4Gm8nLoC "HTTP/1.1 200 OK"
+2025-06-02 01:22:42,583 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZlO_RPzxukQC
+2025-06-02 01:22:43,826 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZlO_RPzxukQC "HTTP/1.1 200 OK"
+2025-06-02 01:22:44,851 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IcIzTWRFbyYC
+2025-06-02 01:22:46,504 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IcIzTWRFbyYC "HTTP/1.1 200 OK"
+2025-06-02 01:22:47,527 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tYavs44e6CUC
+2025-06-02 01:22:48,902 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tYavs44e6CUC "HTTP/1.1 200 OK"
+2025-06-02 01:22:49,928 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KLc7mvCC6CIC
+2025-06-02 01:22:51,064 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KLc7mvCC6CIC "HTTP/1.1 200 OK"
+2025-06-02 01:22:52,096 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:bawyOxEDPTUC
+2025-06-02 01:22:53,207 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:bawyOxEDPTUC "HTTP/1.1 200 OK"
+2025-06-02 01:22:54,229 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9joYaGoTWqkC
+2025-06-02 01:22:55,388 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9joYaGoTWqkC "HTTP/1.1 200 OK"
+2025-06-02 01:22:56,407 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LfEDjpV_6DoC
+2025-06-02 01:22:58,261 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LfEDjpV_6DoC "HTTP/1.1 200 OK"
+2025-06-02 01:22:59,285 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IWjwvGYIK2oC
+2025-06-02 01:23:00,486 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IWjwvGYIK2oC "HTTP/1.1 200 OK"
+2025-06-02 01:23:01,517 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:EkHepimYqZsC
+2025-06-02 01:23:03,134 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:EkHepimYqZsC "HTTP/1.1 200 OK"
+2025-06-02 01:23:04,158 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AvsVOL42qi4C
+2025-06-02 01:23:06,205 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AvsVOL42qi4C "HTTP/1.1 200 OK"
+2025-06-02 01:23:07,229 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8U2P5YZEXA8C
+2025-06-02 01:23:08,786 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:8U2P5YZEXA8C "HTTP/1.1 200 OK"
+2025-06-02 01:23:09,808 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KgwsLNugZUMC
+2025-06-02 01:23:11,452 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KgwsLNugZUMC "HTTP/1.1 200 OK"
+2025-06-02 01:23:12,485 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FqkprvusZAMC
+2025-06-02 01:23:13,876 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FqkprvusZAMC "HTTP/1.1 200 OK"
+2025-06-02 01:23:14,899 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aEW5N-EHWIMC
+2025-06-02 01:23:16,904 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aEW5N-EHWIMC "HTTP/1.1 200 OK"
+2025-06-02 01:23:17,933 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5afyzTFW7roC
+2025-06-02 01:23:19,336 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:5afyzTFW7roC "HTTP/1.1 200 OK"
+2025-06-02 01:23:20,369 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YpNPI8maBxEC
+2025-06-02 01:23:22,116 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YpNPI8maBxEC "HTTP/1.1 200 OK"
+2025-06-02 01:23:23,138 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YaGrn9P4G-YC
+2025-06-02 01:23:25,145 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YaGrn9P4G-YC "HTTP/1.1 200 OK"
+2025-06-02 01:23:26,173 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0odEucdlLxgC
+2025-06-02 01:23:27,705 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0odEucdlLxgC "HTTP/1.1 200 OK"
+2025-06-02 01:23:28,735 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:J_QLn5ZebxAC
+2025-06-02 01:23:30,509 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:J_QLn5ZebxAC "HTTP/1.1 200 OK"
+2025-06-02 01:23:31,542 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZjRNgHxhETcC
+2025-06-02 01:23:33,098 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZjRNgHxhETcC "HTTP/1.1 200 OK"
+2025-06-02 01:23:34,124 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pRHNIDbvxQoC
+2025-06-02 01:23:35,812 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pRHNIDbvxQoC "HTTP/1.1 200 OK"
+2025-06-02 01:23:36,846 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kIIgsCdksREC
+2025-06-02 01:23:37,956 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kIIgsCdksREC "HTTP/1.1 200 OK"
+2025-06-02 01:23:38,978 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:spHKbSKg0FsC
+2025-06-02 01:23:40,979 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:spHKbSKg0FsC "HTTP/1.1 200 OK"
+2025-06-02 01:23:42,005 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NkV4lwVNQvcC
+2025-06-02 01:23:43,377 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:NkV4lwVNQvcC "HTTP/1.1 200 OK"
+2025-06-02 01:23:44,402 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AXNxqsoOUjAC
+2025-06-02 01:23:46,188 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:AXNxqsoOUjAC "HTTP/1.1 200 OK"
+2025-06-02 01:23:47,215 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_xSYboBqXhAC
+2025-06-02 01:23:48,419 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_xSYboBqXhAC "HTTP/1.1 200 OK"
+2025-06-02 01:23:49,446 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_FM0Bhl9EiAC
+2025-06-02 01:23:51,039 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_FM0Bhl9EiAC "HTTP/1.1 200 OK"
+2025-06-02 01:23:52,061 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gtt_ofxmG28C
+2025-06-02 01:23:53,723 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gtt_ofxmG28C "HTTP/1.1 200 OK"
+2025-06-02 01:23:54,759 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GSYz13d-FY8C
+2025-06-02 01:23:56,638 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GSYz13d-FY8C "HTTP/1.1 200 OK"
+2025-06-02 01:23:57,668 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MV4THYMqPIkC
+2025-06-02 01:23:59,369 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:MV4THYMqPIkC "HTTP/1.1 200 OK"
+2025-06-02 01:24:00,396 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:U0mJWYQBsFsC
+2025-06-02 01:24:01,719 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:U0mJWYQBsFsC "HTTP/1.1 200 OK"
+2025-06-02 01:24:02,748 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:T3tIasvJQ6wC
+2025-06-02 01:24:04,270 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:T3tIasvJQ6wC "HTTP/1.1 200 OK"
+2025-06-02 01:24:05,299 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:z9LqKsppxqkC
+2025-06-02 01:24:06,616 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:z9LqKsppxqkC "HTTP/1.1 200 OK"
+2025-06-02 01:24:07,639 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:W5xh706n7nkC
+2025-06-02 01:24:08,743 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:W5xh706n7nkC "HTTP/1.1 200 OK"
+2025-06-02 01:24:09,780 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LZZCaLvY0dsC
+2025-06-02 01:24:11,650 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LZZCaLvY0dsC "HTTP/1.1 200 OK"
+2025-06-02 01:24:12,677 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:He7MrxCTBVEC
+2025-06-02 01:24:13,924 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:He7MrxCTBVEC "HTTP/1.1 200 OK"
+2025-06-02 01:24:14,948 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pNtIkOHbxKsC
+2025-06-02 01:24:16,042 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pNtIkOHbxKsC "HTTP/1.1 200 OK"
+2025-06-02 01:24:17,068 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1wL5yLCOUc4C
+2025-06-02 01:24:18,188 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:1wL5yLCOUc4C "HTTP/1.1 200 OK"
+2025-06-02 01:24:19,215 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-BuiJ47VYhQC
+2025-06-02 01:24:20,425 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-BuiJ47VYhQC "HTTP/1.1 200 OK"
+2025-06-02 01:24:21,450 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rjBZeetI55MC
+2025-06-02 01:24:23,120 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:rjBZeetI55MC "HTTP/1.1 200 OK"
+2025-06-02 01:24:24,144 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Wn120VMVjvAC
+2025-06-02 01:24:25,433 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Wn120VMVjvAC "HTTP/1.1 200 OK"
+2025-06-02 01:24:26,475 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3PntGMiFl8YC
+2025-06-02 01:24:27,657 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3PntGMiFl8YC "HTTP/1.1 200 OK"
+2025-06-02 01:24:28,679 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9vf0nzSNQJEC
+2025-06-02 01:24:30,527 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9vf0nzSNQJEC "HTTP/1.1 200 OK"
+2025-06-02 01:24:31,552 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jJJb09qDsMkC
+2025-06-02 01:24:33,040 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jJJb09qDsMkC "HTTP/1.1 200 OK"
+2025-06-02 01:24:34,066 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UEBhmG30p2UC
+2025-06-02 01:24:35,320 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:UEBhmG30p2UC "HTTP/1.1 200 OK"
+2025-06-02 01:24:36,342 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LXJi0SSOA9oC
+2025-06-02 01:24:38,364 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:LXJi0SSOA9oC "HTTP/1.1 200 OK"
+2025-06-02 01:24:39,388 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GW2f4k1JAxIC
+2025-06-02 01:24:40,985 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GW2f4k1JAxIC "HTTP/1.1 200 OK"
+2025-06-02 01:24:42,010 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DNhtoi6eMBMC
+2025-06-02 01:24:43,944 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DNhtoi6eMBMC "HTTP/1.1 200 OK"
+2025-06-02 01:24:44,972 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:b8q72d8mvbwC
+2025-06-02 01:24:46,687 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:b8q72d8mvbwC "HTTP/1.1 200 OK"
+2025-06-02 01:24:47,724 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:P5hPZkvu5C4C
+2025-06-02 01:24:49,255 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:P5hPZkvu5C4C "HTTP/1.1 200 OK"
+2025-06-02 01:24:50,284 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Hq7bQwyUOmAC
+2025-06-02 01:24:51,942 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Hq7bQwyUOmAC "HTTP/1.1 200 OK"
+2025-06-02 01:24:52,972 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3yp_TYYMjzAC
+2025-06-02 01:24:54,111 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:3yp_TYYMjzAC "HTTP/1.1 200 OK"
+2025-06-02 01:24:55,136 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:mSnHxa73OtAC
+2025-06-02 01:24:56,667 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:mSnHxa73OtAC "HTTP/1.1 200 OK"
+2025-06-02 01:24:57,688 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ftAh3kAbccMC
+2025-06-02 01:24:59,418 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ftAh3kAbccMC "HTTP/1.1 200 OK"
+2025-06-02 01:25:00,444 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GKpE47lcyEAC
+2025-06-02 01:25:01,708 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:GKpE47lcyEAC "HTTP/1.1 200 OK"
+2025-06-02 01:25:02,732 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:I9VVr87FQe4C
+2025-06-02 01:25:04,181 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:I9VVr87FQe4C "HTTP/1.1 200 OK"
+2025-06-02 01:25:05,212 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aDVyH8AX6IwC
+2025-06-02 01:25:06,532 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aDVyH8AX6IwC "HTTP/1.1 200 OK"
+2025-06-02 01:25:07,556 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4ySvW73dVKYC
+2025-06-02 01:25:08,755 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:4ySvW73dVKYC "HTTP/1.1 200 OK"
+2025-06-02 01:25:09,780 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:axFbwDpnuygC
+2025-06-02 01:25:10,963 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:axFbwDpnuygC "HTTP/1.1 200 OK"
+2025-06-02 01:25:11,988 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eThWPngL6FsC
+2025-06-02 01:25:13,219 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:eThWPngL6FsC "HTTP/1.1 200 OK"
+2025-06-02 01:25:14,251 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:S16KYo8Pm5AC
+2025-06-02 01:25:16,046 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:S16KYo8Pm5AC "HTTP/1.1 200 OK"
+2025-06-02 01:25:17,073 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nZcligLrVowC
+2025-06-02 01:25:18,383 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nZcligLrVowC "HTTP/1.1 200 OK"
+2025-06-02 01:25:19,412 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:TG5pxj05c9IC
+2025-06-02 01:25:21,162 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:TG5pxj05c9IC "HTTP/1.1 200 OK"
+2025-06-02 01:25:22,185 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dIthIKQfyhwC
+2025-06-02 01:25:23,939 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dIthIKQfyhwC "HTTP/1.1 200 OK"
+2025-06-02 01:25:24,973 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dInPKdpsmeEC
+2025-06-02 01:25:26,349 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:dInPKdpsmeEC "HTTP/1.1 200 OK"
+2025-06-02 01:25:27,369 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_TqADAHGBIwC
+2025-06-02 01:25:28,829 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:_TqADAHGBIwC "HTTP/1.1 200 OK"
+2025-06-02 01:25:29,854 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aZrIyCXyVZYC
+2025-06-02 01:25:31,500 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aZrIyCXyVZYC "HTTP/1.1 200 OK"
+2025-06-02 01:25:32,526 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:xR5cEN2z3I8C
+2025-06-02 01:25:34,558 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:xR5cEN2z3I8C "HTTP/1.1 200 OK"
+2025-06-02 01:25:35,577 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JoZmwDi-zQgC
+2025-06-02 01:25:37,383 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JoZmwDi-zQgC "HTTP/1.1 200 OK"
+2025-06-02 01:25:38,411 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:b1wdh0AR-JQC
+2025-06-02 01:25:39,872 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:b1wdh0AR-JQC "HTTP/1.1 200 OK"
+2025-06-02 01:25:40,897 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ggXBsZApidoC
+2025-06-02 01:25:42,550 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ggXBsZApidoC "HTTP/1.1 200 OK"
+2025-06-02 01:25:43,577 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:afZ2heNWYYUC
+2025-06-02 01:25:45,568 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:afZ2heNWYYUC "HTTP/1.1 200 OK"
+2025-06-02 01:25:46,591 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Vf1ZiD7uWLsC
+2025-06-02 01:25:48,322 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Vf1ZiD7uWLsC "HTTP/1.1 200 OK"
+2025-06-02 01:25:49,347 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZzlSgRqYykMC
+2025-06-02 01:25:50,959 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZzlSgRqYykMC "HTTP/1.1 200 OK"
+2025-06-02 01:25:51,990 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:O-68F8xpl5oC
+2025-06-02 01:25:53,651 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:O-68F8xpl5oC "HTTP/1.1 200 OK"
+2025-06-02 01:25:54,673 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:86PQX7AUzd4C
+2025-06-02 01:25:56,327 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:86PQX7AUzd4C "HTTP/1.1 200 OK"
+2025-06-02 01:25:57,348 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0OOA4tflvv8C
+2025-06-02 01:25:58,448 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:0OOA4tflvv8C "HTTP/1.1 200 OK"
+2025-06-02 01:25:59,479 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:V5--yTpa0CoC
+2025-06-02 01:26:00,566 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:V5--yTpa0CoC "HTTP/1.1 200 OK"
+2025-06-02 01:26:01,585 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ic_3QcYvHh4C
+2025-06-02 01:26:03,548 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ic_3QcYvHh4C "HTTP/1.1 200 OK"
+2025-06-02 01:26:04,575 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nFjAju8mP5QC
+2025-06-02 01:26:06,333 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nFjAju8mP5QC "HTTP/1.1 200 OK"
+2025-06-02 01:26:07,357 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uc_IGeMz5qoC
+2025-06-02 01:26:09,322 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:uc_IGeMz5qoC "HTTP/1.1 200 OK"
+2025-06-02 01:26:10,348 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6l7R51ojIgwC
+2025-06-02 01:26:11,444 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:6l7R51ojIgwC "HTTP/1.1 200 OK"
+2025-06-02 01:26:12,476 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nbFb6NudT14C
+2025-06-02 01:26:14,546 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nbFb6NudT14C "HTTP/1.1 200 OK"
+2025-06-02 01:26:15,573 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:oh5XC5miBxgC
+2025-06-02 01:26:17,387 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:oh5XC5miBxgC "HTTP/1.1 200 OK"
+2025-06-02 01:26:18,414 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FsrOUaQ-kFEC
+2025-06-02 01:26:20,159 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FsrOUaQ-kFEC "HTTP/1.1 200 OK"
+2025-06-02 01:26:21,179 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:w1f_VcWhTwEC
+2025-06-02 01:26:23,012 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:w1f_VcWhTwEC "HTTP/1.1 200 OK"
+2025-06-02 01:26:24,035 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DwjEEbtpRbkC
+2025-06-02 01:26:25,990 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:DwjEEbtpRbkC "HTTP/1.1 200 OK"
+2025-06-02 01:26:27,028 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:X_muxcni1ycC
+2025-06-02 01:26:29,017 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:X_muxcni1ycC "HTTP/1.1 200 OK"
+2025-06-02 01:26:30,049 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:mreOU37vpXEC
+2025-06-02 01:26:31,946 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:mreOU37vpXEC "HTTP/1.1 200 OK"
+2025-06-02 01:26:32,973 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QCwDg7JAdUQC
+2025-06-02 01:26:34,875 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QCwDg7JAdUQC "HTTP/1.1 200 OK"
+2025-06-02 01:26:35,896 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cj3J4bbFu28C
+2025-06-02 01:26:37,833 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:cj3J4bbFu28C "HTTP/1.1 200 OK"
+2025-06-02 01:26:38,860 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ndXy7F16BjEC
+2025-06-02 01:26:40,344 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ndXy7F16BjEC "HTTP/1.1 200 OK"
+2025-06-02 01:26:41,368 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jkqsn2IZbxwC
+2025-06-02 01:26:42,968 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jkqsn2IZbxwC "HTTP/1.1 200 OK"
+2025-06-02 01:26:43,992 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QCDHdIzeZrkC
+2025-06-02 01:26:45,198 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:QCDHdIzeZrkC "HTTP/1.1 200 OK"
+2025-06-02 01:26:46,226 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IjboPtdrXSsC
+2025-06-02 01:26:47,519 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:IjboPtdrXSsC "HTTP/1.1 200 OK"
+2025-06-02 01:26:48,552 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sc_hyC0iex0C
+2025-06-02 01:26:49,904 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sc_hyC0iex0C "HTTP/1.1 200 OK"
+2025-06-02 01:26:50,938 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fdiJ_yAMRj0C
+2025-06-02 01:26:52,694 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:fdiJ_yAMRj0C "HTTP/1.1 200 OK"
+2025-06-02 01:26:53,725 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OwUwxyS7Fk8C
+2025-06-02 01:26:55,634 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:OwUwxyS7Fk8C "HTTP/1.1 200 OK"
+2025-06-02 01:26:56,665 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:owLR8QvbtFgC
+2025-06-02 01:26:57,982 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:owLR8QvbtFgC "HTTP/1.1 200 OK"
+2025-06-02 01:26:59,006 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Sr0E18bqYpYC
+2025-06-02 01:27:00,576 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Sr0E18bqYpYC "HTTP/1.1 200 OK"
+2025-06-02 01:27:01,603 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:C85SAqxdp5kC
+2025-06-02 01:27:03,190 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:C85SAqxdp5kC "HTTP/1.1 200 OK"
+2025-06-02 01:27:04,215 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ay5u3JrEru8C
+2025-06-02 01:27:05,562 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Ay5u3JrEru8C "HTTP/1.1 200 OK"
+2025-06-02 01:27:06,586 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vS4ril4NdOAC
+2025-06-02 01:27:08,296 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:vS4ril4NdOAC "HTTP/1.1 200 OK"
+2025-06-02 01:27:09,319 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kHvZy1hqhlEC
+2025-06-02 01:27:10,488 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:kHvZy1hqhlEC "HTTP/1.1 200 OK"
+2025-06-02 01:27:11,513 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZYeZLn4X94QC
+2025-06-02 01:27:12,800 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ZYeZLn4X94QC "HTTP/1.1 200 OK"
+2025-06-02 01:27:13,829 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tHbJvz72MBoC
+2025-06-02 01:27:15,815 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:tHbJvz72MBoC "HTTP/1.1 200 OK"
+2025-06-02 01:27:16,842 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VwjN40uvqCUC
+2025-06-02 01:27:18,017 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:VwjN40uvqCUC "HTTP/1.1 200 OK"
+2025-06-02 01:27:19,045 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YX_i_jdsTj0C
+2025-06-02 01:27:20,666 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:YX_i_jdsTj0C "HTTP/1.1 200 OK"
+2025-06-02 01:27:21,694 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sH45JOFeJi0C
+2025-06-02 01:27:23,151 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:sH45JOFeJi0C "HTTP/1.1 200 OK"
+2025-06-02 01:27:24,167 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WIaRvL_ZHhUC
+2025-06-02 01:27:25,871 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:WIaRvL_ZHhUC "HTTP/1.1 200 OK"
+2025-06-02 01:27:26,897 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PioK7fMLCN4C
+2025-06-02 01:27:28,310 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:PioK7fMLCN4C "HTTP/1.1 200 OK"
+2025-06-02 01:27:29,337 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KbBQZpvPDL4C
+2025-06-02 01:27:30,791 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:KbBQZpvPDL4C "HTTP/1.1 200 OK"
+2025-06-02 01:27:31,825 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gTud6kY3p2wC
+2025-06-02 01:27:33,359 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:gTud6kY3p2wC "HTTP/1.1 200 OK"
+2025-06-02 01:27:34,382 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hLusy9HomMgC
+2025-06-02 01:27:35,629 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:hLusy9HomMgC "HTTP/1.1 200 OK"
+2025-06-02 01:27:36,652 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:2Cw5FYhLI6wC
+2025-06-02 01:27:38,656 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:2Cw5FYhLI6wC "HTTP/1.1 200 OK"
+2025-06-02 01:27:39,684 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Kf1iLBbPPbwC
+2025-06-02 01:27:40,933 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:Kf1iLBbPPbwC "HTTP/1.1 200 OK"
+2025-06-02 01:27:41,958 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-CRbzuXKVK0C
+2025-06-02 01:27:43,241 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-CRbzuXKVK0C "HTTP/1.1 200 OK"
+2025-06-02 01:27:44,269 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nZ3bIbUke6QC
+2025-06-02 01:27:45,708 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:nZ3bIbUke6QC "HTTP/1.1 200 OK"
+2025-06-02 01:27:46,735 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aFOrPmBUl-8C
+2025-06-02 01:27:48,333 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:aFOrPmBUl-8C "HTTP/1.1 200 OK"
+2025-06-02 01:27:49,353 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JQH8phn6X2gC
+2025-06-02 01:27:51,149 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:JQH8phn6X2gC "HTTP/1.1 200 OK"
+2025-06-02 01:27:52,176 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pAkWuXOU-OoC
+2025-06-02 01:27:53,946 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:pAkWuXOU-OoC "HTTP/1.1 200 OK"
+2025-06-02 01:27:54,967 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FYP7VdfJizgC
+2025-06-02 01:27:56,322 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:FYP7VdfJizgC "HTTP/1.1 200 OK"
+2025-06-02 01:27:57,349 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:o0B9MCxaBXUC
+2025-06-02 01:27:59,184 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:o0B9MCxaBXUC "HTTP/1.1 200 OK"
+2025-06-02 01:28:00,216 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-FonjvnnhkoC
+2025-06-02 01:28:02,012 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:-FonjvnnhkoC "HTTP/1.1 200 OK"
+2025-06-02 01:28:03,040 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jU7OWUQzBzMC
+2025-06-02 01:28:04,450 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:jU7OWUQzBzMC "HTTP/1.1 200 OK"
+2025-06-02 01:28:05,479 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:V2QIFXLZdV4C
+2025-06-02 01:28:07,391 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:V2QIFXLZdV4C "HTTP/1.1 200 OK"
+2025-06-02 01:28:08,413 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9Le-2LkNOF4C
+2025-06-02 01:28:10,115 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:9Le-2LkNOF4C "HTTP/1.1 200 OK"
+2025-06-02 01:28:11,136 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ImS0tIKeRa0C
+2025-06-02 01:28:12,449 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=MuR6AzYAAAAJ:ImS0tIKeRa0C "HTTP/1.1 200 OK"
