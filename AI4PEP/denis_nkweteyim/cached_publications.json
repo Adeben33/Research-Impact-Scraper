@@ -1,66 +1,18 @@
 [
   {
-    "title": "Reforming a national system of higher education: The case of Cameroon",
-    "year": 1999,
-    "authors": "Dorothy L Njeuma and Herbert N Endeley and Francis Fai Mbuntum and Nalova Lyonga and Denis L Nkweteyim and Samuel Musenja and Ekanje Elizabeth",
-    "venue": "A Report of the ADEA Working Group on Higher Education",
-    "citations": 77,
-    "doi": "https://www.voced.edu.au/content/ngv:69680"
+    "title": "Decolonizing global AI governance: assessment of the state of decolonized AI governance in Sub-Saharan Africa",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Bontu Habtamu and Bruce Mellado and Kingsley Badu and Edmund Yamba and Sylvain Landry Faye and Moise Ondua and Dickson Nsagha and Denis Nkweteyim and Jude Dzevela Kong",
+    "venue": "Royal Society Open Science",
+    "citations": 23,
+    "doi": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231994"
   },
   {
-    "title": "A collaborative filtering approach to predict web pages of interest from navigation patterns of past users within an academic website",
-    "year": 2005,
-    "authors": "Denis Lemongew Nkweteyim",
-    "venue": "N/A",
-    "citations": 11,
-    "doi": "https://search.proquest.com/openview/434f5a5c64e143c2851f727b48ea8943/1?pq-origsite=gscholar&cbl=18750&diss=y"
-  },
-  {
-    "title": "Data structures for information retrieval",
-    "year": 2014,
-    "authors": "Denis L Nkweteyim",
-    "venue": "N/A",
-    "citations": 6,
-    "doi": "https://ieeexplore.ieee.org/abstract/document/6880643/"
-  },
-  {
-    "title": "A New Joinless Apriori Algorithm for Mining Association Rules.",
-    "year": 2005,
-    "authors": "Denis L Nkweteyim and Stephen C Hirtle",
-    "venue": "N/A",
-    "citations": 5,
-    "doi": "https://www.scitepress.org/Papers/2005/25778/25778.pdf"
-  },
-  {
-    "title": "Web Page Classification Based on Web Page Size and Hyperlinksand Website Hyperlink Structure",
-    "year": 2005,
-    "authors": "Denis L Nkweteyim",
-    "venue": "N/A",
-    "citations": 3,
-    "doi": "https://www.scitepress.org/Papers/2005/25771/"
-  },
-  {
-    "title": "Clustering by partitioning around medoids using distance-based similarity measures on interval-scaled variables",
-    "year": 2018,
-    "authors": "Denis Lemongew Nkweteyim",
-    "venue": "Nigerian Journal of Technological Development",
-    "citations": 2,
-    "doi": "https://www.ajol.info/index.php/njtd/article/view/167906"
-  },
-  {
-    "title": "Hyperlink Recommender Systems Design: A Research Study on Tools and Techniques",
-    "year": 2009,
-    "authors": "Denis Nkweteyim",
-    "venue": "N/A",
-    "citations": 1,
-    "doi": "https://dl.acm.org/doi/abs/10.5555/1643681"
-  },
-  {
-    "title": "An overview of data structures and algorithms: case study of us in the vector-space model and mining off requentitem sets using the apriori algorithm",
-    "year": 2017,
-    "authors": "DL Nkweteyim",
-    "venue": "Nigerian Journal of Technology",
+    "title": "Leveraging AI in digital one health: an inter-university collaboration for emerging and re-emerging infectious disease control in Cameroon",
+    "year": 2025,
+    "authors": "Elvis Asangbeng Tanue and Denis L Nkweteyim and Moise Ondua and Ginyu Innocentia Kwalar and Odette Dzemo Kibu and Madeleine L Nyamsi and Peter L Achankeng and Christian Tchapga and Justine Ayuk and Patrick Jolly Ngono Ema and Maurice Marcel Sandeu and Gregory Eddie Halle-Ekane and Jude Dzevela Kong and Dickson Shey Nsagha",
+    "venue": "Frontiers in Digital Health",
     "citations": 0,
-    "doi": "https://www.ajol.info/index.php/njt/article/download/164986/154482/0"
+    "doi": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1507391/abstract"
   }
 ]
