@@ -26,6 +26,28 @@ logging.basicConfig(
 )
 
 
+import random
+
+def safe_get(url, params=None, headers=None, timeout=20, max_retries=3, backoff_factor=1.5):
+    for i in range(max_retries):
+        try:
+            r = requests.get(url, params=params, headers=headers, timeout=timeout)
+            if r.status_code == 200:
+                time.sleep(random.uniform(1.5, 3.0))  # polite delay
+                return r
+            elif r.status_code in [429, 503]:
+                wait = backoff_factor ** (i + 1)
+                logging.warning(f"Rate limited (status {r.status_code}). Retrying in {wait:.1f}s...")
+                time.sleep(wait)
+            else:
+                logging.warning(f"Unexpected status {r.status_code} for URL: {url}")
+                break
+        except requests.RequestException as e:
+            logging.warning(f"Request error on attempt {i + 1} for {url}: {e}")
+            time.sleep(backoff_factor ** (i + 1))
+    return None
+
+
 
 # ---------- DOI + PMID HELPERS ----------
 def clean_doi(doi):
@@ -45,7 +67,7 @@ def query_doi_from_openalex(title, author=None):
         query += f" AND author.display_name.search:{author}"
     url = f"https://api.openalex.org/works?filter={query}&per-page=1"
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=20)
         if r.status_code == 200:
             results = r.json().get("results", [])
             if results:
@@ -59,7 +81,7 @@ def query_doi_from_openalex(title, author=None):
 def query_doi_from_crossref(title):
     url = f"https://api.crossref.org/works?query.title={requests.utils.quote(title)}&rows=1"
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=20)
         if r.status_code == 200:
             items = r.json()["message"].get("items", [])
             if items:
@@ -77,7 +99,7 @@ def get_pmid_from_pubmed(title):
         "term": title
     }
     try:
-        r = requests.get(url, params=params, timeout=10)
+        r = requests.get(url, params=params, timeout=20)
         ids = r.json().get("esearchresult", {}).get("idlist", [])
         return ids[0] if ids else None
     except Exception as e:
@@ -241,7 +263,7 @@ def get_open_access_status_unpaywall(doi):
 def get_open_access_status_crossref_license(doi):
     try:
         url = f"https://api.crossref.org/works/{doi}"
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=20)
         if r.status_code == 200:
             licenses = r.json()['message'].get("license", [])
             if licenses:
@@ -319,7 +341,6 @@ def safe_fill(pub, retries=3, delay=2):
 
 
 def get_scholar_publications(filled_author, max_results=3000):
-    # author_dir = filled_author['name'].lower().replace(' ', '_')
     author_dir = os.path.join(OUTPUT_DIR, filled_author['name'].lower().replace(' ', '_'))
     os.makedirs(author_dir, exist_ok=True)
     cache_file = f"{author_dir}/cached_publications.json"
@@ -337,10 +358,17 @@ def get_scholar_publications(filled_author, max_results=3000):
             title = detailed['bib'].get("title", "Untitled")
             year = detailed['bib'].get("pub_year", "N/A")
             authors = detailed['bib'].get("author", "")
-            venue = detailed['bib'].get("journal") or detailed['bib'].get("venue") or detailed['bib'].get(
-                "pub") or "N/A"
+            venue = detailed['bib'].get("journal") or detailed['bib'].get("venue") or detailed['bib'].get("pub") or "N/A"
             citations = detailed.get("num_citations", 0)
             doi = detailed.get("pub_url", "")
+
+            # Filter by publication year >= 2023
+            try:
+                if year != "N/A" and int(year) < 2023:
+                    continue
+            except:
+                continue  # skip if year cannot be parsed
+
             publications.append({
                 "title": title,
                 "year": year,
@@ -349,7 +377,7 @@ def get_scholar_publications(filled_author, max_results=3000):
                 "citations": citations,
                 "doi": doi
             })
-            time.sleep(1)
+            time.sleep(10)
         except Exception as e:
             logging.warning(f"Failed to fill publication: {e}")
 
@@ -481,7 +509,7 @@ def process_author(author_name, profile, works):
             "Capacity Building": tag_keywords(title, capacity_building_keywords),
             "Paper Link": paper_link
         })
-        time.sleep(2)
+        time.sleep(10)
 
     if results:
         df = pd.DataFrame(results)
@@ -515,28 +543,12 @@ capacity_building_keywords = [
 
 # ----------AI4PEP AUTHOR DICTIONARY ----------
 author_dict = {
-    "Jude Dzevela Kong": "dPAVmL0AAAAJ",
-    "Ketema Lemma": "TTaX1mcAAAAJ",
-    "Victor Ngu Ngwa": "wjYy0nsAAAAJ",
-    "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
-    "Hundessa Daba": "oXqyAqMAAAAJ",
-    "Bontu Habtamu": "6zRhejEAAAAJ",
-    "Gashaw Demlew": "2Vtu-KsAAAAJ",
-    "Elbetel Taye": "fo-Q3Y0AAAAJ",
-    "Mikias Alayu": "xTS5iYIAAAAJ",
+    #"Jude Dzevela Kong": "dPAVmL0AAAAJ",
+    # "Denis Nkweteyim":"4UR2BucAAAAJ",
+    # "Gelan Ayana":"bNK6lMoAAAAJ",
     "Kingsley Badu": "de6nT0EAAAAJ",
-    "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
-    "Michael Owusu": "IPTvRYcAAAAJ",
     "Evelyn Kissi": "ZsuY1NsAAAAJ",
-    "Christo El Morr": "_X58b2IAAAAJ",
-    "Collins Adu": "0ujYGxoAAAAJ",
-    "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
-    "Jerry Kponyoh": "feQo2zYAAAAJ",
-    "Peter Haddawy": "lovm5cAAAAAJ",
-    "Rudith King": "eZs2YKwAAAAJ",
-    "Anuwat Wiratsudakul": "wfovEncAAAAJ",
     "Rachel Gorman": "6VcJPOEAAAAJ",
-    "Gideon Anapey": "12TF5uEAAAAJ",
     "Sylvain Landry Faye": "B6hMjn4AAAAJ",
     "Bruce Mellado": "BTJnR0UAAAAJ",
     "Adesina Simon Sodiya": "iNnkbzgAAAAJ",
@@ -551,25 +563,43 @@ author_dict = {
     "Radwan Qasrawi": "eVPe_kAAAAAJ",
     "Elie Sokhn": "xPIHn-MAAAAJ",
     "Yahya Tayalati": "MuR6AzYAAAAJ",
-    "Sadri Znaidi": "qNuluioAAAAJ",
-    "Dolvara Gunatilaka": "b8LUlLkAAAAJ",
-    "Augustina Sylverken": "i4W1CtsAAAAJ",
-    "Saranath Lawpoolsri": "ycuPRikAAAAJ",
-    "Edmund Yamba": "Br4DbcIAAAAJ",
-    "Patchara Sriwichai": "BYW6VxcAAAAJ",
-    "Ibrahima Dia": "SjstYn0AAAAJ",
-    "Massamba Diouf": "9jQ4KJIAAAAJ",
-    "Halima Diallo": "Qd3EZREAAAAJ",
-    "Vincent Duclos": "sqXi04wAAAAJ",
-    "Pallab Basu": "A8upqZoAAAAJ",
-    "Shamayeta Bhattacharya": "JYKiu1YAAAAJ",
-    "Vongani Chabalala": "NjifuRwAAAAJ",
-    "Mpho Gololo": "uYVSpLMAAAAJ",
-    "Mary Kawonga": "hOwZrkAAAAAJ",
-    "Benjamin Lieberman": "Ll1tz1UAAAAJ",
-    "Edward Nkadimeng": "idJhYpUAAAAJ",
-    "Busisiwe Nkala-Dlamini": "oATqSg4AAAAJ",
-    "Chuene Mosomane": "rme82R4AAAAJ"
+    "Sadri Znaidi": "qNuluioAAAAJ"
+    # "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
+    # "Michael Owusu": "IPTvRYcAAAAJ",
+    # "Christo El Morr": "X58b2IAAAAJ",
+    # "Collins Adu": "0ujYGxoAAAAJ",
+    # "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
+    # "Jerry Kponyoh": "feQo2zYAAAAJ",
+    # "Peter Haddawy": "lovm5cAAAAAJ",
+    # "Rudith King": "eZs2YKwAAAAJ",
+    # "Anuwat Wiratsudakul": "wfovEncAAAAJ",
+    # "Gideon Anapey": "12TF5uEAAAAJ",
+    # "Dolvara Gunatilaka": "b8LUlLkAAAAJ",
+    # "Augustina Sylverken": "i4W1CtsAAAAJ",
+    # "Saranath Lawpoolsri": "ycuPRikAAAAJ",
+    # "Edmund Yamba": "Br4DbcIAAAAJ",
+    # "Patchara Sriwichai": "BYW6VxcAAAAJ",
+    # "Ibrahima Dia": "SjstYn0AAAAJ",
+    # "Massamba Diouf": "9jQ4KJIAAAAJ",
+    # "Halima Diallo": "Qd3EZREAAAAJ",
+    # "Vincent Duclos": "sqXi04wAAAAJ",
+    # "Pallab Basu": "A8upqZoAAAAJ",
+    # "Shamayeta Bhattacharya": "JYKiu1YAAAAJ",
+    # "Vongani Chabalala": "NjifuRwAAAAJ",
+    # "Mpho Gololo": "uYVSpLMAAAAJ",
+    # "Mary Kawonga": "hOwZrkAAAAAJ",
+    # "Benjamin Lieberman": "Ll1tz1UAAAAJ",
+    # "Edward Nkadimeng": "idJhYpUAAAAJ",
+    # "Busisiwe Nkala-Dlamini": "oATqSg4AAAAJ",
+    # "Chuene Mosomane": "rme82R4AAAAJ",
+    # "Ketema Lemma": "TTaX1mcAAAAJ",
+    # "Victor Ngu Ngwa": "wjYy0nsAAAAJ",
+    # "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
+    # "Hundessa Daba": "oXqyAqMAAAAJ",
+    # "Bontu Habtamu": "6zRhejEAAAAJ",
+    # "Gashaw Demlew": "2Vtu-KsAAAAJ",
+    # "Elbetel Taye": "fo-Q3Y0AAAAJ",
+    # "Mikias Alayu": "xTS5iYIAAAAJ"
 }
 
 # ---------- EXECUTION ----------
