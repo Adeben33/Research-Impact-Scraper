@@ -23,7 +23,7 @@ jobs:
 
     - name: 📦 Install Dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r AI4PEP/requirements.txt
 
     - name: 🧠 Run Research Impact Script
       run: |
