@@ -5,7 +5,9 @@ import logging
 import os
 import re
 import json
+import random
 from scholarly import scholarly
+
 
 # ---------- CONFIG ----------
 UNPAYWALL_EMAIL = "adeniyiebenezer33@gmail.com"
@@ -26,7 +28,9 @@ logging.basicConfig(
 )
 
 
-import random
+# NEW – filter switch
+FILTER_BY_JUDE       = True
+JUDE_NAME_VARIANTS   = ["jude dzevela kong", "jude kong"]
 
 def safe_get(url, params=None, headers=None, timeout=20, max_retries=3, backoff_factor=1.5):
     for i in range(max_retries):
@@ -449,6 +453,9 @@ def process_author(author_name, profile, works):
         title = work.get("title", "Untitled")
         year = work.get("year", "N/A")
         authors = work.get("authors", "")
+
+        if FILTER_BY_JUDE and not any(n in authors.lower() for n in JUDE_NAME_VARIANTS):
+            continue
         venue = work.get("venue", "N/A")
         citations = work.get("citations", 0)
         raw_doi = work.get("doi", "")
@@ -544,62 +551,62 @@ capacity_building_keywords = [
 # ----------AI4PEP AUTHOR DICTIONARY ----------
 author_dict = {
     #"Jude Dzevela Kong": "dPAVmL0AAAAJ",
-    # "Denis Nkweteyim":"4UR2BucAAAAJ",
-    # "Gelan Ayana":"bNK6lMoAAAAJ",
+    "Denis Nkweteyim":"4UR2BucAAAAJ",
+    "Gelan Ayana":"bNK6lMoAAAAJ",
     "Kingsley Badu": "de6nT0EAAAAJ",
     "Evelyn Kissi": "ZsuY1NsAAAAJ",
     "Rachel Gorman": "6VcJPOEAAAAJ",
     "Sylvain Landry Faye": "B6hMjn4AAAAJ",
-    "Bruce Mellado": "BTJnR0UAAAAJ",
+    # "Bruce Mellado": "BTJnR0UAAAAJ" #not done
     "Adesina Simon Sodiya": "iNnkbzgAAAAJ",
     "Riris Andono Ahmad": "H3T6XqcAAAAJ",
-    "Serge Demidenko": "0DcFUWkAAAAJ",
-    "Romulo de Castro": "Hi5-8lwAAAAJ",
-    "Tseren-Onolt Ishdorj": "0WHrk08AAAAJ",
-    "Andre de Carvalho": "Jx_5GrgAAAAJ",
-    "Manuel Colome": "aKZ8i6IAAAAJ",
-    "Cesar Ugarte-Gil": "oMSZ_EgAAAAJ",
-    "Simon Anderson": "eVPe_kAAAAAJ",
-    "Radwan Qasrawi": "eVPe_kAAAAAJ",
-    "Elie Sokhn": "xPIHn-MAAAAJ",
-    "Yahya Tayalati": "MuR6AzYAAAAJ",
-    "Sadri Znaidi": "qNuluioAAAAJ"
-    # "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
-    # "Michael Owusu": "IPTvRYcAAAAJ",
-    # "Christo El Morr": "X58b2IAAAAJ",
-    # "Collins Adu": "0ujYGxoAAAAJ",
-    # "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
-    # "Jerry Kponyoh": "feQo2zYAAAAJ",
-    # "Peter Haddawy": "lovm5cAAAAAJ",
-    # "Rudith King": "eZs2YKwAAAAJ",
-    # "Anuwat Wiratsudakul": "wfovEncAAAAJ",
-    # "Gideon Anapey": "12TF5uEAAAAJ",
-    # "Dolvara Gunatilaka": "b8LUlLkAAAAJ",
-    # "Augustina Sylverken": "i4W1CtsAAAAJ",
-    # "Saranath Lawpoolsri": "ycuPRikAAAAJ",
-    # "Edmund Yamba": "Br4DbcIAAAAJ",
-    # "Patchara Sriwichai": "BYW6VxcAAAAJ",
-    # "Ibrahima Dia": "SjstYn0AAAAJ",
-    # "Massamba Diouf": "9jQ4KJIAAAAJ",
-    # "Halima Diallo": "Qd3EZREAAAAJ",
-    # "Vincent Duclos": "sqXi04wAAAAJ",
-    # "Pallab Basu": "A8upqZoAAAAJ",
-    # "Shamayeta Bhattacharya": "JYKiu1YAAAAJ",
-    # "Vongani Chabalala": "NjifuRwAAAAJ",
-    # "Mpho Gololo": "uYVSpLMAAAAJ",
-    # "Mary Kawonga": "hOwZrkAAAAAJ",
-    # "Benjamin Lieberman": "Ll1tz1UAAAAJ",
-    # "Edward Nkadimeng": "idJhYpUAAAAJ",
-    # "Busisiwe Nkala-Dlamini": "oATqSg4AAAAJ",
-    # "Chuene Mosomane": "rme82R4AAAAJ",
-    # "Ketema Lemma": "TTaX1mcAAAAJ",
-    # "Victor Ngu Ngwa": "wjYy0nsAAAAJ",
-    # "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
-    # "Hundessa Daba": "oXqyAqMAAAAJ",
-    # "Bontu Habtamu": "6zRhejEAAAAJ",
-    # "Gashaw Demlew": "2Vtu-KsAAAAJ",
-    # "Elbetel Taye": "fo-Q3Y0AAAAJ",
-    # "Mikias Alayu": "xTS5iYIAAAAJ"
+     "Serge Demidenko": "0DcFUWkAAAAJ",
+     "Romulo de Castro": "Hi5-8lwAAAAJ",
+     "Tseren-Onolt Ishdorj": "0WHrk08AAAAJ",
+     "Andre de Carvalho": "Jx_5GrgAAAAJ",
+     "Manuel Colome": "aKZ8i6IAAAAJ",
+     "Cesar Ugarte-Gil": "oMSZ_EgAAAAJ",
+     "Simon Anderson": "eVPe_kAAAAAJ",
+     "Radwan Qasrawi": "eVPe_kAAAAAJ",
+     "Elie Sokhn": "xPIHn-MAAAAJ",
+     "Yahya Tayalati": "MuR6AzYAAAAJ",
+     "Sadri Znaidi": "qNuluioAAAAJ",
+     "Franklin Asiedu-Bekoe": "nLQtW2kAAAAJ",
+     "Michael Owusu": "IPTvRYcAAAAJ",
+     "Christo El Morr": "X58b2IAAAAJ",
+     "Collins Adu": "0ujYGxoAAAAJ",
+     "Rose-Mary Owusuaa Mensah Gyening": "pLbPQXkAAAAJ",
+     "Jerry Kponyoh": "feQo2zYAAAAJ",
+     "Peter Haddawy": "lovm5cAAAAAJ",
+     "Rudith King": "eZs2YKwAAAAJ",
+     "Anuwat Wiratsudakul": "wfovEncAAAAJ",
+     "Gideon Anapey": "12TF5uEAAAAJ",
+     "Dolvara Gunatilaka": "b8LUlLkAAAAJ",
+     "Augustina Sylverken": "i4W1CtsAAAAJ",
+     "Saranath Lawpoolsri": "ycuPRikAAAAJ",
+     "Edmund Yamba": "Br4DbcIAAAAJ",
+     "Patchara Sriwichai": "BYW6VxcAAAAJ",
+     "Ibrahima Dia": "SjstYn0AAAAJ",
+     "Massamba Diouf": "9jQ4KJIAAAAJ",
+     "Halima Diallo": "Qd3EZREAAAAJ",
+     "Vincent Duclos": "sqXi04wAAAAJ",
+     "Pallab Basu": "A8upqZoAAAAJ",
+     "Shamayeta Bhattacharya": "JYKiu1YAAAAJ",
+     "Vongani Chabalala": "NjifuRwAAAAJ",
+     "Mpho Gololo": "uYVSpLMAAAAJ",
+     "Mary Kawonga": "hOwZrkAAAAAJ",
+     "Benjamin Lieberman": "Ll1tz1UAAAAJ",
+     "Edward Nkadimeng": "idJhYpUAAAAJ",
+     "Busisiwe Nkala-Dlamini": "oATqSg4AAAAJ",
+     "Chuene Mosomane": "rme82R4AAAAJ",
+     "Ketema Lemma": "TTaX1mcAAAAJ",
+     "Victor Ngu Ngwa": "wjYy0nsAAAAJ",
+     "Zahra Movahedi Nia": "g9EbkyoAAAAJ",
+     "Hundessa Daba": "oXqyAqMAAAAJ",
+     "Bontu Habtamu": "6zRhejEAAAAJ",
+     "Gashaw Demlew": "2Vtu-KsAAAAJ",
+     "Elbetel Taye": "fo-Q3Y0AAAAJ",
+     "Mikias Alayu": "xTS5iYIAAAAJ"
 }
 
 # ---------- EXECUTION ----------
