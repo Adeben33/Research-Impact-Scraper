@@ -27,7 +27,7 @@ jobs:
 
     - name: 🧠 Run Research Impact Script
       run: |
-        python research_impact.py
+        python AI4PEP/research_impact.py 
 
     - name: 📤 Commit & Push Updated Files
       run: |
