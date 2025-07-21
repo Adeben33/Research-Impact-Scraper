@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Sparse reproducible machine learning for near infrared hyperspectral imaging: Estimating the tetrahydrocannabinolic acid concentration in Cannabis sativa L.",
+    "year": 2023,
+    "authors": "Sanush K Abeysekera and Amanda Robinson and Melanie Po-Leen Ooi and Ye Chow Kuang and Merilyn Manley-Harris and Wayne Holmes and Evan Hirst and Jessika Nowak and Manu Caddie and Gregor Steinhorn and Serge Demidenko",
+    "venue": "Industrial Crops and Products",
+    "citations": 11,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S092666902201620X"
+  },
+  {
+    "title": "On machine learning methods to estimate cannabidiolic acid content of Cannabis sativa L. from near-infrared hyperspectral imaging",
+    "year": 2023,
+    "authors": "Wayne S Holmes and Melanie Po-Leen Ooi and Sanush Abeysekera and Ye Chow Kuang and Ray Simpkin and Manu Caddie and Jessika Nowak and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 6,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10175994/"
+  },
+  {
+    "title": "Navigating the Governance of Artificial Intelligence (AI) in Asian Nations: A Focus on India, Indonesia, Malaysia and the Philippines",
+    "year": 2024,
+    "authors": "Kayzad Nilgiriwala and Uma Mahajan and Riris Ahmad and Romulo de Castro and Lucita Lazo and Jude Dzevela Kong and Angela Lee and Abhi Veerakumarasivam and Nurfadhlina Sharef and Demidenko and Serge",
+    "venue": "N/A",
+    "citations": 3,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735279"
+  },
+  {
+    "title": "Flowrate Sensing and Measurement in Portable Smart Inhalers",
+    "year": 2024,
+    "authors": "Ivan Mysovskikh and Mathew Legg and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.mdpi.com/1424-8220/24/21/6848"
+  },
+  {
+    "title": "Analytical Evaluation of Uncertainty Propagation for Probabilistic Design Optimisation",
+    "year": 2023,
+    "authors": "Melanie Po-Leen Ooi and Arvind Rajan and Ye Chow Kuang and Serge Demidenko",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://iopscience.iop.org/book/mono/978-0-7503-4931-4"
+  }
+]

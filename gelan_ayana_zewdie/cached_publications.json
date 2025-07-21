@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Vision-transformer-based transfer learning for mammogram classification",
+    "year": 2023,
+    "authors": "Gelan Ayana and Kokeb Dese and Yisak Dereje and Yonas Kebede and Hika Barki and Dechassa Amdissa and Nahimiya Husen and Fikadu Mulugeta and Bontu Habtamu and Se-Woon Choe",
+    "venue": "Diagnostics",
+    "citations": 87,
+    "doi": "https://www.mdpi.com/2075-4418/13/2/178"
+  },
+  {
+    "title": "Decolonizing global AI governance: assessment of the state of decolonized AI governance in Sub-Saharan Africa",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Bontu Habtamu and Bruce Mellado and Kingsley Badu and Edmund Yamba and Sylvain Landry Faye and Moise Ondua and Dickson Nsagha and Denis Nkweteyim and Jude Dzevela Kong",
+    "venue": "Royal Society Open Science",
+    "citations": 22,
+    "doi": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.231994"
+  },
+  {
+    "title": "Multistage transfer learning for medical images",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Ahmed Mohammed Abagaro and Kwangcheol Casey Jeong and Soon-Do Yoon and Se-woon Choe",
+    "venue": "Artificial Intelligence Review",
+    "citations": 15,
+    "doi": "https://link.springer.com/article/10.1007/s10462-024-10855-7"
+  },
+  {
+    "title": "Vision transformers for breast cancer human epidermal growth factor receptor 2 expression staging without immunohistochemical staining",
+    "year": 2024,
+    "authors": "Gelan Ayana and Eonjin Lee and Se-woon Choe",
+    "venue": "The American Journal of Pathology",
+    "citations": 13,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0002944023004601"
+  },
+  {
+    "title": "Automated ECG signals analysis for cardiac abnormality detection and classification",
+    "year": 2024,
+    "authors": "Ahmed Mohammed Abagaro and Hika Barki and Gelan Ayana and Ahmed Ali Dawud and Bheema Lingaiah Thamineni and Towfik Jemal and Se-woon Choe",
+    "venue": "Journal of Electrical Engineering & Technology",
+    "citations": 10,
+    "doi": "https://link.springer.com/article/10.1007/s42835-024-01902-y"
+  },
+  {
+    "title": "Pathological insights: Enhanced vision transformers for the early detection of colorectal cancer",
+    "year": 2024,
+    "authors": "Gelan Ayana and Hika Barki and Se-woon Choe",
+    "venue": "Cancers",
+    "citations": 9,
+    "doi": "https://www.mdpi.com/2072-6694/16/7/1441"
+  },
+  {
+    "title": "Vision transformers-based transfer learning for breast mass classification from multiple diagnostic modalities",
+    "year": 2024,
+    "authors": "Gelan Ayana and Se-woon Choe",
+    "venue": "Journal of Electrical Engineering & Technology",
+    "citations": 8,
+    "doi": "https://link.springer.com/article/10.1007/s42835-024-01904-w"
+  },
+  {
+    "title": "Domain and histopathology adaptations\u2013based classification for Malignancy Grading System",
+    "year": 2023,
+    "authors": "Vicky Mudeng and Mifta Nur Farid and Gelan Ayana and Se-woon Choe",
+    "venue": "The American Journal of Pathology",
+    "citations": 8,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S0002944023003127"
+  },
+  {
+    "title": "Deep learning for improved community-based acute flaccid paralysis surveillance in Ethiopia",
+    "year": 2024,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Filimona Bisrat and Tenager Tadesse and Netsanet Workneh Gidi and Jude Dzevela Kong",
+    "venue": "Available at SSRN 4750946",
+    "citations": 3,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750946"
+  },
+  {
+    "title": "From Diagnosis to Treatment: A Review of AI Applications in Psoriasis Management",
+    "year": 2025,
+    "authors": "Eyerusalem Gebremeskel and Gelane Biru and Honey Gemechu and Tewodros Belay Alemneh and Gelan Ayana and Se-woon Choe",
+    "venue": "N/A",
+    "citations": 2,
+    "doi": "https://link.springer.com/article/10.1007/s42835-025-02195-5"
+  },
+  {
+    "title": "Deep learning model meets community-based surveillance of acute flaccid paralysis",
+    "year": 2025,
+    "authors": "Gelan Ayana and Kokeb Dese and Hundessa Daba Nemomssa and Hamdia Murad and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Elbetel Taye and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Netsanet Workneh Gidi and Bontu Habtamu and Jude Kong",
+    "venue": "Infectious Disease Modelling",
+    "citations": 2,
+    "doi": "https://www.sciencedirect.com/science/article/pii/S2468042724001283"
+  },
+  {
+    "title": "Community-based surveillance of acute flaccid paralysis: A review on detection and reporting strategy",
+    "year": 2025,
+    "authors": "Gelane Biru and Honey Gemechu and Eyerusalem Gebremeskel and Hundessa Daba Nemomssa and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma Abdi and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://link.springer.com/article/10.1007/s44197-025-00349-2"
+  },
+  {
+    "title": "Vision Transformers for Low-Quality Histopathological Images: A Case Study on Squamous Cell Carcinoma Margin Classification",
+    "year": 2025,
+    "authors": "So-yun Park and Gelan Ayana and Beshatu Debela Wako and Kwangcheol Casey Jeong and Soon-Do Yoon and Se-woon Choe",
+    "venue": "Diagnostics",
+    "citations": 1,
+    "doi": "https://www.mdpi.com/2075-4418/15/3/260"
+  },
+  {
+    "title": "A survey on acute flaccid paralysis health system-based surveillance",
+    "year": 2024,
+    "authors": "Honey Gemechu and Gelane Biru and Eyerusalem Gebremeskel and Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937185"
+  },
+  {
+    "title": "Leveraging artificial intelligence for acute flaccid paralysis surveillance: A survey",
+    "year": 2024,
+    "authors": "Kokeb Dese and Hundessa Daba and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903744"
+  },
+  {
+    "title": "Insights and implications from the analysis of acute flaccid paralysis surveillance data in Ethiopia",
+    "year": 2024,
+    "authors": "Gashaw Demlew and Mesfin Tefera and Kokeb Dese and Hundessa Daba and Efrem Wakjira and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mikias Alayu and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901340"
+  },
+  {
+    "title": "Superpixel-based Landmark Identification and Disease Diagnosis from Gastrointestinal Images",
+    "year": 2024,
+    "authors": "Hika Barki and Gelan Ayana and Muhammad Rushdi and Ahmed Morsy and Se-woon Choe",
+    "venue": "Journal of Electrical Engineering & Technology",
+    "citations": 1,
+    "doi": "https://link.springer.com/article/10.1007/s42835-024-01903-x"
+  },
+  {
+    "title": "Vision-Transformer-Based Transfer Learning for Mammogram Classification. Diagnostics 2023, 13, 178",
+    "year": 2023,
+    "authors": "G Ayana and K Dese and Y Dereje and Y Kebede and H Barki and D Amdissa and N Husen and F Mulugeta and B Habtamu and SW Choe",
+    "venue": "N/A",
+    "citations": 1,
+    "doi": "https://www.academia.edu/download/97344233/pdf.pdf"
+  },
+  {
+    "title": "Suspected Measles Cases in Border Regions of Ethiopia: A Retrospective Analysis of Community-Based Surveillance Data, 2020\u201324",
+    "year": 2025,
+    "authors": "Hundessa Daba Nemomssa and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5347123"
+  },
+  {
+    "title": "Breaking Diagnostic Barriers: Vision Transformers Redefine Monkeypox Detection",
+    "year": 2025,
+    "authors": "Gelan Ayana and Beshatu Debela Wako and So-yun Park and Jude Kong and Sahng Min Han and Soon-Do Yoon and Se-woon Choe",
+    "venue": "Diagnostics",
+    "citations": 0,
+    "doi": "https://www.mdpi.com/2075-4418/15/13/1698"
+  },
+  {
+    "title": "Reimagining Artificial Intelligence for zoonotic disease detection in Africa: a decolonial approach rooted in community engagement and local knowledge",
+    "year": 2025,
+    "authors": "Sylvain Landry Birane Faye and Denis Nkweteyim and Georgette Helene Coumba Sow and Boly Diop and Fatoumata Bintou Diongue and Birane Cisse and Nsagha Dickson and Ndiaye Dia and Kingsley Badu and Gelan Ayana and Mouhamadou Lamine Ba and Rose-Mary Owusuaa Mensah Gyening and Moise Ondua and Fatou Ndiaye and Massamba Diouf and Rudith King and Vincent Duclos and Emmanuel Musa and Mary Goitom and Bruce Mellado and Jude Kong",
+    "venue": "AI and Ethics",
+    "citations": 0,
+    "doi": "https://link.springer.com/article/10.1007/s43681-025-00779-5"
+  },
+  {
+    "title": "Shifting from Margins to Momentum of the Global South Leadership in Responsible Artificial Intelligence Solutions for Health: Lessons from the UNGA79 Science Summit",
+    "year": 2025,
+    "authors": "Gelan Ayana and Hana Trigui and Romulo de Castro and Andre Carlos Ponce de Leon Ferreira de Carvalho and Dickson Nsagha and Kingsley Badu and Sylvain Landry Faye and Bruce Mellado and Lucita Lazo and Angela Lee and Manuel Colome and Patricia Espinoza-Lopez and Alvin Marcelo and Mohammed-Amine Koulali and Radwan Qasrawi and Chaitali Sinha and Hannah Chirgwin and Emmanuel Musa and Jude Dzevela Kong",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222262"
+  },
+  {
+    "title": "Critical Analysis of Canada's Africa Strategy: A Partnership for Shared Prosperity and Security",
+    "year": 2025,
+    "authors": "Gelan Ayana and Jude Dzevela Kong",
+    "venue": "Available at SSRN",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5171987"
+  },
+  {
+    "title": "Significance of the ARIMA epidemiological modeling to predict the rate of HIV and AIDS in the Kumba Health District of Cameroon",
+    "year": 2025,
+    "authors": "Arrey Emmanuel Besong and Odette Dzemo Kibu and Elvis Asangbeng Tanue and Besong Agbor Obinkem and Ginyu Innocentia Kwalar and Fabrice Chethkwo and Valentine Ndze Ngum and Maurice Marcel Sandeu and Patrick Jolly Ngono Ema and Nkweteyim Denis and Onduo Moise and Ayana Gelan and Jude Dzevela Kong and Dickson Shey Nsagha",
+    "venue": "Frontiers in Public Health",
+    "citations": 0,
+    "doi": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1526454/full"
+  },
+  {
+    "title": "Squamous Cell Carcinoma Margin Classification Using Vision Transformers from Digital Histopathology Images",
+    "year": 2025,
+    "authors": "So-Yun Park and Gelan Ayana and Se-woon Choe",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10920655/"
+  },
+  {
+    "title": "Vision Transformers for Mpox Detection",
+    "year": 2025,
+    "authors": "Gelan Ayana and So-Yun Park and Se-Woon Choe",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://ieeexplore.ieee.org/abstract/document/10920820/"
+  },
+  {
+    "title": "Machine Learning for Early Prediction of Preterm Birth",
+    "year": 2024,
+    "authors": "Firanol Teshome and Netsanet Workneh Gidi and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952965"
+  },
+  {
+    "title": "Epidemiological Trends and Clinical Features of Polio in Ethiopia: A Preliminary Pooled Data Analysis and Literature Review",
+    "year": 2024,
+    "authors": "Hundessa Daba and Kokeb Dese and Efrem Wakjira and Gashaw Demlew and Dessalew Yohannes and Ketema Lemma and Hamdia Murad and Elbetel Taye Zewde and Bontu Habtamu and Mesfin Tefera and Mikias Alayu and Netsanet Workneh Gidi and Filimona Bisrat and Tenager Tadesse and Legesse Kidanne and Se-woon Choe and Jude Dzevela Kong and Gelan Ayana",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926664"
+  },
+  {
+    "title": "3D Printing-based Customizable LED Photodynamic Therapy Stimulation System",
+    "year": 2023,
+    "authors": "LEE Eonjin and Gelan AYANA",
+    "venue": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c",
+    "citations": 0,
+    "doi": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11410023"
+  },
+  {
+    "title": "A Robust Transfer Learning for Breast Cancer Early Detection from Multiple Imaging Modalities",
+    "year": 2023,
+    "authors": "Gelan Ayana",
+    "venue": "N/A",
+    "citations": 0,
+    "doi": "https://www.dbpia.co.kr/journal/detail?nodeId=T16882921"
+  }
+]
