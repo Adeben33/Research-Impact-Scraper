@@ -37,8 +37,12 @@ jobs:
         git add .
         git commit -m "🔁 Daily update of research impact data: $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
 
-        git stash
-        git pull --rebase origin main || echo "Nothing to rebase"
-        git stash pop || echo "Nothing to pop"
-
-        git push
+        if ! git diff-index --quiet HEAD; then # Check if working directory is clean after commit
+          echo "Changes detected after commit, proceeding with push."
+          git stash # Temporarily save local changes
+          git pull --rebase origin main || echo "Nothing to rebase" # Pull latest from main, rebase local changes
+          git stash pop || echo "Nothing to pop" # Reapply stashed changes
+          git push || echo "Push failed, but continuing workflow" # Push to GitHub, ignore failure
+        else
+          echo "No new changes to push."
+        fi
